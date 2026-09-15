@@ -35,6 +35,7 @@ The current watchlist contains ordinary shares (2330, 2317, 2454), for which `1 
 - Added `_fmt_institutional_flow()` to convert shares to lots while preserving a fractional remainder to three decimals.
 - Added `_fmt_broker_volume()` to keep broker values in their existing lot unit.
 - Added an explicit unit-semantics line to the daily report.
+- Hardened daily validation to require the common target date to be present in each market feed, allowing one market to publish a later date without rejecting the common-date update.
 - Did not change ranking logic, chip classification, aggregation windows, institutional fetchers, or broker crawler.
 
 ## Before / After
@@ -48,7 +49,7 @@ The current watchlist contains ordinary shares (2330, 2317, 2454), for which `1 
 
 - `py -3 -m unittest discover -s tests -v` could not locate the system Python installation in this shell.
 - Bundled runtime equivalent: `C:\Users\Y6T2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe -m unittest discover -s tests -v`
-- Result: 6 passed, 0 failed.
+- Result: 7 passed, 0 failed.
 - `generate_daily_report.py` regenerated the report successfully.
 
 ## Regression Result
@@ -59,7 +60,7 @@ The current watchlist contains ordinary shares (2330, 2317, 2454), for which `1 
 
 ## GitHub Actions
 
-Remote feature-branch validation and PR details are recorded after the branch run completes.
+The first post-fix run exposed the pre-existing asynchronous-market-date validation issue and failed before reaching the report step. The minimal validation hardening above was added before the final remote run; final run and PR details are recorded below after completion.
 
 ## Remaining Risks
 
