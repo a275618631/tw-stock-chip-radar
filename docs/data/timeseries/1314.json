@@ -2754,10 +2754,10 @@
     "code": "1314",
     "name": "中石化",
     "market": "TWSE",
-    "foreign_ratio": 10.06,
+    "foreign_ratio": 10.01,
     "trust_ratio": 0.0033465525885961567,
     "dealer_ratio": 0.19449924692262519,
-    "three_inst_ratio": 10.257845799511221,
-    "three_inst_ratio_change_20": 0.6894894374853351
+    "three_inst_ratio": 10.20784579951122,
+    "three_inst_ratio_change_20": 0.6394894374853344
   }
 ]

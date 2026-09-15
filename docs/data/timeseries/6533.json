@@ -2765,10 +2765,10 @@
     "code": "6533",
     "name": "晶心科",
     "market": "TWSE",
-    "foreign_ratio": 9.61,
+    "foreign_ratio": 9.54,
     "trust_ratio": 0.09664189455546023,
     "dealer_ratio": 0.7810817065067202,
-    "three_inst_ratio": 10.48772360106218,
-    "three_inst_ratio_change_20": -0.5526204290777716
+    "three_inst_ratio": 10.41772360106218,
+    "three_inst_ratio_change_20": -0.6226204290777719
   }
 ]

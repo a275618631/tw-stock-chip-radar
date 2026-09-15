@@ -2765,10 +2765,10 @@
     "code": "1711",
     "name": "永光",
     "market": "TWSE",
-    "foreign_ratio": 5.78,
+    "foreign_ratio": 5.73,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.10198790136911283,
-    "three_inst_ratio": 5.678012098630887,
-    "three_inst_ratio_change_20": 0.5195464089998971
+    "three_inst_ratio": 5.6280120986308875,
+    "three_inst_ratio_change_20": 0.4695464089998973
   }
 ]

@@ -2589,10 +2589,10 @@
     "code": "3054",
     "name": "立萬利",
     "market": "TWSE",
-    "foreign_ratio": 0.46,
+    "foreign_ratio": 0.45,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.01373943827953814,
-    "three_inst_ratio": 0.4737394382795382,
-    "three_inst_ratio_change_20": -0.07424421056139868
+    "three_inst_ratio": 0.4637394382795382,
+    "three_inst_ratio_change_20": -0.08424421056139869
   }
 ]

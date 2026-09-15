@@ -2732,10 +2732,10 @@
     "code": "6715",
     "name": "嘉基",
     "market": "TWSE",
-    "foreign_ratio": 1.27,
+    "foreign_ratio": 1.59,
     "trust_ratio": 4.951176337202995,
     "dealer_ratio": -0.1371098424097813,
-    "three_inst_ratio": 6.084066494793213,
-    "three_inst_ratio_change_20": -1.6786253604722452
+    "three_inst_ratio": 6.404066494793213,
+    "three_inst_ratio_change_20": -1.358625360472245
   }
 ]

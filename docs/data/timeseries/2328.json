@@ -2765,10 +2765,10 @@
     "code": "2328",
     "name": "廣宇",
     "market": "TWSE",
-    "foreign_ratio": 9.39,
+    "foreign_ratio": 9.35,
     "trust_ratio": 0.03427245572487776,
     "dealer_ratio": -0.19239937366812251,
-    "three_inst_ratio": 9.231873082056756,
-    "three_inst_ratio_change_20": 0.48535462754607117
+    "three_inst_ratio": 9.191873082056755,
+    "three_inst_ratio_change_20": 0.44535462754607025
   }
 ]

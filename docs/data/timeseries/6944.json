@@ -2732,10 +2732,10 @@
     "code": "6944",
     "name": "兆聯實業",
     "market": "TWSE",
-    "foreign_ratio": 14.62,
+    "foreign_ratio": 14.6,
     "trust_ratio": -1.6356423877693451,
     "dealer_ratio": -0.07969162846504563,
-    "three_inst_ratio": 12.904665983765609,
-    "three_inst_ratio_change_20": 0.48284818593588064
+    "three_inst_ratio": 12.88466598376561,
+    "three_inst_ratio_change_20": 0.46284818593588106
   }
 ]

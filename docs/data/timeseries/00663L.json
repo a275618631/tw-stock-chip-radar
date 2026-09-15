@@ -2765,10 +2765,10 @@
     "code": "00663L",
     "name": "國泰臺灣加權正2",
     "market": "TWSE",
-    "foreign_ratio": 3.21,
+    "foreign_ratio": 3.79,
     "trust_ratio": 0.0,
     "dealer_ratio": -87.97087471874278,
-    "three_inst_ratio": -84.76087471874278,
-    "three_inst_ratio_change_20": -5.166586749230632
+    "three_inst_ratio": -84.18087471874277,
+    "three_inst_ratio_change_20": -4.586586749230619
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "2915",
     "name": "潤泰全",
     "market": "TWSE",
-    "foreign_ratio": 6.21,
+    "foreign_ratio": 6.24,
     "trust_ratio": -2.866139180327182,
     "dealer_ratio": 0.011489798346015982,
-    "three_inst_ratio": 3.355350618018834,
-    "three_inst_ratio_change_20": -0.28858019955853864
+    "three_inst_ratio": 3.385350618018834,
+    "three_inst_ratio_change_20": -0.2585801995585384
   }
 ]

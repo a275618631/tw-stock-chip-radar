@@ -2765,10 +2765,10 @@
     "code": "3016",
     "name": "嘉晶",
     "market": "TWSE",
-    "foreign_ratio": 4.67,
+    "foreign_ratio": 3.81,
     "trust_ratio": 0.0029247060371515856,
     "dealer_ratio": 0.4751328610706512,
-    "three_inst_ratio": 5.148057567107803,
-    "three_inst_ratio_change_20": 0.6788384851417328
+    "three_inst_ratio": 4.288057567107803,
+    "three_inst_ratio_change_20": -0.18116151485826748
   }
 ]

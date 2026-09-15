@@ -345,10 +345,10 @@
     "code": "00991B",
     "name": "貝萊德A級公司債",
     "market": "TWSE",
-    "foreign_ratio": 82.23,
+    "foreign_ratio": 82.25,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.7945775234452123,
-    "three_inst_ratio": 81.43542247655479,
-    "three_inst_ratio_change_20": -12.982784565973148
+    "three_inst_ratio": 81.45542247655479,
+    "three_inst_ratio_change_20": -12.962784565973152
   }
 ]

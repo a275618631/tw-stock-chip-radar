@@ -1643,10 +1643,10 @@
     "code": "00984D",
     "name": "主動聯博全球非投",
     "market": "TWSE",
-    "foreign_ratio": 0.2,
+    "foreign_ratio": 0.22,
     "trust_ratio": 0.25704237386914064,
     "dealer_ratio": -87.88233751688128,
-    "three_inst_ratio": -87.42529514301214,
-    "three_inst_ratio_change_20": -4.225205921728701
+    "three_inst_ratio": -87.40529514301214,
+    "three_inst_ratio_change_20": -4.205205921728705
   }
 ]

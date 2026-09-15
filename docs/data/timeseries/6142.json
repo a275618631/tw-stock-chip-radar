@@ -2765,10 +2765,10 @@
     "code": "6142",
     "name": "友勁",
     "market": "TWSE",
-    "foreign_ratio": 2.16,
+    "foreign_ratio": 2.14,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.006943302045142105,
-    "three_inst_ratio": 2.166943302045142,
-    "three_inst_ratio_change_20": -0.24848841771995867
+    "three_inst_ratio": 2.146943302045142,
+    "three_inst_ratio_change_20": -0.2684884177199587
   }
 ]

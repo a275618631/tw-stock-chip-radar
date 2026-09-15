@@ -2732,10 +2732,10 @@
     "code": "6742",
     "name": "澤米",
     "market": "TWSE",
-    "foreign_ratio": 2.37,
+    "foreign_ratio": 2.33,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.04494727419400373,
-    "three_inst_ratio": 2.3250527258059965,
-    "three_inst_ratio_change_20": -0.2970225044223245
+    "three_inst_ratio": 2.2850527258059965,
+    "three_inst_ratio_change_20": -0.3370225044223245
   }
 ]

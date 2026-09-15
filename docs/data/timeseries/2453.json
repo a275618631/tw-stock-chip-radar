@@ -2765,10 +2765,10 @@
     "code": "2453",
     "name": "凌群",
     "market": "TWSE",
-    "foreign_ratio": 5.47,
+    "foreign_ratio": 5.41,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.035359999999999996,
-    "three_inst_ratio": 5.50536,
-    "three_inst_ratio_change_20": 0.4869999999999992
+    "three_inst_ratio": 5.44536,
+    "three_inst_ratio_change_20": 0.4269999999999996
   }
 ]

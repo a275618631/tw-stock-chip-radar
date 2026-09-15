@@ -1555,10 +1555,10 @@
     "code": "7823",
     "name": "奧義賽博-KY創",
     "market": "TWSE",
-    "foreign_ratio": 26.03,
+    "foreign_ratio": 26.0,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.24813314904441178,
-    "three_inst_ratio": 25.781866850955588,
-    "three_inst_ratio_change_20": 0.015861561158867943
+    "three_inst_ratio": 25.751866850955587,
+    "three_inst_ratio_change_20": -0.014138438841133194
   }
 ]

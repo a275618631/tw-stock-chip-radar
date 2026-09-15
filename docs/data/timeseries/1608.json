@@ -2765,10 +2765,10 @@
     "code": "1608",
     "name": "華榮",
     "market": "TWSE",
-    "foreign_ratio": 5.12,
+    "foreign_ratio": 5.06,
     "trust_ratio": 0.3692085679706065,
     "dealer_ratio": -0.276889911380076,
-    "three_inst_ratio": 5.212318656590531,
-    "three_inst_ratio_change_20": 0.8508275709002273
+    "three_inst_ratio": 5.152318656590531,
+    "three_inst_ratio_change_20": 0.7908275709002268
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "2477",
     "name": "美隆電",
     "market": "TWSE",
-    "foreign_ratio": 23.47,
+    "foreign_ratio": 23.39,
     "trust_ratio": 0.2978358694610549,
     "dealer_ratio": -0.08046439410673846,
-    "three_inst_ratio": 23.687371475354315,
-    "three_inst_ratio_change_20": -0.27295929419215526
+    "three_inst_ratio": 23.607371475354316,
+    "three_inst_ratio_change_20": -0.35295929419215355
   }
 ]

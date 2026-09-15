@@ -2765,10 +2765,10 @@
     "code": "1326",
     "name": "台化",
     "market": "TWSE",
-    "foreign_ratio": 38.77,
+    "foreign_ratio": 38.63,
     "trust_ratio": -0.02244258985625202,
     "dealer_ratio": 0.07751084463866942,
-    "three_inst_ratio": 38.825068254782416,
-    "three_inst_ratio_change_20": 1.2673220121881954
+    "three_inst_ratio": 38.685068254782415,
+    "three_inst_ratio_change_20": 1.1273220121881948
   }
 ]

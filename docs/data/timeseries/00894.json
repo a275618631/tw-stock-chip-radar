@@ -2732,10 +2732,10 @@
     "code": "00894",
     "name": "中信小資高價30",
     "market": "TWSE",
-    "foreign_ratio": 0.64,
+    "foreign_ratio": 0.44,
     "trust_ratio": 0.2182299725016722,
     "dealer_ratio": -24.128352329925885,
-    "three_inst_ratio": -23.270122357424214,
-    "three_inst_ratio_change_20": -0.31102223388231565
+    "three_inst_ratio": -23.470122357424213,
+    "three_inst_ratio_change_20": -0.5110222338823149
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "6442",
     "name": "光聖",
     "market": "TWSE",
-    "foreign_ratio": 31.87,
+    "foreign_ratio": 32.6,
     "trust_ratio": -1.0463298672326984,
     "dealer_ratio": -0.39929320210756586,
-    "three_inst_ratio": 30.424376930659736,
-    "three_inst_ratio_change_20": 0.7950693339248396
+    "three_inst_ratio": 31.154376930659737,
+    "three_inst_ratio_change_20": 1.52506933392484
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "1309",
     "name": "台達化",
     "market": "TWSE",
-    "foreign_ratio": 3.24,
+    "foreign_ratio": 3.22,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.061615468728985726,
-    "three_inst_ratio": 3.301615468728986,
-    "three_inst_ratio_change_20": 0.4718755650589328
+    "three_inst_ratio": 3.281615468728986,
+    "three_inst_ratio_change_20": 0.4518755650589328
   }
 ]

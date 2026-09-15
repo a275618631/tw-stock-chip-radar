@@ -2754,10 +2754,10 @@
     "code": "1817",
     "name": "凱撒衛",
     "market": "TWSE",
-    "foreign_ratio": 1.88,
+    "foreign_ratio": 1.87,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.06241735537190082,
-    "three_inst_ratio": 1.8175826446280992,
-    "three_inst_ratio_change_20": 0.1721818181818182
+    "three_inst_ratio": 1.8075826446280994,
+    "three_inst_ratio_change_20": 0.16218181818181843
   }
 ]

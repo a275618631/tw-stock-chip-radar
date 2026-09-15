@@ -2765,10 +2765,10 @@
     "code": "3149",
     "name": "正達",
     "market": "TWSE",
-    "foreign_ratio": 2.98,
+    "foreign_ratio": 2.84,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.1337746493245426,
-    "three_inst_ratio": 2.8462253506754576,
-    "three_inst_ratio_change_20": -0.6884073106943793
+    "three_inst_ratio": 2.7062253506754574,
+    "three_inst_ratio_change_20": -0.8284073106943795
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "00662",
     "name": "富邦NASDAQ",
     "market": "TWSE",
-    "foreign_ratio": 0.3,
-    "trust_ratio": 0.1771061187166836,
-    "dealer_ratio": -32.54155301903264,
-    "three_inst_ratio": -32.06444690031596,
-    "three_inst_ratio_change_20": -2.0109522217913955
+    "foreign_ratio": 0.35,
+    "trust_ratio": 0.17672090820409145,
+    "dealer_ratio": -32.47077427683085,
+    "three_inst_ratio": -31.94405336862676,
+    "three_inst_ratio_change_20": -1.8905586901021998
   }
 ]

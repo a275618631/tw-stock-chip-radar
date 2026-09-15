@@ -2765,10 +2765,10 @@
     "code": "6505",
     "name": "台塑化",
     "market": "TWSE",
-    "foreign_ratio": 6.8,
+    "foreign_ratio": 6.74,
     "trust_ratio": 0.03652717549847544,
     "dealer_ratio": 0.1411841797710776,
-    "three_inst_ratio": 6.9777113552695536,
-    "three_inst_ratio_change_20": -0.15645059957472007
+    "three_inst_ratio": 6.917711355269554,
+    "three_inst_ratio_change_20": -0.21645059957471968
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "2338",
     "name": "光罩",
     "market": "TWSE",
-    "foreign_ratio": 3.99,
+    "foreign_ratio": 3.62,
     "trust_ratio": 0.00026386865362052614,
     "dealer_ratio": 0.5450874889913548,
-    "three_inst_ratio": 4.535351357644975,
-    "three_inst_ratio_change_20": -0.8461075979553154
+    "three_inst_ratio": 4.165351357644975,
+    "three_inst_ratio_change_20": -1.2161075979553155
   }
 ]

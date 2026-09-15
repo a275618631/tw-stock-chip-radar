@@ -2732,10 +2732,10 @@
     "code": "00935",
     "name": "野村臺灣新科技50",
     "market": "TWSE",
-    "foreign_ratio": 2.58,
-    "trust_ratio": 2.6405219952520547,
-    "dealer_ratio": -51.1770593400263,
-    "three_inst_ratio": -45.95653734477424,
-    "three_inst_ratio_change_20": -5.7374399727289855
+    "foreign_ratio": 2.33,
+    "trust_ratio": 2.638989488150955,
+    "dealer_ratio": -51.147357180001485,
+    "three_inst_ratio": -46.17836769185053,
+    "three_inst_ratio_change_20": -5.959270319805277
   }
 ]

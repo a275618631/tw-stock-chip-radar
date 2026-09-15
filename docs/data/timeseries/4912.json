@@ -2765,10 +2765,10 @@
     "code": "4912",
     "name": "聯德控股-KY",
     "market": "TWSE",
-    "foreign_ratio": 25.61,
+    "foreign_ratio": 25.65,
     "trust_ratio": -0.001493582843715718,
     "dealer_ratio": -0.06374611576978685,
-    "three_inst_ratio": 25.544760301386496,
-    "three_inst_ratio_change_20": 0.7944545095914357
+    "three_inst_ratio": 25.584760301386495,
+    "three_inst_ratio_change_20": 0.8344545095914349
   }
 ]

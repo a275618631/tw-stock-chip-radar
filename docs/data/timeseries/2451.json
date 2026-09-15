@@ -2765,10 +2765,10 @@
     "code": "2451",
     "name": "創見",
     "market": "TWSE",
-    "foreign_ratio": 11.36,
+    "foreign_ratio": 11.33,
     "trust_ratio": -9.191500992794237,
     "dealer_ratio": 0.025574384164162536,
-    "three_inst_ratio": 2.1940733913699244,
-    "three_inst_ratio_change_20": -0.016101709493205885
+    "three_inst_ratio": 2.164073391369925,
+    "three_inst_ratio_change_20": -0.046101709493205245
   }
 ]

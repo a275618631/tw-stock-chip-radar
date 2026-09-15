@@ -2765,10 +2765,10 @@
     "code": "6443",
     "name": "元晶",
     "market": "TWSE",
-    "foreign_ratio": 13.0,
+    "foreign_ratio": 12.68,
     "trust_ratio": 0.0,
     "dealer_ratio": 1.6808942989944575,
-    "three_inst_ratio": 14.680894298994458,
-    "three_inst_ratio_change_20": -0.6422478692483082
+    "three_inst_ratio": 14.360894298994458,
+    "three_inst_ratio_change_20": -0.9622478692483085
   }
 ]

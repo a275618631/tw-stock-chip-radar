@@ -2765,10 +2765,10 @@
     "code": "1310",
     "name": "台苯",
     "market": "TWSE",
-    "foreign_ratio": 6.0,
+    "foreign_ratio": 5.82,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.03752364948866441,
-    "three_inst_ratio": 6.037523649488665,
-    "three_inst_ratio_change_20": 0.9243679334511006
+    "three_inst_ratio": 5.857523649488665,
+    "three_inst_ratio_change_20": 0.7443679334511009
   }
 ]

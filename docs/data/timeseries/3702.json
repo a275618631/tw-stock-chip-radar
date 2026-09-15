@@ -2765,10 +2765,10 @@
     "code": "3702",
     "name": "大聯大",
     "market": "TWSE",
-    "foreign_ratio": 33.88,
+    "foreign_ratio": 33.93,
     "trust_ratio": -7.445479114605169,
     "dealer_ratio": -1.3276180915395397,
-    "three_inst_ratio": 25.10690279385529,
-    "three_inst_ratio_change_20": -0.33376159641990455
+    "three_inst_ratio": 25.156902793855288,
+    "three_inst_ratio_change_20": -0.2837615964199074
   }
 ]

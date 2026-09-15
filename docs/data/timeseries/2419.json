@@ -2765,10 +2765,10 @@
     "code": "2419",
     "name": "仲琦",
     "market": "TWSE",
-    "foreign_ratio": 0.93,
+    "foreign_ratio": 0.99,
     "trust_ratio": -0.00031121891692897674,
     "dealer_ratio": 0.1307318631208537,
-    "three_inst_ratio": 1.0604206442039248,
-    "three_inst_ratio_change_20": -0.583770158462309
+    "three_inst_ratio": 1.1204206442039246,
+    "three_inst_ratio_change_20": -0.5237701584623091
   }
 ]

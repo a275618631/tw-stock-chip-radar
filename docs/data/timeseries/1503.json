@@ -2765,10 +2765,10 @@
     "code": "1503",
     "name": "士電",
     "market": "TWSE",
-    "foreign_ratio": 30.61,
+    "foreign_ratio": 30.57,
     "trust_ratio": 0.28505300943847056,
     "dealer_ratio": -0.10765679536046972,
-    "three_inst_ratio": 30.787396214078,
-    "three_inst_ratio_change_20": 0.18796711278789147
+    "three_inst_ratio": 30.747396214078,
+    "three_inst_ratio_change_20": 0.14796711278789232
   }
 ]

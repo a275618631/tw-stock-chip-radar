@@ -2765,10 +2765,10 @@
     "code": "4722",
     "name": "國精化",
     "market": "TWSE",
-    "foreign_ratio": 3.72,
+    "foreign_ratio": 3.57,
     "trust_ratio": 7.277332547070088,
     "dealer_ratio": 0.17758539935150405,
-    "three_inst_ratio": 11.174917946421592,
-    "three_inst_ratio_change_20": 0.5775335843546063
+    "three_inst_ratio": 11.024917946421592,
+    "three_inst_ratio_change_20": 0.427533584354606
   }
 ]

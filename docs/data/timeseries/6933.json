@@ -2732,10 +2732,10 @@
     "code": "6933",
     "name": "AMAX-KY",
     "market": "TWSE",
-    "foreign_ratio": 35.95,
+    "foreign_ratio": 35.92,
     "trust_ratio": 0.003885953959330467,
     "dealer_ratio": 0.47471246647452653,
-    "three_inst_ratio": 36.428598420433865,
-    "three_inst_ratio_change_20": 6.6627984166589265
+    "three_inst_ratio": 36.39859842043386,
+    "three_inst_ratio_change_20": 6.632798416658925
   }
 ]

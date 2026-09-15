@@ -2732,10 +2732,10 @@
     "code": "6438",
     "name": "迅得",
     "market": "TWSE",
-    "foreign_ratio": 7.0,
+    "foreign_ratio": 6.95,
     "trust_ratio": -1.2829049346263806,
     "dealer_ratio": -0.2325186048640418,
-    "three_inst_ratio": 5.484576460509578,
-    "three_inst_ratio_change_20": 0.45662071926947334
+    "three_inst_ratio": 5.434576460509577,
+    "three_inst_ratio_change_20": 0.40662071926947263
   }
 ]

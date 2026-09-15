@@ -2765,10 +2765,10 @@
     "code": "3583",
     "name": "辛耘",
     "market": "TWSE",
-    "foreign_ratio": 21.56,
+    "foreign_ratio": 21.44,
     "trust_ratio": 0.2968085064013079,
     "dealer_ratio": -0.6452760358688314,
-    "three_inst_ratio": 21.211532470532475,
-    "three_inst_ratio_change_20": -1.8565953983069257
+    "three_inst_ratio": 21.091532470532478,
+    "three_inst_ratio_change_20": -1.976595398306923
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "0055",
     "name": "元大MSCI金融",
     "market": "TWSE",
-    "foreign_ratio": 0.63,
-    "trust_ratio": 0.37682802939022375,
-    "dealer_ratio": -11.819296193918776,
-    "three_inst_ratio": -10.812468164528552,
-    "three_inst_ratio_change_20": -6.728076168750961
+    "foreign_ratio": 0.67,
+    "trust_ratio": 0.3724286081210451,
+    "dealer_ratio": -11.681307352838163,
+    "three_inst_ratio": -10.638878744717118,
+    "three_inst_ratio_change_20": -6.554486748939528
   }
 ]

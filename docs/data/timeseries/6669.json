@@ -2732,10 +2732,10 @@
     "code": "6669",
     "name": "緯穎",
     "market": "TWSE",
-    "foreign_ratio": 23.41,
+    "foreign_ratio": 23.02,
     "trust_ratio": 2.769518453028969,
     "dealer_ratio": 0.4037574291211449,
-    "three_inst_ratio": 26.583275882150115,
-    "three_inst_ratio_change_20": -6.1788020876966705
+    "three_inst_ratio": 26.193275882150115,
+    "three_inst_ratio_change_20": -6.568802087696671
   }
 ]

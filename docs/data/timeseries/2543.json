@@ -2732,10 +2732,10 @@
     "code": "2543",
     "name": "皇昌",
     "market": "TWSE",
-    "foreign_ratio": 1.78,
+    "foreign_ratio": 1.71,
     "trust_ratio": -0.15526279095180484,
     "dealer_ratio": -1.2427096587701199,
-    "three_inst_ratio": 0.38202755027807545,
-    "three_inst_ratio_change_20": 0.2298755807772095
+    "three_inst_ratio": 0.31202755027807516,
+    "three_inst_ratio_change_20": 0.1598755807772092
   }
 ]

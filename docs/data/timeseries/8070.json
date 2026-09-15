@@ -2765,10 +2765,10 @@
     "code": "8070",
     "name": "長華*",
     "market": "TWSE",
-    "foreign_ratio": 10.97,
+    "foreign_ratio": 10.94,
     "trust_ratio": -6.946350626488966,
     "dealer_ratio": -0.02624742031594348,
-    "three_inst_ratio": 3.997401953195091,
-    "three_inst_ratio_change_20": -0.9690390965553695
+    "three_inst_ratio": 3.9674019531950897,
+    "three_inst_ratio_change_20": -0.9990390965553706
   }
 ]

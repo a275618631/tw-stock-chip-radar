@@ -2765,10 +2765,10 @@
     "code": "1582",
     "name": "信錦",
     "market": "TWSE",
-    "foreign_ratio": 5.06,
+    "foreign_ratio": 5.03,
     "trust_ratio": -0.057146875837240374,
     "dealer_ratio": 0.35113460999456264,
-    "three_inst_ratio": 5.353987734157322,
-    "three_inst_ratio_change_20": 0.27447280989840195
+    "three_inst_ratio": 5.323987734157322,
+    "three_inst_ratio_change_20": 0.2444728098984026
   }
 ]

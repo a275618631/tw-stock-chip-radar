@@ -2765,10 +2765,10 @@
     "code": "2524",
     "name": "京城",
     "market": "TWSE",
-    "foreign_ratio": 0.9,
+    "foreign_ratio": 0.88,
     "trust_ratio": -0.012425427092514835,
     "dealer_ratio": 0.011740253541413304,
-    "three_inst_ratio": 0.8993148264488985,
-    "three_inst_ratio_change_20": 0.04781448577101366
+    "three_inst_ratio": 0.8793148264488985,
+    "three_inst_ratio_change_20": 0.02781448577101364
   }
 ]

@@ -2699,10 +2699,10 @@
     "code": "7705",
     "name": "三商餐飲",
     "market": "TWSE",
-    "foreign_ratio": 2.33,
+    "foreign_ratio": 2.34,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.014945365411005721,
-    "three_inst_ratio": 2.344945365411006,
-    "three_inst_ratio_change_20": 0.12118899841894581
+    "three_inst_ratio": 2.3549453654110057,
+    "three_inst_ratio_change_20": 0.1311889984189456
   }
 ]

@@ -2732,10 +2732,10 @@
     "code": "00876",
     "name": "元大全球5G",
     "market": "TWSE",
-    "foreign_ratio": 0.15,
+    "foreign_ratio": 0.14,
     "trust_ratio": 0.0,
     "dealer_ratio": 14.517459058017012,
-    "three_inst_ratio": 14.667459058017013,
-    "three_inst_ratio_change_20": -1.1744623663001832
+    "three_inst_ratio": 14.657459058017013,
+    "three_inst_ratio_change_20": -1.184462366300183
   }
 ]

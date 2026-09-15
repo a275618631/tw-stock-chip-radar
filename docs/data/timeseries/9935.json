@@ -2765,10 +2765,10 @@
     "code": "9935",
     "name": "慶豐富",
     "market": "TWSE",
-    "foreign_ratio": 6.19,
+    "foreign_ratio": 6.2,
     "trust_ratio": 0.32785117022130467,
     "dealer_ratio": 0.059821548854832825,
-    "three_inst_ratio": 6.577672719076138,
-    "three_inst_ratio_change_20": -0.4459604498511194
+    "three_inst_ratio": 6.587672719076138,
+    "three_inst_ratio_change_20": -0.4359604498511196
   }
 ]

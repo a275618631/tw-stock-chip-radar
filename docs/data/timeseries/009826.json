@@ -345,10 +345,10 @@
     "code": "009826",
     "name": "貝萊德世界股票",
     "market": "TWSE",
-    "foreign_ratio": 0.18,
+    "foreign_ratio": 0.28,
     "trust_ratio": 0.0,
-    "dealer_ratio": -58.77621357670484,
-    "three_inst_ratio": -58.59621357670484,
-    "three_inst_ratio_change_20": -16.33910036199112
+    "dealer_ratio": -58.48837848492416,
+    "three_inst_ratio": -58.20837848492416,
+    "three_inst_ratio_change_20": -15.951265270210442
   }
 ]

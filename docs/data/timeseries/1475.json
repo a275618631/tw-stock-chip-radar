@@ -2710,10 +2710,10 @@
     "code": "1475",
     "name": "業旺",
     "market": "TWSE",
-    "foreign_ratio": 0.56,
+    "foreign_ratio": 0.58,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.02114463406854524,
-    "three_inst_ratio": 0.5811446340685453,
-    "three_inst_ratio_change_20": 0.03545569867428655
+    "three_inst_ratio": 0.6011446340685452,
+    "three_inst_ratio_change_20": 0.05545569867428646
   }
 ]

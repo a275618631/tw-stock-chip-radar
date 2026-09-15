@@ -2688,10 +2688,10 @@
     "code": "1414",
     "name": "東和",
     "market": "TWSE",
-    "foreign_ratio": 1.61,
+    "foreign_ratio": 1.58,
     "trust_ratio": 0.018232323232323232,
     "dealer_ratio": 0.7476666666666667,
-    "three_inst_ratio": 2.3758989898989897,
-    "three_inst_ratio_change_20": 0.28262626262626256
+    "three_inst_ratio": 2.34589898989899,
+    "three_inst_ratio_change_20": 0.25262626262626275
   }
 ]

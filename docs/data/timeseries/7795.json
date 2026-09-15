@@ -1786,10 +1786,10 @@
     "code": "7795",
     "name": "長廣",
     "market": "TWSE",
-    "foreign_ratio": 6.83,
+    "foreign_ratio": 6.7,
     "trust_ratio": 0.08033135223935506,
     "dealer_ratio": 0.1702201614898165,
-    "three_inst_ratio": 7.080551513729172,
-    "three_inst_ratio_change_20": -0.06795524461330515
+    "three_inst_ratio": 6.950551513729172,
+    "three_inst_ratio_change_20": -0.19795524461330505
   }
 ]

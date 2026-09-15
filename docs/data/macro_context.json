@@ -9,55 +9,55 @@
       "ticker": "TSM",
       "name": "台積電 ADR",
       "status": "ok",
-      "latest_date": "2026-09-14",
-      "close": 418.01001,
-      "change_1d_pct": -3.5154,
-      "change_5d_pct": -4.7813
+      "latest_date": "2026-09-15",
+      "close": 414.01001,
+      "change_1d_pct": -0.9569,
+      "change_5d_pct": -4.904
     },
     "SOX": {
       "ticker": "^SOX",
       "name": "費城半導體",
       "status": "ok",
-      "latest_date": "2026-09-14",
-      "close": 11131.280273,
-      "change_1d_pct": -5.8586,
-      "change_5d_pct": -6.3644
+      "latest_date": "2026-09-15",
+      "close": 11188.598633,
+      "change_1d_pct": 0.5149,
+      "change_5d_pct": -6.225
     },
     "USD_TWD": {
       "ticker": "TWD=X",
       "name": "USD/TWD",
       "status": "ok",
       "latest_date": "2026-09-15",
-      "close": 31.861,
-      "change_1d_pct": 0.5834,
-      "change_5d_pct": 1.1486
+      "close": 31.843,
+      "change_1d_pct": 0.5266,
+      "change_5d_pct": 1.0915
     },
     "USD_JPY": {
       "ticker": "JPY=X",
       "name": "USD/JPY",
       "status": "ok",
       "latest_date": "2026-09-15",
-      "close": 154.975998,
-      "change_1d_pct": 1.0116,
-      "change_5d_pct": 0.976
+      "close": 155.067001,
+      "change_1d_pct": 1.0709,
+      "change_5d_pct": 1.0353
     },
     "NIKKEI": {
       "ticker": "^N225",
       "name": "日經 225",
       "status": "ok",
-      "latest_date": "2026-09-15",
-      "close": 63484.101562,
-      "change_1d_pct": -0.014,
-      "change_5d_pct": -2.5462
+      "latest_date": "2026-09-14",
+      "close": 63492.988281,
+      "change_1d_pct": -0.8098,
+      "change_5d_pct": -2.5326
     },
     "US10Y": {
       "ticker": "^TNX",
       "name": "美國 10Y",
       "status": "ok",
-      "latest_date": "2026-09-14",
-      "close": 4.961,
-      "change_1d_pct": -0.2814,
-      "change_5d_pct": 3.2251
+      "latest_date": "2026-09-15",
+      "close": 4.992,
+      "change_1d_pct": 0.6249,
+      "change_5d_pct": 3.2045
     }
   },
   "environment": {

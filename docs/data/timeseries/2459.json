@@ -2765,10 +2765,10 @@
     "code": "2459",
     "name": "敦吉",
     "market": "TWSE",
-    "foreign_ratio": 15.57,
+    "foreign_ratio": 15.56,
     "trust_ratio": -0.05796831620328174,
     "dealer_ratio": -0.160393023895926,
-    "three_inst_ratio": 15.351638659900793,
-    "three_inst_ratio_change_20": -0.09757607216928399
+    "three_inst_ratio": 15.341638659900793,
+    "three_inst_ratio_change_20": -0.10757607216928378
   }
 ]

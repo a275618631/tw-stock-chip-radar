@@ -2468,10 +2468,10 @@
     "code": "9912",
     "name": "偉聯",
     "market": "TWSE",
-    "foreign_ratio": 20.5,
+    "foreign_ratio": 20.49,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.008361749742794399,
-    "three_inst_ratio": 20.491638250257207,
-    "three_inst_ratio_change_20": 0.1272152287428412
+    "three_inst_ratio": 20.481638250257205,
+    "three_inst_ratio_change_20": 0.11721522874283963
   }
 ]

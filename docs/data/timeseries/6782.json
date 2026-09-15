@@ -2732,10 +2732,10 @@
     "code": "6782",
     "name": "視陽",
     "market": "TWSE",
-    "foreign_ratio": 10.2,
+    "foreign_ratio": 10.18,
     "trust_ratio": -0.30144444444444446,
     "dealer_ratio": -0.08745238095238095,
-    "three_inst_ratio": 9.811103174603174,
-    "three_inst_ratio_change_20": -0.4989492063492076
+    "three_inst_ratio": 9.791103174603174,
+    "three_inst_ratio_change_20": -0.5189492063492072
   }
 ]

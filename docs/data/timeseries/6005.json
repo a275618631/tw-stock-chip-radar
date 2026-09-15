@@ -2765,10 +2765,10 @@
     "code": "6005",
     "name": "群益證",
     "market": "TWSE",
-    "foreign_ratio": 17.19,
+    "foreign_ratio": 16.95,
     "trust_ratio": -6.712173928732007,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.477826071267994,
-    "three_inst_ratio_change_20": 0.5727417829624422
+    "three_inst_ratio": 10.237826071267992,
+    "three_inst_ratio_change_20": 0.33274178296244017
   }
 ]

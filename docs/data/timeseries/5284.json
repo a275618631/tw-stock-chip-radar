@@ -2765,10 +2765,10 @@
     "code": "5284",
     "name": "jpp-KY",
     "market": "TWSE",
-    "foreign_ratio": 51.65,
+    "foreign_ratio": 51.66,
     "trust_ratio": 0.3006086872167177,
     "dealer_ratio": -0.7412102728840585,
-    "three_inst_ratio": 51.209398414332654,
-    "three_inst_ratio_change_20": 0.16553066479912815
+    "three_inst_ratio": 51.21939841433265,
+    "three_inst_ratio_change_20": 0.17553066479912616
   }
 ]

@@ -1280,10 +1280,10 @@
     "code": "009817",
     "name": "國泰日本不動產",
     "market": "TWSE",
-    "foreign_ratio": 2.19,
+    "foreign_ratio": 1.54,
     "trust_ratio": 0.0,
-    "dealer_ratio": 13.92501128994382,
-    "three_inst_ratio": 16.11501128994382,
-    "three_inst_ratio_change_20": 0.3212540071977852
+    "dealer_ratio": 14.019982176633203,
+    "three_inst_ratio": 15.559982176633202,
+    "three_inst_ratio_change_20": -0.23377510611283192
   }
 ]

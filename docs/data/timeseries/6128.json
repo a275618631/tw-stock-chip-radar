@@ -2721,10 +2721,10 @@
     "code": "6128",
     "name": "上福",
     "market": "TWSE",
-    "foreign_ratio": 4.5,
+    "foreign_ratio": 4.49,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.036100364342496055,
-    "three_inst_ratio": 4.536100364342496,
-    "three_inst_ratio_change_20": 0.12305209221440716
+    "three_inst_ratio": 4.526100364342496,
+    "three_inst_ratio_change_20": 0.11305209221440737
   }
 ]

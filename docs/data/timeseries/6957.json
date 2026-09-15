@@ -2732,10 +2732,10 @@
     "code": "6957",
     "name": "裕慶-KY",
     "market": "TWSE",
-    "foreign_ratio": 5.96,
+    "foreign_ratio": 5.97,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.08351744953204612,
-    "three_inst_ratio": 5.876482550467954,
-    "three_inst_ratio_change_20": -0.6978976707236777
+    "three_inst_ratio": 5.886482550467954,
+    "three_inst_ratio_change_20": -0.6878976707236779
   }
 ]

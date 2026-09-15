@@ -2765,10 +2765,10 @@
     "code": "0061",
     "name": "元大寶滬深",
     "market": "TWSE",
-    "foreign_ratio": 6.74,
+    "foreign_ratio": 6.78,
     "trust_ratio": -2.2889009113987266,
     "dealer_ratio": 28.059779849348704,
-    "three_inst_ratio": 32.510878937949975,
-    "three_inst_ratio_change_20": 0.005061384160804039
+    "three_inst_ratio": 32.550878937949975,
+    "three_inst_ratio_change_20": 0.045061384160803186
   }
 ]

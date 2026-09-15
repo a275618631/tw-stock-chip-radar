@@ -2732,10 +2732,10 @@
     "code": "4720",
     "name": "德淵",
     "market": "TWSE",
-    "foreign_ratio": 5.41,
+    "foreign_ratio": 5.37,
     "trust_ratio": -0.2984734793084047,
     "dealer_ratio": 0.013599841915591264,
-    "three_inst_ratio": 5.125126362607187,
-    "three_inst_ratio_change_20": -0.1579286743916919
+    "three_inst_ratio": 5.085126362607187,
+    "three_inst_ratio_change_20": -0.19792867439169193
   }
 ]

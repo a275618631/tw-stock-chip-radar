@@ -2765,10 +2765,10 @@
     "code": "4438",
     "name": "廣越",
     "market": "TWSE",
-    "foreign_ratio": 1.9,
+    "foreign_ratio": 1.87,
     "trust_ratio": -0.1243107201994473,
     "dealer_ratio": -0.03770670349085221,
-    "three_inst_ratio": 1.7379825763097003,
-    "three_inst_ratio_change_20": -0.013267665093342762
+    "three_inst_ratio": 1.7079825763097005,
+    "three_inst_ratio_change_20": -0.04326766509334257
   }
 ]

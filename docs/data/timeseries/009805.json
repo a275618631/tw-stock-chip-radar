@@ -1280,10 +1280,10 @@
     "code": "009805",
     "name": "台新美國電力基建",
     "market": "TWSE",
-    "foreign_ratio": 0.69,
+    "foreign_ratio": 0.34,
     "trust_ratio": 0.0,
-    "dealer_ratio": 1.3062563805333633,
-    "three_inst_ratio": 1.9962563805333633,
-    "three_inst_ratio_change_20": -6.132855044533889
+    "dealer_ratio": 1.3030380279099105,
+    "three_inst_ratio": 1.6430380279099106,
+    "three_inst_ratio_change_20": -6.486073397157342
   }
 ]

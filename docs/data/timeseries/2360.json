@@ -2765,10 +2765,10 @@
     "code": "2360",
     "name": "致茂",
     "market": "TWSE",
-    "foreign_ratio": 59.09,
+    "foreign_ratio": 59.07,
     "trust_ratio": 0.5816095861107999,
     "dealer_ratio": 0.363615633804512,
-    "three_inst_ratio": 60.03522521991532,
-    "three_inst_ratio_change_20": 0.2837243831591394
+    "three_inst_ratio": 60.015225219915315,
+    "three_inst_ratio_change_20": 0.26372438315913627
   }
 ]

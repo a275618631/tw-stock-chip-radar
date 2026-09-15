@@ -2765,10 +2765,10 @@
     "code": "2017",
     "name": "官田鋼",
     "market": "TWSE",
-    "foreign_ratio": 1.76,
+    "foreign_ratio": 1.74,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.6195636172199334,
-    "three_inst_ratio": 2.3795636172199335,
-    "three_inst_ratio_change_20": -0.2983636283174511
+    "three_inst_ratio": 2.3595636172199335,
+    "three_inst_ratio_change_20": -0.31836362831745113
   }
 ]

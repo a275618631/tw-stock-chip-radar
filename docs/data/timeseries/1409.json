@@ -2765,10 +2765,10 @@
     "code": "1409",
     "name": "新纖",
     "market": "TWSE",
-    "foreign_ratio": 9.2,
+    "foreign_ratio": 9.05,
     "trust_ratio": 0.1938817348085829,
     "dealer_ratio": 0.11592110946402466,
-    "three_inst_ratio": 9.509802844272606,
-    "three_inst_ratio_change_20": -1.2846157139263994
+    "three_inst_ratio": 9.359802844272608,
+    "three_inst_ratio_change_20": -1.434615713926398
   }
 ]

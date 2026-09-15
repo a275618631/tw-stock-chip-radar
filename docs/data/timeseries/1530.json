@@ -2710,10 +2710,10 @@
     "code": "1530",
     "name": "亞崴",
     "market": "TWSE",
-    "foreign_ratio": 0.69,
+    "foreign_ratio": 0.73,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.020913550793737596,
-    "three_inst_ratio": 0.7109135507937375,
-    "three_inst_ratio_change_20": 0.0403340586387716
+    "three_inst_ratio": 0.7509135507937376,
+    "three_inst_ratio_change_20": 0.08033405863877163
   }
 ]

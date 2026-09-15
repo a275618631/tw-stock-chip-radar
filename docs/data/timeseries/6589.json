@@ -2732,10 +2732,10 @@
     "code": "6589",
     "name": "台康生技",
     "market": "TWSE",
-    "foreign_ratio": 5.23,
+    "foreign_ratio": 5.29,
     "trust_ratio": 0.0030277933720318606,
     "dealer_ratio": 0.024567302223757314,
-    "three_inst_ratio": 5.257595095595789,
-    "three_inst_ratio_change_20": 0.3299434270164525
+    "three_inst_ratio": 5.317595095595789,
+    "three_inst_ratio_change_20": 0.3899434270164521
   }
 ]

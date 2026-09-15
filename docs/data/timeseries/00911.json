@@ -2734,8 +2734,8 @@
     "market": "TWSE",
     "foreign_ratio": 0.36,
     "trust_ratio": 0.0,
-    "dealer_ratio": -16.157426781470853,
-    "three_inst_ratio": -15.797426781470854,
-    "three_inst_ratio_change_20": -6.71973770717859
+    "dealer_ratio": -15.911895571832355,
+    "three_inst_ratio": -15.551895571832356,
+    "three_inst_ratio_change_20": -6.4742064975400915
   }
 ]

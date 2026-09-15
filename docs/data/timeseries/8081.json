@@ -2765,10 +2765,10 @@
     "code": "8081",
     "name": "致新",
     "market": "TWSE",
-    "foreign_ratio": 18.64,
+    "foreign_ratio": 18.67,
     "trust_ratio": 2.234726350783349,
     "dealer_ratio": -0.07584011673758988,
-    "three_inst_ratio": 20.798886234045757,
-    "three_inst_ratio_change_20": 0.4718058778951004
+    "three_inst_ratio": 20.828886234045758,
+    "three_inst_ratio_change_20": 0.5018058778951016
   }
 ]

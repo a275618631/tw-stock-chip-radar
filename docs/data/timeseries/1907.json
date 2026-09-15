@@ -2765,10 +2765,10 @@
     "code": "1907",
     "name": "永豐餘",
     "market": "TWSE",
-    "foreign_ratio": 13.02,
+    "foreign_ratio": 13.01,
     "trust_ratio": 0.1549557438047923,
     "dealer_ratio": 0.038443083485964084,
-    "three_inst_ratio": 13.213398827290757,
-    "three_inst_ratio_change_20": 0.15091360873429238
+    "three_inst_ratio": 13.203398827290757,
+    "three_inst_ratio_change_20": 0.1409136087342926
   }
 ]

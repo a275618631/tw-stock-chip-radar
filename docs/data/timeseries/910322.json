@@ -1236,10 +1236,10 @@
     "code": "910322",
     "name": "康師傅-DR",
     "market": "TWSE",
-    "foreign_ratio": 10.73,
+    "foreign_ratio": 10.55,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 10.73,
-    "three_inst_ratio_change_20": 0.0
+    "three_inst_ratio": 10.55,
+    "three_inst_ratio_change_20": -0.17999999999999972
   }
 ]

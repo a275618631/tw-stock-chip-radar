@@ -2699,10 +2699,10 @@
     "code": "6792",
     "name": "詠業",
     "market": "TWSE",
-    "foreign_ratio": 2.1,
+    "foreign_ratio": 2.08,
     "trust_ratio": 0.002088758666390254,
     "dealer_ratio": -0.1700040678575028,
-    "three_inst_ratio": 1.9320846908088876,
-    "three_inst_ratio_change_20": -0.06253255199834129
+    "three_inst_ratio": 1.9120846908088875,
+    "three_inst_ratio_change_20": -0.08253255199834131
   }
 ]

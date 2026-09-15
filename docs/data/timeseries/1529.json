@@ -2732,10 +2732,10 @@
     "code": "1529",
     "name": "樂事綠能",
     "market": "TWSE",
-    "foreign_ratio": 1.14,
+    "foreign_ratio": 1.15,
     "trust_ratio": 0.0018506301215627855,
     "dealer_ratio": 0.0055030857876945585,
-    "three_inst_ratio": 1.1473537159092573,
-    "three_inst_ratio_change_20": -0.15034221826335226
+    "three_inst_ratio": 1.1573537159092573,
+    "three_inst_ratio_change_20": -0.14034221826335225
   }
 ]

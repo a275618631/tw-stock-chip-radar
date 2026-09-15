@@ -2732,10 +2732,10 @@
     "code": "00902",
     "name": "中信電池及儲能",
     "market": "TWSE",
-    "foreign_ratio": 0.28,
+    "foreign_ratio": 0.31,
     "trust_ratio": 0.0,
     "dealer_ratio": 51.2017367946654,
-    "three_inst_ratio": 51.4817367946654,
-    "three_inst_ratio_change_20": 0.17119634301494102
+    "three_inst_ratio": 51.5117367946654,
+    "three_inst_ratio_change_20": 0.20119634301494216
   }
 ]

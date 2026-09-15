@@ -2666,10 +2666,10 @@
     "code": "6951",
     "name": "青新-創",
     "market": "TWSE",
-    "foreign_ratio": 1.61,
+    "foreign_ratio": 1.67,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.14688653846153846,
-    "three_inst_ratio": 1.4631134615384616,
-    "three_inst_ratio_change_20": -0.010443060200668874
+    "three_inst_ratio": 1.5231134615384614,
+    "three_inst_ratio_change_20": 0.04955693979933096
   }
 ]

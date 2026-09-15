@@ -2765,10 +2765,10 @@
     "code": "6277",
     "name": "宏正",
     "market": "TWSE",
-    "foreign_ratio": 12.58,
+    "foreign_ratio": 12.55,
     "trust_ratio": 0.09787215100922345,
     "dealer_ratio": -0.28578862283808293,
-    "three_inst_ratio": 12.39208352817114,
-    "three_inst_ratio_change_20": 0.2834117994629768
+    "three_inst_ratio": 12.36208352817114,
+    "three_inst_ratio_change_20": 0.2534117994629774
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "2515",
     "name": "中工",
     "market": "TWSE",
-    "foreign_ratio": 7.73,
+    "foreign_ratio": 7.61,
     "trust_ratio": 0.39326360644147634,
     "dealer_ratio": 0.0011438233121530616,
-    "three_inst_ratio": 8.12440742975363,
-    "three_inst_ratio_change_20": 0.5686205523070269
+    "three_inst_ratio": 8.00440742975363,
+    "three_inst_ratio_change_20": 0.4486205523070277
   }
 ]

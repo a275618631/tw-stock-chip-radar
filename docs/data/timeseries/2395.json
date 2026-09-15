@@ -2765,10 +2765,10 @@
     "code": "2395",
     "name": "研華",
     "market": "TWSE",
-    "foreign_ratio": 35.57,
+    "foreign_ratio": 35.68,
     "trust_ratio": 0.47071844271390445,
     "dealer_ratio": 0.26645609491678907,
-    "three_inst_ratio": 36.307174537630694,
-    "three_inst_ratio_change_20": 0.22089436590495382
+    "three_inst_ratio": 36.41717453763069,
+    "three_inst_ratio_change_20": 0.33089436590495325
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "2427",
     "name": "三商電",
     "market": "TWSE",
-    "foreign_ratio": 3.07,
+    "foreign_ratio": 3.08,
     "trust_ratio": -0.15808114899318496,
     "dealer_ratio": 0.07474763594565934,
-    "three_inst_ratio": 2.986666486952474,
-    "three_inst_ratio_change_20": 0.043030309565364355
+    "three_inst_ratio": 2.996666486952474,
+    "three_inst_ratio_change_20": 0.053030309565364586
   }
 ]

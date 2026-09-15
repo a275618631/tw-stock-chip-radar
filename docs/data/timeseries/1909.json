@@ -2754,10 +2754,10 @@
     "code": "1909",
     "name": "榮成",
     "market": "TWSE",
-    "foreign_ratio": 10.39,
+    "foreign_ratio": 10.35,
     "trust_ratio": -0.3845789629400753,
     "dealer_ratio": 0.11310387461896695,
-    "three_inst_ratio": 10.118524911678891,
-    "three_inst_ratio_change_20": 0.5092209102433163
+    "three_inst_ratio": 10.07852491167889,
+    "three_inst_ratio_change_20": 0.46922091024331536
   }
 ]

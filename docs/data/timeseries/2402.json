@@ -2765,10 +2765,10 @@
     "code": "2402",
     "name": "毅嘉",
     "market": "TWSE",
-    "foreign_ratio": 5.48,
+    "foreign_ratio": 5.44,
     "trust_ratio": -2.13500325829582,
     "dealer_ratio": -0.1632937703697141,
-    "three_inst_ratio": 3.1817029713344662,
-    "three_inst_ratio_change_20": -0.01145167367806632
+    "three_inst_ratio": 3.141702971334466,
+    "three_inst_ratio_change_20": -0.051451673678066356
   }
 ]

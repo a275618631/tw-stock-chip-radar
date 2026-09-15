@@ -2732,10 +2732,10 @@
     "code": "1325",
     "name": "恆大",
     "market": "TWSE",
-    "foreign_ratio": 1.61,
+    "foreign_ratio": 1.64,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.029314785188641466,
-    "three_inst_ratio": 1.6393147851886416,
-    "three_inst_ratio_change_20": 0.7046903656301827
+    "three_inst_ratio": 1.6693147851886414,
+    "three_inst_ratio_change_20": 0.7346903656301825
   }
 ]

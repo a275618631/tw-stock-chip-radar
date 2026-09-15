@@ -2765,10 +2765,10 @@
     "code": "3673",
     "name": "TPK-KY",
     "market": "TWSE",
-    "foreign_ratio": 38.59,
+    "foreign_ratio": 38.47,
     "trust_ratio": 0.028770697513765913,
     "dealer_ratio": 0.22126904109003726,
-    "three_inst_ratio": 38.84003973860381,
-    "three_inst_ratio_change_20": -0.01766834221388791
+    "three_inst_ratio": 38.7200397386038,
+    "three_inst_ratio_change_20": -0.13766834221389246
   }
 ]

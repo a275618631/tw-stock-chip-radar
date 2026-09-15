@@ -2732,10 +2732,10 @@
     "code": "6625",
     "name": "必應",
     "market": "TWSE",
-    "foreign_ratio": 1.79,
+    "foreign_ratio": 1.8,
     "trust_ratio": 0.0,
     "dealer_ratio": -1.7639453390373723,
-    "three_inst_ratio": 0.026054660962627763,
-    "three_inst_ratio_change_20": 0.015250766536016203
+    "three_inst_ratio": 0.03605466096262777,
+    "three_inst_ratio_change_20": 0.02525076653601621
   }
 ]

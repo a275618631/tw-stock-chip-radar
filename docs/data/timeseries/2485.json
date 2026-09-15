@@ -2765,10 +2765,10 @@
     "code": "2485",
     "name": "兆赫",
     "market": "TWSE",
-    "foreign_ratio": 6.03,
+    "foreign_ratio": 6.02,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.39179601907383416,
-    "three_inst_ratio": 6.421796019073835,
-    "three_inst_ratio_change_20": 0.19013685407721592
+    "three_inst_ratio": 6.411796019073834,
+    "three_inst_ratio_change_20": 0.18013685407721525
   }
 ]

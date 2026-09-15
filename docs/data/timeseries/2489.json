@@ -2699,10 +2699,10 @@
     "code": "2489",
     "name": "瑞軒",
     "market": "TWSE",
-    "foreign_ratio": 6.26,
+    "foreign_ratio": 5.97,
     "trust_ratio": 0.7444560655737705,
     "dealer_ratio": 0.3706773770491803,
-    "three_inst_ratio": 7.375133442622951,
-    "three_inst_ratio_change_20": 0.6282373770491798
+    "three_inst_ratio": 7.085133442622951,
+    "three_inst_ratio_change_20": 0.3382373770491798
   }
 ]

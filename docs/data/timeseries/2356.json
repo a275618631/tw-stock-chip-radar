@@ -2765,10 +2765,10 @@
     "code": "2356",
     "name": "英業達",
     "market": "TWSE",
-    "foreign_ratio": 18.45,
+    "foreign_ratio": 18.44,
     "trust_ratio": 1.173229729145663,
     "dealer_ratio": 0.4645103225366919,
-    "three_inst_ratio": 20.087740051682356,
-    "three_inst_ratio_change_20": -0.24938891506152316
+    "three_inst_ratio": 20.07774005168236,
+    "three_inst_ratio_change_20": -0.2593889150615212
   }
 ]

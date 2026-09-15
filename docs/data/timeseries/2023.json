@@ -2765,10 +2765,10 @@
     "code": "2023",
     "name": "燁輝",
     "market": "TWSE",
-    "foreign_ratio": 4.07,
+    "foreign_ratio": 4.02,
     "trust_ratio": -0.023403392738833958,
     "dealer_ratio": 0.03687201692769123,
-    "three_inst_ratio": 4.083468624188858,
-    "three_inst_ratio_change_20": 0.15346292383541105
+    "three_inst_ratio": 4.033468624188857,
+    "three_inst_ratio_change_20": 0.10346292383541034
   }
 ]

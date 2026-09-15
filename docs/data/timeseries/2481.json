@@ -2765,10 +2765,10 @@
     "code": "2481",
     "name": "強茂",
     "market": "TWSE",
-    "foreign_ratio": 13.84,
+    "foreign_ratio": 11.02,
     "trust_ratio": 8.913532969624084,
     "dealer_ratio": -0.09475473853969593,
-    "three_inst_ratio": 22.658778231084387,
-    "three_inst_ratio_change_20": 0.6392842257638343
+    "three_inst_ratio": 19.838778231084387,
+    "three_inst_ratio_change_20": -2.180715774236166
   }
 ]

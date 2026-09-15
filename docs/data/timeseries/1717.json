@@ -2765,10 +2765,10 @@
     "code": "1717",
     "name": "長興",
     "market": "TWSE",
-    "foreign_ratio": 12.5,
+    "foreign_ratio": 12.37,
     "trust_ratio": 1.2127322591611691,
     "dealer_ratio": -0.14848931452500208,
-    "three_inst_ratio": 13.564242944636169,
-    "three_inst_ratio_change_20": 1.113290052025473
+    "three_inst_ratio": 13.434242944636168,
+    "three_inst_ratio_change_20": 0.9832900520254721
   }
 ]

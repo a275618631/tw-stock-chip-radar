@@ -2765,10 +2765,10 @@
     "code": "2408",
     "name": "南亞科",
     "market": "TWSE",
-    "foreign_ratio": 15.75,
+    "foreign_ratio": 15.57,
     "trust_ratio": 5.454024967865341,
     "dealer_ratio": 0.522821053517567,
-    "three_inst_ratio": 21.726846021382908,
-    "three_inst_ratio_change_20": -0.6564160555704319
+    "three_inst_ratio": 21.54684602138291,
+    "three_inst_ratio_change_20": -0.8364160555704316
   }
 ]

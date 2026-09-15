@@ -2765,10 +2765,10 @@
     "code": "2342",
     "name": "茂矽",
     "market": "TWSE",
-    "foreign_ratio": 4.12,
+    "foreign_ratio": 2.91,
     "trust_ratio": 0.0006368566727490505,
     "dealer_ratio": 0.16048152567774326,
-    "three_inst_ratio": 4.281118382350492,
-    "three_inst_ratio_change_20": -0.7465742061194414
+    "three_inst_ratio": 3.071118382350493,
+    "three_inst_ratio_change_20": -1.9565742061194404
   }
 ]

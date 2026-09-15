@@ -2765,10 +2765,10 @@
     "code": "3550",
     "name": "聯穎",
     "market": "TWSE",
-    "foreign_ratio": 7.23,
+    "foreign_ratio": 7.04,
     "trust_ratio": 0.22888609948860994,
     "dealer_ratio": -0.08282845188284518,
-    "three_inst_ratio": 7.376057647605766,
-    "three_inst_ratio_change_20": 0.6294867503486756
+    "three_inst_ratio": 7.1860576476057645,
+    "three_inst_ratio_change_20": 0.43948675034867435
   }
 ]

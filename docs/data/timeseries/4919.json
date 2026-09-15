@@ -2765,10 +2765,10 @@
     "code": "4919",
     "name": "新唐",
     "market": "TWSE",
-    "foreign_ratio": 4.52,
+    "foreign_ratio": 4.55,
     "trust_ratio": -0.2576797278044452,
     "dealer_ratio": 0.5900833605890423,
-    "three_inst_ratio": 4.852403632784596,
-    "three_inst_ratio_change_20": 0.38835495641816564
+    "three_inst_ratio": 4.882403632784596,
+    "three_inst_ratio_change_20": 0.4183549564181659
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "1802",
     "name": "台玻",
     "market": "TWSE",
-    "foreign_ratio": 5.52,
+    "foreign_ratio": 5.43,
     "trust_ratio": 0.0416438679686477,
     "dealer_ratio": -0.35564397415624877,
-    "three_inst_ratio": 5.205999893812399,
-    "three_inst_ratio_change_20": 0.43357108214518814
+    "three_inst_ratio": 5.115999893812399,
+    "three_inst_ratio_change_20": 0.3435710821451883
   }
 ]

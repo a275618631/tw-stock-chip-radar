@@ -2721,10 +2721,10 @@
     "code": "8466",
     "name": "美吉吉-KY",
     "market": "TWSE",
-    "foreign_ratio": 50.48,
+    "foreign_ratio": 50.53,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.018887131208780928,
-    "three_inst_ratio": 50.498887131208775,
-    "three_inst_ratio_change_20": 0.010708660771108214
+    "three_inst_ratio": 50.54888713120878,
+    "three_inst_ratio_change_20": 0.06070866077111248
   }
 ]

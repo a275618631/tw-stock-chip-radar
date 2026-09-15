@@ -2765,10 +2765,10 @@
     "code": "4551",
     "name": "智伸科",
     "market": "TWSE",
-    "foreign_ratio": 54.16,
+    "foreign_ratio": 54.15,
     "trust_ratio": -2.866627661552694,
     "dealer_ratio": 0.1903838259087214,
-    "three_inst_ratio": 51.48375616435602,
-    "three_inst_ratio_change_20": -1.9874106615879867
+    "three_inst_ratio": 51.473756164356026,
+    "three_inst_ratio_change_20": -1.9974106615879847
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "1231",
     "name": "聯華食",
     "market": "TWSE",
-    "foreign_ratio": 2.81,
+    "foreign_ratio": 2.76,
     "trust_ratio": -0.016672559550592887,
     "dealer_ratio": 0.030222973979262782,
-    "three_inst_ratio": 2.82355041442867,
-    "three_inst_ratio_change_20": -0.11800061106692672
+    "three_inst_ratio": 2.77355041442867,
+    "three_inst_ratio_change_20": -0.16800061106692699
   }
 ]

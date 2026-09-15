@@ -2732,10 +2732,10 @@
     "code": "00938",
     "name": "凱基優選30",
     "market": "TWSE",
-    "foreign_ratio": 0.51,
+    "foreign_ratio": 0.38,
     "trust_ratio": 0.0,
-    "dealer_ratio": 5.003995406668251,
-    "three_inst_ratio": 5.513995406668251,
-    "three_inst_ratio_change_20": -6.890848496367989
+    "dealer_ratio": 4.906845538557118,
+    "three_inst_ratio": 5.286845538557118,
+    "three_inst_ratio_change_20": -7.117998364479122
   }
 ]

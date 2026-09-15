@@ -1049,10 +1049,10 @@
     "code": "00999A",
     "name": "主動野村臺灣高息",
     "market": "TWSE",
-    "foreign_ratio": 0.14,
+    "foreign_ratio": 0.23,
     "trust_ratio": 0.0,
-    "dealer_ratio": -55.12006954608043,
-    "three_inst_ratio": -54.98006954608043,
-    "three_inst_ratio_change_20": -7.822117244631812
+    "dealer_ratio": -54.76967884152537,
+    "three_inst_ratio": -54.53967884152537,
+    "three_inst_ratio_change_20": -7.381726540076755
   }
 ]

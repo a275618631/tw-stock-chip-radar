@@ -2765,10 +2765,10 @@
     "code": "3605",
     "name": "宏致",
     "market": "TWSE",
-    "foreign_ratio": 19.02,
+    "foreign_ratio": 19.05,
     "trust_ratio": 1.1877678276924504,
     "dealer_ratio": -0.12131202311085941,
-    "three_inst_ratio": 20.08645580458159,
-    "three_inst_ratio_change_20": -8.450566859076087
+    "three_inst_ratio": 20.11645580458159,
+    "three_inst_ratio_change_20": -8.420566859076086
   }
 ]

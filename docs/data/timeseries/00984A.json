@@ -2732,10 +2732,10 @@
     "code": "00984A",
     "name": "主動安聯台灣高息",
     "market": "TWSE",
-    "foreign_ratio": 0.61,
+    "foreign_ratio": 0.52,
     "trust_ratio": 0.0,
     "dealer_ratio": -75.70343480453893,
-    "three_inst_ratio": -75.09343480453893,
-    "three_inst_ratio_change_20": -2.749733416863407
+    "three_inst_ratio": -75.18343480453893,
+    "three_inst_ratio_change_20": -2.8397334168634103
   }
 ]

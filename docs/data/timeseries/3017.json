@@ -2765,10 +2765,10 @@
     "code": "3017",
     "name": "奇鋐",
     "market": "TWSE",
-    "foreign_ratio": 54.25,
+    "foreign_ratio": 54.34,
     "trust_ratio": 3.3931940608994218,
     "dealer_ratio": 0.28588969361005584,
-    "three_inst_ratio": 57.92908375450948,
-    "three_inst_ratio_change_20": 0.7235777880001848
+    "three_inst_ratio": 58.01908375450948,
+    "three_inst_ratio_change_20": 0.8135777880001882
   }
 ]

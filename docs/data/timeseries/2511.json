@@ -2765,10 +2765,10 @@
     "code": "2511",
     "name": "太子",
     "market": "TWSE",
-    "foreign_ratio": 2.71,
+    "foreign_ratio": 2.7,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.07061236598192981,
-    "three_inst_ratio": 2.7806123659819297,
-    "three_inst_ratio_change_20": 0.16840307941519272
+    "three_inst_ratio": 2.77061236598193,
+    "three_inst_ratio_change_20": 0.15840307941519294
   }
 ]

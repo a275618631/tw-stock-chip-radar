@@ -2765,10 +2765,10 @@
     "code": "2208",
     "name": "台船",
     "market": "TWSE",
-    "foreign_ratio": 6.59,
+    "foreign_ratio": 6.58,
     "trust_ratio": -0.04723125678630917,
     "dealer_ratio": 0.002954714350312746,
-    "three_inst_ratio": 6.545723457564003,
-    "three_inst_ratio_change_20": -0.3181169668762447
+    "three_inst_ratio": 6.5357234575640035,
+    "three_inst_ratio_change_20": -0.3281169668762445
   }
 ]

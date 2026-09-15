@@ -2765,10 +2765,10 @@
     "code": "2542",
     "name": "興富發",
     "market": "TWSE",
-    "foreign_ratio": 7.86,
+    "foreign_ratio": 7.85,
     "trust_ratio": 6.3989783723853915,
     "dealer_ratio": 0.30417287027523926,
-    "three_inst_ratio": 14.563151242660632,
-    "three_inst_ratio_change_20": 0.2570035187798627
+    "three_inst_ratio": 14.55315124266063,
+    "three_inst_ratio_change_20": 0.24700351877986115
   }
 ]

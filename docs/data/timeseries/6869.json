@@ -2732,10 +2732,10 @@
     "code": "6869",
     "name": "雲豹能源",
     "market": "TWSE",
-    "foreign_ratio": 2.73,
+    "foreign_ratio": 2.83,
     "trust_ratio": -0.07110206112468616,
     "dealer_ratio": 0.052954348319463974,
-    "three_inst_ratio": 2.711852287194778,
-    "three_inst_ratio_change_20": -0.21314879069070303
+    "three_inst_ratio": 2.811852287194778,
+    "three_inst_ratio_change_20": -0.11314879069070294
   }
 ]

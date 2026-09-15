@@ -2765,10 +2765,10 @@
     "code": "5285",
     "name": "界霖",
     "market": "TWSE",
-    "foreign_ratio": 8.14,
+    "foreign_ratio": 8.06,
     "trust_ratio": 0.0018904179681787678,
     "dealer_ratio": 0.2194933040885968,
-    "three_inst_ratio": 8.361383722056775,
-    "three_inst_ratio_change_20": 0.25929536252934327
+    "three_inst_ratio": 8.281383722056775,
+    "three_inst_ratio_change_20": 0.1792953625293432
   }
 ]

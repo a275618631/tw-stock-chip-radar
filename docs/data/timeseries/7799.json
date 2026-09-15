@@ -2721,10 +2721,10 @@
     "code": "7799",
     "name": "禾榮科",
     "market": "TWSE",
-    "foreign_ratio": 3.27,
+    "foreign_ratio": 3.28,
     "trust_ratio": 0.050024209550272,
     "dealer_ratio": 0.049273555259485236,
-    "three_inst_ratio": 3.3692977648097573,
-    "three_inst_ratio_change_20": 0.11405131791728262
+    "three_inst_ratio": 3.379297764809757,
+    "three_inst_ratio_change_20": 0.12405131791728241
   }
 ]

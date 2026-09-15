@@ -2732,10 +2732,10 @@
     "code": "8162",
     "name": "微矽電子-創",
     "market": "TWSE",
-    "foreign_ratio": 1.13,
+    "foreign_ratio": 1.08,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.042891036651043636,
-    "three_inst_ratio": 1.0871089633489563,
-    "three_inst_ratio_change_20": -0.46749119385170745
+    "three_inst_ratio": 1.0371089633489565,
+    "three_inst_ratio_change_20": -0.5174911938517073
   }
 ]

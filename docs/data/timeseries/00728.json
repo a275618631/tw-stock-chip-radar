@@ -2732,10 +2732,10 @@
     "code": "00728",
     "name": "第一金工業30",
     "market": "TWSE",
-    "foreign_ratio": 0.94,
+    "foreign_ratio": 0.84,
     "trust_ratio": 0.0,
     "dealer_ratio": 22.777964639931007,
-    "three_inst_ratio": 23.717964639931008,
-    "three_inst_ratio_change_20": -1.666061000435871
+    "three_inst_ratio": 23.617964639931007,
+    "three_inst_ratio_change_20": -1.7660610004358723
   }
 ]

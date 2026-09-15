@@ -2765,10 +2765,10 @@
     "code": "6451",
     "name": "訊芯-KY",
     "market": "TWSE",
-    "foreign_ratio": 62.68,
+    "foreign_ratio": 62.58,
     "trust_ratio": 0.021976712251191313,
     "dealer_ratio": -0.4889410277040856,
-    "three_inst_ratio": 62.2130356845471,
-    "three_inst_ratio_change_20": -2.4551729928432096
+    "three_inst_ratio": 62.1130356845471,
+    "three_inst_ratio_change_20": -2.555172992843211
   }
 ]

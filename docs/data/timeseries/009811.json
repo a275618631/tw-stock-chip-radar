@@ -1280,10 +1280,10 @@
     "code": "009811",
     "name": "統一美國50",
     "market": "TWSE",
-    "foreign_ratio": 0.37,
+    "foreign_ratio": 0.43,
     "trust_ratio": 0.0,
     "dealer_ratio": 39.81728222552559,
-    "three_inst_ratio": 40.187282225525585,
-    "three_inst_ratio_change_20": -1.3417329228454449
+    "three_inst_ratio": 40.24728222552559,
+    "three_inst_ratio_change_20": -1.2817329228454426
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "1339",
     "name": "昭輝",
     "market": "TWSE",
-    "foreign_ratio": 1.39,
+    "foreign_ratio": 1.37,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.042627291139325896,
-    "three_inst_ratio": 1.4326272911393259,
-    "three_inst_ratio_change_20": -0.4930848528898417
+    "three_inst_ratio": 1.412627291139326,
+    "three_inst_ratio_change_20": -0.5130848528898415
   }
 ]

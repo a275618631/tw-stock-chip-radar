@@ -2732,10 +2732,10 @@
     "code": "00960",
     "name": "野村全球航運龍頭",
     "market": "TWSE",
-    "foreign_ratio": 1.52,
+    "foreign_ratio": 1.36,
     "trust_ratio": 0.0,
-    "dealer_ratio": 160.0894862808787,
-    "three_inst_ratio": 161.6094862808787,
-    "three_inst_ratio_change_20": 0.06788864774262038
+    "dealer_ratio": 161.4696870419864,
+    "three_inst_ratio": 162.8296870419864,
+    "three_inst_ratio_change_20": 1.2880894088503112
   }
 ]

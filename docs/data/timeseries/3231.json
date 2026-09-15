@@ -2765,10 +2765,10 @@
     "code": "3231",
     "name": "緯創",
     "market": "TWSE",
-    "foreign_ratio": 29.52,
+    "foreign_ratio": 29.47,
     "trust_ratio": 3.470471011046552,
     "dealer_ratio": 1.08696422918922,
-    "three_inst_ratio": 34.07743524023577,
-    "three_inst_ratio_change_20": -4.667721853488082
+    "three_inst_ratio": 34.027435240235775,
+    "three_inst_ratio_change_20": -4.717721853488079
   }
 ]

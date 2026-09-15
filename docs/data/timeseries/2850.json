@@ -2765,10 +2765,10 @@
     "code": "2850",
     "name": "新產",
     "market": "TWSE",
-    "foreign_ratio": 10.8,
+    "foreign_ratio": 10.77,
     "trust_ratio": -1.4249056773365767,
     "dealer_ratio": 0.0008586440260625205,
-    "three_inst_ratio": 9.375952966689486,
-    "three_inst_ratio_change_20": -0.2408973542180366
+    "three_inst_ratio": 9.345952966689484,
+    "three_inst_ratio_change_20": -0.27089735421803773
   }
 ]

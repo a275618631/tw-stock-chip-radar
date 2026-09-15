@@ -2765,10 +2765,10 @@
     "code": "3052",
     "name": "夆典",
     "market": "TWSE",
-    "foreign_ratio": 1.75,
+    "foreign_ratio": 1.73,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.07926102977446908,
-    "three_inst_ratio": 1.6707389702255309,
-    "three_inst_ratio_change_20": -0.7791425353645531
+    "three_inst_ratio": 1.6507389702255308,
+    "three_inst_ratio_change_20": -0.7991425353645532
   }
 ]

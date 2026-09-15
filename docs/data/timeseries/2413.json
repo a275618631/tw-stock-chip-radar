@@ -2765,10 +2765,10 @@
     "code": "2413",
     "name": "環科",
     "market": "TWSE",
-    "foreign_ratio": 2.73,
+    "foreign_ratio": 2.7,
     "trust_ratio": -0.0007851808114372577,
     "dealer_ratio": 0.05981900011934749,
-    "three_inst_ratio": 2.7890338193079103,
-    "three_inst_ratio_change_20": -1.8166865997901995
+    "three_inst_ratio": 2.75903381930791,
+    "three_inst_ratio_change_20": -1.8466865997901998
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "2801",
     "name": "彰銀",
     "market": "TWSE",
-    "foreign_ratio": 16.76,
+    "foreign_ratio": 16.58,
     "trust_ratio": 1.5228582980154435,
     "dealer_ratio": 0.03079899834166968,
-    "three_inst_ratio": 18.313657296357114,
-    "three_inst_ratio_change_20": 0.4248629979806644
+    "three_inst_ratio": 18.13365729635711,
+    "three_inst_ratio_change_20": 0.24486299798066113
   }
 ]

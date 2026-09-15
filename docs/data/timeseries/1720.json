@@ -2765,10 +2765,10 @@
     "code": "1720",
     "name": "生達",
     "market": "TWSE",
-    "foreign_ratio": 4.92,
+    "foreign_ratio": 4.91,
     "trust_ratio": -0.0585046125392641,
     "dealer_ratio": -0.12318985584148054,
-    "three_inst_ratio": 4.738305531619256,
-    "three_inst_ratio_change_20": -0.20094481336171377
+    "three_inst_ratio": 4.728305531619256,
+    "three_inst_ratio_change_20": -0.21094481336171356
   }
 ]

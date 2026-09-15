@@ -2149,10 +2149,10 @@
     "code": "1441",
     "name": "大東",
     "market": "TWSE",
-    "foreign_ratio": 1.49,
+    "foreign_ratio": 1.48,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0027876745256740433,
-    "three_inst_ratio": 1.492787674525674,
-    "three_inst_ratio_change_20": -0.00860616273716297
+    "three_inst_ratio": 1.482787674525674,
+    "three_inst_ratio_change_20": -0.01860616273716298
   }
 ]

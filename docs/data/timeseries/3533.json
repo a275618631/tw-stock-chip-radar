@@ -2765,10 +2765,10 @@
     "code": "3533",
     "name": "嘉澤",
     "market": "TWSE",
-    "foreign_ratio": 44.05,
+    "foreign_ratio": 44.02,
     "trust_ratio": -1.6600587635682937,
     "dealer_ratio": 0.5579861591302544,
-    "three_inst_ratio": 42.947927395561955,
-    "three_inst_ratio_change_20": -2.6898750922948764
+    "three_inst_ratio": 42.91792739556196,
+    "three_inst_ratio_change_20": -2.7198750922948705
   }
 ]

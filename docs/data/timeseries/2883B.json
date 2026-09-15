@@ -2721,10 +2721,10 @@
     "code": "2883B",
     "name": "凱基金乙特",
     "market": "TWSE",
-    "foreign_ratio": 4.37,
+    "foreign_ratio": 4.39,
     "trust_ratio": -0.4157021585466998,
     "dealer_ratio": -0.8401448705525916,
-    "three_inst_ratio": 3.114152970900709,
-    "three_inst_ratio_change_20": 0.02624825393874497
+    "three_inst_ratio": 3.1341529709007085,
+    "three_inst_ratio_change_20": 0.046248253938744543
   }
 ]

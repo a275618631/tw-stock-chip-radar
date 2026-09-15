@@ -2765,10 +2765,10 @@
     "code": "1477",
     "name": "聚陽",
     "market": "TWSE",
-    "foreign_ratio": 14.79,
+    "foreign_ratio": 14.68,
     "trust_ratio": -10.257794044390584,
     "dealer_ratio": 0.2610974524510886,
-    "three_inst_ratio": 4.7933034080605035,
-    "three_inst_ratio_change_20": 0.8508734023554139
+    "three_inst_ratio": 4.683303408060504,
+    "three_inst_ratio_change_20": 0.7408734023554144
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "3257",
     "name": "虹冠電",
     "market": "TWSE",
-    "foreign_ratio": 1.62,
+    "foreign_ratio": 1.63,
     "trust_ratio": -0.08518784985741683,
     "dealer_ratio": -0.031326579022567136,
-    "three_inst_ratio": 1.5034855711200161,
-    "three_inst_ratio_change_20": 0.4012527624979032
+    "three_inst_ratio": 1.513485571120016,
+    "three_inst_ratio_change_20": 0.411252762497903
   }
 ]

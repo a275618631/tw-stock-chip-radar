@@ -2765,10 +2765,10 @@
     "code": "5607",
     "name": "遠雄港",
     "market": "TWSE",
-    "foreign_ratio": 5.34,
+    "foreign_ratio": 5.33,
     "trust_ratio": 0.003778137887692169,
     "dealer_ratio": 0.04134956024485496,
-    "three_inst_ratio": 5.385127698132547,
-    "three_inst_ratio_change_20": 1.04385274437176
+    "three_inst_ratio": 5.375127698132547,
+    "three_inst_ratio_change_20": 1.0338527443717602
   }
 ]

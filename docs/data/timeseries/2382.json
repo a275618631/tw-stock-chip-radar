@@ -2765,10 +2765,10 @@
     "code": "2382",
     "name": "廣達",
     "market": "TWSE",
-    "foreign_ratio": 23.89,
+    "foreign_ratio": 23.9,
     "trust_ratio": 7.77437482553067,
     "dealer_ratio": 0.7738875671234441,
-    "three_inst_ratio": 32.43826239265412,
-    "three_inst_ratio_change_20": 0.7239588273740054
+    "three_inst_ratio": 32.448262392654115,
+    "three_inst_ratio_change_20": 0.7339588273740034
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "2349",
     "name": "錸德",
     "market": "TWSE",
-    "foreign_ratio": 13.51,
+    "foreign_ratio": 13.52,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.012331196164821109,
-    "three_inst_ratio": 13.497668803835179,
-    "three_inst_ratio_change_20": -0.41682850728175325
+    "three_inst_ratio": 13.507668803835179,
+    "three_inst_ratio_change_20": -0.40682850728175346
   }
 ]

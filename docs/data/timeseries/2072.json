@@ -1324,10 +1324,10 @@
     "code": "2072",
     "name": "世紀風電",
     "market": "TWSE",
-    "foreign_ratio": 1.25,
+    "foreign_ratio": 1.23,
     "trust_ratio": 0.32092864583333336,
     "dealer_ratio": -0.09422239583333333,
-    "three_inst_ratio": 1.47670625,
-    "three_inst_ratio_change_20": -0.1589713541666664
+    "three_inst_ratio": 1.45670625,
+    "three_inst_ratio_change_20": -0.17897135416666643
   }
 ]

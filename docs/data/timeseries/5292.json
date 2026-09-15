@@ -2721,10 +2721,10 @@
     "code": "5292",
     "name": "華懋",
     "market": "TWSE",
-    "foreign_ratio": 3.42,
+    "foreign_ratio": 3.38,
     "trust_ratio": -0.009499382540134892,
     "dealer_ratio": 0.08665379932122594,
-    "three_inst_ratio": 3.4971544167810906,
-    "three_inst_ratio_change_20": -0.594434311769735
+    "three_inst_ratio": 3.4571544167810906,
+    "three_inst_ratio_change_20": -0.6344343117697351
   }
 ]

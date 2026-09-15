@@ -2765,10 +2765,10 @@
     "code": "3090",
     "name": "日電貿",
     "market": "TWSE",
-    "foreign_ratio": 7.7,
+    "foreign_ratio": 7.53,
     "trust_ratio": 3.600561121115538,
     "dealer_ratio": 0.10278468872400759,
-    "three_inst_ratio": 11.403345809839546,
-    "three_inst_ratio_change_20": 0.061684945585753326
+    "three_inst_ratio": 11.233345809839545,
+    "three_inst_ratio_change_20": -0.10831505441424838
   }
 ]

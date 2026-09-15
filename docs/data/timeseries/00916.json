@@ -2732,10 +2732,10 @@
     "code": "00916",
     "name": "國泰全球品牌50",
     "market": "TWSE",
-    "foreign_ratio": 1.48,
+    "foreign_ratio": 1.02,
     "trust_ratio": 0.0,
-    "dealer_ratio": -4.753632311277425,
-    "three_inst_ratio": -3.273632311277425,
-    "three_inst_ratio_change_20": 2.6313247398442505
+    "dealer_ratio": -4.800045889922768,
+    "three_inst_ratio": -3.7800458899227682,
+    "three_inst_ratio_change_20": 2.124911161198907
   }
 ]

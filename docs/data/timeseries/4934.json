@@ -2765,10 +2765,10 @@
     "code": "4934",
     "name": "太極",
     "market": "TWSE",
-    "foreign_ratio": 3.27,
+    "foreign_ratio": 3.21,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.010010222222222222,
-    "three_inst_ratio": 3.2599897777777778,
-    "three_inst_ratio_change_20": -0.1473333333333331
+    "three_inst_ratio": 3.1999897777777777,
+    "three_inst_ratio_change_20": -0.20733333333333315
   }
 ]

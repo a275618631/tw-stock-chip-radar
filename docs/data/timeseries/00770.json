@@ -2732,10 +2732,10 @@
     "code": "00770",
     "name": "國泰北美科技",
     "market": "TWSE",
-    "foreign_ratio": 0.13,
+    "foreign_ratio": 0.09,
     "trust_ratio": 0.0,
-    "dealer_ratio": -23.83609336274131,
-    "three_inst_ratio": -23.70609336274131,
-    "three_inst_ratio_change_20": -15.286655687014974
+    "dealer_ratio": -22.675972874169894,
+    "three_inst_ratio": -22.585972874169894,
+    "three_inst_ratio_change_20": -14.166535198443558
   }
 ]

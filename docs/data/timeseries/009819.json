@@ -1126,10 +1126,10 @@
     "code": "009819",
     "name": "中信數據及電力",
     "market": "TWSE",
-    "foreign_ratio": 0.76,
+    "foreign_ratio": 0.22,
     "trust_ratio": 0.0,
-    "dealer_ratio": -51.370463636438856,
-    "three_inst_ratio": -50.61046363643886,
-    "three_inst_ratio_change_20": -3.4291100455183283
+    "dealer_ratio": -51.20099266798077,
+    "three_inst_ratio": -50.98099266798077,
+    "three_inst_ratio_change_20": -3.7996390770602417
   }
 ]

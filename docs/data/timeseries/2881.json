@@ -2765,10 +2765,10 @@
     "code": "2881",
     "name": "富邦金",
     "market": "TWSE",
-    "foreign_ratio": 18.77,
+    "foreign_ratio": 18.75,
     "trust_ratio": -0.6989110038574513,
     "dealer_ratio": 0.3069384366533638,
-    "three_inst_ratio": 18.378027432795914,
-    "three_inst_ratio_change_20": 0.2863438914588521
+    "three_inst_ratio": 18.358027432795915,
+    "three_inst_ratio_change_20": 0.2663438914588525
   }
 ]

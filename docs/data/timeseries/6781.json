@@ -2732,10 +2732,10 @@
     "code": "6781",
     "name": "AES-KY",
     "market": "TWSE",
-    "foreign_ratio": 70.64,
+    "foreign_ratio": 70.53,
     "trust_ratio": -5.995476638743845,
     "dealer_ratio": -0.21854678795459265,
-    "three_inst_ratio": 64.42597657330155,
-    "three_inst_ratio_change_20": 0.2430811467923064
+    "three_inst_ratio": 64.31597657330157,
+    "three_inst_ratio_change_20": 0.1330811467923212
   }
 ]

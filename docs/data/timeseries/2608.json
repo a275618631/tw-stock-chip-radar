@@ -2765,10 +2765,10 @@
     "code": "2608",
     "name": "嘉里大榮",
     "market": "TWSE",
-    "foreign_ratio": 2.94,
+    "foreign_ratio": 2.92,
     "trust_ratio": -0.023768711270196547,
     "dealer_ratio": 0.044253700132028555,
-    "three_inst_ratio": 2.960484988861832,
-    "three_inst_ratio_change_20": -0.14671263733855788
+    "three_inst_ratio": 2.940484988861832,
+    "three_inst_ratio_change_20": -0.1667126373385579
   }
 ]

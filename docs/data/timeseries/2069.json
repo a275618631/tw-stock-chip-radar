@@ -2765,10 +2765,10 @@
     "code": "2069",
     "name": "運錩",
     "market": "TWSE",
-    "foreign_ratio": 4.03,
+    "foreign_ratio": 4.1,
     "trust_ratio": 0.004207063592458721,
     "dealer_ratio": -0.005699970158696929,
-    "three_inst_ratio": 4.0285070934337615,
-    "three_inst_ratio_change_20": 0.7827878909843555
+    "three_inst_ratio": 4.098507093433761,
+    "three_inst_ratio_change_20": 0.8527878909843549
   }
 ]

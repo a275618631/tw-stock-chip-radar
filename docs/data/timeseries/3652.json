@@ -2732,10 +2732,10 @@
     "code": "3652",
     "name": "精聯",
     "market": "TWSE",
-    "foreign_ratio": 1.76,
+    "foreign_ratio": 1.77,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.023532074969206698,
-    "three_inst_ratio": 1.7835320749692067,
-    "three_inst_ratio_change_20": -0.45043143912913197
+    "three_inst_ratio": 1.7935320749692067,
+    "three_inst_ratio_change_20": -0.44043143912913196
   }
 ]

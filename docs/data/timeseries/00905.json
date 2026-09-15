@@ -2732,10 +2732,10 @@
     "code": "00905",
     "name": "FT臺灣Smart",
     "market": "TWSE",
-    "foreign_ratio": 0.4,
+    "foreign_ratio": 0.32,
     "trust_ratio": 0.0,
     "dealer_ratio": 2.54294202491753,
-    "three_inst_ratio": 2.9429420249175298,
-    "three_inst_ratio_change_20": -0.29182996273209083
+    "three_inst_ratio": 2.8629420249175297,
+    "three_inst_ratio_change_20": -0.3718299627320909
   }
 ]

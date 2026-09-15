@@ -2710,10 +2710,10 @@
     "code": "2702",
     "name": "華園",
     "market": "TWSE",
-    "foreign_ratio": 39.48,
+    "foreign_ratio": 39.49,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.033362439214832965,
-    "three_inst_ratio": 39.51336243921483,
-    "three_inst_ratio_change_20": 0.030422266254113595
+    "three_inst_ratio": 39.523362439214836,
+    "three_inst_ratio_change_20": 0.04042226625411871
   }
 ]

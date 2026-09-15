@@ -2765,10 +2765,10 @@
     "code": "2414",
     "name": "精技",
     "market": "TWSE",
-    "foreign_ratio": 4.31,
+    "foreign_ratio": 4.29,
     "trust_ratio": 0.16508399752025285,
     "dealer_ratio": -0.14428897846183092,
-    "three_inst_ratio": 4.330795019058422,
-    "three_inst_ratio_change_20": -0.18599310557289872
+    "three_inst_ratio": 4.310795019058422,
+    "three_inst_ratio_change_20": -0.2059931055728983
   }
 ]

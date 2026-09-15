@@ -2657,8 +2657,8 @@
     "market": "TPEX",
     "foreign_ratio": 0.0,
     "trust_ratio": 0.0,
-    "dealer_ratio": -0.08928997615694338,
-    "three_inst_ratio": -0.08928997615694338,
-    "three_inst_ratio_change_20": -0.003634489169989555
+    "dealer_ratio": -0.08668929816876372,
+    "three_inst_ratio": -0.08668929816876372,
+    "three_inst_ratio_change_20": -0.001033811181809896
   }
 ]

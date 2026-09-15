@@ -2765,10 +2765,10 @@
     "code": "2385",
     "name": "群光",
     "market": "TWSE",
-    "foreign_ratio": 24.34,
+    "foreign_ratio": 24.38,
     "trust_ratio": -9.270416061674918,
     "dealer_ratio": -0.0493388462955788,
-    "three_inst_ratio": 15.020245092029503,
-    "three_inst_ratio_change_20": 1.2879892314015482
+    "three_inst_ratio": 15.060245092029502,
+    "three_inst_ratio_change_20": 1.3279892314015473
   }
 ]

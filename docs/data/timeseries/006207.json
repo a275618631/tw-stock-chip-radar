@@ -1302,10 +1302,10 @@
     "code": "006207",
     "name": "復華滬深",
     "market": "TWSE",
-    "foreign_ratio": 2.77,
+    "foreign_ratio": 2.74,
     "trust_ratio": 0.0,
     "dealer_ratio": 6.890134979896612,
-    "three_inst_ratio": 9.660134979896611,
-    "three_inst_ratio_change_20": -1.6052958070074688
+    "three_inst_ratio": 9.630134979896612,
+    "three_inst_ratio_change_20": -1.6352958070074681
   }
 ]

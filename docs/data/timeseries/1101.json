@@ -2765,10 +2765,10 @@
     "code": "1101",
     "name": "台泥",
     "market": "TWSE",
-    "foreign_ratio": 12.7,
+    "foreign_ratio": 12.54,
     "trust_ratio": -1.9225506568919997,
     "dealer_ratio": 0.13238776280515915,
-    "three_inst_ratio": 10.909837105913159,
-    "three_inst_ratio_change_20": -2.654789680227827
+    "three_inst_ratio": 10.749837105913159,
+    "three_inst_ratio_change_20": -2.814789680227827
   }
 ]

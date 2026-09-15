@@ -2765,10 +2765,10 @@
     "code": "1531",
     "name": "高林股",
     "market": "TWSE",
-    "foreign_ratio": 1.21,
+    "foreign_ratio": 1.19,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.021556429566442083,
-    "three_inst_ratio": 1.231556429566442,
-    "three_inst_ratio_change_20": -0.4527994364665202
+    "three_inst_ratio": 1.211556429566442,
+    "three_inst_ratio_change_20": -0.47279943646652023
   }
 ]

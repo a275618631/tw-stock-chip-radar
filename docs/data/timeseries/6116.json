@@ -2765,10 +2765,10 @@
     "code": "6116",
     "name": "彩晶",
     "market": "TWSE",
-    "foreign_ratio": 4.35,
+    "foreign_ratio": 4.3,
     "trust_ratio": 0.08119367748044376,
     "dealer_ratio": 0.007528366004896195,
-    "three_inst_ratio": 4.43872204348534,
-    "three_inst_ratio_change_20": -0.15832363619262324
+    "three_inst_ratio": 4.38872204348534,
+    "three_inst_ratio_change_20": -0.20832363619262306
   }
 ]

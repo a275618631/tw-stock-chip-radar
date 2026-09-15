@@ -2765,10 +2765,10 @@
     "code": "6205",
     "name": "詮欣",
     "market": "TWSE",
-    "foreign_ratio": 3.63,
+    "foreign_ratio": 3.58,
     "trust_ratio": -0.0012160138271473068,
     "dealer_ratio": 0.06528291832423032,
-    "three_inst_ratio": 3.694066904497083,
-    "three_inst_ratio_change_20": 0.10253610712896988
+    "three_inst_ratio": 3.644066904497083,
+    "three_inst_ratio_change_20": 0.052536107128970055
   }
 ]

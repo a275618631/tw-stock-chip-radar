@@ -2765,10 +2765,10 @@
     "code": "2633",
     "name": "台灣高鐵",
     "market": "TWSE",
-    "foreign_ratio": 5.82,
+    "foreign_ratio": 5.77,
     "trust_ratio": 2.055349567051631,
     "dealer_ratio": -0.04473299407217896,
-    "three_inst_ratio": 7.830616572979452,
-    "three_inst_ratio_change_20": 0.06288870385967105
+    "three_inst_ratio": 7.780616572979452,
+    "three_inst_ratio_change_20": 0.012888703859670336
   }
 ]

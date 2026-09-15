@@ -2732,10 +2732,10 @@
     "code": "00972",
     "name": "野村日本動能高息",
     "market": "TWSE",
-    "foreign_ratio": 22.39,
+    "foreign_ratio": 22.38,
     "trust_ratio": 0.0,
     "dealer_ratio": 30.921243079356707,
-    "three_inst_ratio": 53.31124307935671,
-    "three_inst_ratio_change_20": 2.090389327442466
+    "three_inst_ratio": 53.30124307935671,
+    "three_inst_ratio_change_20": 2.080389327442468
   }
 ]

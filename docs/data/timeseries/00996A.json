@@ -1346,10 +1346,10 @@
     "code": "00996A",
     "name": "主動兆豐台灣豐收",
     "market": "TWSE",
-    "foreign_ratio": 6.17,
+    "foreign_ratio": 5.81,
     "trust_ratio": 0.0,
-    "dealer_ratio": -39.01397460430326,
-    "three_inst_ratio": -32.843974604303256,
-    "three_inst_ratio_change_20": 4.322255377167458
+    "dealer_ratio": -39.08208583130527,
+    "three_inst_ratio": -33.27208583130527,
+    "three_inst_ratio_change_20": 3.8941441501654452
   }
 ]

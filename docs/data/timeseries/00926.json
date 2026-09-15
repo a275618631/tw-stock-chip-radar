@@ -2732,10 +2732,10 @@
     "code": "00926",
     "name": "凱基全球菁英55",
     "market": "TWSE",
-    "foreign_ratio": 1.51,
+    "foreign_ratio": 0.55,
     "trust_ratio": 0.0,
-    "dealer_ratio": 2.6025143086847495,
-    "three_inst_ratio": 4.11251430868475,
-    "three_inst_ratio_change_20": -0.4801960678859132
+    "dealer_ratio": 2.627663748284726,
+    "three_inst_ratio": 3.1776637482847256,
+    "three_inst_ratio_change_20": -1.4150466282859373
   }
 ]

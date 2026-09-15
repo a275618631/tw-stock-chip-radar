@@ -2754,10 +2754,10 @@
     "code": "3021",
     "name": "鴻名",
     "market": "TWSE",
-    "foreign_ratio": 3.89,
+    "foreign_ratio": 3.94,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.02855634063136994,
-    "three_inst_ratio": 3.8614436593686303,
-    "three_inst_ratio_change_20": -0.33584688758046877
+    "three_inst_ratio": 3.91144365936863,
+    "three_inst_ratio_change_20": -0.28584688758046894
   }
 ]

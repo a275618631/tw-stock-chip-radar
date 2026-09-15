@@ -2732,10 +2732,10 @@
     "code": "00900",
     "name": "富邦特選高股息30",
     "market": "TWSE",
-    "foreign_ratio": 0.84,
-    "trust_ratio": 1.2007677039418645,
-    "dealer_ratio": 35.3975255655255,
-    "three_inst_ratio": 37.438293269467366,
-    "three_inst_ratio_change_20": 5.069976022193657
+    "foreign_ratio": 0.78,
+    "trust_ratio": 1.2011617794260023,
+    "dealer_ratio": 35.40914254771008,
+    "three_inst_ratio": 37.390304327136086,
+    "three_inst_ratio_change_20": 5.021987079862377
   }
 ]

@@ -2732,10 +2732,10 @@
     "code": "3530",
     "name": "晶相光",
     "market": "TWSE",
-    "foreign_ratio": 40.9,
+    "foreign_ratio": 40.88,
     "trust_ratio": -0.001290723954158648,
     "dealer_ratio": 0.038941141696966414,
-    "three_inst_ratio": 40.93765041774281,
-    "three_inst_ratio_change_20": -0.4371389941904482
+    "three_inst_ratio": 40.91765041774281,
+    "three_inst_ratio_change_20": -0.45713899419044424
   }
 ]

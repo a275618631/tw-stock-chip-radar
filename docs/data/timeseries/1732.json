@@ -2732,10 +2732,10 @@
     "code": "1732",
     "name": "毛寶",
     "market": "TWSE",
-    "foreign_ratio": 2.56,
+    "foreign_ratio": 2.44,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.03243100071937214,
-    "three_inst_ratio": 2.592431000719372,
-    "three_inst_ratio_change_20": -0.24057580800018252
+    "three_inst_ratio": 2.472431000719372,
+    "three_inst_ratio_change_20": -0.36057580800018263
   }
 ]

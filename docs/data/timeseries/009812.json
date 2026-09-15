@@ -1280,10 +1280,10 @@
     "code": "009812",
     "name": "野村日本東證",
     "market": "TWSE",
-    "foreign_ratio": 1.17,
+    "foreign_ratio": 1.14,
     "trust_ratio": 0.0,
-    "dealer_ratio": 21.809101340087896,
-    "three_inst_ratio": 22.979101340087894,
-    "three_inst_ratio_change_20": -1.3378042900632394
+    "dealer_ratio": 22.04775995272592,
+    "three_inst_ratio": 23.18775995272592,
+    "three_inst_ratio_change_20": -1.129145677425214
   }
 ]

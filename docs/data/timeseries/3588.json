@@ -2765,10 +2765,10 @@
     "code": "3588",
     "name": "通嘉",
     "market": "TWSE",
-    "foreign_ratio": 8.36,
+    "foreign_ratio": 8.28,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.039447545942905234,
-    "three_inst_ratio": 8.399447545942905,
-    "three_inst_ratio_change_20": 3.2798356386205807
+    "three_inst_ratio": 8.319447545942905,
+    "three_inst_ratio_change_20": 3.1998356386205806
   }
 ]

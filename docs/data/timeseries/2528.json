@@ -2765,10 +2765,10 @@
     "code": "2528",
     "name": "皇普",
     "market": "TWSE",
-    "foreign_ratio": 1.58,
+    "foreign_ratio": 1.59,
     "trust_ratio": 0.28623947542217126,
     "dealer_ratio": 0.31959433285958255,
-    "three_inst_ratio": 2.185833808281754,
-    "three_inst_ratio_change_20": 0.13774484108377028
+    "three_inst_ratio": 2.195833808281754,
+    "three_inst_ratio_change_20": 0.14774484108377006
   }
 ]

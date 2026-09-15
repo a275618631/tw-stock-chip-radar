@@ -2677,10 +2677,10 @@
     "code": "6645",
     "name": "金萬林-創",
     "market": "TWSE",
-    "foreign_ratio": 0.75,
+    "foreign_ratio": 0.74,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0036786904584890424,
-    "three_inst_ratio": 0.753678690458489,
-    "three_inst_ratio_change_20": 5.918929154402619e-05
+    "three_inst_ratio": 0.743678690458489,
+    "three_inst_ratio_change_20": -0.009940810708455983
   }
 ]

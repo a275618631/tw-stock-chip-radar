@@ -2743,10 +2743,10 @@
     "code": "2207",
     "name": "和泰車",
     "market": "TWSE",
-    "foreign_ratio": 22.5,
+    "foreign_ratio": 22.49,
     "trust_ratio": -2.254088602912847,
     "dealer_ratio": 0.18467436514334462,
-    "three_inst_ratio": 20.430585762230496,
-    "three_inst_ratio_change_20": 0.09938008679934995
+    "three_inst_ratio": 20.420585762230495,
+    "three_inst_ratio_change_20": 0.08938008679934839
   }
 ]

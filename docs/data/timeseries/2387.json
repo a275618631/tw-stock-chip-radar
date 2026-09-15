@@ -2765,10 +2765,10 @@
     "code": "2387",
     "name": "精元",
     "market": "TWSE",
-    "foreign_ratio": 8.76,
+    "foreign_ratio": 8.73,
     "trust_ratio": 0.5903952855034824,
     "dealer_ratio": 0.07683902300735887,
-    "three_inst_ratio": 9.427234308510842,
-    "three_inst_ratio_change_20": 0.0966969113523497
+    "three_inst_ratio": 9.397234308510843,
+    "three_inst_ratio_change_20": 0.06669691135235034
   }
 ]

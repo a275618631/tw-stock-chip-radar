@@ -2765,10 +2765,10 @@
     "code": "6108",
     "name": "競國",
     "market": "TWSE",
-    "foreign_ratio": 9.19,
+    "foreign_ratio": 9.82,
     "trust_ratio": 0.0007288294259586037,
     "dealer_ratio": 0.04686968700096666,
-    "three_inst_ratio": 9.237598516426925,
-    "three_inst_ratio_change_20": 2.9512548062692083
+    "three_inst_ratio": 9.867598516426925,
+    "three_inst_ratio_change_20": 3.581254806269209
   }
 ]

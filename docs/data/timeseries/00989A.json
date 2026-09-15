@@ -2446,10 +2446,10 @@
     "code": "00989A",
     "name": "主動摩根美國科技",
     "market": "TWSE",
-    "foreign_ratio": 5.29,
+    "foreign_ratio": 3.17,
     "trust_ratio": 0.0,
-    "dealer_ratio": -31.842856086487124,
-    "three_inst_ratio": -26.552856086487125,
-    "three_inst_ratio_change_20": -4.5584342182980855
+    "dealer_ratio": -32.565276706444635,
+    "three_inst_ratio": -29.395276706444633,
+    "three_inst_ratio_change_20": -7.400854838255594
   }
 ]

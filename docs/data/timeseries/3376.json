@@ -2765,10 +2765,10 @@
     "code": "3376",
     "name": "新日興",
     "market": "TWSE",
-    "foreign_ratio": 12.87,
+    "foreign_ratio": 12.24,
     "trust_ratio": -5.516753243610047,
     "dealer_ratio": -0.08620693970717429,
-    "three_inst_ratio": 7.267039816682778,
-    "three_inst_ratio_change_20": -2.102469636294697
+    "three_inst_ratio": 6.637039816682779,
+    "three_inst_ratio_change_20": -2.732469636294696
   }
 ]

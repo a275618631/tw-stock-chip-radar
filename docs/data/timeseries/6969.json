@@ -2644,10 +2644,10 @@
     "code": "6969",
     "name": "成信實業*-創",
     "market": "TWSE",
-    "foreign_ratio": 1.62,
+    "foreign_ratio": 1.51,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.11585785855997292,
-    "three_inst_ratio": 1.5041421414400271,
-    "three_inst_ratio_change_20": 0.8944342078102635
+    "three_inst_ratio": 1.394142141440027,
+    "three_inst_ratio_change_20": 0.7844342078102634
   }
 ]

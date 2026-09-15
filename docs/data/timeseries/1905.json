@@ -2765,10 +2765,10 @@
     "code": "1905",
     "name": "華紙",
     "market": "TWSE",
-    "foreign_ratio": 2.51,
+    "foreign_ratio": 2.48,
     "trust_ratio": -0.013986766452081953,
     "dealer_ratio": 0.10466340561041663,
-    "three_inst_ratio": 2.6006766391583347,
-    "three_inst_ratio_change_20": 0.011317283568021086
+    "three_inst_ratio": 2.570676639158335,
+    "three_inst_ratio_change_20": -0.01868271643197872
   }
 ]

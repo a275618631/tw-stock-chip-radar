@@ -2732,10 +2732,10 @@
     "code": "1232",
     "name": "大統益",
     "market": "TWSE",
-    "foreign_ratio": 2.84,
+    "foreign_ratio": 2.83,
     "trust_ratio": 0.02687921415679452,
     "dealer_ratio": 0.04480327431335094,
-    "three_inst_ratio": 2.9116824884701455,
-    "three_inst_ratio_change_20": -0.032631980457686005
+    "three_inst_ratio": 2.9016824884701458,
+    "three_inst_ratio_change_20": -0.04263198045768579
   }
 ]

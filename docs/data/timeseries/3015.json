@@ -2765,10 +2765,10 @@
     "code": "3015",
     "name": "全漢",
     "market": "TWSE",
-    "foreign_ratio": 9.35,
+    "foreign_ratio": 9.33,
     "trust_ratio": 1.0332312570706434,
     "dealer_ratio": 0.005389242181874108,
-    "three_inst_ratio": 10.388620499252516,
-    "three_inst_ratio_change_20": -0.14727021159397324
+    "three_inst_ratio": 10.368620499252517,
+    "three_inst_ratio_change_20": -0.16727021159397282
   }
 ]

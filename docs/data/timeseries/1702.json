@@ -2765,10 +2765,10 @@
     "code": "1702",
     "name": "南僑",
     "market": "TWSE",
-    "foreign_ratio": 8.75,
+    "foreign_ratio": 8.76,
     "trust_ratio": 0.2532337739148052,
     "dealer_ratio": 0.04131940846534569,
-    "three_inst_ratio": 9.044553182380152,
-    "three_inst_ratio_change_20": 0.135667945573541
+    "three_inst_ratio": 9.054553182380152,
+    "three_inst_ratio_change_20": 0.1456679455735408
   }
 ]

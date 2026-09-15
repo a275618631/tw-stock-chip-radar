@@ -2765,10 +2765,10 @@
     "code": "1417",
     "name": "嘉裕",
     "market": "TWSE",
-    "foreign_ratio": 1.27,
+    "foreign_ratio": 1.23,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.009655060728062865,
-    "three_inst_ratio": 1.2603449392719372,
-    "three_inst_ratio_change_20": -0.12947352305316184
+    "three_inst_ratio": 1.2203449392719372,
+    "three_inst_ratio_change_20": -0.16947352305316188
   }
 ]

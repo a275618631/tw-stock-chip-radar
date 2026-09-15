@@ -2732,10 +2732,10 @@
     "code": "2613",
     "name": "中櫃",
     "market": "TWSE",
-    "foreign_ratio": 1.39,
+    "foreign_ratio": 1.38,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.12862522041495625,
-    "three_inst_ratio": 1.2613747795850436,
-    "three_inst_ratio_change_20": -0.3694324712472339
+    "three_inst_ratio": 1.2513747795850436,
+    "three_inst_ratio_change_20": -0.3794324712472339
   }
 ]

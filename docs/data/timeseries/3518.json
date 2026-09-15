@@ -2765,10 +2765,10 @@
     "code": "3518",
     "name": "柏騰",
     "market": "TWSE",
-    "foreign_ratio": 5.64,
+    "foreign_ratio": 5.67,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.04559604080250827,
-    "three_inst_ratio": 5.594403959197491,
-    "three_inst_ratio_change_20": -0.38292776529628103
+    "three_inst_ratio": 5.624403959197491,
+    "three_inst_ratio_change_20": -0.3529277652962808
   }
 ]

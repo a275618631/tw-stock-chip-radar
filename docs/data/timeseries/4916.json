@@ -2765,10 +2765,10 @@
     "code": "4916",
     "name": "事欣科",
     "market": "TWSE",
-    "foreign_ratio": 2.28,
+    "foreign_ratio": 2.19,
     "trust_ratio": 0.03345301072575854,
     "dealer_ratio": 0.6045085617104072,
-    "three_inst_ratio": 2.9179615724361656,
-    "three_inst_ratio_change_20": -0.11987348432997713
+    "three_inst_ratio": 2.8279615724361657,
+    "three_inst_ratio_change_20": -0.209873484329977
   }
 ]

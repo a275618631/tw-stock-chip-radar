@@ -2732,10 +2732,10 @@
     "code": "00983A",
     "name": "主動中信ARK創新",
     "market": "TWSE",
-    "foreign_ratio": 2.78,
+    "foreign_ratio": 1.66,
     "trust_ratio": 0.0,
-    "dealer_ratio": 36.91324366270047,
-    "three_inst_ratio": 39.69324366270047,
-    "three_inst_ratio_change_20": 11.159618262955469
+    "dealer_ratio": 38.08604580230283,
+    "three_inst_ratio": 39.746045802302824,
+    "three_inst_ratio_change_20": 11.212420402557825
   }
 ]

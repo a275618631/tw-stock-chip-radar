@@ -2765,10 +2765,10 @@
     "code": "1301",
     "name": "台塑",
     "market": "TWSE",
-    "foreign_ratio": 34.6,
+    "foreign_ratio": 34.51,
     "trust_ratio": -3.4331729097782753,
     "dealer_ratio": 0.28635809447987637,
-    "three_inst_ratio": 31.453185184701603,
-    "three_inst_ratio_change_20": 1.0598587099834944
+    "three_inst_ratio": 31.3631851847016,
+    "three_inst_ratio_change_20": 0.969858709983491
   }
 ]

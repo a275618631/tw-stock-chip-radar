@@ -2732,10 +2732,10 @@
     "code": "00962",
     "name": "台新AI優息動能",
     "market": "TWSE",
-    "foreign_ratio": 0.21,
+    "foreign_ratio": 0.18,
     "trust_ratio": 0.0,
-    "dealer_ratio": -44.39454195535027,
-    "three_inst_ratio": -44.18454195535027,
-    "three_inst_ratio_change_20": -53.18032145733511
+    "dealer_ratio": -43.55627643504532,
+    "three_inst_ratio": -43.37627643504532,
+    "three_inst_ratio_change_20": -52.37205593703016
   }
 ]

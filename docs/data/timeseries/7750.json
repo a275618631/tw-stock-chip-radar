@@ -2699,10 +2699,10 @@
     "code": "7750",
     "name": "新代",
     "market": "TWSE",
-    "foreign_ratio": 16.48,
+    "foreign_ratio": 16.45,
     "trust_ratio": 0.6910527121640243,
     "dealer_ratio": -0.12419859972439905,
-    "three_inst_ratio": 17.046854112439625,
-    "three_inst_ratio_change_20": -1.0680938991968603
+    "three_inst_ratio": 17.016854112439624,
+    "three_inst_ratio_change_20": -1.0980938991968614
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "2460",
     "name": "建通",
     "market": "TWSE",
-    "foreign_ratio": 1.07,
+    "foreign_ratio": 1.06,
     "trust_ratio": 0.002364066193853428,
     "dealer_ratio": 0.06303191489361702,
-    "three_inst_ratio": 1.1353959810874703,
-    "three_inst_ratio_change_20": -0.04940898345153677
+    "three_inst_ratio": 1.1253959810874703,
+    "three_inst_ratio_change_20": -0.05940898345153678
   }
 ]

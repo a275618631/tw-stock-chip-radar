@@ -2732,10 +2732,10 @@
     "code": "4770",
     "name": "上品",
     "market": "TWSE",
-    "foreign_ratio": 7.11,
+    "foreign_ratio": 7.07,
     "trust_ratio": -2.613283985195559,
     "dealer_ratio": -0.0014666900070021006,
-    "three_inst_ratio": 4.495249324797439,
-    "three_inst_ratio_change_20": 0.38531334400320016
+    "three_inst_ratio": 4.455249324797439,
+    "three_inst_ratio_change_20": 0.34531334400320013
   }
 ]

@@ -2721,10 +2721,10 @@
     "code": "3150",
     "name": "鈺寶-創",
     "market": "TWSE",
-    "foreign_ratio": 0.99,
+    "foreign_ratio": 1.08,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.06929039661783364,
-    "three_inst_ratio": 0.9207096033821663,
-    "three_inst_ratio_change_20": -0.05437974571557913
+    "three_inst_ratio": 1.0107096033821665,
+    "three_inst_ratio_change_20": 0.03562025428442106
   }
 ]

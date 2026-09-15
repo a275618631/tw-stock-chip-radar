@@ -2765,10 +2765,10 @@
     "code": "2530",
     "name": "華建",
     "market": "TWSE",
-    "foreign_ratio": 2.75,
+    "foreign_ratio": 2.68,
     "trust_ratio": 0.3966810420457035,
     "dealer_ratio": 0.008004938037087798,
-    "three_inst_ratio": 3.154685980082791,
-    "three_inst_ratio_change_20": -0.7847043944952339
+    "three_inst_ratio": 3.0846859800827913,
+    "three_inst_ratio_change_20": -0.8547043944952337
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "1316",
     "name": "上曜",
     "market": "TWSE",
-    "foreign_ratio": 3.89,
+    "foreign_ratio": 3.87,
     "trust_ratio": 0.0009976443195086023,
     "dealer_ratio": -0.10168552592873105,
-    "three_inst_ratio": 3.789312118390778,
-    "three_inst_ratio_change_20": -0.4710202438141131
+    "three_inst_ratio": 3.769312118390778,
+    "three_inst_ratio_change_20": -0.49102024381411313
   }
 ]

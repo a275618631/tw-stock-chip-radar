@@ -2765,10 +2765,10 @@
     "code": "3296",
     "name": "勝德",
     "market": "TWSE",
-    "foreign_ratio": 2.42,
+    "foreign_ratio": 2.41,
     "trust_ratio": 0.001033864757049536,
     "dealer_ratio": 0.0021256259404938463,
-    "three_inst_ratio": 2.4231594906975435,
-    "three_inst_ratio_change_20": 0.1468267175465976
+    "three_inst_ratio": 2.4131594906975438,
+    "three_inst_ratio_change_20": 0.1368267175465978
   }
 ]

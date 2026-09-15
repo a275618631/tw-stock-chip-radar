@@ -2765,10 +2765,10 @@
     "code": "1612",
     "name": "宏泰",
     "market": "TWSE",
-    "foreign_ratio": 15.73,
+    "foreign_ratio": 15.7,
     "trust_ratio": 0.21932544350321773,
     "dealer_ratio": 0.5995094983260617,
-    "three_inst_ratio": 16.54883494182928,
-    "three_inst_ratio_change_20": 0.29227094361215933
+    "three_inst_ratio": 16.51883494182928,
+    "three_inst_ratio_change_20": 0.2622709436121582
   }
 ]

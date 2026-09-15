@@ -1577,10 +1577,10 @@
     "code": "2911",
     "name": "麗嬰房",
     "market": "TWSE",
-    "foreign_ratio": 21.03,
+    "foreign_ratio": 21.09,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.05873903752391451,
-    "three_inst_ratio": 20.971260962476087,
-    "three_inst_ratio_change_20": 0.03714628157779032
+    "three_inst_ratio": 21.031260962476086,
+    "three_inst_ratio_change_20": 0.09714628157778904
   }
 ]

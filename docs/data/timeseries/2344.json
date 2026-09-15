@@ -2765,10 +2765,10 @@
     "code": "2344",
     "name": "華邦電",
     "market": "TWSE",
-    "foreign_ratio": 17.93,
+    "foreign_ratio": 17.86,
     "trust_ratio": 7.964353413973287,
     "dealer_ratio": 0.23157001229044172,
-    "three_inst_ratio": 26.125923426263725,
-    "three_inst_ratio_change_20": -1.4975461409185797
+    "three_inst_ratio": 26.055923426263725,
+    "three_inst_ratio_change_20": -1.56754614091858
   }
 ]

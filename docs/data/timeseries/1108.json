@@ -2765,10 +2765,10 @@
     "code": "1108",
     "name": "幸福",
     "market": "TWSE",
-    "foreign_ratio": 1.28,
+    "foreign_ratio": 1.26,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.07535738257215348,
-    "three_inst_ratio": 1.2046426174278466,
-    "three_inst_ratio_change_20": -0.10827048630162261
+    "three_inst_ratio": 1.1846426174278466,
+    "three_inst_ratio_change_20": -0.12827048630162263
   }
 ]

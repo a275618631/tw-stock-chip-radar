@@ -2732,10 +2732,10 @@
     "code": "8033",
     "name": "雷虎",
     "market": "TWSE",
-    "foreign_ratio": 3.75,
+    "foreign_ratio": 3.52,
     "trust_ratio": 0.24053972010834612,
     "dealer_ratio": -2.1321793096054464,
-    "three_inst_ratio": 1.8583604105029,
-    "three_inst_ratio_change_20": -3.0825858019911636
+    "three_inst_ratio": 1.6283604105028995,
+    "three_inst_ratio_change_20": -3.312585801991164
   }
 ]

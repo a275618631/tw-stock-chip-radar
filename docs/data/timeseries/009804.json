@@ -1280,10 +1280,10 @@
     "code": "009804",
     "name": "聯邦台精彩50",
     "market": "TWSE",
-    "foreign_ratio": 1.44,
+    "foreign_ratio": 1.33,
     "trust_ratio": 0.0,
     "dealer_ratio": -30.005633052994767,
-    "three_inst_ratio": -28.565633052994766,
-    "three_inst_ratio_change_20": 0.7284333954169213
+    "three_inst_ratio": -28.67563305299477,
+    "three_inst_ratio_change_20": 0.6184333954169183
   }
 ]

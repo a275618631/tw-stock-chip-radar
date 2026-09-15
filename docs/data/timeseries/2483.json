@@ -2765,10 +2765,10 @@
     "code": "2483",
     "name": "百容",
     "market": "TWSE",
-    "foreign_ratio": 5.4,
+    "foreign_ratio": 5.36,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.05359357070682312,
-    "three_inst_ratio": 5.453593570706824,
-    "three_inst_ratio_change_20": -0.14629251352724992
+    "three_inst_ratio": 5.413593570706824,
+    "three_inst_ratio_change_20": -0.18629251352724996
   }
 ]

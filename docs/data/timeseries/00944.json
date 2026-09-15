@@ -2732,10 +2732,10 @@
     "code": "00944",
     "name": "野村趨勢動能高息",
     "market": "TWSE",
-    "foreign_ratio": 0.99,
+    "foreign_ratio": 0.66,
     "trust_ratio": 0.0,
     "dealer_ratio": 126.87044705261769,
-    "three_inst_ratio": 127.86044705261769,
-    "three_inst_ratio_change_20": 2.8319604622218435
+    "three_inst_ratio": 127.53044705261769,
+    "three_inst_ratio_change_20": 2.501960462221845
   }
 ]

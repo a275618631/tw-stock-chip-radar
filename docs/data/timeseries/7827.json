@@ -840,10 +840,10 @@
     "code": "7827",
     "name": "漢康-KY創",
     "market": "TWSE",
-    "foreign_ratio": 24.87,
+    "foreign_ratio": 24.85,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.004958248957920691,
-    "three_inst_ratio": 24.87495824895792,
-    "three_inst_ratio_change_20": 0.3978950910162098
+    "three_inst_ratio": 24.85495824895792,
+    "three_inst_ratio_change_20": 0.3778950910162102
   }
 ]

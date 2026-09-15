@@ -2732,10 +2732,10 @@
     "code": "6834",
     "name": "天二科技",
     "market": "TWSE",
-    "foreign_ratio": 13.32,
+    "foreign_ratio": 13.18,
     "trust_ratio": 0.18198036732499778,
     "dealer_ratio": 0.3764597340405535,
-    "three_inst_ratio": 13.878440101365552,
-    "three_inst_ratio_change_20": 1.1813880537823636
+    "three_inst_ratio": 13.738440101365551,
+    "three_inst_ratio_change_20": 1.041388053782363
   }
 ]

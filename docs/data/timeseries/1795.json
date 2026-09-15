@@ -2732,10 +2732,10 @@
     "code": "1795",
     "name": "美時",
     "market": "TWSE",
-    "foreign_ratio": 49.4,
+    "foreign_ratio": 49.49,
     "trust_ratio": -0.09036524202311196,
     "dealer_ratio": -0.08096544455813524,
-    "three_inst_ratio": 49.22866931341875,
-    "three_inst_ratio_change_20": -2.7985983814722033
+    "three_inst_ratio": 49.31866931341875,
+    "three_inst_ratio_change_20": -2.7085983814722
   }
 ]

@@ -2732,10 +2732,10 @@
     "code": "6901",
     "name": "鑽石投資",
     "market": "TWSE",
-    "foreign_ratio": 0.76,
+    "foreign_ratio": 0.78,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.032967896254953916,
-    "three_inst_ratio": 0.7929678962549539,
-    "three_inst_ratio_change_20": -0.08425462561264452
+    "three_inst_ratio": 0.8129678962549539,
+    "three_inst_ratio_change_20": -0.0642546256126445
   }
 ]

@@ -2732,10 +2732,10 @@
     "code": "3043",
     "name": "科風",
     "market": "TWSE",
-    "foreign_ratio": 2.06,
+    "foreign_ratio": 2.19,
     "trust_ratio": 0.017959938765845347,
     "dealer_ratio": 0.0644761801693848,
-    "three_inst_ratio": 2.14243611893523,
-    "three_inst_ratio_change_20": 0.11795993876584543
+    "three_inst_ratio": 2.27243611893523,
+    "three_inst_ratio_change_20": 0.24795993876584532
   }
 ]

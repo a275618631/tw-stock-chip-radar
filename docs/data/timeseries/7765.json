@@ -2732,10 +2732,10 @@
     "code": "7765",
     "name": "中華資安",
     "market": "TWSE",
-    "foreign_ratio": 0.53,
+    "foreign_ratio": 0.44,
     "trust_ratio": -0.0139696664290455,
     "dealer_ratio": -0.694491285858263,
-    "three_inst_ratio": -0.17846095228730852,
-    "three_inst_ratio_change_20": -0.10570290799144555
+    "three_inst_ratio": -0.26846095228730854,
+    "three_inst_ratio_change_20": -0.19570290799144557
   }
 ]

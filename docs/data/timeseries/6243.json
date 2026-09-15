@@ -2765,10 +2765,10 @@
     "code": "6243",
     "name": "迅杰",
     "market": "TWSE",
-    "foreign_ratio": 1.7,
+    "foreign_ratio": 1.59,
     "trust_ratio": 0.0,
     "dealer_ratio": -1.2987653030480721,
-    "three_inst_ratio": 0.4012346969519278,
-    "three_inst_ratio_change_20": 0.01278337145852726
+    "three_inst_ratio": 0.29123469695192794,
+    "three_inst_ratio_change_20": -0.09721662854147262
   }
 ]

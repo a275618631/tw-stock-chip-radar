@@ -2193,10 +2193,10 @@
     "code": "6831",
     "name": "邁科",
     "market": "TWSE",
-    "foreign_ratio": 14.25,
+    "foreign_ratio": 14.18,
     "trust_ratio": 2.8697733333333333,
     "dealer_ratio": 0.1743911111111111,
-    "three_inst_ratio": 17.294164444444444,
-    "three_inst_ratio_change_20": -3.350482962962964
+    "three_inst_ratio": 17.224164444444444,
+    "three_inst_ratio_change_20": -3.4204829629629643
   }
 ]

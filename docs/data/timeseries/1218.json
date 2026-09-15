@@ -2754,10 +2754,10 @@
     "code": "1218",
     "name": "泰山",
     "market": "TWSE",
-    "foreign_ratio": 2.98,
+    "foreign_ratio": 2.97,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.023158444556847325,
-    "three_inst_ratio": 2.9568415554431526,
-    "three_inst_ratio_change_20": 0.02289898633764942
+    "three_inst_ratio": 2.946841555443153,
+    "three_inst_ratio_change_20": 0.012898986337649632
   }
 ]

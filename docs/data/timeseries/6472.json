@@ -2732,10 +2732,10 @@
     "code": "6472",
     "name": "保瑞",
     "market": "TWSE",
-    "foreign_ratio": 10.73,
+    "foreign_ratio": 10.8,
     "trust_ratio": -0.09127316615175175,
     "dealer_ratio": -0.4252330607662217,
-    "three_inst_ratio": 10.213493773082028,
-    "three_inst_ratio_change_20": 0.6970652827510939
+    "three_inst_ratio": 10.283493773082029,
+    "three_inst_ratio_change_20": 0.7670652827510942
   }
 ]

@@ -1742,10 +1742,10 @@
     "code": "00995A",
     "name": "主動中信台灣卓越",
     "market": "TWSE",
-    "foreign_ratio": 1.21,
+    "foreign_ratio": 0.86,
     "trust_ratio": 0.0,
     "dealer_ratio": -33.37848810592048,
-    "three_inst_ratio": -32.16848810592048,
-    "three_inst_ratio_change_20": -3.9811960005221536
+    "three_inst_ratio": -32.51848810592048,
+    "three_inst_ratio_change_20": -4.331196000522155
   }
 ]

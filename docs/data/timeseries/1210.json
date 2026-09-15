@@ -2765,10 +2765,10 @@
     "code": "1210",
     "name": "大成",
     "market": "TWSE",
-    "foreign_ratio": 7.64,
+    "foreign_ratio": 7.63,
     "trust_ratio": 2.2545727541190597,
     "dealer_ratio": 0.0280076196175188,
-    "three_inst_ratio": 9.922580373736578,
-    "three_inst_ratio_change_20": 0.07606759915485561
+    "three_inst_ratio": 9.912580373736578,
+    "three_inst_ratio_change_20": 0.06606759915485583
   }
 ]

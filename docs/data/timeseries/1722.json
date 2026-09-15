@@ -2765,10 +2765,10 @@
     "code": "1722",
     "name": "台肥",
     "market": "TWSE",
-    "foreign_ratio": 7.89,
+    "foreign_ratio": 7.93,
     "trust_ratio": -0.9358587755102041,
     "dealer_ratio": -0.05329908163265306,
-    "three_inst_ratio": 6.900842142857143,
-    "three_inst_ratio_change_20": -0.46293918367346976
+    "three_inst_ratio": 6.940842142857143,
+    "three_inst_ratio_change_20": -0.4229391836734697
   }
 ]

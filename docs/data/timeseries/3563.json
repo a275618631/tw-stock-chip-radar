@@ -2732,10 +2732,10 @@
     "code": "3563",
     "name": "牧德",
     "market": "TWSE",
-    "foreign_ratio": 6.94,
+    "foreign_ratio": 6.93,
     "trust_ratio": 1.6890470731333842,
     "dealer_ratio": -0.24344576490828188,
-    "three_inst_ratio": 8.385601308225104,
-    "three_inst_ratio_change_20": -0.41601090623268355
+    "three_inst_ratio": 8.375601308225102,
+    "three_inst_ratio_change_20": -0.4260109062326851
   }
 ]

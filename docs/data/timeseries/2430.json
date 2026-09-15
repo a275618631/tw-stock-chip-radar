@@ -2765,10 +2765,10 @@
     "code": "2430",
     "name": "燦坤",
     "market": "TWSE",
-    "foreign_ratio": 2.82,
+    "foreign_ratio": 2.8,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0033356164383561643,
-    "three_inst_ratio": 2.823335616438356,
-    "three_inst_ratio_change_20": 0.018561643835616426
+    "three_inst_ratio": 2.803335616438356,
+    "three_inst_ratio_change_20": -0.0014383561643835918
   }
 ]

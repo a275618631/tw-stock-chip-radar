@@ -2765,10 +2765,10 @@
     "code": "2820",
     "name": "華票",
     "market": "TWSE",
-    "foreign_ratio": 10.38,
+    "foreign_ratio": 10.48,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.03296345386310836,
-    "three_inst_ratio": 10.412963453863108,
-    "three_inst_ratio_change_20": 1.0841308750819074
+    "three_inst_ratio": 10.512963453863108,
+    "three_inst_ratio_change_20": 1.184130875081907
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "2228",
     "name": "劍麟",
     "market": "TWSE",
-    "foreign_ratio": 3.78,
+    "foreign_ratio": 3.8,
     "trust_ratio": -0.12409173001068995,
     "dealer_ratio": -0.09804500122662795,
-    "three_inst_ratio": 3.5578632687626817,
-    "three_inst_ratio_change_20": 0.03414015135581083
+    "three_inst_ratio": 3.5778632687626817,
+    "three_inst_ratio_change_20": 0.05414015135581085
   }
 ]

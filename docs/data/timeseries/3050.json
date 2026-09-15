@@ -2765,10 +2765,10 @@
     "code": "3050",
     "name": "鈺德",
     "market": "TWSE",
-    "foreign_ratio": 5.83,
+    "foreign_ratio": 5.88,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.08557310104336274,
-    "three_inst_ratio": 5.915573101043363,
-    "three_inst_ratio_change_20": 0.5587095479578768
+    "three_inst_ratio": 5.965573101043363,
+    "three_inst_ratio_change_20": 0.6087095479578766
   }
 ]

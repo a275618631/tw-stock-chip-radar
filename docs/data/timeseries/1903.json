@@ -2765,10 +2765,10 @@
     "code": "1903",
     "name": "士紙",
     "market": "TWSE",
-    "foreign_ratio": 10.87,
+    "foreign_ratio": 10.84,
     "trust_ratio": 0.0006445184069053979,
     "dealer_ratio": 0.003850574467985531,
-    "three_inst_ratio": 10.874495092874891,
-    "three_inst_ratio_change_20": -0.0694646959293479
+    "three_inst_ratio": 10.844495092874892,
+    "three_inst_ratio_change_20": -0.09946469592934726
   }
 ]

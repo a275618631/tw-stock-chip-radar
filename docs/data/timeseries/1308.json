@@ -2765,10 +2765,10 @@
     "code": "1308",
     "name": "亞聚",
     "market": "TWSE",
-    "foreign_ratio": 5.25,
+    "foreign_ratio": 5.18,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.09103318496471204,
-    "three_inst_ratio": 5.341033184964712,
-    "three_inst_ratio_change_20": 0.24081550308896738
+    "three_inst_ratio": 5.271033184964712,
+    "three_inst_ratio_change_20": 0.1708155030889671
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "3005",
     "name": "神基",
     "market": "TWSE",
-    "foreign_ratio": 15.27,
+    "foreign_ratio": 15.17,
     "trust_ratio": -9.079064628374214,
     "dealer_ratio": 0.1907507029959388,
-    "three_inst_ratio": 6.381686074621725,
-    "three_inst_ratio_change_20": 0.3618945927757222
+    "three_inst_ratio": 6.281686074621725,
+    "three_inst_ratio_change_20": 0.2618945927757226
   }
 ]

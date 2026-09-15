@@ -1863,10 +1863,10 @@
     "code": "00994A",
     "name": "主動第一金台股優",
     "market": "TWSE",
-    "foreign_ratio": 3.08,
+    "foreign_ratio": 2.29,
     "trust_ratio": 0.0,
-    "dealer_ratio": -62.06555472849753,
-    "three_inst_ratio": -58.98555472849753,
-    "three_inst_ratio_change_20": -2.908435371828972
+    "dealer_ratio": -62.297410811012746,
+    "three_inst_ratio": -60.00741081101275,
+    "three_inst_ratio_change_20": -3.930291454344186
   }
 ]

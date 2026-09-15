@@ -2765,10 +2765,10 @@
     "code": "00643",
     "name": "群益深証中小",
     "market": "TWSE",
-    "foreign_ratio": 16.31,
+    "foreign_ratio": 16.32,
     "trust_ratio": 0.0,
     "dealer_ratio": 46.28589575603768,
-    "three_inst_ratio": 62.59589575603768,
-    "three_inst_ratio_change_20": -0.43965477290595345
+    "three_inst_ratio": 62.60589575603768,
+    "three_inst_ratio_change_20": -0.42965477290594833
   }
 ]

@@ -2633,10 +2633,10 @@
     "code": "6201",
     "name": "亞弘電",
     "market": "TWSE",
-    "foreign_ratio": 1.15,
+    "foreign_ratio": 1.14,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.013053811659192826,
-    "three_inst_ratio": 1.1630538116591926,
-    "three_inst_ratio_change_20": -0.013363228699551755
+    "three_inst_ratio": 1.1530538116591926,
+    "three_inst_ratio_change_20": -0.023363228699551764
   }
 ]

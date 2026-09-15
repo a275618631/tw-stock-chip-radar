@@ -2732,10 +2732,10 @@
     "code": "4540",
     "name": "全球傳動",
     "market": "TWSE",
-    "foreign_ratio": 3.5,
+    "foreign_ratio": 3.73,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.3668287327973665,
-    "three_inst_ratio": 3.1331712672026333,
-    "three_inst_ratio_change_20": -1.4167287896823941
+    "three_inst_ratio": 3.3631712672026337,
+    "three_inst_ratio_change_20": -1.1867287896823937
   }
 ]

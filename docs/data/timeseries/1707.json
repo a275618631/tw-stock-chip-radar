@@ -2765,10 +2765,10 @@
     "code": "1707",
     "name": "葡萄王",
     "market": "TWSE",
-    "foreign_ratio": 12.79,
+    "foreign_ratio": 12.73,
     "trust_ratio": 0.43608171720447614,
     "dealer_ratio": -0.39627474695396414,
-    "three_inst_ratio": 12.829806970250512,
-    "three_inst_ratio_change_20": -2.0870918884865066
+    "three_inst_ratio": 12.769806970250514,
+    "three_inst_ratio_change_20": -2.1470918884865053
   }
 ]

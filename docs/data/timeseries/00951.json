@@ -2732,10 +2732,10 @@
     "code": "00951",
     "name": "台新日本半導體",
     "market": "TWSE",
-    "foreign_ratio": 0.44,
+    "foreign_ratio": 0.7,
     "trust_ratio": 0.0,
-    "dealer_ratio": 15.857455547166055,
-    "three_inst_ratio": 16.297455547166056,
-    "three_inst_ratio_change_20": -7.0682115152597405
+    "dealer_ratio": 15.79194024177622,
+    "three_inst_ratio": 16.49194024177622,
+    "three_inst_ratio_change_20": -6.873726820649576
   }
 ]

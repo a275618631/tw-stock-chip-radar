@@ -2765,10 +2765,10 @@
     "code": "2020",
     "name": "美亞",
     "market": "TWSE",
-    "foreign_ratio": 1.97,
+    "foreign_ratio": 1.96,
     "trust_ratio": 3.744879065122399e-07,
     "dealer_ratio": 0.023648162320434922,
-    "three_inst_ratio": 1.9936485368083414,
-    "three_inst_ratio_change_20": 0.27246927439073443
+    "three_inst_ratio": 1.9836485368083414,
+    "three_inst_ratio_change_20": 0.2624692743907344
   }
 ]

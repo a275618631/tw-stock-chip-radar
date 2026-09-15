@@ -2732,10 +2732,10 @@
     "code": "3701",
     "name": "大眾控",
     "market": "TWSE",
-    "foreign_ratio": 4.7,
+    "foreign_ratio": 4.65,
     "trust_ratio": -0.0008451741670690259,
     "dealer_ratio": 0.07818030080221904,
-    "three_inst_ratio": 4.77733512663515,
-    "three_inst_ratio_change_20": 0.11365664603382442
+    "three_inst_ratio": 4.72733512663515,
+    "three_inst_ratio_change_20": 0.0636566460338246
   }
 ]

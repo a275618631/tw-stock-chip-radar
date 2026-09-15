@@ -1973,10 +1973,10 @@
     "code": "6272",
     "name": "驊陞",
     "market": "TWSE",
-    "foreign_ratio": 1.87,
+    "foreign_ratio": 1.89,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.06499319235416567,
-    "three_inst_ratio": 1.8050068076458343,
-    "three_inst_ratio_change_20": -0.6363309012426845
+    "three_inst_ratio": 1.8250068076458343,
+    "three_inst_ratio_change_20": -0.6163309012426845
   }
 ]

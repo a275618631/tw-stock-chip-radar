@@ -2765,10 +2765,10 @@
     "code": "2455",
     "name": "全新",
     "market": "TWSE",
-    "foreign_ratio": 33.78,
+    "foreign_ratio": 33.71,
     "trust_ratio": 1.6035998371885531,
     "dealer_ratio": 0.7922931920437505,
-    "three_inst_ratio": 36.175893029232306,
-    "three_inst_ratio_change_20": 9.673439836793108
+    "three_inst_ratio": 36.105893029232305,
+    "three_inst_ratio_change_20": 9.603439836793108
   }
 ]

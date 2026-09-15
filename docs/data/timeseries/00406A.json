@@ -741,10 +741,10 @@
     "code": "00406A",
     "name": "主動中信台灣收益",
     "market": "TWSE",
-    "foreign_ratio": 1.24,
+    "foreign_ratio": 1.14,
     "trust_ratio": 0.0,
-    "dealer_ratio": -76.91097018324433,
-    "three_inst_ratio": -75.67097018324434,
-    "three_inst_ratio_change_20": -16.109933053660654
+    "dealer_ratio": -75.9677869416514,
+    "three_inst_ratio": -74.8277869416514,
+    "three_inst_ratio_change_20": -15.266749812067715
   }
 ]

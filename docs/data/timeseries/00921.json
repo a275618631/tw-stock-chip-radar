@@ -2732,10 +2732,10 @@
     "code": "00921",
     "name": "兆豐龍頭等權重",
     "market": "TWSE",
-    "foreign_ratio": 0.29,
+    "foreign_ratio": 0.28,
     "trust_ratio": 0.0,
-    "dealer_ratio": 85.13291351065703,
-    "three_inst_ratio": 85.42291351065704,
-    "three_inst_ratio_change_20": -14.294840734367597
+    "dealer_ratio": 84.38965426925091,
+    "three_inst_ratio": 84.66965426925091,
+    "three_inst_ratio_change_20": -15.048099975773724
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "2492",
     "name": "華新科",
     "market": "TWSE",
-    "foreign_ratio": 12.37,
+    "foreign_ratio": 12.72,
     "trust_ratio": 4.88024773639181,
     "dealer_ratio": 0.42003337749516867,
-    "three_inst_ratio": 17.67028111388698,
-    "three_inst_ratio_change_20": -3.751218494812253
+    "three_inst_ratio": 18.02028111388698,
+    "three_inst_ratio_change_20": -3.4012184948122517
   }
 ]

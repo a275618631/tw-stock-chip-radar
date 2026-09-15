@@ -2765,10 +2765,10 @@
     "code": "6214",
     "name": "精誠",
     "market": "TWSE",
-    "foreign_ratio": 16.65,
+    "foreign_ratio": 17.06,
     "trust_ratio": 1.3501868216544402,
     "dealer_ratio": 0.04679421293323224,
-    "three_inst_ratio": 18.04698103458767,
-    "three_inst_ratio_change_20": 2.1941042801802677
+    "three_inst_ratio": 18.45698103458767,
+    "three_inst_ratio_change_20": 2.604104280180268
   }
 ]

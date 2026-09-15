@@ -2765,10 +2765,10 @@
     "code": "8222",
     "name": "寶一",
     "market": "TWSE",
-    "foreign_ratio": 2.17,
+    "foreign_ratio": 2.05,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.043579516868761256,
-    "three_inst_ratio": 2.2135795168687613,
-    "three_inst_ratio_change_20": -0.31333262849351406
+    "three_inst_ratio": 2.093579516868761,
+    "three_inst_ratio_change_20": -0.43333262849351417
   }
 ]

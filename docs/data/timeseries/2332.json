@@ -2765,10 +2765,10 @@
     "code": "2332",
     "name": "友訊",
     "market": "TWSE",
-    "foreign_ratio": 5.69,
+    "foreign_ratio": 5.57,
     "trust_ratio": 0.0546889970635916,
     "dealer_ratio": -0.07180213260899633,
-    "three_inst_ratio": 5.672886864454595,
-    "three_inst_ratio_change_20": -2.0111121574966226
+    "three_inst_ratio": 5.552886864454595,
+    "three_inst_ratio_change_20": -2.1311121574966227
   }
 ]

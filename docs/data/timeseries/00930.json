@@ -2732,10 +2732,10 @@
     "code": "00930",
     "name": "永豐ESG低碳高息",
     "market": "TWSE",
-    "foreign_ratio": 0.16,
+    "foreign_ratio": 0.15,
     "trust_ratio": 0.0,
-    "dealer_ratio": 112.53257152289558,
-    "three_inst_ratio": 112.69257152289558,
-    "three_inst_ratio_change_20": -12.610168520291523
+    "dealer_ratio": 111.280159372009,
+    "three_inst_ratio": 111.430159372009,
+    "three_inst_ratio_change_20": -13.872580671178099
   }
 ]

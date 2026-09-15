@@ -2765,10 +2765,10 @@
     "code": "4976",
     "name": "佳凌",
     "market": "TWSE",
-    "foreign_ratio": 2.7,
+    "foreign_ratio": 2.71,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.03671203387670127,
-    "three_inst_ratio": 2.7367120338767013,
-    "three_inst_ratio_change_20": -0.1787787656224178
+    "three_inst_ratio": 2.746712033876701,
+    "three_inst_ratio_change_20": -0.168778765622418
   }
 ]

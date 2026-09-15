@@ -2765,10 +2765,10 @@
     "code": "8150",
     "name": "南茂",
     "market": "TWSE",
-    "foreign_ratio": 37.41,
+    "foreign_ratio": 37.0,
     "trust_ratio": 0.9881796271936715,
     "dealer_ratio": 0.06200591348650775,
-    "three_inst_ratio": 38.46018554068018,
-    "three_inst_ratio_change_20": 1.5015019292070733
+    "three_inst_ratio": 38.05018554068018,
+    "three_inst_ratio_change_20": 1.0915019292070767
   }
 ]

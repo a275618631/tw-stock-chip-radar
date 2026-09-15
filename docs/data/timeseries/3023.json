@@ -2765,10 +2765,10 @@
     "code": "3023",
     "name": "信邦",
     "market": "TWSE",
-    "foreign_ratio": 42.28,
+    "foreign_ratio": 42.15,
     "trust_ratio": 4.85340228039592,
     "dealer_ratio": -0.2735804963151138,
-    "three_inst_ratio": 46.85982178408081,
-    "three_inst_ratio_change_20": 1.0062635802719626
+    "three_inst_ratio": 46.729821784080805,
+    "three_inst_ratio_change_20": 0.87626358027196
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "2812",
     "name": "台中銀",
     "market": "TWSE",
-    "foreign_ratio": 9.54,
+    "foreign_ratio": 9.45,
     "trust_ratio": -0.14938541903600028,
     "dealer_ratio": 0.020974277028415596,
-    "three_inst_ratio": 9.411588857992413,
-    "three_inst_ratio_change_20": 0.9733438860377692
+    "three_inst_ratio": 9.321588857992413,
+    "three_inst_ratio_change_20": 0.8833438860377694
   }
 ]

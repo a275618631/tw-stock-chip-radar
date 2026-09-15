@@ -2765,10 +2765,10 @@
     "code": "2480",
     "name": "敦陽科",
     "market": "TWSE",
-    "foreign_ratio": 11.68,
+    "foreign_ratio": 11.88,
     "trust_ratio": -0.16591624406142327,
     "dealer_ratio": 0.06590147445158832,
-    "three_inst_ratio": 11.579985230390164,
-    "three_inst_ratio_change_20": 0.5172780100799077
+    "three_inst_ratio": 11.779985230390166,
+    "three_inst_ratio_change_20": 0.7172780100799088
   }
 ]

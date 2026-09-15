@@ -2732,10 +2732,10 @@
     "code": "8476",
     "name": "台境*",
     "market": "TWSE",
-    "foreign_ratio": 1.36,
+    "foreign_ratio": 1.33,
     "trust_ratio": 0.18710811193974425,
     "dealer_ratio": -0.013428676576069843,
-    "three_inst_ratio": 1.5336794353636745,
-    "three_inst_ratio_change_20": -0.1236095358595295
+    "three_inst_ratio": 1.5036794353636744,
+    "three_inst_ratio_change_20": -0.15360953585952952
   }
 ]

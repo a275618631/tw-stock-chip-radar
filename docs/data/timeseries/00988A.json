@@ -2347,10 +2347,10 @@
     "code": "00988A",
     "name": "主動統一全球創新",
     "market": "TWSE",
-    "foreign_ratio": 1.82,
-    "trust_ratio": 0.020506812106646677,
-    "dealer_ratio": -65.95534400958819,
-    "three_inst_ratio": -64.11483719748153,
-    "three_inst_ratio_change_20": -4.249399978236788
+    "foreign_ratio": 1.52,
+    "trust_ratio": 0.02059695372310347,
+    "dealer_ratio": -66.2452633442985,
+    "three_inst_ratio": -64.70466639057538,
+    "three_inst_ratio_change_20": -4.839229171330636
   }
 ]

@@ -2732,10 +2732,10 @@
     "code": "00733",
     "name": "富邦臺灣中小",
     "market": "TWSE",
-    "foreign_ratio": 3.49,
+    "foreign_ratio": 3.35,
     "trust_ratio": -0.37311247339834197,
     "dealer_ratio": 92.80111806371693,
-    "three_inst_ratio": 95.91800559031859,
-    "three_inst_ratio_change_20": 3.5975579715641572
+    "three_inst_ratio": 95.77800559031859,
+    "three_inst_ratio_change_20": 3.4575579715641567
   }
 ]

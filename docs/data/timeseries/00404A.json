@@ -763,10 +763,10 @@
     "code": "00404A",
     "name": "主動聯博動能50",
     "market": "TWSE",
-    "foreign_ratio": 0.59,
+    "foreign_ratio": 0.35,
     "trust_ratio": 0.0,
-    "dealer_ratio": -44.931323414252155,
-    "three_inst_ratio": -44.34132341425215,
-    "three_inst_ratio_change_20": -21.806511898244214
+    "dealer_ratio": -43.65572059641831,
+    "three_inst_ratio": -43.30572059641831,
+    "three_inst_ratio_change_20": -20.770909080410373
   }
 ]

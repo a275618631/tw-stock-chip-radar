@@ -2688,10 +2688,10 @@
     "code": "1324",
     "name": "地球",
     "market": "TWSE",
-    "foreign_ratio": 0.96,
+    "foreign_ratio": 0.99,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.013910727103455688,
-    "three_inst_ratio": 0.9739107271034556,
-    "three_inst_ratio_change_20": 0.030599026525986006
+    "three_inst_ratio": 1.0039107271034557,
+    "three_inst_ratio_change_20": 0.060599026525986144
   }
 ]

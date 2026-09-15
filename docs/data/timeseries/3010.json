@@ -2765,10 +2765,10 @@
     "code": "3010",
     "name": "華立",
     "market": "TWSE",
-    "foreign_ratio": 19.64,
+    "foreign_ratio": 19.54,
     "trust_ratio": -3.5433960785912664,
     "dealer_ratio": -0.04844956142057509,
-    "three_inst_ratio": 16.04815435998816,
-    "three_inst_ratio_change_20": -0.4073905014414372
+    "three_inst_ratio": 15.948154359988157,
+    "three_inst_ratio_change_20": -0.5073905014414404
   }
 ]

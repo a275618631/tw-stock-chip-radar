@@ -2765,10 +2765,10 @@
     "code": "00676R",
     "name": "富邦臺灣加權反1",
     "market": "TWSE",
-    "foreign_ratio": 0.53,
+    "foreign_ratio": 0.5,
     "trust_ratio": 0.0,
     "dealer_ratio": -31.6261874259409,
-    "three_inst_ratio": -31.096187425940897,
-    "three_inst_ratio_change_20": 1.1616591677480557
+    "three_inst_ratio": -31.1261874259409,
+    "three_inst_ratio_change_20": 1.1316591677480545
   }
 ]

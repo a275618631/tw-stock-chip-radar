@@ -2765,10 +2765,10 @@
     "code": "4960",
     "name": "誠美材",
     "market": "TWSE",
-    "foreign_ratio": 19.32,
+    "foreign_ratio": 19.33,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.15397441033037806,
-    "three_inst_ratio": 19.473974410330378,
-    "three_inst_ratio_change_20": 0.321127248218275
+    "three_inst_ratio": 19.483974410330376,
+    "three_inst_ratio_change_20": 0.331127248218273
   }
 ]

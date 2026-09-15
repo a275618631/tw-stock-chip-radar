@@ -2732,10 +2732,10 @@
     "code": "6756",
     "name": "威鋒電子",
     "market": "TWSE",
-    "foreign_ratio": 3.98,
+    "foreign_ratio": 3.95,
     "trust_ratio": -0.014389198456922419,
     "dealer_ratio": 0.07373053293327618,
-    "three_inst_ratio": 4.039341334476354,
-    "three_inst_ratio_change_20": 0.20401628804114846
+    "three_inst_ratio": 4.009341334476354,
+    "three_inst_ratio_change_20": 0.1740162880411491
   }
 ]

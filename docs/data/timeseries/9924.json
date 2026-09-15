@@ -2699,10 +2699,10 @@
     "code": "9924",
     "name": "福興",
     "market": "TWSE",
-    "foreign_ratio": 10.47,
+    "foreign_ratio": 10.4,
     "trust_ratio": -0.23912367260085146,
     "dealer_ratio": -0.0021676587751682562,
-    "three_inst_ratio": 10.228708668623982,
-    "three_inst_ratio_change_20": 0.04775020738684077
+    "three_inst_ratio": 10.158708668623982,
+    "three_inst_ratio_change_20": -0.022249792613159514
   }
 ]

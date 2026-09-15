@@ -2765,10 +2765,10 @@
     "code": "00661",
     "name": "元大日經225",
     "market": "TWSE",
-    "foreign_ratio": 7.75,
+    "foreign_ratio": 6.69,
     "trust_ratio": 0.0,
     "dealer_ratio": -11.121191035218784,
-    "three_inst_ratio": -3.371191035218784,
-    "three_inst_ratio_change_20": 1.3271440768409803
+    "three_inst_ratio": -4.4311910352187835,
+    "three_inst_ratio_change_20": 0.26714407684098074
   }
 ]

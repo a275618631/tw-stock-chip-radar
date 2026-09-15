@@ -1940,10 +1940,10 @@
     "code": "1341",
     "name": "富林-KY",
     "market": "TWSE",
-    "foreign_ratio": 80.01,
+    "foreign_ratio": 80.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.011345180835484395,
-    "three_inst_ratio": 80.0213451808355,
-    "three_inst_ratio_change_20": 0.011892124889186562
+    "three_inst_ratio": 80.01134518083549,
+    "three_inst_ratio_change_20": 0.0018921248891814457
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "1604",
     "name": "聲寶",
     "market": "TWSE",
-    "foreign_ratio": 8.43,
+    "foreign_ratio": 8.41,
     "trust_ratio": 0.0015616866215512754,
     "dealer_ratio": -0.3676376887038001,
-    "three_inst_ratio": 8.063923997917751,
-    "three_inst_ratio_change_20": 0.04542425819885487
+    "three_inst_ratio": 8.043923997917751,
+    "three_inst_ratio_change_20": 0.0254242581988553
   }
 ]

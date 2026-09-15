@@ -2490,10 +2490,10 @@
     "code": "7788",
     "name": "松川精密",
     "market": "TWSE",
-    "foreign_ratio": 8.73,
+    "foreign_ratio": 8.48,
     "trust_ratio": 0.0070661857580731355,
     "dealer_ratio": 0.369282504263255,
-    "three_inst_ratio": 9.10634869002133,
-    "three_inst_ratio_change_20": -0.9751333021835968
+    "three_inst_ratio": 8.85634869002133,
+    "three_inst_ratio_change_20": -1.2251333021835968
   }
 ]

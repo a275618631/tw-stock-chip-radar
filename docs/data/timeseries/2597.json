@@ -2765,10 +2765,10 @@
     "code": "2597",
     "name": "潤弘",
     "market": "TWSE",
-    "foreign_ratio": 2.39,
+    "foreign_ratio": 2.38,
     "trust_ratio": 4.573123366675678,
     "dealer_ratio": 0.06860573642812086,
-    "three_inst_ratio": 7.031729103103799,
-    "three_inst_ratio_change_20": 0.30863849946574984
+    "three_inst_ratio": 7.021729103103799,
+    "three_inst_ratio_change_20": 0.29863849946575005
   }
 ]

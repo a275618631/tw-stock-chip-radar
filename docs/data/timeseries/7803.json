@@ -906,10 +906,10 @@
     "code": "7803",
     "name": "雲象科技-創",
     "market": "TWSE",
-    "foreign_ratio": 2.89,
+    "foreign_ratio": 2.88,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.01631345076532348,
-    "three_inst_ratio": 2.8736865492346766,
-    "three_inst_ratio_change_20": 0.060261310934583534
+    "three_inst_ratio": 2.8636865492346764,
+    "three_inst_ratio_change_20": 0.0502613109345833
   }
 ]

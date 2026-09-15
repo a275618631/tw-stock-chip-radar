@@ -2633,10 +2633,10 @@
     "code": "1423",
     "name": "利華",
     "market": "TWSE",
-    "foreign_ratio": 1.21,
+    "foreign_ratio": 1.24,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.01964314386640976,
-    "three_inst_ratio": 1.2296431438664097,
-    "three_inst_ratio_change_20": 0.05100353243416822
+    "three_inst_ratio": 1.2596431438664097,
+    "three_inst_ratio_change_20": 0.08100353243416825
   }
 ]

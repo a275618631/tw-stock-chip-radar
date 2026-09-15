@@ -2732,10 +2732,10 @@
     "code": "6861",
     "name": "睿生光電",
     "market": "TWSE",
-    "foreign_ratio": 3.33,
+    "foreign_ratio": 1.92,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.4031514991255852,
-    "three_inst_ratio": 3.733151499125585,
-    "three_inst_ratio_change_20": -0.9976106540382337
+    "three_inst_ratio": 2.323151499125585,
+    "three_inst_ratio_change_20": -2.407610654038234
   }
 ]

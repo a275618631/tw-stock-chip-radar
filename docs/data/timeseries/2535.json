@@ -2765,10 +2765,10 @@
     "code": "2535",
     "name": "達欣工",
     "market": "TWSE",
-    "foreign_ratio": 6.96,
+    "foreign_ratio": 6.94,
     "trust_ratio": -0.056500520190688006,
     "dealer_ratio": -0.3997596445714021,
-    "three_inst_ratio": 6.50373983523791,
-    "three_inst_ratio_change_20": -0.13566409701439142
+    "three_inst_ratio": 6.483739835237911,
+    "three_inst_ratio_change_20": -0.155664097014391
   }
 ]

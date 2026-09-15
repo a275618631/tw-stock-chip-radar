@@ -2765,10 +2765,10 @@
     "code": "5215",
     "name": "科嘉-KY",
     "market": "TWSE",
-    "foreign_ratio": 25.96,
+    "foreign_ratio": 25.87,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.048180299203419465,
-    "three_inst_ratio": 26.00818029920342,
-    "three_inst_ratio_change_20": -0.07709733825529241
+    "three_inst_ratio": 25.91818029920342,
+    "three_inst_ratio_change_20": -0.16709733825529227
   }
 ]

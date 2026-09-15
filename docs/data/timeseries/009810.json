@@ -1280,10 +1280,10 @@
     "code": "009810",
     "name": "玉山全球藍籌100",
     "market": "TWSE",
-    "foreign_ratio": 2.22,
+    "foreign_ratio": 2.24,
     "trust_ratio": 0.0,
     "dealer_ratio": 26.839177195363895,
-    "three_inst_ratio": 29.059177195363894,
-    "three_inst_ratio_change_20": 1.343255716821556
+    "three_inst_ratio": 29.079177195363897,
+    "three_inst_ratio_change_20": 1.363255716821559
   }
 ]

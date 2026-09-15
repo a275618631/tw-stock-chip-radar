@@ -2732,10 +2732,10 @@
     "code": "1597",
     "name": "直得",
     "market": "TWSE",
-    "foreign_ratio": 4.86,
+    "foreign_ratio": 5.0,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.12151558128939452,
-    "three_inst_ratio": 4.981515581289395,
-    "three_inst_ratio_change_20": -2.20691777773167
+    "three_inst_ratio": 5.121515581289395,
+    "three_inst_ratio_change_20": -2.0669177777316703
   }
 ]

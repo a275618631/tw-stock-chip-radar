@@ -2765,10 +2765,10 @@
     "code": "1463",
     "name": "強盛新",
     "market": "TWSE",
-    "foreign_ratio": 12.1,
+    "foreign_ratio": 12.19,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.005452812535946764,
-    "three_inst_ratio": 12.094547187464054,
-    "three_inst_ratio_change_20": 0.09230855738185717
+    "three_inst_ratio": 12.184547187464053,
+    "three_inst_ratio_change_20": 0.18230855738185703
   }
 ]

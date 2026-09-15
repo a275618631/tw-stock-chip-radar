@@ -2765,10 +2765,10 @@
     "code": "1104",
     "name": "環泥",
     "market": "TWSE",
-    "foreign_ratio": 14.2,
+    "foreign_ratio": 14.16,
     "trust_ratio": 0.023300456815941083,
     "dealer_ratio": -0.021556708878978093,
-    "three_inst_ratio": 14.201743747936963,
-    "three_inst_ratio_change_20": -0.5253418017989286
+    "three_inst_ratio": 14.161743747936963,
+    "three_inst_ratio_change_20": -0.5653418017989278
   }
 ]

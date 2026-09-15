@@ -1280,10 +1280,10 @@
     "code": "009808",
     "name": "華南永昌優選50",
     "market": "TWSE",
-    "foreign_ratio": 2.95,
+    "foreign_ratio": 2.92,
     "trust_ratio": 0.0,
     "dealer_ratio": 9.975614570249416,
-    "three_inst_ratio": 12.925614570249415,
-    "three_inst_ratio_change_20": 1.9218451068518494
+    "three_inst_ratio": 12.895614570249416,
+    "three_inst_ratio_change_20": 1.89184510685185
   }
 ]

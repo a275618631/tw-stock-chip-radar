@@ -2765,10 +2765,10 @@
     "code": "1513",
     "name": "中興電",
     "market": "TWSE",
-    "foreign_ratio": 12.82,
+    "foreign_ratio": 12.79,
     "trust_ratio": 6.337714139351116,
     "dealer_ratio": 0.058776713197046984,
-    "three_inst_ratio": 19.216490852548162,
-    "three_inst_ratio_change_20": -0.3663495195503117
+    "three_inst_ratio": 19.18649085254816,
+    "three_inst_ratio_change_20": -0.39634951955031283
   }
 ]

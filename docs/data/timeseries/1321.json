@@ -2765,10 +2765,10 @@
     "code": "1321",
     "name": "大洋",
     "market": "TWSE",
-    "foreign_ratio": 6.89,
+    "foreign_ratio": 6.88,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.050713320580342586,
-    "three_inst_ratio": 6.940713320580342,
-    "three_inst_ratio_change_20": 0.0379466345270032
+    "three_inst_ratio": 6.930713320580343,
+    "three_inst_ratio_change_20": 0.02794663452700341
   }
 ]

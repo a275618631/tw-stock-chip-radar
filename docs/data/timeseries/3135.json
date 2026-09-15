@@ -2732,10 +2732,10 @@
     "code": "3135",
     "name": "凌航",
     "market": "TWSE",
-    "foreign_ratio": 1.07,
+    "foreign_ratio": 0.92,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.8555611952091838,
-    "three_inst_ratio": 0.21443880479081623,
-    "three_inst_ratio_change_20": -1.1171362736746806
+    "three_inst_ratio": 0.0644388047908162,
+    "three_inst_ratio_change_20": -1.2671362736746805
   }
 ]

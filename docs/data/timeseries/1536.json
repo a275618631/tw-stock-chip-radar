@@ -2765,10 +2765,10 @@
     "code": "1536",
     "name": "和大",
     "market": "TWSE",
-    "foreign_ratio": 5.4,
+    "foreign_ratio": 5.31,
     "trust_ratio": -1.0398655951195328,
     "dealer_ratio": 0.6812221528362075,
-    "three_inst_ratio": 5.041356557716675,
-    "three_inst_ratio_change_20": -0.70001661205223
+    "three_inst_ratio": 4.951356557716674,
+    "three_inst_ratio_change_20": -0.7900166120522307
   }
 ]

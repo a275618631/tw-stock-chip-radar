@@ -2765,10 +2765,10 @@
     "code": "9925",
     "name": "新保",
     "market": "TWSE",
-    "foreign_ratio": 15.99,
+    "foreign_ratio": 15.95,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.018091065952595037,
-    "three_inst_ratio": 16.008091065952595,
-    "three_inst_ratio_change_20": -2.536169187557949
+    "three_inst_ratio": 15.968091065952594,
+    "three_inst_ratio_change_20": -2.5761691875579498
   }
 ]

@@ -2765,10 +2765,10 @@
     "code": "4958",
     "name": "臻鼎-KY",
     "market": "TWSE",
-    "foreign_ratio": 53.73,
+    "foreign_ratio": 53.59,
     "trust_ratio": 4.218981860454465,
     "dealer_ratio": 0.27214291222821796,
-    "three_inst_ratio": 58.22112477268268,
-    "three_inst_ratio_change_20": -0.2543921797675992
+    "three_inst_ratio": 58.081124772682685,
+    "three_inst_ratio_change_20": -0.39439217976759267
   }
 ]

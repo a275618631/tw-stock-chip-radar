@@ -2732,10 +2732,10 @@
     "code": "2646",
     "name": "星宇航空",
     "market": "TWSE",
-    "foreign_ratio": 3.1,
+    "foreign_ratio": 3.05,
     "trust_ratio": 0.011532188777010937,
     "dealer_ratio": 0.032051077944717635,
-    "three_inst_ratio": 3.1435832667217287,
-    "three_inst_ratio_change_20": -0.07494353939446308
+    "three_inst_ratio": 3.0935832667217285,
+    "three_inst_ratio_change_20": -0.12494353939446334
   }
 ]

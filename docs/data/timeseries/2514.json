@@ -2765,10 +2765,10 @@
     "code": "2514",
     "name": "龍邦",
     "market": "TWSE",
-    "foreign_ratio": 2.32,
+    "foreign_ratio": 2.31,
     "trust_ratio": 0.00030045909085061587,
     "dealer_ratio": 0.024989532192745023,
-    "three_inst_ratio": 2.3452899912835954,
-    "three_inst_ratio_change_20": 0.0718460753752348
+    "three_inst_ratio": 2.3352899912835956,
+    "three_inst_ratio_change_20": 0.06184607537523501
   }
 ]

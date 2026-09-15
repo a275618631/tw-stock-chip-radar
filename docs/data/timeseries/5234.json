@@ -2765,10 +2765,10 @@
     "code": "5234",
     "name": "達興材料",
     "market": "TWSE",
-    "foreign_ratio": 8.09,
+    "foreign_ratio": 8.07,
     "trust_ratio": -6.7546672491664905,
     "dealer_ratio": -0.17991273036560032,
-    "three_inst_ratio": 1.155420020467909,
-    "three_inst_ratio_change_20": -1.0439106050473534
+    "three_inst_ratio": 1.1354200204679095,
+    "three_inst_ratio_change_20": -1.063910605047353
   }
 ]

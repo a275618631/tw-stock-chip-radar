@@ -2732,10 +2732,10 @@
     "code": "00850",
     "name": "元大臺灣ESG永續",
     "market": "TWSE",
-    "foreign_ratio": 0.43,
+    "foreign_ratio": 0.37,
     "trust_ratio": 0.9238308893617431,
     "dealer_ratio": 6.442868593601063,
-    "three_inst_ratio": 7.796699482962806,
-    "three_inst_ratio_change_20": 0.4209702243573332
+    "three_inst_ratio": 7.736699482962806,
+    "three_inst_ratio_change_20": 0.3609702243573336
   }
 ]

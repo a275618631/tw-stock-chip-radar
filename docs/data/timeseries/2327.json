@@ -2765,10 +2765,10 @@
     "code": "2327",
     "name": "國巨*",
     "market": "TWSE",
-    "foreign_ratio": 44.99,
+    "foreign_ratio": 44.95,
     "trust_ratio": 5.010703371804986,
     "dealer_ratio": 0.44752458656700217,
-    "three_inst_ratio": 50.44822795837199,
-    "three_inst_ratio_change_20": -2.147588484968459
+    "three_inst_ratio": 50.40822795837199,
+    "three_inst_ratio_change_20": -2.187588484968458
   }
 ]

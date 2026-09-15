@@ -2765,10 +2765,10 @@
     "code": "2462",
     "name": "良得電",
     "market": "TWSE",
-    "foreign_ratio": 1.22,
+    "foreign_ratio": 1.19,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.0032808415921739215,
-    "three_inst_ratio": 1.216719158407826,
-    "three_inst_ratio_change_20": 0.11264815049071153
+    "three_inst_ratio": 1.186719158407826,
+    "three_inst_ratio_change_20": 0.0826481504907115
   }
 ]

@@ -2688,10 +2688,10 @@
     "code": "2832",
     "name": "台產",
     "market": "TWSE",
-    "foreign_ratio": 4.43,
+    "foreign_ratio": 4.46,
     "trust_ratio": 0.24028134701121256,
     "dealer_ratio": 1.0947337440820053,
-    "three_inst_ratio": 5.765015091093217,
-    "three_inst_ratio_change_20": -0.0811422469045171
+    "three_inst_ratio": 5.795015091093218,
+    "three_inst_ratio_change_20": -0.05114224690451685
   }
 ]

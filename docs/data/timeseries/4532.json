@@ -2765,10 +2765,10 @@
     "code": "4532",
     "name": "瑞智",
     "market": "TWSE",
-    "foreign_ratio": 18.07,
+    "foreign_ratio": 18.04,
     "trust_ratio": -0.27935455130436176,
     "dealer_ratio": 0.054261195410288,
-    "three_inst_ratio": 17.844906644105926,
-    "three_inst_ratio_change_20": 0.04117701709738952
+    "three_inst_ratio": 17.814906644105925,
+    "three_inst_ratio_change_20": 0.011177017097388386
   }
 ]

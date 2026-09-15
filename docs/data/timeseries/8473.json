@@ -2765,10 +2765,10 @@
     "code": "8473",
     "name": "山林水",
     "market": "TWSE",
-    "foreign_ratio": 3.1,
+    "foreign_ratio": 3.02,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.14090621319667887,
-    "three_inst_ratio": 2.9590937868033214,
-    "three_inst_ratio_change_20": -1.2045381210070039
+    "three_inst_ratio": 2.8790937868033213,
+    "three_inst_ratio_change_20": -1.284538121007004
   }
 ]

@@ -2721,10 +2721,10 @@
     "code": "2491",
     "name": "吉祥全",
     "market": "TWSE",
-    "foreign_ratio": 10.13,
+    "foreign_ratio": 10.09,
     "trust_ratio": 0.17315383864988781,
     "dealer_ratio": -0.5914679055701884,
-    "three_inst_ratio": 9.7116859330797,
-    "three_inst_ratio_change_20": 4.083174324456151
+    "three_inst_ratio": 9.6716859330797,
+    "three_inst_ratio_change_20": 4.043174324456152
   }
 ]

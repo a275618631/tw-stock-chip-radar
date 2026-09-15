@@ -2765,10 +2765,10 @@
     "code": "5880",
     "name": "合庫金",
     "market": "TWSE",
-    "foreign_ratio": 17.34,
+    "foreign_ratio": 17.32,
     "trust_ratio": 0.26586883252382904,
     "dealer_ratio": 0.3209897611781806,
-    "three_inst_ratio": 17.926858593702008,
-    "three_inst_ratio_change_20": 0.7611655515024509
+    "three_inst_ratio": 17.906858593702008,
+    "three_inst_ratio_change_20": 0.7411655515024513
   }
 ]

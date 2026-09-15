@@ -2732,10 +2732,10 @@
     "code": "3714",
     "name": "富采",
     "market": "TWSE",
-    "foreign_ratio": 14.29,
+    "foreign_ratio": 14.03,
     "trust_ratio": -0.11138635764733648,
     "dealer_ratio": 0.1851271307172939,
-    "three_inst_ratio": 14.363740773069956,
-    "three_inst_ratio_change_20": 1.3124097838462454
+    "three_inst_ratio": 14.103740773069957,
+    "three_inst_ratio_change_20": 1.0524097838462456
   }
 ]

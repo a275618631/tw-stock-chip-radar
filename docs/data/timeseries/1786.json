@@ -2765,10 +2765,10 @@
     "code": "1786",
     "name": "科妍",
     "market": "TWSE",
-    "foreign_ratio": 2.2,
+    "foreign_ratio": 2.18,
     "trust_ratio": 0.0,
     "dealer_ratio": -2.1010711803676934,
-    "three_inst_ratio": 0.09892881963230682,
-    "three_inst_ratio_change_20": -0.9421409613861809
+    "three_inst_ratio": 0.0789288196323068,
+    "three_inst_ratio_change_20": -0.9621409613861809
   }
 ]

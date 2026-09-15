@@ -2732,10 +2732,10 @@
     "code": "6862",
     "name": "三集瑞-KY",
     "market": "TWSE",
-    "foreign_ratio": 64.83,
+    "foreign_ratio": 64.8,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.189774,
-    "three_inst_ratio": 64.640226,
-    "three_inst_ratio_change_20": -0.0009440000000040527
+    "three_inst_ratio": 64.610226,
+    "three_inst_ratio_change_20": -0.03094400000000519
   }
 ]

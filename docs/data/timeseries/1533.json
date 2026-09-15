@@ -2765,10 +2765,10 @@
     "code": "1533",
     "name": "車王電",
     "market": "TWSE",
-    "foreign_ratio": 6.26,
+    "foreign_ratio": 6.21,
     "trust_ratio": 0.008117913834960742,
     "dealer_ratio": 0.03589640023896703,
-    "three_inst_ratio": 6.304014314073928,
-    "three_inst_ratio_change_20": -0.21202947845873954
+    "three_inst_ratio": 6.254014314073928,
+    "three_inst_ratio_change_20": -0.26202947845873936
   }
 ]

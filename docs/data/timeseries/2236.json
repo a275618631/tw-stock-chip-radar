@@ -2732,10 +2732,10 @@
     "code": "2236",
     "name": "百達-KY",
     "market": "TWSE",
-    "foreign_ratio": 48.74,
+    "foreign_ratio": 48.72,
     "trust_ratio": 0.0,
     "dealer_ratio": 3.296428177790093,
-    "three_inst_ratio": 52.03642817779009,
-    "three_inst_ratio_change_20": -0.17318355855217504
+    "three_inst_ratio": 52.01642817779009,
+    "three_inst_ratio_change_20": -0.19318355855217817
   }
 ]

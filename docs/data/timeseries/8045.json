@@ -2732,10 +2732,10 @@
     "code": "8045",
     "name": "達運光電",
     "market": "TWSE",
-    "foreign_ratio": 1.6,
+    "foreign_ratio": 1.65,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.22803226137884675,
-    "three_inst_ratio": 1.3719677386211533,
-    "three_inst_ratio_change_20": 0.23434335139748752
+    "three_inst_ratio": 1.421967738621153,
+    "three_inst_ratio_change_20": 0.28434335139748734
   }
 ]

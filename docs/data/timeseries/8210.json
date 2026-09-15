@@ -2765,10 +2765,10 @@
     "code": "8210",
     "name": "勤誠",
     "market": "TWSE",
-    "foreign_ratio": 9.09,
+    "foreign_ratio": 8.74,
     "trust_ratio": -4.880256071793387,
     "dealer_ratio": 0.0727635897158543,
-    "three_inst_ratio": 4.2825075179224665,
-    "three_inst_ratio_change_20": -1.2136881476624222
+    "three_inst_ratio": 3.9325075179224673,
+    "three_inst_ratio_change_20": -1.5636881476624214
   }
 ]

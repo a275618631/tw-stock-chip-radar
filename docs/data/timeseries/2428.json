@@ -2765,10 +2765,10 @@
     "code": "2428",
     "name": "興勤",
     "market": "TWSE",
-    "foreign_ratio": 14.31,
+    "foreign_ratio": 14.45,
     "trust_ratio": 1.8184040514445068,
     "dealer_ratio": 0.06150989246766945,
-    "three_inst_ratio": 16.189913943912178,
-    "three_inst_ratio_change_20": -1.44131191291644
+    "three_inst_ratio": 16.329913943912175,
+    "three_inst_ratio_change_20": -1.301311912916443
   }
 ]

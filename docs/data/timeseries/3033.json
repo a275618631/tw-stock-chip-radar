@@ -2765,10 +2765,10 @@
     "code": "3033",
     "name": "威健",
     "market": "TWSE",
-    "foreign_ratio": 20.36,
+    "foreign_ratio": 20.43,
     "trust_ratio": -0.8807808460520705,
     "dealer_ratio": -5.107300636056969,
-    "three_inst_ratio": 14.371918517890961,
-    "three_inst_ratio_change_20": -3.574905030048882
+    "three_inst_ratio": 14.441918517890961,
+    "three_inst_ratio_change_20": -3.5049050300488815
   }
 ]

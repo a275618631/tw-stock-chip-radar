@@ -2754,10 +2754,10 @@
     "code": "1737",
     "name": "臺鹽",
     "market": "TWSE",
-    "foreign_ratio": 7.69,
+    "foreign_ratio": 7.71,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.0523315,
-    "three_inst_ratio": 7.6376685,
-    "three_inst_ratio_change_20": -0.8970000000000002
+    "three_inst_ratio": 7.6576685,
+    "three_inst_ratio_change_20": -0.8770000000000007
   }
 ]

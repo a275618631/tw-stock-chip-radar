@@ -2732,10 +2732,10 @@
     "code": "7610",
     "name": "聯友金屬-創",
     "market": "TWSE",
-    "foreign_ratio": 20.03,
+    "foreign_ratio": 20.16,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.1086450640228249,
-    "three_inst_ratio": 19.921354935977178,
-    "three_inst_ratio_change_20": 0.14360873809133778
+    "three_inst_ratio": 20.051354935977177,
+    "three_inst_ratio_change_20": 0.2736087380913368
   }
 ]

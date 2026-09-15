@@ -2765,10 +2765,10 @@
     "code": "1304",
     "name": "台聚",
     "market": "TWSE",
-    "foreign_ratio": 28.68,
+    "foreign_ratio": 28.64,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.18259199580067859,
-    "three_inst_ratio": 28.862591995800678,
-    "three_inst_ratio_change_20": 0.1903090101605578
+    "three_inst_ratio": 28.82259199580068,
+    "three_inst_ratio_change_20": 0.15030901016055864
   }
 ]

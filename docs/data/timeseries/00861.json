@@ -2732,10 +2732,10 @@
     "code": "00861",
     "name": "元大全球未來通訊",
     "market": "TWSE",
-    "foreign_ratio": 0.68,
+    "foreign_ratio": 0.67,
     "trust_ratio": 0.0,
     "dealer_ratio": 1.68262980464473,
-    "three_inst_ratio": 2.36262980464473,
-    "three_inst_ratio_change_20": -0.4346381894049327
+    "three_inst_ratio": 2.3526298046447303,
+    "three_inst_ratio_change_20": -0.4446381894049325
   }
 ]

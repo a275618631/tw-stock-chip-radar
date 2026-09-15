@@ -2765,10 +2765,10 @@
     "code": "6477",
     "name": "安集",
     "market": "TWSE",
-    "foreign_ratio": 2.39,
+    "foreign_ratio": 2.36,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.247766336027193,
-    "three_inst_ratio": 2.142233663972807,
-    "three_inst_ratio_change_20": -0.7969625291455831
+    "three_inst_ratio": 2.1122336639728068,
+    "three_inst_ratio_change_20": -0.8269625291455833
   }
 ]

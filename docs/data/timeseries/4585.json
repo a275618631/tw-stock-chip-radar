@@ -2611,10 +2611,10 @@
     "code": "4585",
     "name": "達明",
     "market": "TWSE",
-    "foreign_ratio": 1.18,
+    "foreign_ratio": 1.25,
     "trust_ratio": 0.008569052375990593,
     "dealer_ratio": 0.056732212333546826,
-    "three_inst_ratio": 1.2453012647095372,
-    "three_inst_ratio_change_20": 0.6158136489212207
+    "three_inst_ratio": 1.3153012647095375,
+    "three_inst_ratio_change_20": 0.685813648921221
   }
 ]

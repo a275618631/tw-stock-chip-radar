@@ -2611,10 +2611,10 @@
     "code": "4807",
     "name": "日成-KY",
     "market": "TWSE",
-    "foreign_ratio": 67.86,
+    "foreign_ratio": 68.01,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.2733996908157787,
-    "three_inst_ratio": 67.58660030918422,
-    "three_inst_ratio_change_20": -0.23797615610995138
+    "three_inst_ratio": 67.73660030918423,
+    "three_inst_ratio_change_20": -0.08797615610994569
   }
 ]

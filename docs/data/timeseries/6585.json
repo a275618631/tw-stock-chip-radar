@@ -2732,10 +2732,10 @@
     "code": "6585",
     "name": "鼎基",
     "market": "TWSE",
-    "foreign_ratio": 3.1,
+    "foreign_ratio": 3.04,
     "trust_ratio": 0.07632366875086913,
     "dealer_ratio": -0.1821523169227672,
-    "three_inst_ratio": 2.9941713518281023,
-    "three_inst_ratio_change_20": -0.5953400921265701
+    "three_inst_ratio": 2.9341713518281023,
+    "three_inst_ratio_change_20": -0.6553400921265702
   }
 ]

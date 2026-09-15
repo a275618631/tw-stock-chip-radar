@@ -2765,10 +2765,10 @@
     "code": "2029",
     "name": "盛餘",
     "market": "TWSE",
-    "foreign_ratio": 67.82,
+    "foreign_ratio": 67.76,
     "trust_ratio": -0.02708761442181954,
     "dealer_ratio": 0.054204807273180146,
-    "three_inst_ratio": 67.84711719285136,
-    "three_inst_ratio_change_20": 0.4669985677812889
+    "three_inst_ratio": 67.78711719285137,
+    "three_inst_ratio_change_20": 0.40699856778130084
   }
 ]
