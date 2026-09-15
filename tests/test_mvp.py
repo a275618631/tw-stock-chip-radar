@@ -2,7 +2,10 @@
 import json
 import tempfile
 import unittest
+from datetime import date
 from pathlib import Path
+
+import pandas as pd
 
 from generate_daily_report import (
     _fmt_broker_volume,
@@ -15,6 +18,7 @@ from macro_context import (
     classify_global_environment,
     classify_stock_chip_status,
 )
+from update_all import FLOW_COLUMNS, validate_flow_history
 
 
 class MvpRulesTest(unittest.TestCase):
@@ -44,6 +48,13 @@ class MvpRulesTest(unittest.TestCase):
         self.assertEqual(_fmt_broker_volume(709), "+709 張")
         self.assertEqual(_fmt_institutional_flow(None), "—")
         self.assertEqual(_fmt_broker_volume(None), "—")
+
+    def test_flow_validation_allows_later_market_data(self):
+        rows = [
+            {"date": date(2026, 9, 14), "code": "2330", "name": "台積電", "foreign_net": 1, "trust_net": 2, "dealer_net": 3, "market": "TEST"},
+            {"date": date(2026, 9, 15), "code": "2330", "name": "台積電", "foreign_net": 4, "trust_net": 5, "dealer_net": 6, "market": "TEST"},
+        ]
+        validate_flow_history(pd.DataFrame(rows, columns=FLOW_COLUMNS), "TEST", date(2026, 9, 14))
 
     def test_report_generation_with_partial_data(self):
         with tempfile.TemporaryDirectory() as tmp:

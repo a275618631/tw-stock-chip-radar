@@ -1153,11 +1153,12 @@ def validate_flow_history(df: pd.DataFrame, market: str, target_date: date):
         raise RuntimeError(f"{label}: empty history")
 
     validate_no_nulls(df, FLOW_COLUMNS, label)
-    latest = pd.to_datetime(df["date"], errors="coerce").dt.date.max()
-    if latest != target_date:
-        raise RuntimeError(f"{label}: latest date {latest} != target date {target_date}")
+    dates = pd.to_datetime(df["date"], errors="coerce").dt.date
+    latest = dates.max()
+    if target_date not in set(dates.dropna()):
+        raise RuntimeError(f"{label}: target date {target_date} not found (latest {latest})")
 
-    today_rows = df[df["date"] == target_date]
+    today_rows = df[dates == target_date]
     min_rows = FLOW_MIN_ROWS_BY_MARKET.get(market, 1)
     if len(today_rows) < min_rows:
         raise RuntimeError(
