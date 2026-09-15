@@ -1,0 +1,4038 @@
+{
+  "updated": "2026-09-15T13:44:20.754921+08:00",
+  "analysis_days": 60,
+  "correlation_windows": [
+    15,
+    30,
+    45,
+    60
+  ],
+  "brokers_analyzed": 20,
+  "results": [
+    {
+      "broker_id": "1470",
+      "broker_name": "台灣摩根士丹利",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2618",
+          "total_net_vol": 196212,
+          "trading_days": 57,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2303",
+          "total_net_vol": 102387,
+          "trading_days": 58,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": 49427,
+          "trading_days": 58,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": 34059,
+          "trading_days": 59,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 31020,
+          "trading_days": 59,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": 29984,
+          "trading_days": 58,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": 24560,
+          "trading_days": 58,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": 15320,
+          "trading_days": 56,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": 14875,
+          "trading_days": 59,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": 12061,
+          "trading_days": 59,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2330",
+          "total_net_vol": -70176,
+          "abs_net_vol": 70176,
+          "trading_days": 57,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": -19842,
+          "abs_net_vol": 19842,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": -18660,
+          "abs_net_vol": 18660,
+          "trading_days": 59,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": -8047,
+          "abs_net_vol": 8047,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": -3155,
+          "abs_net_vol": 3155,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": -1259,
+          "abs_net_vol": 1259,
+          "trading_days": 59,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "8440",
+      "broker_name": "摩根大通",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2618",
+          "total_net_vol": 71449,
+          "trading_days": 57,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": 41429,
+          "trading_days": 57,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": 24281,
+          "trading_days": 58,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": 15505,
+          "trading_days": 57,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": 14733,
+          "trading_days": 58,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 9566,
+          "trading_days": 56,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": 9459,
+          "trading_days": 58,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": 8829,
+          "trading_days": 60,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": 7703,
+          "trading_days": 58,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": 1810,
+          "trading_days": 58,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2317",
+          "total_net_vol": -54786,
+          "abs_net_vol": 54786,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": -31054,
+          "abs_net_vol": 31054,
+          "trading_days": 57,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2303",
+          "total_net_vol": -28187,
+          "abs_net_vol": 28187,
+          "trading_days": 55,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": -13320,
+          "abs_net_vol": 13320,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": -7610,
+          "abs_net_vol": 7610,
+          "trading_days": 59,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": -5355,
+          "abs_net_vol": 5355,
+          "trading_days": 57,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": -3406,
+          "abs_net_vol": 3406,
+          "trading_days": 57,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": -2890,
+          "abs_net_vol": 2890,
+          "trading_days": 55,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": -1298,
+          "abs_net_vol": 1298,
+          "trading_days": 55,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "1480",
+      "broker_name": "美商高盛",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2618",
+          "total_net_vol": 116625,
+          "trading_days": 58,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": 27586,
+          "trading_days": 59,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": 19084,
+          "trading_days": 57,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2303",
+          "total_net_vol": 10532,
+          "trading_days": 56,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": 5925,
+          "trading_days": 59,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": 987,
+          "trading_days": 57,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": 763,
+          "trading_days": 53,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": 719,
+          "trading_days": 52,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": 18,
+          "trading_days": 59,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2330",
+          "total_net_vol": -22542,
+          "abs_net_vol": 22542,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": -14120,
+          "abs_net_vol": 14120,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": -6920,
+          "abs_net_vol": 6920,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": -5611,
+          "abs_net_vol": 5611,
+          "trading_days": 59,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": -5548,
+          "abs_net_vol": 5548,
+          "trading_days": 60,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": -3234,
+          "abs_net_vol": 3234,
+          "trading_days": 54,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": -2332,
+          "abs_net_vol": 2332,
+          "trading_days": 55,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": -1446,
+          "abs_net_vol": 1446,
+          "trading_days": 54,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": -934,
+          "abs_net_vol": 934,
+          "trading_days": 59,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": -518,
+          "abs_net_vol": 518,
+          "trading_days": 55,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "1650",
+      "broker_name": "新加坡商瑞銀",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2881",
+          "total_net_vol": 38871,
+          "trading_days": 58,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2618",
+          "total_net_vol": 25319,
+          "trading_days": 60,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": 22755,
+          "trading_days": 55,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": 17740,
+          "trading_days": 55,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 13116,
+          "trading_days": 50,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": 9303,
+          "trading_days": 57,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": 3925,
+          "trading_days": 58,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": 866,
+          "trading_days": 55,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": 597,
+          "trading_days": 56,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2303",
+          "total_net_vol": -47554,
+          "abs_net_vol": 47554,
+          "trading_days": 56,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": -46985,
+          "abs_net_vol": 46985,
+          "trading_days": 57,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": -8829,
+          "abs_net_vol": 8829,
+          "trading_days": 59,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": -8378,
+          "abs_net_vol": 8378,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": -8365,
+          "abs_net_vol": 8365,
+          "trading_days": 55,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": -4684,
+          "abs_net_vol": 4684,
+          "trading_days": 56,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": -4245,
+          "abs_net_vol": 4245,
+          "trading_days": 53,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": -3522,
+          "abs_net_vol": 3522,
+          "trading_days": 57,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": -2980,
+          "abs_net_vol": 2980,
+          "trading_days": 57,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": -1772,
+          "abs_net_vol": 1772,
+          "trading_days": 59,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "9268",
+      "broker_name": "凱基-台北",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2618",
+          "total_net_vol": 40582,
+          "trading_days": 53,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": 15795,
+          "trading_days": 54,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 13604,
+          "trading_days": 53,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": 9624,
+          "trading_days": 58,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": 9417,
+          "trading_days": 59,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": 5334,
+          "trading_days": 57,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2303",
+          "total_net_vol": 4078,
+          "trading_days": 53,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": 2588,
+          "trading_days": 54,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": 1793,
+          "trading_days": 59,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": 1399,
+          "trading_days": 57,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2317",
+          "total_net_vol": -37327,
+          "abs_net_vol": 37327,
+          "trading_days": 57,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": -11280,
+          "abs_net_vol": 11280,
+          "trading_days": 60,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": -10786,
+          "abs_net_vol": 10786,
+          "trading_days": 59,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": -5420,
+          "abs_net_vol": 5420,
+          "trading_days": 53,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": -720,
+          "abs_net_vol": 720,
+          "trading_days": 55,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "9800",
+      "broker_name": "元大證券",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2618",
+          "total_net_vol": 58581,
+          "trading_days": 53,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": 57924,
+          "trading_days": 56,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": 56236,
+          "trading_days": 57,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": 55116,
+          "trading_days": 55,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": 23482,
+          "trading_days": 57,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 22467,
+          "trading_days": 54,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": 20049,
+          "trading_days": 57,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": 8739,
+          "trading_days": 55,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": 7158,
+          "trading_days": 56,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": 4980,
+          "trading_days": 48,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2303",
+          "total_net_vol": -197814,
+          "abs_net_vol": 197814,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": -10004,
+          "abs_net_vol": 10004,
+          "trading_days": 59,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": -9140,
+          "abs_net_vol": 9140,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": -4756,
+          "abs_net_vol": 4756,
+          "trading_days": 50,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": -2920,
+          "abs_net_vol": 2920,
+          "trading_days": 53,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": -912,
+          "abs_net_vol": 912,
+          "trading_days": 53,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": -151,
+          "abs_net_vol": 151,
+          "trading_days": 57,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": -144,
+          "abs_net_vol": 144,
+          "trading_days": 53,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "1440",
+      "broker_name": "美林",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2618",
+          "total_net_vol": 27199,
+          "trading_days": 59,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 25642,
+          "trading_days": 58,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": 25056,
+          "trading_days": 59,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": 21174,
+          "trading_days": 53,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2303",
+          "total_net_vol": 15853,
+          "trading_days": 50,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": 13866,
+          "trading_days": 55,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": 13857,
+          "trading_days": 51,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": 10456,
+          "trading_days": 52,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": 7325,
+          "trading_days": 49,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": 4313,
+          "trading_days": 58,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2317",
+          "total_net_vol": -19894,
+          "abs_net_vol": 19894,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": -17486,
+          "abs_net_vol": 17486,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": -16773,
+          "abs_net_vol": 16773,
+          "trading_days": 57,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": -7059,
+          "abs_net_vol": 7059,
+          "trading_days": 55,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": -6806,
+          "abs_net_vol": 6806,
+          "trading_days": 57,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": -6599,
+          "abs_net_vol": 6599,
+          "trading_days": 54,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": -1233,
+          "abs_net_vol": 1233,
+          "trading_days": 54,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": -860,
+          "abs_net_vol": 860,
+          "trading_days": 54,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": -812,
+          "abs_net_vol": 812,
+          "trading_days": 54,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "1590",
+      "broker_name": "花旗環球",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2618",
+          "total_net_vol": 61400,
+          "trading_days": 54,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2303",
+          "total_net_vol": 60900,
+          "trading_days": 37,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": 17612,
+          "trading_days": 52,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": 13718,
+          "trading_days": 53,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": 7023,
+          "trading_days": 54,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": 5483,
+          "trading_days": 53,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": 4965,
+          "trading_days": 49,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": 2320,
+          "trading_days": 53,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 2226,
+          "trading_days": 48,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": 2099,
+          "trading_days": 58,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2382",
+          "total_net_vol": -24887,
+          "abs_net_vol": 24887,
+          "trading_days": 55,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": -12589,
+          "abs_net_vol": 12589,
+          "trading_days": 57,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": -7790,
+          "abs_net_vol": 7790,
+          "trading_days": 54,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": -5160,
+          "abs_net_vol": 5160,
+          "trading_days": 57,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": -4459,
+          "abs_net_vol": 4459,
+          "trading_days": 58,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": -4104,
+          "abs_net_vol": 4104,
+          "trading_days": 55,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": -249,
+          "abs_net_vol": 249,
+          "trading_days": 50,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "9600",
+      "broker_name": "富邦證券",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2317",
+          "total_net_vol": 16337,
+          "trading_days": 50,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": 8673,
+          "trading_days": 52,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": 7059,
+          "trading_days": 53,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": 3946,
+          "trading_days": 36,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": 2620,
+          "trading_days": 38,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": 2605,
+          "trading_days": 55,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": 2336,
+          "trading_days": 52,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 1445,
+          "trading_days": 30,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": 1394,
+          "trading_days": 54,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": 748,
+          "trading_days": 47,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2891",
+          "total_net_vol": -30980,
+          "abs_net_vol": 30980,
+          "trading_days": 55,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": -27087,
+          "abs_net_vol": 27087,
+          "trading_days": 47,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2618",
+          "total_net_vol": -21891,
+          "abs_net_vol": 21891,
+          "trading_days": 49,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": -18328,
+          "abs_net_vol": 18328,
+          "trading_days": 41,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2303",
+          "total_net_vol": -15951,
+          "abs_net_vol": 15951,
+          "trading_days": 53,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": -10864,
+          "abs_net_vol": 10864,
+          "trading_days": 48,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": -8726,
+          "abs_net_vol": 8726,
+          "trading_days": 56,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": -6433,
+          "abs_net_vol": 6433,
+          "trading_days": 50,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": -4730,
+          "abs_net_vol": 4730,
+          "trading_days": 52,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": -480,
+          "abs_net_vol": 480,
+          "trading_days": 23,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "0039004100300030",
+      "broker_name": "永豐金證券",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2330",
+          "total_net_vol": 21241,
+          "trading_days": 51,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": 16468,
+          "trading_days": 53,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": 4953,
+          "trading_days": 50,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": 4046,
+          "trading_days": 36,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": 4002,
+          "trading_days": 45,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": 3501,
+          "trading_days": 42,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 2611,
+          "trading_days": 35,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": 2610,
+          "trading_days": 45,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": 2584,
+          "trading_days": 51,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": 1904,
+          "trading_days": 43,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2303",
+          "total_net_vol": -43536,
+          "abs_net_vol": 43536,
+          "trading_days": 45,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2618",
+          "total_net_vol": -20580,
+          "abs_net_vol": 20580,
+          "trading_days": 44,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": -5934,
+          "abs_net_vol": 5934,
+          "trading_days": 43,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": -5285,
+          "abs_net_vol": 5285,
+          "trading_days": 55,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": -1322,
+          "abs_net_vol": 1322,
+          "trading_days": 46,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": -970,
+          "abs_net_vol": 970,
+          "trading_days": 46,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": -611,
+          "abs_net_vol": 611,
+          "trading_days": 31,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": -297,
+          "abs_net_vol": 297,
+          "trading_days": 41,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": -221,
+          "abs_net_vol": 221,
+          "trading_days": 54,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": -75,
+          "abs_net_vol": 75,
+          "trading_days": 47,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "1560",
+      "broker_name": "港商野村",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2618",
+          "total_net_vol": 14319,
+          "trading_days": 33,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": 12497,
+          "trading_days": 48,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": 12448,
+          "trading_days": 47,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2303",
+          "total_net_vol": 10568,
+          "trading_days": 37,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": 7448,
+          "trading_days": 29,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": 5965,
+          "trading_days": 36,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 5624,
+          "trading_days": 33,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": 5337,
+          "trading_days": 46,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": 3352,
+          "trading_days": 45,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": 2530,
+          "trading_days": 44,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2330",
+          "total_net_vol": -18157,
+          "abs_net_vol": 18157,
+          "trading_days": 53,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": -9254,
+          "abs_net_vol": 9254,
+          "trading_days": 50,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": -7328,
+          "abs_net_vol": 7328,
+          "trading_days": 49,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": -5363,
+          "abs_net_vol": 5363,
+          "trading_days": 50,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": -1751,
+          "abs_net_vol": 1751,
+          "trading_days": 42,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": -1562,
+          "abs_net_vol": 1562,
+          "trading_days": 49,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": -1141,
+          "abs_net_vol": 1141,
+          "trading_days": 54,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": -91,
+          "abs_net_vol": 91,
+          "trading_days": 52,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "9200",
+      "broker_name": "凱基",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2609",
+          "total_net_vol": 43660,
+          "trading_days": 29,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": 38456,
+          "trading_days": 42,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": 23337,
+          "trading_days": 45,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": 13401,
+          "trading_days": 49,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": 8388,
+          "trading_days": 47,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": 6401,
+          "trading_days": 33,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": 5469,
+          "trading_days": 35,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": 2729,
+          "trading_days": 41,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 2562,
+          "trading_days": 31,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": 1115,
+          "trading_days": 49,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2303",
+          "total_net_vol": -38366,
+          "abs_net_vol": 38366,
+          "trading_days": 43,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": -27525,
+          "abs_net_vol": 27525,
+          "trading_days": 40,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2618",
+          "total_net_vol": -12235,
+          "abs_net_vol": 12235,
+          "trading_days": 42,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": -11553,
+          "abs_net_vol": 11553,
+          "trading_days": 49,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": -4505,
+          "abs_net_vol": 4505,
+          "trading_days": 35,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": -1481,
+          "abs_net_vol": 1481,
+          "trading_days": 44,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": -1140,
+          "abs_net_vol": 1140,
+          "trading_days": 53,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": -1069,
+          "abs_net_vol": 1069,
+          "trading_days": 48,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": -147,
+          "abs_net_vol": 147,
+          "trading_days": 49,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": -18,
+          "abs_net_vol": 18,
+          "trading_days": 17,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "8888",
+      "broker_name": "國泰-敦南",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2303",
+          "total_net_vol": 10552,
+          "trading_days": 38,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": 4962,
+          "trading_days": 41,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": 3188,
+          "trading_days": 40,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": 1093,
+          "trading_days": 22,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": 823,
+          "trading_days": 33,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": 760,
+          "trading_days": 44,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": 461,
+          "trading_days": 37,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": 257,
+          "trading_days": 34,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": 147,
+          "trading_days": 33,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": 90,
+          "trading_days": 45,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2618",
+          "total_net_vol": -9827,
+          "abs_net_vol": 9827,
+          "trading_days": 38,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": -3434,
+          "abs_net_vol": 3434,
+          "trading_days": 38,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": -2905,
+          "abs_net_vol": 2905,
+          "trading_days": 41,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": -2371,
+          "abs_net_vol": 2371,
+          "trading_days": 22,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": -1413,
+          "abs_net_vol": 1413,
+          "trading_days": 48,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": -1311,
+          "abs_net_vol": 1311,
+          "trading_days": 49,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": -848,
+          "abs_net_vol": 848,
+          "trading_days": 44,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": -437,
+          "abs_net_vol": 437,
+          "trading_days": 31,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": -338,
+          "abs_net_vol": 338,
+          "trading_days": 31,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": -190,
+          "abs_net_vol": 190,
+          "trading_days": 44,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "1360",
+      "broker_name": "港商麥格理",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2618",
+          "total_net_vol": 25086,
+          "trading_days": 25,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": 16566,
+          "trading_days": 51,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": 16488,
+          "trading_days": 55,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": 12907,
+          "trading_days": 40,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": 10431,
+          "trading_days": 44,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2303",
+          "total_net_vol": 6705,
+          "trading_days": 22,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 4285,
+          "trading_days": 21,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": 4169,
+          "trading_days": 40,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": 2371,
+          "trading_days": 23,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": 2268,
+          "trading_days": 42,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2382",
+          "total_net_vol": -19112,
+          "abs_net_vol": 19112,
+          "trading_days": 50,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": -3492,
+          "abs_net_vol": 3492,
+          "trading_days": 22,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": -2129,
+          "abs_net_vol": 2129,
+          "trading_days": 27,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": -426,
+          "abs_net_vol": 426,
+          "trading_days": 50,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": -302,
+          "abs_net_vol": 302,
+          "trading_days": 48,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "0039004100380031",
+      "broker_name": "永豐金-匯立",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2881",
+          "total_net_vol": 39929,
+          "trading_days": 39,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": 29737,
+          "trading_days": 51,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": 14560,
+          "trading_days": 54,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2618",
+          "total_net_vol": 13998,
+          "trading_days": 25,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": 5277,
+          "trading_days": 44,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": 4658,
+          "trading_days": 20,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 3877,
+          "trading_days": 17,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": 3872,
+          "trading_days": 30,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": 2476,
+          "trading_days": 15,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": 1842,
+          "trading_days": 14,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2303",
+          "total_net_vol": -29355,
+          "abs_net_vol": 29355,
+          "trading_days": 25,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": -18760,
+          "abs_net_vol": 18760,
+          "trading_days": 52,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": -1950,
+          "abs_net_vol": 1950,
+          "trading_days": 45,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": -1693,
+          "abs_net_vol": 1693,
+          "trading_days": 37,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": -1140,
+          "abs_net_vol": 1140,
+          "trading_days": 22,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": -994,
+          "abs_net_vol": 994,
+          "trading_days": 49,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": -664,
+          "abs_net_vol": 664,
+          "trading_days": 49,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": -254,
+          "abs_net_vol": 254,
+          "trading_days": 18,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "5850",
+      "broker_name": "統一",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2412",
+          "total_net_vol": 8218,
+          "trading_days": 26,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": 7938,
+          "trading_days": 43,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": 2536,
+          "trading_days": 35,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": 2423,
+          "trading_days": 17,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": 1100,
+          "trading_days": 37,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": 577,
+          "trading_days": 15,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 360,
+          "trading_days": 21,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": 216,
+          "trading_days": 47,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2618",
+          "total_net_vol": -65344,
+          "abs_net_vol": 65344,
+          "trading_days": 20,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2303",
+          "total_net_vol": -46133,
+          "abs_net_vol": 46133,
+          "trading_days": 47,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": -29586,
+          "abs_net_vol": 29586,
+          "trading_days": 21,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": -25671,
+          "abs_net_vol": 25671,
+          "trading_days": 30,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": -4552,
+          "abs_net_vol": 4552,
+          "trading_days": 36,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": -3165,
+          "abs_net_vol": 3165,
+          "trading_days": 51,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": -1965,
+          "abs_net_vol": 1965,
+          "trading_days": 46,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": -677,
+          "abs_net_vol": 677,
+          "trading_days": 24,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": -616,
+          "abs_net_vol": 616,
+          "trading_days": 53,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": -509,
+          "abs_net_vol": 509,
+          "trading_days": 25,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "8880",
+      "broker_name": "國泰證券",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2618",
+          "total_net_vol": 31464,
+          "trading_days": 27,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": 4886,
+          "trading_days": 29,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": 4034,
+          "trading_days": 30,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": 3692,
+          "trading_days": 39,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": 2842,
+          "trading_days": 13,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": 2057,
+          "trading_days": 28,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": 1734,
+          "trading_days": 33,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 461,
+          "trading_days": 16,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": 259,
+          "trading_days": 35,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2382",
+          "total_net_vol": -17169,
+          "abs_net_vol": 17169,
+          "trading_days": 43,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": -8899,
+          "abs_net_vol": 8899,
+          "trading_days": 24,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2303",
+          "total_net_vol": -4449,
+          "abs_net_vol": 4449,
+          "trading_days": 42,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": -3583,
+          "abs_net_vol": 3583,
+          "trading_days": 30,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": -2101,
+          "abs_net_vol": 2101,
+          "trading_days": 37,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": -1758,
+          "abs_net_vol": 1758,
+          "trading_days": 36,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": -1083,
+          "abs_net_vol": 1083,
+          "trading_days": 46,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": -497,
+          "abs_net_vol": 497,
+          "trading_days": 35,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": -428,
+          "abs_net_vol": 428,
+          "trading_days": 39,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": -169,
+          "abs_net_vol": 169,
+          "trading_days": 11,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "9100",
+      "broker_name": "群益金鼎",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2330",
+          "total_net_vol": 13816,
+          "trading_days": 42,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": 2700,
+          "trading_days": 48,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": 2479,
+          "trading_days": 32,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3006",
+          "total_net_vol": 974,
+          "trading_days": 34,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": 508,
+          "trading_days": 34,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": 458,
+          "trading_days": 27,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2303",
+          "total_net_vol": -55915,
+          "abs_net_vol": 55915,
+          "trading_days": 41,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": -22970,
+          "abs_net_vol": 22970,
+          "trading_days": 28,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": -9807,
+          "abs_net_vol": 9807,
+          "trading_days": 22,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": -8772,
+          "abs_net_vol": 8772,
+          "trading_days": 15,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2618",
+          "total_net_vol": -4956,
+          "abs_net_vol": 4956,
+          "trading_days": 18,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": -3016,
+          "abs_net_vol": 3016,
+          "trading_days": 26,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": -2243,
+          "abs_net_vol": 2243,
+          "trading_days": 36,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": -2210,
+          "abs_net_vol": 2210,
+          "trading_days": 42,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": -1179,
+          "abs_net_vol": 1179,
+          "trading_days": 24,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": -1092,
+          "abs_net_vol": 1092,
+          "trading_days": 33,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3006",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "8960",
+      "broker_name": "香港上海匯豐",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2618",
+          "total_net_vol": 26403,
+          "trading_days": 26,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": 13504,
+          "trading_days": 24,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2303",
+          "total_net_vol": 9255,
+          "trading_days": 36,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": 1385,
+          "trading_days": 16,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": 1348,
+          "trading_days": 35,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": 1274,
+          "trading_days": 12,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2882",
+          "total_net_vol": 423,
+          "trading_days": 32,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": 77,
+          "trading_days": 42,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2891",
+          "total_net_vol": -9038,
+          "abs_net_vol": 9038,
+          "trading_days": 27,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": -8174,
+          "abs_net_vol": 8174,
+          "trading_days": 47,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": -6549,
+          "abs_net_vol": 6549,
+          "trading_days": 50,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": -5853,
+          "abs_net_vol": 5853,
+          "trading_days": 36,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2412",
+          "total_net_vol": -4153,
+          "abs_net_vol": 4153,
+          "trading_days": 24,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": -3108,
+          "abs_net_vol": 3108,
+          "trading_days": 24,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": -2760,
+          "abs_net_vol": 2760,
+          "trading_days": 36,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": -1694,
+          "abs_net_vol": 1694,
+          "trading_days": 34,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": -1490,
+          "abs_net_vol": 1490,
+          "trading_days": 27,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": -906,
+          "abs_net_vol": 906,
+          "trading_days": 24,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    },
+    {
+      "broker_id": "6160",
+      "broker_name": "中國信託",
+      "analysis_days": 60,
+      "top_buy_stocks": [
+        {
+          "stock_code": "2412",
+          "total_net_vol": 9995,
+          "trading_days": 49,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2891",
+          "total_net_vol": 8889,
+          "trading_days": 36,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2303",
+          "total_net_vol": 7892,
+          "trading_days": 30,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2330",
+          "total_net_vol": 5976,
+          "trading_days": 33,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2382",
+          "total_net_vol": 3063,
+          "trading_days": 25,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2317",
+          "total_net_vol": 2714,
+          "trading_days": 29,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2609",
+          "total_net_vol": 1633,
+          "trading_days": 10,
+          "side": "buy"
+        },
+        {
+          "stock_code": "3037",
+          "total_net_vol": 940,
+          "trading_days": 34,
+          "side": "buy"
+        },
+        {
+          "stock_code": "2308",
+          "total_net_vol": 689,
+          "trading_days": 31,
+          "side": "buy"
+        }
+      ],
+      "top_sell_stocks": [
+        {
+          "stock_code": "2882",
+          "total_net_vol": -15367,
+          "abs_net_vol": 15367,
+          "trading_days": 36,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2603",
+          "total_net_vol": -8751,
+          "abs_net_vol": 8751,
+          "trading_days": 20,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2881",
+          "total_net_vol": -8686,
+          "abs_net_vol": 8686,
+          "trading_days": 35,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2615",
+          "total_net_vol": -8442,
+          "abs_net_vol": 8442,
+          "trading_days": 11,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2618",
+          "total_net_vol": -5156,
+          "abs_net_vol": 5156,
+          "trading_days": 17,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3711",
+          "total_net_vol": -3132,
+          "abs_net_vol": 3132,
+          "trading_days": 26,
+          "side": "sell"
+        },
+        {
+          "stock_code": "3034",
+          "total_net_vol": -1554,
+          "abs_net_vol": 1554,
+          "trading_days": 23,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2379",
+          "total_net_vol": -1461,
+          "abs_net_vol": 1461,
+          "trading_days": 37,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2345",
+          "total_net_vol": -284,
+          "abs_net_vol": 284,
+          "trading_days": 30,
+          "side": "sell"
+        },
+        {
+          "stock_code": "2454",
+          "total_net_vol": -79,
+          "abs_net_vol": 79,
+          "trading_days": 34,
+          "side": "sell"
+        }
+      ],
+      "correlations": [
+        {
+          "stock_code": "2303",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2308",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2317",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2330",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2345",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2379",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2382",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2412",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2454",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2603",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2609",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2615",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2618",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2881",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2882",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "2891",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3034",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3037",
+          "status": "no_price_data"
+        },
+        {
+          "stock_code": "3711",
+          "status": "no_price_data"
+        }
+      ]
+    }
+  ]
+}

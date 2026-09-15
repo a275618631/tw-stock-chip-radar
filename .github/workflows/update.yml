@@ -1,0 +1,74 @@
+name: Update TW Institutional Data
+
+on:
+  schedule:
+    - cron: "10 11 * * *"  # 11:10 UTC ~ 19:10 Taipei (當天晚上更新)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Install Playwright browsers
+        run: |
+          playwright install chromium
+          playwright install-deps chromium
+
+      - name: Run update_all.py
+        run: |
+          python update_all.py
+
+      - name: Run update_broker.py
+        run: |
+          python update_broker.py
+
+      - name: Verify net buy/sell ranking against Fubon (non-blocking)
+        continue-on-error: true
+        run: |
+          python verify_three_inst_ranking.py --windows 5 10 30 || true
+
+      - name: Analyze broker statistics
+        run: |
+          python analyze_broker_stats.py
+
+      - name: Fetch macro context proxies
+        run: |
+          python macro_context.py
+
+      - name: Generate daily market report
+        run: |
+          python generate_daily_report.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data docs/data reports
+          # 一般 commit（不再 --amend / --force-push）：保留每日歷史，避免某天
+          # 抓取失敗或不完整時，把正確資料以 force-push 永久覆蓋且無法復原。
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily data update $(date -u +%Y-%m-%d)"
+            # Keep manual feature-branch validation isolated; scheduled and main runs
+            # still push to main because GITHUB_REF_NAME is the triggering branch.
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+

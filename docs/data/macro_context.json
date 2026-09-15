@@ -1,0 +1,73 @@
+{
+  "as_of": "2026-09-15",
+  "source": "yfinance",
+  "status": "ok",
+  "successful_tickers": 6,
+  "total_tickers": 6,
+  "data": {
+    "TSM": {
+      "ticker": "TSM",
+      "name": "台積電 ADR",
+      "status": "ok",
+      "latest_date": "2026-09-14",
+      "close": 418.01001,
+      "change_1d_pct": -3.5154,
+      "change_5d_pct": -4.7813
+    },
+    "SOX": {
+      "ticker": "^SOX",
+      "name": "費城半導體",
+      "status": "ok",
+      "latest_date": "2026-09-14",
+      "close": 11131.280273,
+      "change_1d_pct": -5.8586,
+      "change_5d_pct": -6.3644
+    },
+    "USD_TWD": {
+      "ticker": "TWD=X",
+      "name": "USD/TWD",
+      "status": "ok",
+      "latest_date": "2026-09-15",
+      "close": 31.802,
+      "change_1d_pct": 0.3971,
+      "change_5d_pct": 0.9613
+    },
+    "USD_JPY": {
+      "ticker": "JPY=X",
+      "name": "USD/JPY",
+      "status": "ok",
+      "latest_date": "2026-09-15",
+      "close": 154.830002,
+      "change_1d_pct": 0.9164,
+      "change_5d_pct": 0.8809
+    },
+    "NIKKEI": {
+      "ticker": "^N225",
+      "name": "日經 225",
+      "status": "ok",
+      "latest_date": "2026-09-15",
+      "close": 63489.800781,
+      "change_1d_pct": -0.005,
+      "change_5d_pct": -2.5375
+    },
+    "US10Y": {
+      "ticker": "^TNX",
+      "name": "美國 10Y",
+      "status": "ok",
+      "latest_date": "2026-09-14",
+      "close": 4.961,
+      "change_1d_pct": -0.2814,
+      "change_5d_pct": 3.2251
+    }
+  },
+  "environment": {
+    "label": "negative",
+    "score": -3,
+    "available_factors": 5,
+    "risk_flags": []
+  },
+  "limitations": [
+    "yfinance is a third-party convenience provider",
+    "macro indicators are proxies, not direct country-of-origin Taiwan stock flows"
+  ]
+}
