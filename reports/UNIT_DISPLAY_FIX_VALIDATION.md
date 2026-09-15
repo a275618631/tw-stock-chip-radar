@@ -78,3 +78,7 @@ The first post-fix run ([34944653467](https://github.com/a275618631/tw-stock-chi
 
 - TPEx documents exceptions for certain foreign-currency ETFs whose trading unit can be 100 beneficiary units. The current report watchlist is ordinary shares; extending the formatter to those ETF codes would require code-specific lot-size metadata.
 - Broker data remains an observed broker-table proxy and does not identify a confirmed beneficial owner.
+
+## Final State
+
+`UNIT_DISPLAY_FIX_READY_FOR_REVIEW`
