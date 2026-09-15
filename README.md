@@ -82,6 +82,18 @@ python generate_daily_report.py
 `yfinance` 第三方 convenience provider。券商分點是主力行為代理，不是已確認的主力身分；
 macro 指標不是美日資金直接流入台股數據；本工具僅供研究參考，不產生交易指令。
 
+## 每日怎麼使用
+
+一般使用者不需要在本機執行 Python。
+
+GitHub Actions 會每日盤後自動更新。
+
+直接閱讀：[每日籌碼報告](reports/daily_market_report.md)
+
+建議依序查看：Data Freshness → Global Context → Watchlist → 外資／投信／自營商 1D、5D、20D → 券商分點 → 籌碼狀態。
+
+`positive / neutral / negative` 是研究排序訊號，不是交易指令。
+
 Based on / derived from `voidful/tw-institutional-stocker`.
 
 本 Repo 維持 Private；上游目前未宣告授權，本專案不宣稱 MIT、Apache 或 GPL。

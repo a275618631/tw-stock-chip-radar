@@ -2,15 +2,23 @@
 import json
 import tempfile
 import unittest
+from datetime import date
 from pathlib import Path
 
-from generate_daily_report import generate_report
+import pandas as pd
+
+from generate_daily_report import (
+    _fmt_broker_volume,
+    _fmt_institutional_flow,
+    generate_report,
+)
 from macro_context import (
     TICKER_MAP,
     calculate_percentage_changes,
     classify_global_environment,
     classify_stock_chip_status,
 )
+from update_all import FLOW_COLUMNS, validate_flow_history
 
 
 class MvpRulesTest(unittest.TestCase):
@@ -34,6 +42,20 @@ class MvpRulesTest(unittest.TestCase):
         self.assertEqual(classify_global_environment(data)["label"], "positive")
         self.assertEqual(classify_stock_chip_status({"foreign_5d": 10, "trust_5d": 1, "foreign_20d": 2, "trust_20d": -1}), "positive")
 
+    def test_unit_specific_formatters(self):
+        self.assertEqual(_fmt_institutional_flow(1_000_000), "+1,000 張")
+        self.assertEqual(_fmt_institutional_flow(-11_191_022), "-11,191.022 張")
+        self.assertEqual(_fmt_broker_volume(709), "+709 張")
+        self.assertEqual(_fmt_institutional_flow(None), "—")
+        self.assertEqual(_fmt_broker_volume(None), "—")
+
+    def test_flow_validation_allows_later_market_data(self):
+        rows = [
+            {"date": date(2026, 9, 14), "code": "2330", "name": "台積電", "foreign_net": 1, "trust_net": 2, "dealer_net": 3, "market": "TEST"},
+            {"date": date(2026, 9, 15), "code": "2330", "name": "台積電", "foreign_net": 4, "trust_net": 5, "dealer_net": 6, "market": "TEST"},
+        ]
+        validate_flow_history(pd.DataFrame(rows, columns=FLOW_COLUMNS), "TEST", date(2026, 9, 14))
+
     def test_report_generation_with_partial_data(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
@@ -48,6 +70,8 @@ class MvpRulesTest(unittest.TestCase):
             text = output.read_text(encoding="utf-8")
             self.assertIn("2330", text)
             self.assertIn("partial", text)
+            self.assertIn("+0.100 張", text)
+            self.assertIn("+10 張", text)
             self.assertIn("資料限制", text)
             self.assertIn("不產生交易指令", text)
 
