@@ -76,16 +76,28 @@ def _summarize_stock(flows: pd.DataFrame, brokers: pd.DataFrame, code: str) -> d
     return {"code": code, "latest_date": latest.date().isoformat(), "metrics": metrics, "status": status, "buys": buy_records, "sells": sell_records}
 
 
-def _fmt_number(value) -> str:
-    if value is None:
+def _fmt_institutional_flow(value) -> str:
+    """Format institutional flow, whose raw TWSE/TPEx unit is shares."""
+    if value is None or pd.isna(value):
         return "—"
-    return f"{value:+,.0f} 張"
+    lots = float(value) / 1000.0
+    if lots.is_integer():
+        return f"{lots:+,.0f} 張"
+    # Keep the exact share remainder visible; do not silently truncate to lots.
+    return f"{lots:+,.3f} 張"
+
+
+def _fmt_broker_volume(value) -> str:
+    """Format broker volume, whose raw Fubon unit is lots (張)."""
+    if value is None or pd.isna(value):
+        return "—"
+    return f"{float(value):+,.0f} 張"
 
 
 def _fmt_brokers(records) -> str:
     if not records:
         return "—"
-    return "、".join(f"{item['broker_name']} ({_fmt_number(item['net_vol'])})" for item in records)
+    return "、".join(f"{item['broker_name']} ({_fmt_broker_volume(item['net_vol'])})" for item in records)
 
 
 def generate_report(flow_paths=FLOW_FILES, broker_path=BROKER_PATH, macro_path=MACRO_PATH, output_path=REPORT_PATH) -> Path:
@@ -118,6 +130,7 @@ def generate_report(flow_paths=FLOW_FILES, broker_path=BROKER_PATH, macro_path=M
         f"- 法人資料日期：{institutional_date or 'missing'}",
         f"- 分點資料日期：{broker_date or 'missing'}",
         f"- Macro 資料日期：{macro_date or 'missing'}（來源狀態：`{macro.get('status', 'missing')}`）",
+        "- 單位語意：三大法人原始資料為股，日報以 1,000 股換算為張；券商分點原始資料為張。",
         "",
         "## Global Context",
         "",
@@ -135,9 +148,9 @@ def generate_report(flow_paths=FLOW_FILES, broker_path=BROKER_PATH, macro_path=M
             f"### {code} {name}",
             "",
             f"- 資料日期：{summary['latest_date'] or 'missing'}",
-            f"- 外資：當日 {_fmt_number(m.get('foreign_1d'))}；5D {_fmt_number(m.get('foreign_5d'))}；20D {_fmt_number(m.get('foreign_20d'))}",
-            f"- 投信：當日 {_fmt_number(m.get('trust_1d'))}；5D {_fmt_number(m.get('trust_5d'))}；20D {_fmt_number(m.get('trust_20d'))}",
-            f"- 自營商：當日 {_fmt_number(m.get('dealer_1d'))}；5D {_fmt_number(m.get('dealer_5d'))}；20D {_fmt_number(m.get('dealer_20d'))}",
+            f"- 外資：當日 {_fmt_institutional_flow(m.get('foreign_1d'))}；5D {_fmt_institutional_flow(m.get('foreign_5d'))}；20D {_fmt_institutional_flow(m.get('foreign_20d'))}",
+            f"- 投信：當日 {_fmt_institutional_flow(m.get('trust_1d'))}；5D {_fmt_institutional_flow(m.get('trust_5d'))}；20D {_fmt_institutional_flow(m.get('trust_20d'))}",
+            f"- 自營商：當日 {_fmt_institutional_flow(m.get('dealer_1d'))}；5D {_fmt_institutional_flow(m.get('dealer_5d'))}；20D {_fmt_institutional_flow(m.get('dealer_20d'))}",
             f"- 主要買超分點：{_fmt_brokers(summary['buys'])}",
             f"- 主要賣超分點：{_fmt_brokers(summary['sells'])}",
             f"- 籌碼狀態：`{summary['status']}`",
