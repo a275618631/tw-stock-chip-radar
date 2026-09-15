@@ -28,27 +28,27 @@
       "name": "USD/TWD",
       "status": "ok",
       "latest_date": "2026-09-15",
-      "close": 31.888,
-      "change_1d_pct": 0.6686,
-      "change_5d_pct": 1.2343
+      "close": 31.822001,
+      "change_1d_pct": 0.4603,
+      "change_5d_pct": 1.0248
     },
     "USD_JPY": {
       "ticker": "JPY=X",
       "name": "USD/JPY",
       "status": "ok",
       "latest_date": "2026-09-15",
-      "close": 154.848999,
-      "change_1d_pct": 0.9288,
-      "change_5d_pct": 0.8933
+      "close": 154.850006,
+      "change_1d_pct": 0.9295,
+      "change_5d_pct": 0.8939
     },
     "NIKKEI": {
       "ticker": "^N225",
       "name": "日經 225",
       "status": "ok",
       "latest_date": "2026-09-15",
-      "close": 63611.839844,
-      "change_1d_pct": 0.1872,
-      "change_5d_pct": -2.3501
+      "close": 63484.101562,
+      "change_1d_pct": -0.014,
+      "change_5d_pct": -2.5462
     },
     "US10Y": {
       "ticker": "^TNX",
@@ -61,8 +61,8 @@
     }
   },
   "environment": {
-    "label": "neutral",
-    "score": -1,
+    "label": "negative",
+    "score": -3,
     "available_factors": 5,
     "risk_flags": []
   },
