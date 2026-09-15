@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2026-09-02",
+    "code": "009828",
+    "name": "中信台日韓PCB",
+    "market": "TWSE",
+    "foreign_ratio": 1.55,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -15.073650074627645,
+    "three_inst_ratio": -13.523650074627644,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-03",
+    "code": "009828",
+    "name": "中信台日韓PCB",
+    "market": "TWSE",
+    "foreign_ratio": 1.02,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -29.98860259976834,
+    "three_inst_ratio": -28.96860259976834,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-04",
+    "code": "009828",
+    "name": "中信台日韓PCB",
+    "market": "TWSE",
+    "foreign_ratio": 2.1,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -37.21809369406517,
+    "three_inst_ratio": -35.118093694065166,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-07",
+    "code": "009828",
+    "name": "中信台日韓PCB",
+    "market": "TWSE",
+    "foreign_ratio": 1.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -39.8497562120979,
+    "three_inst_ratio": -38.6697562120979,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-08",
+    "code": "009828",
+    "name": "中信台日韓PCB",
+    "market": "TWSE",
+    "foreign_ratio": 2.44,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -45.15091348559376,
+    "three_inst_ratio": -42.710913485593764,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-09",
+    "code": "009828",
+    "name": "中信台日韓PCB",
+    "market": "TWSE",
+    "foreign_ratio": 2.82,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -45.31311402768709,
+    "three_inst_ratio": -42.49311402768709,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-10",
+    "code": "009828",
+    "name": "中信台日韓PCB",
+    "market": "TWSE",
+    "foreign_ratio": 1.67,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -47.3962905539577,
+    "three_inst_ratio": -45.726290553957696,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-11",
+    "code": "009828",
+    "name": "中信台日韓PCB",
+    "market": "TWSE",
+    "foreign_ratio": 1.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -50.619568629891646,
+    "three_inst_ratio": -49.48956862989164,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-14",
+    "code": "009828",
+    "name": "中信台日韓PCB",
+    "market": "TWSE",
+    "foreign_ratio": 3.82,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -50.802833515002376,
+    "three_inst_ratio": -46.982833515002376,
+    "three_inst_ratio_change_20": 0.0
+  }
+]

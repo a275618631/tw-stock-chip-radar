@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2026-09-02",
+    "code": "009827",
+    "name": "玉山未來全球算力",
+    "market": "TWSE",
+    "foreign_ratio": 0.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -15.309440149918013,
+    "three_inst_ratio": -15.219440149918013,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-03",
+    "code": "009827",
+    "name": "玉山未來全球算力",
+    "market": "TWSE",
+    "foreign_ratio": 0.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -20.711961281401244,
+    "three_inst_ratio": -20.621961281401244,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-04",
+    "code": "009827",
+    "name": "玉山未來全球算力",
+    "market": "TWSE",
+    "foreign_ratio": 0.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -21.495339453974392,
+    "three_inst_ratio": -21.405339453974392,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-07",
+    "code": "009827",
+    "name": "玉山未來全球算力",
+    "market": "TWSE",
+    "foreign_ratio": 0.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -23.270963517757913,
+    "three_inst_ratio": -23.180963517757913,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-08",
+    "code": "009827",
+    "name": "玉山未來全球算力",
+    "market": "TWSE",
+    "foreign_ratio": 0.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -23.18759599902415,
+    "three_inst_ratio": -23.09759599902415,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-09",
+    "code": "009827",
+    "name": "玉山未來全球算力",
+    "market": "TWSE",
+    "foreign_ratio": 0.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -23.438843064794284,
+    "three_inst_ratio": -23.348843064794284,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-10",
+    "code": "009827",
+    "name": "玉山未來全球算力",
+    "market": "TWSE",
+    "foreign_ratio": 0.09,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -24.92160530842959,
+    "three_inst_ratio": -24.83160530842959,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-11",
+    "code": "009827",
+    "name": "玉山未來全球算力",
+    "market": "TWSE",
+    "foreign_ratio": 0.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -25.82960819712125,
+    "three_inst_ratio": -25.74960819712125,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-14",
+    "code": "009827",
+    "name": "玉山未來全球算力",
+    "market": "TWSE",
+    "foreign_ratio": 0.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -26.34900704054382,
+    "three_inst_ratio": -26.269007040543823,
+    "three_inst_ratio_change_20": 0.0
+  }
+]

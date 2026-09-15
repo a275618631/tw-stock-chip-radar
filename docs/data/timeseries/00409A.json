@@ -1,0 +1,101 @@
+[
+  {
+    "date": "2026-09-02",
+    "code": "00409A",
+    "name": "主動復華全球50",
+    "market": "TWSE",
+    "foreign_ratio": 1.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -1.0100133628973302,
+    "three_inst_ratio": 0.11998663710266966,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-03",
+    "code": "00409A",
+    "name": "主動復華全球50",
+    "market": "TWSE",
+    "foreign_ratio": 1.02,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -2.0081130909431764,
+    "three_inst_ratio": -0.9881130909431763,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-04",
+    "code": "00409A",
+    "name": "主動復華全球50",
+    "market": "TWSE",
+    "foreign_ratio": 1.21,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -2.73831701603308,
+    "three_inst_ratio": -1.5283170160330801,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-07",
+    "code": "00409A",
+    "name": "主動復華全球50",
+    "market": "TWSE",
+    "foreign_ratio": 1.5,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -3.1219106872527003,
+    "three_inst_ratio": -1.6219106872527003,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-08",
+    "code": "00409A",
+    "name": "主動復華全球50",
+    "market": "TWSE",
+    "foreign_ratio": 1.85,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -3.190930443087732,
+    "three_inst_ratio": -1.340930443087732,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-09",
+    "code": "00409A",
+    "name": "主動復華全球50",
+    "market": "TWSE",
+    "foreign_ratio": 2.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -3.465357045478153,
+    "three_inst_ratio": -1.315357045478153,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-10",
+    "code": "00409A",
+    "name": "主動復華全球50",
+    "market": "TWSE",
+    "foreign_ratio": 2.39,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -3.497864861800389,
+    "three_inst_ratio": -1.107864861800389,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-11",
+    "code": "00409A",
+    "name": "主動復華全球50",
+    "market": "TWSE",
+    "foreign_ratio": 2.33,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -3.9947509839209197,
+    "three_inst_ratio": -1.6647509839209196,
+    "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-14",
+    "code": "00409A",
+    "name": "主動復華全球50",
+    "market": "TWSE",
+    "foreign_ratio": 2.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -4.101302485683222,
+    "three_inst_ratio": -1.751302485683222,
+    "three_inst_ratio_change_20": 0.0
+  }
+]
