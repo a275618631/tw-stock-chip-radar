@@ -60,7 +60,11 @@ The current watchlist contains ordinary shares (2330, 2317, 2454), for which `1 
 
 ## GitHub Actions
 
-The first post-fix run exposed the pre-existing asynchronous-market-date validation issue and failed before reaching the report step. The minimal validation hardening above was added before the final remote run; final run and PR details are recorded below after completion.
+- Clean feature-branch validation: [Run 34948538030](https://github.com/a275618631/tw-stock-chip-radar/actions/runs/34948538030) — **success**.
+- `update_all.py`, `update_broker.py`, broker statistics, macro context (`6/6`), and daily report generation all completed successfully.
+- `Commit and push changes` was **skipped** on the feature branch by the main-only guard, and the remote feature branch SHA remained unchanged.
+- Generated `data/`, `docs/data/`, and `reports/daily_market_report.md` changes therefore did not pollute the clean fix branch.
+- The earlier failed run was caused by the pre-existing asynchronous-market-date validation issue; the minimal hardening above resolved it without changing ranking or classification logic.
 
 ## Remaining Risks
 
