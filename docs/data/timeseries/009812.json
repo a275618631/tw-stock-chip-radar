@@ -1274,5 +1274,16 @@
     "dealer_ratio": 21.803107748262647,
     "three_inst_ratio": 22.97310774826265,
     "three_inst_ratio_change_20": -1.4475077530969358
+  },
+  {
+    "date": "2026-09-15",
+    "code": "009812",
+    "name": "野村日本東證",
+    "market": "TWSE",
+    "foreign_ratio": 1.17,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 21.809101340087896,
+    "three_inst_ratio": 22.979101340087894,
+    "three_inst_ratio_change_20": -1.3378042900632394
   }
 ]

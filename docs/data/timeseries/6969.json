@@ -2638,5 +2638,16 @@
     "dealer_ratio": -0.08964778841617049,
     "three_inst_ratio": 1.5303522115838297,
     "three_inst_ratio_change_20": 0.9583641500598683
+  },
+  {
+    "date": "2026-09-15",
+    "code": "6969",
+    "name": "成信實業*-創",
+    "market": "TWSE",
+    "foreign_ratio": 1.62,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.11585785855997292,
+    "three_inst_ratio": 1.5041421414400271,
+    "three_inst_ratio_change_20": 0.8944342078102635
   }
 ]

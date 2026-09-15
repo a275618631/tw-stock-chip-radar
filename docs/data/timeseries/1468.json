@@ -2682,5 +2682,16 @@
     "dealer_ratio": 0.01433743649927056,
     "three_inst_ratio": 2.1643374364992707,
     "three_inst_ratio_change_20": 0.023740526089035097
+  },
+  {
+    "date": "2026-09-15",
+    "code": "1468",
+    "name": "昶和",
+    "market": "TWSE",
+    "foreign_ratio": 2.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.013714015484431418,
+    "three_inst_ratio": 2.163714015484431,
+    "three_inst_ratio_change_20": 0.021870263044517113
   }
 ]

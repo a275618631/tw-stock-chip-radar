@@ -2759,5 +2759,16 @@
     "dealer_ratio": 0.16729059486842585,
     "three_inst_ratio": 12.024929902817515,
     "three_inst_ratio_change_20": 1.1941960174492614
+  },
+  {
+    "date": "2026-09-15",
+    "code": "2636",
+    "name": "台驊控股",
+    "market": "TWSE",
+    "foreign_ratio": 11.95,
+    "trust_ratio": -0.09236069205091006,
+    "dealer_ratio": 0.1664156359460199,
+    "three_inst_ratio": 12.02405494389511,
+    "three_inst_ratio_change_20": 1.1234084839147513
   }
 ]

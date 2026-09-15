@@ -2726,5 +2726,16 @@
     "dealer_ratio": 43.36464272892917,
     "three_inst_ratio": 44.18464272892917,
     "three_inst_ratio_change_20": 1.2199918408758634
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00907",
+    "name": "永豐優息存股",
+    "market": "TWSE",
+    "foreign_ratio": 0.82,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 43.44175015071156,
+    "three_inst_ratio": 44.26175015071156,
+    "three_inst_ratio_change_20": 1.1381378563544686
   }
 ]

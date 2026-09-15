@@ -2759,5 +2759,16 @@
     "dealer_ratio": 0.12577974798848665,
     "three_inst_ratio": 3.3157797479884867,
     "three_inst_ratio_change_20": -0.20927838863142245
+  },
+  {
+    "date": "2026-09-15",
+    "code": "3024",
+    "name": "憶聲",
+    "market": "TWSE",
+    "foreign_ratio": 3.19,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.12577974798848665,
+    "three_inst_ratio": 3.3157797479884867,
+    "three_inst_ratio_change_20": 0.20072161136857725
   }
 ]

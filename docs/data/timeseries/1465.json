@@ -2737,5 +2737,16 @@
     "dealer_ratio": 0.009510915870408974,
     "three_inst_ratio": 0.609510915870409,
     "three_inst_ratio_change_20": 0.0190348167373241
+  },
+  {
+    "date": "2026-09-15",
+    "code": "1465",
+    "name": "偉全",
+    "market": "TWSE",
+    "foreign_ratio": 0.6,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.009510915870408974,
+    "three_inst_ratio": 0.609510915870409,
+    "three_inst_ratio_change_20": 0.0190348167373241
   }
 ]

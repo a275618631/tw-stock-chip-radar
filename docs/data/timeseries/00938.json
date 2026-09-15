@@ -2726,5 +2726,16 @@
     "dealer_ratio": 6.958080898075552,
     "three_inst_ratio": 7.468080898075552,
     "three_inst_ratio_change_20": -4.94588212836911
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00938",
+    "name": "凱基優選30",
+    "market": "TWSE",
+    "foreign_ratio": 0.51,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 5.003995406668251,
+    "three_inst_ratio": 5.513995406668251,
+    "three_inst_ratio_change_20": -6.890848496367989
   }
 ]

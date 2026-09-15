@@ -2726,5 +2726,16 @@
     "dealer_ratio": 0.01128625350084948,
     "three_inst_ratio": 3.9112862535008492,
     "three_inst_ratio_change_20": -0.07573882067038262
+  },
+  {
+    "date": "2026-09-15",
+    "code": "6902",
+    "name": "GOGOLOOK",
+    "market": "TWSE",
+    "foreign_ratio": 3.9,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.01128625350084948,
+    "three_inst_ratio": 3.9112862535008492,
+    "three_inst_ratio_change_20": -0.03573882067038259
   }
 ]

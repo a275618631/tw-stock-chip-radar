@@ -2759,5 +2759,16 @@
     "dealer_ratio": -2.5313828507822422,
     "three_inst_ratio": 1.8813354048978659,
     "three_inst_ratio_change_20": -0.8227454190279015
+  },
+  {
+    "date": "2026-09-15",
+    "code": "5258",
+    "name": "虹堡",
+    "market": "TWSE",
+    "foreign_ratio": 4.41,
+    "trust_ratio": 0.002718255680107843,
+    "dealer_ratio": -2.5290034709769214,
+    "three_inst_ratio": 1.8837147847031868,
+    "three_inst_ratio_change_20": -0.6512784670458704
   }
 ]

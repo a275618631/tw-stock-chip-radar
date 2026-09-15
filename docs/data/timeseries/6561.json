@@ -2682,5 +2682,16 @@
     "dealer_ratio": -0.07135090176975224,
     "three_inst_ratio": -0.10920828642261249,
     "three_inst_ratio_change_20": 0.023031523106499002
+  },
+  {
+    "date": "2026-09-15",
+    "code": "6561",
+    "name": "是方",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": -0.03785738465286024,
+    "dealer_ratio": -0.06999248445035472,
+    "three_inst_ratio": -0.10784986910321495,
+    "three_inst_ratio_change_20": 0.023699828511037385
   }
 ]

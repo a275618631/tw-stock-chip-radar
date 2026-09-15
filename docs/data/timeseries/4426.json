@@ -2737,5 +2737,16 @@
     "dealer_ratio": 0.022249608196676898,
     "three_inst_ratio": 2.232249608196677,
     "three_inst_ratio_change_20": -0.026525308454449448
+  },
+  {
+    "date": "2026-09-15",
+    "code": "4426",
+    "name": "利勤",
+    "market": "TWSE",
+    "foreign_ratio": 2.21,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.019354031908717907,
+    "three_inst_ratio": 2.2293540319087177,
+    "three_inst_ratio_change_20": -0.009420884742408653
   }
 ]

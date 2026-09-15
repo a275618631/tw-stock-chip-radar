@@ -2726,5 +2726,16 @@
     "dealer_ratio": 0.003447284185255577,
     "three_inst_ratio": 4.50141367410223,
     "three_inst_ratio_change_20": 0.32827873362008564
+  },
+  {
+    "date": "2026-09-15",
+    "code": "4770",
+    "name": "上品",
+    "market": "TWSE",
+    "foreign_ratio": 7.11,
+    "trust_ratio": -2.613283985195559,
+    "dealer_ratio": -0.0014666900070021006,
+    "three_inst_ratio": 4.495249324797439,
+    "three_inst_ratio_change_20": 0.38531334400320016
   }
 ]

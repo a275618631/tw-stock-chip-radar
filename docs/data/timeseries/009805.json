@@ -1274,5 +1274,16 @@
     "dealer_ratio": 1.7124953072206233,
     "three_inst_ratio": 2.402495307220623,
     "three_inst_ratio_change_20": -5.414972172096696
+  },
+  {
+    "date": "2026-09-15",
+    "code": "009805",
+    "name": "台新美國電力基建",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 1.3062563805333633,
+    "three_inst_ratio": 1.9962563805333633,
+    "three_inst_ratio_change_20": -6.132855044533889
   }
 ]

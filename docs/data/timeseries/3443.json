@@ -2759,5 +2759,16 @@
     "dealer_ratio": 0.29838094018374234,
     "three_inst_ratio": 36.83530242546873,
     "three_inst_ratio_change_20": 1.7341435560157024
+  },
+  {
+    "date": "2026-09-15",
+    "code": "3443",
+    "name": "創意",
+    "market": "TWSE",
+    "foreign_ratio": 27.3,
+    "trust_ratio": 9.283186029635829,
+    "dealer_ratio": 0.3072734333293703,
+    "three_inst_ratio": 36.8904594629652,
+    "three_inst_ratio_change_20": 1.6547478705083165
   }
 ]

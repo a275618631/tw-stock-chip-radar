@@ -2682,5 +2682,16 @@
     "dealer_ratio": -0.038860180290746664,
     "three_inst_ratio": -0.038860180290746664,
     "three_inst_ratio_change_20": 0.0003607555803528256
+  },
+  {
+    "date": "2026-09-15",
+    "code": "3466",
+    "name": "德晉",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.03868943120823091,
+    "three_inst_ratio": -0.03868943120823091,
+    "three_inst_ratio_change_20": 0.00044548820776665887
   }
 ]

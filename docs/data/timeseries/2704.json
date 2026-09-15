@@ -2759,5 +2759,16 @@
     "dealer_ratio": -0.0017319693939450453,
     "three_inst_ratio": 9.47837286683611,
     "three_inst_ratio_change_20": -0.28691824848003833
+  },
+  {
+    "date": "2026-09-15",
+    "code": "2704",
+    "name": "國賓",
+    "market": "TWSE",
+    "foreign_ratio": 9.5,
+    "trust_ratio": -0.019895163769943085,
+    "dealer_ratio": -0.0017319693939450453,
+    "three_inst_ratio": 9.47837286683611,
+    "three_inst_ratio_change_20": -0.23691824848003762
   }
 ]

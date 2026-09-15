@@ -2682,5 +2682,16 @@
     "dealer_ratio": -1.1807896342677804,
     "three_inst_ratio": -1.8595036344922518,
     "three_inst_ratio_change_20": -0.29280278890976863
+  },
+  {
+    "date": "2026-09-15",
+    "code": "8155",
+    "name": "博智",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": -0.6787140002244714,
+    "dealer_ratio": -1.1858206043520054,
+    "three_inst_ratio": -1.8645346045764768,
+    "three_inst_ratio_change_20": -0.3244505443100425
   }
 ]

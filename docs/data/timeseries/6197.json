@@ -2759,5 +2759,16 @@
     "dealer_ratio": -0.6244079884683145,
     "three_inst_ratio": -0.3283743986057295,
     "three_inst_ratio_change_20": -1.9473795210817257
+  },
+  {
+    "date": "2026-09-15",
+    "code": "6197",
+    "name": "佳必琪",
+    "market": "TWSE",
+    "foreign_ratio": 4.56,
+    "trust_ratio": -4.2803483207009965,
+    "dealer_ratio": -0.633160024186908,
+    "three_inst_ratio": -0.35350834488790484,
+    "three_inst_ratio_change_20": -1.8735587777463085
   }
 ]

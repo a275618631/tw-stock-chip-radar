@@ -2759,5 +2759,16 @@
     "dealer_ratio": 0.04086236415974956,
     "three_inst_ratio": 13.17086236415975,
     "three_inst_ratio_change_20": -0.1879388344691133
+  },
+  {
+    "date": "2026-09-15",
+    "code": "2601",
+    "name": "益航",
+    "market": "TWSE",
+    "foreign_ratio": 13.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.04086236415974956,
+    "three_inst_ratio": 13.17086236415975,
+    "three_inst_ratio_change_20": -0.28933691092420943
   }
 ]

@@ -2759,5 +2759,16 @@
     "dealer_ratio": 0.059821548854832825,
     "three_inst_ratio": 6.574036282360366,
     "three_inst_ratio_change_20": -0.5195968865668918
+  },
+  {
+    "date": "2026-09-15",
+    "code": "9935",
+    "name": "慶豐富",
+    "market": "TWSE",
+    "foreign_ratio": 6.19,
+    "trust_ratio": 0.32785117022130467,
+    "dealer_ratio": 0.059821548854832825,
+    "three_inst_ratio": 6.577672719076138,
+    "three_inst_ratio_change_20": -0.4459604498511194
   }
 ]

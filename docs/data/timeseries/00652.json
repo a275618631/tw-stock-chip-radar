@@ -2759,5 +2759,16 @@
     "dealer_ratio": 8.27771770295732,
     "three_inst_ratio": 10.861543376751044,
     "three_inst_ratio_change_20": -1.1234010543675303
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00652",
+    "name": "富邦印度",
+    "market": "TWSE",
+    "foreign_ratio": 0.68,
+    "trust_ratio": 1.903825673793725,
+    "dealer_ratio": 8.243837142623086,
+    "three_inst_ratio": 10.827662816416812,
+    "three_inst_ratio_change_20": -1.0462677824478241
   }
 ]

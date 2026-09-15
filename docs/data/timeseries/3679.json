@@ -2759,5 +2759,16 @@
     "dealer_ratio": 0.021925597077818368,
     "three_inst_ratio": 8.819160240587491,
     "three_inst_ratio_change_20": 0.09353526055068784
+  },
+  {
+    "date": "2026-09-15",
+    "code": "3679",
+    "name": "新至陞",
+    "market": "TWSE",
+    "foreign_ratio": 8.63,
+    "trust_ratio": 0.16956398035366219,
+    "dealer_ratio": 0.021925597077818368,
+    "three_inst_ratio": 8.82148957743148,
+    "three_inst_ratio_change_20": 0.06586459739467543
   }
 ]

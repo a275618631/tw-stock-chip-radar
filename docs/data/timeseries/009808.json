@@ -1274,5 +1274,16 @@
     "dealer_ratio": 9.921581092512369,
     "three_inst_ratio": 12.871581092512368,
     "three_inst_ratio_change_20": 1.7569983527657982
+  },
+  {
+    "date": "2026-09-15",
+    "code": "009808",
+    "name": "華南永昌優選50",
+    "market": "TWSE",
+    "foreign_ratio": 2.95,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 9.975614570249416,
+    "three_inst_ratio": 12.925614570249415,
+    "three_inst_ratio_change_20": 1.9218451068518494
   }
 ]

@@ -2682,5 +2682,16 @@
     "dealer_ratio": -2.802583898284639,
     "three_inst_ratio": -3.591505223286448,
     "three_inst_ratio_change_20": -0.9015537166156
+  },
+  {
+    "date": "2026-09-15",
+    "code": "6811",
+    "name": "宏碁資訊",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": -0.7889213250018093,
+    "dealer_ratio": -2.6783782479673817,
+    "three_inst_ratio": -3.467299572969191,
+    "three_inst_ratio_change_20": -0.7732611160703518
   }
 ]

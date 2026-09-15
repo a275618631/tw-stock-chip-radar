@@ -2539,5 +2539,16 @@
     "dealer_ratio": 0.011384630503144654,
     "three_inst_ratio": 0.011384630503144654,
     "three_inst_ratio_change_20": 0.0014511268343815522
+  },
+  {
+    "date": "2026-09-15",
+    "code": "4711",
+    "name": "永純",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.010043238993710691,
+    "three_inst_ratio": 0.010043238993710691,
+    "three_inst_ratio_change_20": 0.00010973532494758936
   }
 ]

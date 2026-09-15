@@ -97,5 +97,16 @@
     "dealer_ratio": -50.802833515002376,
     "three_inst_ratio": -46.982833515002376,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-15",
+    "code": "009828",
+    "name": "中信台日韓PCB",
+    "market": "TWSE",
+    "foreign_ratio": 3.82,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -52.568785776292515,
+    "three_inst_ratio": -48.748785776292515,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

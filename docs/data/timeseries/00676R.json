@@ -2759,5 +2759,16 @@
     "dealer_ratio": -31.93310805339361,
     "three_inst_ratio": -31.40310805339361,
     "three_inst_ratio_change_20": 1.4536050916753211
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00676R",
+    "name": "富邦臺灣加權反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.53,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -31.6261874259409,
+    "three_inst_ratio": -31.096187425940897,
+    "three_inst_ratio_change_20": 1.1616591677480557
   }
 ]

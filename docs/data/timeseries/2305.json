@@ -2759,5 +2759,16 @@
     "dealer_ratio": 0.39318912201009476,
     "three_inst_ratio": 4.017390663463587,
     "three_inst_ratio_change_20": 0.9234591446527638
+  },
+  {
+    "date": "2026-09-15",
+    "code": "2305",
+    "name": "全友",
+    "market": "TWSE",
+    "foreign_ratio": 3.49,
+    "trust_ratio": 0.13420154145349228,
+    "dealer_ratio": 0.3224041299804751,
+    "three_inst_ratio": 3.9466056714339675,
+    "three_inst_ratio_change_20": 0.9035741781783266
   }
 ]

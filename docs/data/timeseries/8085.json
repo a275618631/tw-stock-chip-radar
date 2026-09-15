@@ -2682,5 +2682,16 @@
     "dealer_ratio": -0.000137159453436723,
     "three_inst_ratio": -0.000137159453436723,
     "three_inst_ratio_change_20": 0.00017930741048238265
+  },
+  {
+    "date": "2026-09-15",
+    "code": "8085",
+    "name": "福華",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0002443152764341628,
+    "three_inst_ratio": 0.0002443152764341628,
+    "three_inst_ratio_change_20": 0.0008979657967185458
   }
 ]

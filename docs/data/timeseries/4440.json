@@ -2715,5 +2715,16 @@
     "dealer_ratio": -0.08821118968016806,
     "three_inst_ratio": 1.911788810319832,
     "three_inst_ratio_change_20": 0.06348797301695308
+  },
+  {
+    "date": "2026-09-15",
+    "code": "4440",
+    "name": "宜新實業",
+    "market": "TWSE",
+    "foreign_ratio": 2.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.09708719192875528,
+    "three_inst_ratio": 1.9029128080712447,
+    "three_inst_ratio_change_20": 0.06461197076836589
   }
 ]

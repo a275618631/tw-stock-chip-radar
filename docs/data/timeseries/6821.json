@@ -2671,5 +2671,16 @@
     "dealer_ratio": -1.794571956170786,
     "three_inst_ratio": -1.794571956170786,
     "three_inst_ratio_change_20": -0.03810579860172658
+  },
+  {
+    "date": "2026-09-15",
+    "code": "6821",
+    "name": "聯寶",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -1.7947575561160674,
+    "three_inst_ratio": -1.7947575561160674,
+    "three_inst_ratio_change_20": -0.037956710121090476
   }
 ]
