@@ -60,7 +60,19 @@ The current watchlist contains ordinary shares (2330, 2317, 2454), for which `1 
 
 ## GitHub Actions
 
-The first post-fix run exposed the pre-existing asynchronous-market-date validation issue and failed before reaching the report step. The minimal validation hardening above was added before the final remote run; final run and PR details are recorded below after completion.
+The first post-fix run ([34944653467](https://github.com/a275618631/tw-stock-chip-radar/actions/runs/34944653467)) exposed the pre-existing asynchronous-market-date validation issue and failed before reaching the report step. The minimal validation hardening above was added before the final remote run.
+
+- Final run: [34945780520](https://github.com/a275618631/tw-stock-chip-radar/actions/runs/34945780520) — `success`.
+- Verified remotely: `update_all.py`, `update_broker.py`, Fubon ranking verification, broker statistics, macro context `6/6`, daily report generation, and branch push.
+- Remote report readback confirmed converted institutional values and unchanged broker lots, including `群益金鼎 (+709 張)`.
+
+## Pull Request
+
+- PR: [#1](https://github.com/a275618631/tw-stock-chip-radar/pull/1)
+- Title: `fix: correct institutional flow unit display`
+- Base: `main`
+- Head: `codex/fix-institutional-flow-unit`
+- Status: open; not merged.
 
 ## Remaining Risks
 
