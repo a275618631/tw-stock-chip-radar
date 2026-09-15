@@ -2726,5 +2726,16 @@
     "dealer_ratio": 0.02403133333333333,
     "three_inst_ratio": 0.4360313333333333,
     "three_inst_ratio_change_20": 0.0032786666666667075
+  },
+  {
+    "date": "2026-09-15",
+    "code": "8463",
+    "name": "潤泰材",
+    "market": "TWSE",
+    "foreign_ratio": 0.41,
+    "trust_ratio": 0.002,
+    "dealer_ratio": 0.02403133333333333,
+    "three_inst_ratio": 0.4360313333333333,
+    "three_inst_ratio_change_20": 0.01327866666666666
   }
 ]

@@ -2682,5 +2682,16 @@
     "dealer_ratio": 0.2383948401632625,
     "three_inst_ratio": 3.2488721862122185,
     "three_inst_ratio_change_20": 0.16951601399789684
+  },
+  {
+    "date": "2026-09-15",
+    "code": "8069",
+    "name": "元太",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 3.0305317388465336,
+    "dealer_ratio": 0.2471609920870867,
+    "three_inst_ratio": 3.2776927309336203,
+    "three_inst_ratio_change_20": 0.18770920321337536
   }
 ]

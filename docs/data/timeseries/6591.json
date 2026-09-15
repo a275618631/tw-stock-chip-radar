@@ -2726,5 +2726,16 @@
     "dealer_ratio": -0.12225677619276958,
     "three_inst_ratio": 18.383574709103648,
     "three_inst_ratio_change_20": -0.13728858666425126
+  },
+  {
+    "date": "2026-09-15",
+    "code": "6591",
+    "name": "動力-KY",
+    "market": "TWSE",
+    "foreign_ratio": 19.07,
+    "trust_ratio": -0.5641685147035811,
+    "dealer_ratio": -0.12233459253962525,
+    "three_inst_ratio": 18.383496892756792,
+    "three_inst_ratio_change_20": -0.056712259345349736
   }
 ]

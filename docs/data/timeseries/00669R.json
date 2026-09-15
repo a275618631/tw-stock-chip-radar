@@ -2759,5 +2759,16 @@
     "dealer_ratio": 11.169460365686074,
     "three_inst_ratio": 11.409460365686074,
     "three_inst_ratio_change_20": 1.4834582790720923
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00669R",
+    "name": "國泰美國道瓊反1",
+    "market": "TWSE",
+    "foreign_ratio": 0.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 11.214933763748206,
+    "three_inst_ratio": 11.454933763748206,
+    "three_inst_ratio_change_20": 1.7630102761776971
   }
 ]

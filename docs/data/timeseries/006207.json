@@ -1296,5 +1296,16 @@
     "dealer_ratio": 6.881351713574574,
     "three_inst_ratio": 9.651351713574574,
     "three_inst_ratio_change_20": -1.6652125215393454
+  },
+  {
+    "date": "2026-09-15",
+    "code": "006207",
+    "name": "復華滬深",
+    "market": "TWSE",
+    "foreign_ratio": 2.77,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 6.890134979896612,
+    "three_inst_ratio": 9.660134979896611,
+    "three_inst_ratio_change_20": -1.6052958070074688
   }
 ]

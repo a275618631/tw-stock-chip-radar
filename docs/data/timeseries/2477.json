@@ -2759,5 +2759,16 @@
     "dealer_ratio": -0.08109501751758323,
     "three_inst_ratio": 23.683425664672658,
     "three_inst_ratio_change_20": -0.316274481462969
+  },
+  {
+    "date": "2026-09-15",
+    "code": "2477",
+    "name": "美隆電",
+    "market": "TWSE",
+    "foreign_ratio": 23.47,
+    "trust_ratio": 0.2978358694610549,
+    "dealer_ratio": -0.08046439410673846,
+    "three_inst_ratio": 23.687371475354315,
+    "three_inst_ratio_change_20": -0.27295929419215526
   }
 ]

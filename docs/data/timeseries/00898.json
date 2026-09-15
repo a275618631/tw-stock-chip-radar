@@ -2726,5 +2726,16 @@
     "dealer_ratio": 12.597986536320624,
     "three_inst_ratio": 15.187986536320624,
     "three_inst_ratio_change_20": 6.0644678061204225
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00898",
+    "name": "國泰基因免疫革命",
+    "market": "TWSE",
+    "foreign_ratio": 2.59,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 12.601246347063736,
+    "three_inst_ratio": 15.191246347063736,
+    "three_inst_ratio_change_20": 5.215764783328801
   }
 ]

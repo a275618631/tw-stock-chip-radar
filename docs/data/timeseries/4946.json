@@ -2671,5 +2671,16 @@
     "dealer_ratio": 0.006969533761912594,
     "three_inst_ratio": 0.006969533761912594,
     "three_inst_ratio_change_20": -0.001875109569655576
+  },
+  {
+    "date": "2026-09-15",
+    "code": "4946",
+    "name": "辣椒",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.006980829602693652,
+    "three_inst_ratio": 0.006980829602693652,
+    "three_inst_ratio_change_20": -0.0019089970919987488
   }
 ]

@@ -2682,5 +2682,16 @@
     "dealer_ratio": 0.2557673759130837,
     "three_inst_ratio": 0.2557673759130837,
     "three_inst_ratio_change_20": 0.26014887661019653
+  },
+  {
+    "date": "2026-09-15",
+    "code": "1565",
+    "name": "精華",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.2516119915941831,
+    "three_inst_ratio": 0.2516119915941831,
+    "three_inst_ratio_change_20": 0.2603016043393399
   }
 ]

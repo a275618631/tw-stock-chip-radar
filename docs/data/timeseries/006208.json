@@ -1296,5 +1296,16 @@
     "dealer_ratio": -0.055202898083352145,
     "three_inst_ratio": 1.0911393466412975,
     "three_inst_ratio_change_20": 0.061255526938495564
+  },
+  {
+    "date": "2026-09-15",
+    "code": "006208",
+    "name": "富邦台50",
+    "market": "TWSE",
+    "foreign_ratio": 1.14,
+    "trust_ratio": 0.006342244724649833,
+    "dealer_ratio": -0.0586475969342234,
+    "three_inst_ratio": 1.0876946477904261,
+    "three_inst_ratio_change_20": 0.09731675269139606
   }
 ]

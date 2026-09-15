@@ -2715,5 +2715,16 @@
     "dealer_ratio": 0.018887131208780928,
     "three_inst_ratio": 50.498887131208775,
     "three_inst_ratio_change_20": -0.009291339228894913
+  },
+  {
+    "date": "2026-09-15",
+    "code": "8466",
+    "name": "美吉吉-KY",
+    "market": "TWSE",
+    "foreign_ratio": 50.48,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.018887131208780928,
+    "three_inst_ratio": 50.498887131208775,
+    "three_inst_ratio_change_20": 0.010708660771108214
   }
 ]

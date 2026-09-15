@@ -1274,5 +1274,16 @@
     "dealer_ratio": 26.90867703873864,
     "three_inst_ratio": 29.12867703873864,
     "three_inst_ratio_change_20": 1.2891312519578122
+  },
+  {
+    "date": "2026-09-15",
+    "code": "009810",
+    "name": "玉山全球藍籌100",
+    "market": "TWSE",
+    "foreign_ratio": 2.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 26.839177195363895,
+    "three_inst_ratio": 29.059177195363894,
+    "three_inst_ratio_change_20": 1.343255716821556
   }
 ]

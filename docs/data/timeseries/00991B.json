@@ -339,5 +339,16 @@
     "dealer_ratio": -0.7777131663376111,
     "three_inst_ratio": 81.4522868336624,
     "three_inst_ratio_change_20": -13.629158104107304
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00991B",
+    "name": "貝萊德A級公司債",
+    "market": "TWSE",
+    "foreign_ratio": 82.23,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.7945775234452123,
+    "three_inst_ratio": 81.43542247655479,
+    "three_inst_ratio_change_20": -12.982784565973148
   }
 ]

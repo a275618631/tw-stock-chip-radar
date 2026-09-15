@@ -2726,5 +2726,16 @@
     "dealer_ratio": -0.08756203393449777,
     "three_inst_ratio": 49.219851774810685,
     "three_inst_ratio_change_20": -2.6975729231210863
+  },
+  {
+    "date": "2026-09-15",
+    "code": "1795",
+    "name": "美時",
+    "market": "TWSE",
+    "foreign_ratio": 49.4,
+    "trust_ratio": -0.09036524202311196,
+    "dealer_ratio": -0.08096544455813524,
+    "three_inst_ratio": 49.22866931341875,
+    "three_inst_ratio_change_20": -2.7985983814722033
   }
 ]

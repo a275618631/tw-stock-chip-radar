@@ -2759,5 +2759,16 @@
     "dealer_ratio": 0.046222413976136634,
     "three_inst_ratio": 9.236951243402094,
     "three_inst_ratio_change_20": 3.610595882329932
+  },
+  {
+    "date": "2026-09-15",
+    "code": "6108",
+    "name": "競國",
+    "market": "TWSE",
+    "foreign_ratio": 9.19,
+    "trust_ratio": 0.0007288294259586037,
+    "dealer_ratio": 0.04686968700096666,
+    "three_inst_ratio": 9.237598516426925,
+    "three_inst_ratio_change_20": 2.9512548062692083
   }
 ]

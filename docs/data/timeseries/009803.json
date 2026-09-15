@@ -1274,5 +1274,16 @@
     "dealer_ratio": -48.81475140815346,
     "three_inst_ratio": -47.42470672566114,
     "three_inst_ratio_change_20": -28.48805771174371
+  },
+  {
+    "date": "2026-09-15",
+    "code": "009803",
+    "name": "玉山市值動能50",
+    "market": "TWSE",
+    "foreign_ratio": 0.1,
+    "trust_ratio": 1.2900446824923224,
+    "dealer_ratio": -51.09975548342963,
+    "three_inst_ratio": -49.70971080093731,
+    "three_inst_ratio_change_20": -30.68905761390996
   }
 ]

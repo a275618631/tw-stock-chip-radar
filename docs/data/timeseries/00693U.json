@@ -2759,5 +2759,16 @@
     "dealer_ratio": 2.375037965637376,
     "three_inst_ratio": 2.735037965637376,
     "three_inst_ratio_change_20": 6.766805034986209
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00693U",
+    "name": "期街口S&P黃豆",
+    "market": "TWSE",
+    "foreign_ratio": 0.36,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 3.652839234136319,
+    "three_inst_ratio": 4.012839234136319,
+    "three_inst_ratio_change_20": 7.520274686040862
   }
 ]

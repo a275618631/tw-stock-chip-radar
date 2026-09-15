@@ -2759,5 +2759,16 @@
     "dealer_ratio": 71.69513942981773,
     "three_inst_ratio": 72.38513942981773,
     "three_inst_ratio_change_20": -4.329040348964014
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00640L",
+    "name": "富邦日本正2",
+    "market": "TWSE",
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 71.79956379498364,
+    "three_inst_ratio": 72.48956379498364,
+    "three_inst_ratio_change_20": -4.294516279794365
   }
 ]

@@ -2726,5 +2726,16 @@
     "dealer_ratio": 2.574299879405065,
     "three_inst_ratio": 4.084299879405065,
     "three_inst_ratio_change_20": -0.552654122273279
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00926",
+    "name": "凱基全球菁英55",
+    "market": "TWSE",
+    "foreign_ratio": 1.51,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 2.6025143086847495,
+    "three_inst_ratio": 4.11251430868475,
+    "three_inst_ratio_change_20": -0.4801960678859132
   }
 ]

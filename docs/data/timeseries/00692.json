@@ -2759,5 +2759,16 @@
     "dealer_ratio": 5.829370271327941,
     "three_inst_ratio": 6.1956760370467,
     "three_inst_ratio_change_20": 0.30245633267735705
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00692",
+    "name": "富邦公司治理",
+    "market": "TWSE",
+    "foreign_ratio": 0.35,
+    "trust_ratio": 0.01630576571875815,
+    "dealer_ratio": 5.850105661361858,
+    "three_inst_ratio": 6.216411427080616,
+    "three_inst_ratio_change_20": 0.34008760081246514
   }
 ]

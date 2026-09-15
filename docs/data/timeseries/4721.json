@@ -2682,5 +2682,16 @@
     "dealer_ratio": -0.14359155506584242,
     "three_inst_ratio": -0.14359155506584242,
     "three_inst_ratio_change_20": -0.03651066733466421
+  },
+  {
+    "date": "2026-09-15",
+    "code": "4721",
+    "name": "美琪瑪",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.14448238440982503,
+    "three_inst_ratio": -0.14448238440982503,
+    "three_inst_ratio_change_20": -0.031951168042633496
   }
 ]

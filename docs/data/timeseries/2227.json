@@ -2726,5 +2726,16 @@
     "dealer_ratio": 0.014305666666666666,
     "three_inst_ratio": 40.454011,
     "three_inst_ratio_change_20": -0.01847166666666311
+  },
+  {
+    "date": "2026-09-15",
+    "code": "2227",
+    "name": "裕日車",
+    "market": "TWSE",
+    "foreign_ratio": 40.45,
+    "trust_ratio": -0.010294666666666667,
+    "dealer_ratio": 0.015305666666666665,
+    "three_inst_ratio": 40.455011000000006,
+    "three_inst_ratio_change_20": -0.007471666666660326
   }
 ]

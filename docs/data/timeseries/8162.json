@@ -2726,5 +2726,16 @@
     "dealer_ratio": -0.03959710052109108,
     "three_inst_ratio": 1.0904028994789088,
     "three_inst_ratio_change_20": -0.561308258857093
+  },
+  {
+    "date": "2026-09-15",
+    "code": "8162",
+    "name": "微矽電子-創",
+    "market": "TWSE",
+    "foreign_ratio": 1.13,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.042891036651043636,
+    "three_inst_ratio": 1.0871089633489563,
+    "three_inst_ratio_change_20": -0.46749119385170745
   }
 ]

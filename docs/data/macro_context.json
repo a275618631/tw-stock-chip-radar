@@ -28,18 +28,18 @@
       "name": "USD/TWD",
       "status": "ok",
       "latest_date": "2026-09-15",
-      "close": 31.822001,
-      "change_1d_pct": 0.4603,
-      "change_5d_pct": 1.0248
+      "close": 31.861,
+      "change_1d_pct": 0.5834,
+      "change_5d_pct": 1.1486
     },
     "USD_JPY": {
       "ticker": "JPY=X",
       "name": "USD/JPY",
       "status": "ok",
       "latest_date": "2026-09-15",
-      "close": 154.850006,
-      "change_1d_pct": 0.9295,
-      "change_5d_pct": 0.8939
+      "close": 154.975998,
+      "change_1d_pct": 1.0116,
+      "change_5d_pct": 0.976
     },
     "NIKKEI": {
       "ticker": "^N225",
@@ -64,7 +64,9 @@
     "label": "negative",
     "score": -3,
     "available_factors": 5,
-    "risk_flags": []
+    "risk_flags": [
+      "USD/JPY 劇烈波動，carry trade 風險需留意"
+    ]
   },
   "limitations": [
     "yfinance is a third-party convenience provider",

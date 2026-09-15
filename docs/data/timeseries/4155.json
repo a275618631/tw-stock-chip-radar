@@ -2759,5 +2759,16 @@
     "dealer_ratio": 0.08874004631056014,
     "three_inst_ratio": 2.9106140428417335,
     "three_inst_ratio_change_20": -0.15880405878271242
+  },
+  {
+    "date": "2026-09-15",
+    "code": "4155",
+    "name": "訊映",
+    "market": "TWSE",
+    "foreign_ratio": 2.82,
+    "trust_ratio": 0.0018739965311733093,
+    "dealer_ratio": 0.08874004631056014,
+    "three_inst_ratio": 2.9106140428417335,
+    "three_inst_ratio_change_20": -0.1388040587827124
   }
 ]

@@ -757,5 +757,16 @@
     "dealer_ratio": 4.514243875665176,
     "three_inst_ratio": 4.9242438756651765,
     "three_inst_ratio_change_20": -0.8002734705009464
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00402A",
+    "name": "主動安聯美國科技",
+    "market": "TWSE",
+    "foreign_ratio": 0.41,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 4.9258988003607636,
+    "three_inst_ratio": 5.335898800360764,
+    "three_inst_ratio_change_20": 0.4337985308522745
   }
 ]

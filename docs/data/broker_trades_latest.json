@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-15T14:47:48.425730+08:00",
+  "updated": "2026-09-15T16:58:50.666517+08:00",
   "count": 600,
   "data": [
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "群益金鼎",
       "broker_id": "9100",
@@ -16,8 +16,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -29,8 +29,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -42,8 +42,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -55,8 +55,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "華南永昌",
       "broker_id": "9300",
@@ -68,8 +68,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -81,8 +81,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -94,8 +94,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -107,8 +107,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "台新",
       "broker_id": "0039004200300030",
@@ -120,8 +120,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -133,8 +133,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "土銀",
       "broker_id": "1030",
@@ -146,8 +146,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "港商麥格理",
       "broker_id": "1360",
@@ -159,8 +159,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "彰銀",
       "broker_id": "1230",
@@ -172,8 +172,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -185,8 +185,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "臺銀",
       "broker_id": "1040",
@@ -198,8 +198,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -211,8 +211,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "國泰-台中",
       "broker_id": "8882",
@@ -224,8 +224,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -237,8 +237,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "國泰-板橋",
       "broker_id": "003800380038004b",
@@ -250,8 +250,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "國票-敦北法人",
       "broker_id": "0037003700390063",
@@ -263,8 +263,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "元大-新竹經國",
       "broker_id": "9859",
@@ -276,8 +276,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "第一金",
       "broker_id": "5380",
@@ -289,8 +289,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "新光",
       "broker_id": "8560",
@@ -302,8 +302,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -315,8 +315,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "元大-天母",
       "broker_id": "0039003800310049",
@@ -328,8 +328,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "群益金鼎-北高雄",
       "broker_id": "0039003100330052",
@@ -341,8 +341,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "華南永昌-中正",
       "broker_id": "9359",
@@ -354,8 +354,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "法銀巴黎",
       "broker_id": "8900",
@@ -367,8 +367,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "玉山證券",
       "broker_id": "8840",
@@ -380,8 +380,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2330",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -393,8 +393,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -406,8 +406,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -419,8 +419,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -432,8 +432,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -445,8 +445,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "國泰證券",
       "broker_id": "8880",
@@ -458,8 +458,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "港商麥格理",
       "broker_id": "1360",
@@ -471,8 +471,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "統一",
       "broker_id": "5850",
@@ -484,8 +484,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -497,8 +497,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -510,8 +510,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -523,8 +523,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "群益金鼎",
       "broker_id": "9100",
@@ -536,8 +536,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -549,8 +549,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -562,8 +562,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -575,8 +575,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -588,8 +588,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "大和國泰",
       "broker_id": "8890",
@@ -601,8 +601,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "元大-大里",
       "broker_id": "0039003800310067",
@@ -614,8 +614,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "富邦-台北",
       "broker_id": "9623",
@@ -627,8 +627,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "台新",
       "broker_id": "0039004200300030",
@@ -640,8 +640,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -653,8 +653,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "富邦-台中",
       "broker_id": "003900360035004b",
@@ -666,8 +666,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "國泰-館前",
       "broker_id": "0038003800380041",
@@ -679,8 +679,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "大昌-安康",
       "broker_id": "6462",
@@ -692,8 +692,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "中國信託",
       "broker_id": "6160",
@@ -705,8 +705,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "台新-安南",
       "broker_id": "003900420032005a",
@@ -718,8 +718,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "國泰-台中",
       "broker_id": "8882",
@@ -731,8 +731,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "永豐金-市政",
       "broker_id": "0039004100390057",
@@ -744,8 +744,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "宏遠-台南",
       "broker_id": "0031003200360044",
@@ -757,8 +757,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "台新-中港",
       "broker_id": "0039004200320069",
@@ -770,8 +770,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2317",
       "broker_name": "中國信託-高雄",
       "broker_id": "003600310036004b",
@@ -783,8 +783,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -796,8 +796,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -809,8 +809,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -822,8 +822,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -835,8 +835,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -848,8 +848,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -861,8 +861,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -874,8 +874,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -887,8 +887,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -900,8 +900,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "元大-敦化",
       "broker_id": "9833",
@@ -913,8 +913,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "元大-館前",
       "broker_id": "003900380034004b",
@@ -926,8 +926,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -939,8 +939,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -952,8 +952,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "玉山證券",
       "broker_id": "8840",
@@ -965,8 +965,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "凱基-站前",
       "broker_id": "0039003200300046",
@@ -978,8 +978,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "群益金鼎-敦南",
       "broker_id": "9101",
@@ -991,8 +991,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "宏遠證券",
       "broker_id": "1260",
@@ -1004,8 +1004,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "富邦-建國",
       "broker_id": "9658",
@@ -1017,8 +1017,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "群益金鼎-忠孝",
       "broker_id": "0039003100380057",
@@ -1030,8 +1030,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "群益金鼎",
       "broker_id": "9100",
@@ -1043,8 +1043,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "台新-西松",
       "broker_id": "003900420032006e",
@@ -1056,8 +1056,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -1069,8 +1069,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "永豐金-古亭",
       "broker_id": "0039004100390064",
@@ -1082,8 +1082,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -1095,8 +1095,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "兆豐-彰化",
       "broker_id": "0037003000300064",
@@ -1108,8 +1108,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "聯邦-台南",
       "broker_id": "8588",
@@ -1121,8 +1121,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "統一",
       "broker_id": "5850",
@@ -1134,8 +1134,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "富邦-永和",
       "broker_id": "9654",
@@ -1147,8 +1147,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "國票-敦北法人",
       "broker_id": "0037003700390063",
@@ -1160,8 +1160,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2454",
       "broker_name": "富邦-台南",
       "broker_id": "9667",
@@ -1173,8 +1173,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -1186,8 +1186,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -1199,8 +1199,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -1212,8 +1212,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "港商麥格理",
       "broker_id": "1360",
@@ -1225,8 +1225,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -1238,8 +1238,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "兆豐證券",
       "broker_id": "7000",
@@ -1251,8 +1251,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -1264,8 +1264,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -1277,8 +1277,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -1290,8 +1290,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "台新-台北",
       "broker_id": "0039004200320030",
@@ -1303,8 +1303,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -1316,8 +1316,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -1329,8 +1329,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -1342,8 +1342,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "國泰證券",
       "broker_id": "8880",
@@ -1355,8 +1355,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "元大-館前",
       "broker_id": "003900380034004b",
@@ -1368,8 +1368,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -1381,8 +1381,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "統一",
       "broker_id": "5850",
@@ -1394,8 +1394,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "宏遠-民生",
       "broker_id": "1261",
@@ -1407,8 +1407,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "土銀",
       "broker_id": "1030",
@@ -1420,8 +1420,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "國票-敦北法人",
       "broker_id": "0037003700390063",
@@ -1433,8 +1433,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "中國信託",
       "broker_id": "6160",
@@ -1446,8 +1446,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "第一金",
       "broker_id": "5380",
@@ -1459,8 +1459,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -1472,8 +1472,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "台中銀",
       "broker_id": "6110",
@@ -1485,8 +1485,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "凱基-大里",
       "broker_id": "0039003200300057",
@@ -1498,8 +1498,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "康和",
       "broker_id": "8450",
@@ -1511,8 +1511,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -1524,8 +1524,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "大和國泰",
       "broker_id": "8890",
@@ -1537,8 +1537,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "凱基-站前",
       "broker_id": "0039003200300046",
@@ -1550,8 +1550,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2308",
       "broker_name": "兆豐-忠孝",
       "broker_id": "0037003000300061",
@@ -1563,8 +1563,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "統一",
       "broker_id": "5850",
@@ -1576,8 +1576,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -1589,8 +1589,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -1602,8 +1602,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "國泰證券",
       "broker_id": "8880",
@@ -1615,8 +1615,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -1628,8 +1628,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -1641,8 +1641,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -1654,8 +1654,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "臺銀",
       "broker_id": "1040",
@@ -1667,8 +1667,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -1680,8 +1680,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -1693,8 +1693,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -1706,8 +1706,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "台新-潮州",
       "broker_id": "0039004200320043",
@@ -1719,8 +1719,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -1732,8 +1732,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "永豐金-潮州",
       "broker_id": "0039004100390071",
@@ -1745,8 +1745,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "福邦證券",
       "broker_id": "6480",
@@ -1758,8 +1758,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "元大-北投",
       "broker_id": "0039003800390041",
@@ -1771,8 +1771,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -1784,8 +1784,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "元大-敦南",
       "broker_id": "0039003800390050",
@@ -1797,8 +1797,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -1810,8 +1810,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "元大-四維",
       "broker_id": "9831",
@@ -1823,8 +1823,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "國泰-忠孝",
       "broker_id": "8887",
@@ -1836,8 +1836,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "玉山-左營",
       "broker_id": "0038003800340044",
@@ -1849,8 +1849,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "法銀巴黎",
       "broker_id": "8900",
@@ -1862,8 +1862,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "兆豐-三民",
       "broker_id": "0037003000300068",
@@ -1875,8 +1875,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "兆豐證券",
       "broker_id": "7000",
@@ -1888,8 +1888,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -1901,8 +1901,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "香港上海匯豐",
       "broker_id": "8960",
@@ -1914,8 +1914,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -1927,8 +1927,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "兆豐-永和",
       "broker_id": "0037003000300058",
@@ -1940,8 +1940,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2382",
       "broker_name": "元大-信義",
       "broker_id": "003900380039006d",
@@ -1953,8 +1953,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -1966,8 +1966,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -1979,8 +1979,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -1992,8 +1992,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -2005,8 +2005,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "新光",
       "broker_id": "8560",
@@ -2018,8 +2018,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "華南永昌-中正",
       "broker_id": "9359",
@@ -2031,8 +2031,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -2044,8 +2044,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -2057,8 +2057,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -2070,8 +2070,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "國票-敦北法人",
       "broker_id": "0037003700390063",
@@ -2083,8 +2083,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -2096,8 +2096,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "合庫證券",
       "broker_id": "1020",
@@ -2109,8 +2109,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -2122,8 +2122,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -2135,8 +2135,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "中國信託-永康",
       "broker_id": "6163",
@@ -2148,8 +2148,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "福邦證券",
       "broker_id": "6480",
@@ -2161,8 +2161,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "凱基-台南",
       "broker_id": "9211",
@@ -2174,8 +2174,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "國泰-松江",
       "broker_id": "8883",
@@ -2187,8 +2187,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -2200,8 +2200,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "台新-城東",
       "broker_id": "0039004200320072",
@@ -2213,8 +2213,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -2226,8 +2226,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "第一金",
       "broker_id": "5380",
@@ -2239,8 +2239,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "玉山-雙和",
       "broker_id": "8841",
@@ -2252,8 +2252,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "富邦-南港",
       "broker_id": "0039003600320041",
@@ -2265,8 +2265,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "群益金鼎",
       "broker_id": "9100",
@@ -2278,8 +2278,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "中國信託",
       "broker_id": "6160",
@@ -2291,8 +2291,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "中國信託-高雄",
       "broker_id": "003600310036004b",
@@ -2304,8 +2304,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "華南永昌-大安",
       "broker_id": "9307",
@@ -2317,8 +2317,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "土銀-新竹",
       "broker_id": "1035",
@@ -2330,8 +2330,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2891",
       "broker_name": "法銀巴黎",
       "broker_id": "8900",
@@ -2343,8 +2343,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -2356,8 +2356,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -2369,8 +2369,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -2382,8 +2382,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "永豐金-板新",
       "broker_id": "003900410039004a",
@@ -2395,8 +2395,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -2408,8 +2408,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "兆豐-高雄",
       "broker_id": "003700300030005a",
@@ -2421,8 +2421,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -2434,8 +2434,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "群益金鼎-南京",
       "broker_id": "0039003100380045",
@@ -2447,8 +2447,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -2460,8 +2460,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -2473,8 +2473,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "第一金-新興",
       "broker_id": "0035003300380041",
@@ -2486,8 +2486,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "兆豐-城中",
       "broker_id": "0037003000300057",
@@ -2499,8 +2499,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -2512,8 +2512,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "富邦-台北",
       "broker_id": "9623",
@@ -2525,8 +2525,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "富隆證券",
       "broker_id": "5110",
@@ -2538,8 +2538,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "永豐金-復興",
       "broker_id": "003900410039005a",
@@ -2551,8 +2551,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "康和",
       "broker_id": "8450",
@@ -2564,8 +2564,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -2577,8 +2577,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "元大-東泰",
       "broker_id": "9817",
@@ -2590,8 +2590,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -2603,8 +2603,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "富邦-青埔",
       "broker_id": "003900360031004e",
@@ -2616,8 +2616,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "富邦-二林",
       "broker_id": "0039003600320042",
@@ -2629,8 +2629,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -2642,8 +2642,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "法銀巴黎",
       "broker_id": "8900",
@@ -2655,8 +2655,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "群益金鼎-大甲",
       "broker_id": "0039003100380067",
@@ -2668,8 +2668,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "富邦-新店",
       "broker_id": "9661",
@@ -2681,8 +2681,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "富邦-台中",
       "broker_id": "003900360035004b",
@@ -2694,8 +2694,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "元大-桃興",
       "broker_id": "9894",
@@ -2707,8 +2707,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "台新-花蓮",
       "broker_id": "0039004200320079",
@@ -2720,8 +2720,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2881",
       "broker_name": "富邦-仁愛",
       "broker_id": "9676",
@@ -2733,8 +2733,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -2746,8 +2746,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -2759,8 +2759,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -2772,8 +2772,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -2785,8 +2785,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "台新",
       "broker_id": "0039004200300030",
@@ -2798,8 +2798,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -2811,8 +2811,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -2824,8 +2824,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -2837,8 +2837,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -2850,8 +2850,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "國泰-館前",
       "broker_id": "0038003800380041",
@@ -2863,8 +2863,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -2876,8 +2876,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "港商麥格理",
       "broker_id": "1360",
@@ -2889,8 +2889,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -2902,8 +2902,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "富邦-建國",
       "broker_id": "9658",
@@ -2915,8 +2915,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -2928,8 +2928,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "第一金-大稻埕",
       "broker_id": "0035003300380046",
@@ -2941,8 +2941,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "富隆證券",
       "broker_id": "5110",
@@ -2954,8 +2954,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "宏遠證券",
       "broker_id": "1260",
@@ -2967,8 +2967,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "永豐金-板新",
       "broker_id": "003900410039004a",
@@ -2980,8 +2980,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "凱基-高雄",
       "broker_id": "9206",
@@ -2993,8 +2993,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "國票-敦北法人",
       "broker_id": "0037003700390063",
@@ -3006,8 +3006,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "群益金鼎-館前",
       "broker_id": "0039003100330059",
@@ -3019,8 +3019,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "華南永昌-敦南",
       "broker_id": "9347",
@@ -3032,8 +3032,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "台新-大裕",
       "broker_id": "003900420032006c",
@@ -3045,8 +3045,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "元大-館前",
       "broker_id": "003900380034004b",
@@ -3058,8 +3058,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "中國信託",
       "broker_id": "6160",
@@ -3071,8 +3071,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "富邦-彰化",
       "broker_id": "0039003600350055",
@@ -3084,8 +3084,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "元大-大同",
       "broker_id": "0039003800390047",
@@ -3097,8 +3097,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "群益金鼎",
       "broker_id": "9100",
@@ -3110,8 +3110,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2882",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -3123,8 +3123,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -3136,8 +3136,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "香港上海匯豐",
       "broker_id": "8960",
@@ -3149,8 +3149,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -3162,8 +3162,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -3175,8 +3175,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -3188,8 +3188,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -3201,8 +3201,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -3214,8 +3214,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -3227,8 +3227,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -3240,8 +3240,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "康和",
       "broker_id": "8450",
@@ -3253,8 +3253,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -3266,8 +3266,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "福邦證券",
       "broker_id": "6480",
@@ -3279,8 +3279,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "台新-台北",
       "broker_id": "0039004200320030",
@@ -3292,8 +3292,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "新光-新竹",
       "broker_id": "8563",
@@ -3305,8 +3305,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "華南永昌",
       "broker_id": "9300",
@@ -3318,8 +3318,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "兆豐-民生",
       "broker_id": "0037003000300063",
@@ -3331,8 +3331,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -3344,8 +3344,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "統一-仁愛",
       "broker_id": "0035003800350063",
@@ -3357,8 +3357,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "凱基-站前",
       "broker_id": "0039003200300046",
@@ -3370,8 +3370,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "永豐金-萬盛",
       "broker_id": "0039004100390032",
@@ -3383,8 +3383,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "永豐金-台南",
       "broker_id": "0039004100390068",
@@ -3396,8 +3396,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "統一-敦南",
       "broker_id": "5852",
@@ -3409,8 +3409,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "第一金-自由",
       "broker_id": "0035003300380045",
@@ -3422,8 +3422,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "元大-竹科",
       "broker_id": "003900380030004b",
@@ -3435,8 +3435,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "凱基-興隆",
       "broker_id": "9289",
@@ -3448,8 +3448,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "中國信託-高雄",
       "broker_id": "003600310036004b",
@@ -3461,8 +3461,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "兆豐證券",
       "broker_id": "7000",
@@ -3474,8 +3474,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "富邦-南屯",
       "broker_id": "9666",
@@ -3487,8 +3487,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "合庫-高雄",
       "broker_id": "1023",
@@ -3500,8 +3500,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2303",
       "broker_name": "元大-松江",
       "broker_id": "9801",
@@ -3513,8 +3513,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -3526,8 +3526,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -3539,8 +3539,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -3552,8 +3552,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -3565,8 +3565,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -3578,8 +3578,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -3591,8 +3591,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -3604,8 +3604,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "國泰證券",
       "broker_id": "8880",
@@ -3617,8 +3617,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -3630,8 +3630,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -3643,8 +3643,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "華南永昌-高雄",
       "broker_id": "9303",
@@ -3656,8 +3656,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "第一金",
       "broker_id": "5380",
@@ -3669,8 +3669,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -3682,8 +3682,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "台中銀",
       "broker_id": "6110",
@@ -3695,8 +3695,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "土銀",
       "broker_id": "1030",
@@ -3708,8 +3708,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -3721,8 +3721,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "群益金鼎",
       "broker_id": "9100",
@@ -3734,8 +3734,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "大和國泰",
       "broker_id": "8890",
@@ -3747,8 +3747,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "國泰-板橋",
       "broker_id": "003800380038004b",
@@ -3760,8 +3760,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "華南永昌",
       "broker_id": "9300",
@@ -3773,8 +3773,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "元大-民生三民",
       "broker_id": "0039003800390058",
@@ -3786,8 +3786,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -3799,8 +3799,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "元大-天母",
       "broker_id": "0039003800310049",
@@ -3812,8 +3812,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "中國信託-高雄",
       "broker_id": "003600310036004b",
@@ -3825,8 +3825,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "中國信託-三重",
       "broker_id": "6161",
@@ -3838,8 +3838,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "台新-台北",
       "broker_id": "0039004200320030",
@@ -3851,8 +3851,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "元大-大同",
       "broker_id": "0039003800390047",
@@ -3864,8 +3864,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -3877,8 +3877,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "兆豐-台南",
       "broker_id": "7006",
@@ -3890,8 +3890,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3711",
       "broker_name": "統一-仁愛",
       "broker_id": "0035003800350063",
@@ -3903,8 +3903,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "國泰證券",
       "broker_id": "8880",
@@ -3916,8 +3916,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -3929,8 +3929,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -3942,8 +3942,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -3955,8 +3955,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "台新",
       "broker_id": "0039004200300030",
@@ -3968,8 +3968,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -3981,8 +3981,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -3994,8 +3994,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -4007,8 +4007,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -4020,8 +4020,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -4033,8 +4033,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "華南永昌",
       "broker_id": "9300",
@@ -4046,8 +4046,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "群益金鼎-東湖",
       "broker_id": "003900310038004b",
@@ -4059,8 +4059,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -4072,8 +4072,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -4085,8 +4085,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "元大-雙和",
       "broker_id": "9874",
@@ -4098,8 +4098,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "法銀巴黎",
       "broker_id": "8900",
@@ -4111,8 +4111,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "元大-台北",
       "broker_id": "0039003800300068",
@@ -4124,8 +4124,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -4137,8 +4137,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "元大-府城",
       "broker_id": "0039003800300075",
@@ -4150,8 +4150,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -4163,8 +4163,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "群益金鼎-西松",
       "broker_id": "9136",
@@ -4176,8 +4176,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "新光-高雄",
       "broker_id": "8562",
@@ -4189,8 +4189,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "中農",
       "broker_id": "8520",
@@ -4202,8 +4202,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "凱基-屏東",
       "broker_id": "0039003200320043",
@@ -4215,8 +4215,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "福邦證券",
       "broker_id": "6480",
@@ -4228,8 +4228,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "臺銀-金山",
       "broker_id": "0031003000340044",
@@ -4241,8 +4241,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "香港上海匯豐",
       "broker_id": "8960",
@@ -4254,8 +4254,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "富邦-仁愛",
       "broker_id": "9676",
@@ -4267,8 +4267,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "富邦-三重",
       "broker_id": "9677",
@@ -4280,8 +4280,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2603",
       "broker_name": "富邦-木柵",
       "broker_id": "003900360031004d",
@@ -4293,8 +4293,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -4306,8 +4306,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -4319,8 +4319,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -4332,8 +4332,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -4345,8 +4345,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "元大-雙和",
       "broker_id": "9874",
@@ -4358,8 +4358,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -4371,8 +4371,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "永興-台中",
       "broker_id": "5603",
@@ -4384,8 +4384,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -4397,8 +4397,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -4410,8 +4410,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -4423,8 +4423,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "富邦-仁愛",
       "broker_id": "9676",
@@ -4436,8 +4436,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -4449,8 +4449,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "永豐金-永康",
       "broker_id": "0039004100390063",
@@ -4462,8 +4462,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "致和-高雄",
       "broker_id": "7036",
@@ -4475,8 +4475,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "台新",
       "broker_id": "0039004200300030",
@@ -4488,8 +4488,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -4501,8 +4501,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "元大-仁愛",
       "broker_id": "003900380033006a",
@@ -4514,8 +4514,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "台新-彰化",
       "broker_id": "003900420032004d",
@@ -4527,8 +4527,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "永豐金-彰化",
       "broker_id": "0039004100390073",
@@ -4540,8 +4540,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -4553,8 +4553,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "新光",
       "broker_id": "8560",
@@ -4566,8 +4566,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "台新-三重",
       "broker_id": "0039004200320033",
@@ -4579,8 +4579,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "台新-北新莊",
       "broker_id": "0039004200320038",
@@ -4592,8 +4592,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "臺銀-金山",
       "broker_id": "0031003000340044",
@@ -4605,8 +4605,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "富邦-嘉義",
       "broker_id": "9692",
@@ -4618,8 +4618,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "元大-台南",
       "broker_id": "9896",
@@ -4631,8 +4631,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "元大-大雅",
       "broker_id": "0039003800330069",
@@ -4644,8 +4644,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -4657,8 +4657,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "國票-北高雄",
       "broker_id": "003700370039004a",
@@ -4670,8 +4670,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2609",
       "broker_name": "第一金-台南",
       "broker_id": "5384",
@@ -4683,8 +4683,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -4696,8 +4696,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "群益金鼎-永和",
       "broker_id": "003900310038004a",
@@ -4709,8 +4709,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "華南永昌",
       "broker_id": "9300",
@@ -4722,8 +4722,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -4735,8 +4735,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -4748,8 +4748,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -4761,8 +4761,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -4774,8 +4774,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -4787,8 +4787,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -4800,8 +4800,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "第一金-安和",
       "broker_id": "003500330038006a",
@@ -4813,8 +4813,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "凱基-信義",
       "broker_id": "9216",
@@ -4826,8 +4826,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "群益金鼎",
       "broker_id": "9100",
@@ -4839,8 +4839,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "元大-南屯",
       "broker_id": "9853",
@@ -4852,8 +4852,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -4865,8 +4865,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "台新-安南",
       "broker_id": "003900420032005a",
@@ -4878,8 +4878,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -4891,8 +4891,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "富邦-南屯",
       "broker_id": "9666",
@@ -4904,8 +4904,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "美好-中壢",
       "broker_id": "5266",
@@ -4917,8 +4917,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -4930,8 +4930,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -4943,8 +4943,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -4956,8 +4956,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "台新",
       "broker_id": "0039004200300030",
@@ -4969,8 +4969,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "第一金-員林",
       "broker_id": "5381",
@@ -4982,8 +4982,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "台新-板橋",
       "broker_id": "0039004200320062",
@@ -4995,8 +4995,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "新光-台中",
       "broker_id": "8561",
@@ -5008,8 +5008,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "元大-發財",
       "broker_id": "0039003800310045",
@@ -5021,8 +5021,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "元大-四維",
       "broker_id": "9831",
@@ -5034,8 +5034,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "元大-竹北",
       "broker_id": "0039003800310042",
@@ -5047,8 +5047,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "兆豐-寶成",
       "broker_id": "0037003000300072",
@@ -5060,8 +5060,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2615",
       "broker_name": "玉山-左營",
       "broker_id": "0038003800340044",
@@ -5073,8 +5073,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -5086,8 +5086,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -5099,8 +5099,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -5112,8 +5112,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -5125,8 +5125,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -5138,8 +5138,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -5151,8 +5151,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -5164,8 +5164,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "華南永昌",
       "broker_id": "9300",
@@ -5177,8 +5177,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "新光",
       "broker_id": "8560",
@@ -5190,8 +5190,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -5203,8 +5203,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -5216,8 +5216,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -5229,8 +5229,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "群益金鼎-大安",
       "broker_id": "0039003100380065",
@@ -5242,8 +5242,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "富邦-板橋",
       "broker_id": "9655",
@@ -5255,8 +5255,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "港商麥格理",
       "broker_id": "1360",
@@ -5268,8 +5268,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -5281,8 +5281,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "凱基-高美館",
       "broker_id": "9215",
@@ -5294,8 +5294,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "元大-萬華",
       "broker_id": "0039003800310071",
@@ -5307,8 +5307,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "台中銀-員林",
       "broker_id": "6114",
@@ -5320,8 +5320,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "元大-台北",
       "broker_id": "0039003800300068",
@@ -5333,8 +5333,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "元大-屏東",
       "broker_id": "9892",
@@ -5346,8 +5346,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "統一-金門",
       "broker_id": "0035003800350057",
@@ -5359,8 +5359,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "元大-大灣",
       "broker_id": "9815",
@@ -5372,8 +5372,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "富邦-南屯",
       "broker_id": "9666",
@@ -5385,8 +5385,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "元大-草屯",
       "broker_id": "0039003800390045",
@@ -5398,8 +5398,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "富邦-新竹",
       "broker_id": "9647",
@@ -5411,8 +5411,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "第一金-自由",
       "broker_id": "0035003300380045",
@@ -5424,8 +5424,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "法銀巴黎",
       "broker_id": "8900",
@@ -5437,8 +5437,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "第一金-嘉義",
       "broker_id": "003500330038004d",
@@ -5450,8 +5450,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2618",
       "broker_name": "永豐金-敦北",
       "broker_id": "0039004100380039",
@@ -5463,8 +5463,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -5476,8 +5476,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "凱基-站前",
       "broker_id": "0039003200300046",
@@ -5489,8 +5489,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -5502,8 +5502,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -5515,8 +5515,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -5528,8 +5528,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "群益金鼎",
       "broker_id": "9100",
@@ -5541,8 +5541,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -5554,8 +5554,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -5567,8 +5567,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -5580,8 +5580,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -5593,8 +5593,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -5606,8 +5606,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -5619,8 +5619,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -5632,8 +5632,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "台新",
       "broker_id": "0039004200300030",
@@ -5645,8 +5645,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "臺銀",
       "broker_id": "1040",
@@ -5658,8 +5658,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "富邦-台北",
       "broker_id": "9623",
@@ -5671,8 +5671,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "統一-新竹",
       "broker_id": "5857",
@@ -5684,8 +5684,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "華南永昌-高雄",
       "broker_id": "9303",
@@ -5697,8 +5697,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "玉山證券",
       "broker_id": "8840",
@@ -5710,8 +5710,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "華南永昌-中正",
       "broker_id": "9359",
@@ -5723,8 +5723,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "國泰證券",
       "broker_id": "8880",
@@ -5736,8 +5736,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -5749,8 +5749,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "凱基-興隆",
       "broker_id": "9289",
@@ -5762,8 +5762,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "統一",
       "broker_id": "5850",
@@ -5775,8 +5775,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "中國信託",
       "broker_id": "6160",
@@ -5788,8 +5788,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -5801,8 +5801,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "台新-建北",
       "broker_id": "0039004200310038",
@@ -5814,8 +5814,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "華南永昌-竹北",
       "broker_id": "9339",
@@ -5827,8 +5827,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -5840,8 +5840,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3037",
       "broker_name": "元大-六合",
       "broker_id": "0039003800320043",
@@ -5853,8 +5853,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -5866,8 +5866,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -5879,8 +5879,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -5892,8 +5892,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -5905,8 +5905,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -5918,8 +5918,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -5931,8 +5931,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -5944,8 +5944,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "法銀巴黎",
       "broker_id": "8900",
@@ -5957,8 +5957,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -5970,8 +5970,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -5983,8 +5983,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -5996,8 +5996,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "中國信託",
       "broker_id": "6160",
@@ -6009,8 +6009,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -6022,8 +6022,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "國泰證券",
       "broker_id": "8880",
@@ -6035,8 +6035,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "群益金鼎-丹鳳",
       "broker_id": "0039003100380073",
@@ -6048,8 +6048,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -6061,8 +6061,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -6074,8 +6074,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "兆豐證券",
       "broker_id": "7000",
@@ -6087,8 +6087,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "國泰-館前",
       "broker_id": "0038003800380041",
@@ -6100,8 +6100,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "統一",
       "broker_id": "5850",
@@ -6113,8 +6113,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "群益金鼎",
       "broker_id": "9100",
@@ -6126,8 +6126,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "福邦證券",
       "broker_id": "6480",
@@ -6139,8 +6139,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "兆豐-復興",
       "broker_id": "0037003000300070",
@@ -6152,8 +6152,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "中國信託-文心",
       "broker_id": "6164",
@@ -6165,8 +6165,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "康和-內湖",
       "broker_id": "0038003400350041",
@@ -6178,8 +6178,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "兆豐-東門",
       "broker_id": "0037003000300048",
@@ -6191,8 +6191,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "第一金-忠孝",
       "broker_id": "0035003300380044",
@@ -6204,8 +6204,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "元大-信義",
       "broker_id": "003900380039006d",
@@ -6217,8 +6217,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "元大-板橋",
       "broker_id": "0039003800390043",
@@ -6230,8 +6230,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2345",
       "broker_name": "國票-安和",
       "broker_id": "003700370039005a",
@@ -6243,8 +6243,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -6256,8 +6256,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -6269,8 +6269,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "聯邦證券",
       "broker_id": "8580",
@@ -6282,8 +6282,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -6295,8 +6295,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -6308,8 +6308,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -6321,8 +6321,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "富邦-台北",
       "broker_id": "9623",
@@ -6334,8 +6334,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -6347,8 +6347,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "元大-大同",
       "broker_id": "0039003800390047",
@@ -6360,8 +6360,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -6373,8 +6373,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "群益金鼎-館前",
       "broker_id": "0039003100330059",
@@ -6386,8 +6386,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "元大-頭份",
       "broker_id": "0039003800330055",
@@ -6399,8 +6399,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -6412,8 +6412,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "群益金鼎",
       "broker_id": "9100",
@@ -6425,8 +6425,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "新光",
       "broker_id": "8560",
@@ -6438,8 +6438,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -6451,8 +6451,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "元大-員林中山",
       "broker_id": "9835",
@@ -6464,8 +6464,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -6477,8 +6477,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "凱基-湖口",
       "broker_id": "003900320030004e",
@@ -6490,8 +6490,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "元大-土城",
       "broker_id": "9897",
@@ -6503,8 +6503,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "富邦-建國",
       "broker_id": "9658",
@@ -6516,8 +6516,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "統一",
       "broker_id": "5850",
@@ -6529,8 +6529,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "富邦-陽明",
       "broker_id": "9604",
@@ -6542,8 +6542,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "元大-樹林",
       "broker_id": "003900380039006a",
@@ -6555,8 +6555,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "元大-大統",
       "broker_id": "003900380031007a",
@@ -6568,8 +6568,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -6581,8 +6581,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "台新-台中",
       "broker_id": "0039004200310068",
@@ -6594,8 +6594,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "永豐金-竹科",
       "broker_id": "0039004100390058",
@@ -6607,8 +6607,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "凱基-竹科",
       "broker_id": "9272",
@@ -6620,8 +6620,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3006",
       "broker_name": "群益金鼎-延平",
       "broker_id": "0039003100380078",
@@ -6633,8 +6633,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -6646,8 +6646,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "國泰證券",
       "broker_id": "8880",
@@ -6659,8 +6659,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -6672,8 +6672,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "港商麥格理",
       "broker_id": "1360",
@@ -6685,8 +6685,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -6698,8 +6698,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -6711,8 +6711,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -6724,8 +6724,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "土銀",
       "broker_id": "1030",
@@ -6737,8 +6737,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -6750,8 +6750,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "華南永昌",
       "broker_id": "9300",
@@ -6763,8 +6763,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -6776,8 +6776,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "統一",
       "broker_id": "5850",
@@ -6789,8 +6789,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -6802,8 +6802,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "彰銀",
       "broker_id": "1230",
@@ -6815,8 +6815,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -6828,8 +6828,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "台新-台北",
       "broker_id": "0039004200320030",
@@ -6841,8 +6841,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -6854,8 +6854,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "北城證券",
       "broker_id": "7750",
@@ -6867,8 +6867,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -6880,8 +6880,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "國泰-台中",
       "broker_id": "8882",
@@ -6893,8 +6893,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "群益金鼎-潭子",
       "broker_id": "0039003100330044",
@@ -6906,8 +6906,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "元大-竹科",
       "broker_id": "003900380030004b",
@@ -6919,8 +6919,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "中國信託-中壢",
       "broker_id": "0036003100360041",
@@ -6932,8 +6932,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -6945,8 +6945,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "台新-松德",
       "broker_id": "0039004200320061",
@@ -6958,8 +6958,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "永豐金-松山",
       "broker_id": "0039004100390031",
@@ -6971,8 +6971,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "合庫證券",
       "broker_id": "1020",
@@ -6984,8 +6984,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "第一金-忠孝",
       "broker_id": "0035003300380044",
@@ -6997,8 +6997,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "第一金-自由",
       "broker_id": "0035003300380045",
@@ -7010,8 +7010,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2379",
       "broker_name": "富邦-板橋",
       "broker_id": "9655",
@@ -7023,8 +7023,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -7036,8 +7036,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -7049,8 +7049,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -7062,8 +7062,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "凱基",
       "broker_id": "9200",
@@ -7075,8 +7075,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -7088,8 +7088,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "華南永昌",
       "broker_id": "9300",
@@ -7101,8 +7101,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "美林",
       "broker_id": "1440",
@@ -7114,8 +7114,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "福邦證券",
       "broker_id": "6480",
@@ -7127,8 +7127,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -7140,8 +7140,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "富邦-羅東",
       "broker_id": "9634",
@@ -7153,8 +7153,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -7166,8 +7166,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "永豐金證券",
       "broker_id": "0039004100300030",
@@ -7179,8 +7179,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -7192,8 +7192,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "玉山證券",
       "broker_id": "8840",
@@ -7205,8 +7205,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -7218,8 +7218,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "法銀巴黎",
       "broker_id": "8900",
@@ -7231,8 +7231,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -7244,8 +7244,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "新光",
       "broker_id": "8560",
@@ -7257,8 +7257,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "中國信託-高雄",
       "broker_id": "003600310036004b",
@@ -7270,8 +7270,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "香港上海匯豐",
       "broker_id": "8960",
@@ -7283,8 +7283,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "港商麥格理",
       "broker_id": "1360",
@@ -7296,8 +7296,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "台新-成功",
       "broker_id": "003900420032006d",
@@ -7309,8 +7309,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "統一",
       "broker_id": "5850",
@@ -7322,8 +7322,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "永豐金-市政",
       "broker_id": "0039004100390057",
@@ -7335,8 +7335,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "凱基-大直",
       "broker_id": "9218",
@@ -7348,8 +7348,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "國泰-館前",
       "broker_id": "0038003800380041",
@@ -7361,8 +7361,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "永全-南崁",
       "broker_id": "6451",
@@ -7374,8 +7374,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "群益金鼎-永和",
       "broker_id": "003900310038004a",
@@ -7387,8 +7387,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "統一-南京",
       "broker_id": "0035003800350055",
@@ -7400,8 +7400,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "3034",
       "broker_name": "群益金鼎-彰化",
       "broker_id": "9187",
@@ -7413,8 +7413,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "台灣摩根士丹利",
       "broker_id": "1470",
@@ -7426,8 +7426,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "富邦證券",
       "broker_id": "9600",
@@ -7439,8 +7439,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "美商高盛",
       "broker_id": "1480",
@@ -7452,8 +7452,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "台新-建北",
       "broker_id": "0039004200310038",
@@ -7465,8 +7465,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "摩根大通",
       "broker_id": "8440",
@@ -7478,8 +7478,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "國票-北高雄",
       "broker_id": "003700370039004a",
@@ -7491,8 +7491,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "新加坡商瑞銀",
       "broker_id": "1650",
@@ -7504,8 +7504,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "台新",
       "broker_id": "0039004200300030",
@@ -7517,8 +7517,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "凱基-台北",
       "broker_id": "9268",
@@ -7530,8 +7530,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "彰銀",
       "broker_id": "1230",
@@ -7543,8 +7543,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "永豐金-匯立",
       "broker_id": "0039004100380031",
@@ -7556,8 +7556,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "國泰-敦南",
       "broker_id": "8888",
@@ -7569,8 +7569,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "香港上海匯豐",
       "broker_id": "8960",
@@ -7582,8 +7582,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "元大證券",
       "broker_id": "9800",
@@ -7595,8 +7595,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "中國信託",
       "broker_id": "6160",
@@ -7608,8 +7608,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "元大-永康",
       "broker_id": "9829",
@@ -7621,8 +7621,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "港商野村",
       "broker_id": "1560",
@@ -7634,8 +7634,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "國泰-板橋",
       "broker_id": "003800380038004b",
@@ -7647,8 +7647,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "群益金鼎",
       "broker_id": "9100",
@@ -7660,8 +7660,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "新光",
       "broker_id": "8560",
@@ -7673,8 +7673,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "花旗環球",
       "broker_id": "1590",
@@ -7686,8 +7686,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "法銀巴黎",
       "broker_id": "8900",
@@ -7699,8 +7699,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "合庫-西台中",
       "broker_id": "0031003000320046",
@@ -7712,8 +7712,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "元大-板橋三民",
       "broker_id": "9879",
@@ -7725,8 +7725,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "元大-善化",
       "broker_id": "0039003800310079",
@@ -7738,8 +7738,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "富邦-敦南",
       "broker_id": "9663",
@@ -7751,8 +7751,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "台新-松德",
       "broker_id": "0039004200320061",
@@ -7764,8 +7764,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "國泰-高雄",
       "broker_id": "8881",
@@ -7777,8 +7777,8 @@
       "side": "sell"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "國泰證券",
       "broker_id": "8880",
@@ -7790,8 +7790,8 @@
       "side": "buy"
     },
     {
-      "date": "9/14",
-      "trade_date": "2026-09-14",
+      "date": "9/15",
+      "trade_date": "2026-09-15",
       "stock_code": "2412",
       "broker_name": "臺銀-高雄",
       "broker_id": "0031003000340043",

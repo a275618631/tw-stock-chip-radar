@@ -2726,5 +2726,16 @@
     "dealer_ratio": 0.022200472718798894,
     "three_inst_ratio": 1.782200472718799,
     "three_inst_ratio_change_20": -0.09909983687872415
+  },
+  {
+    "date": "2026-09-15",
+    "code": "3652",
+    "name": "精聯",
+    "market": "TWSE",
+    "foreign_ratio": 1.76,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.023532074969206698,
+    "three_inst_ratio": 1.7835320749692067,
+    "three_inst_ratio_change_20": -0.45043143912913197
   }
 ]

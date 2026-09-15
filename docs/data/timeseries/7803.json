@@ -900,5 +900,16 @@
     "dealer_ratio": -0.018315296106607818,
     "three_inst_ratio": 2.871684703893392,
     "three_inst_ratio_change_20": 0.048121772527496276
+  },
+  {
+    "date": "2026-09-15",
+    "code": "7803",
+    "name": "雲象科技-創",
+    "market": "TWSE",
+    "foreign_ratio": 2.89,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.01631345076532348,
+    "three_inst_ratio": 2.8736865492346766,
+    "three_inst_ratio_change_20": 0.060261310934583534
   }
 ]

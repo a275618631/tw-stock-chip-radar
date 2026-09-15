@@ -2726,5 +2726,16 @@
     "dealer_ratio": -16.652694717374615,
     "three_inst_ratio": -16.382694717374616,
     "three_inst_ratio_change_20": -16.170833049665067
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00918",
+    "name": "大華優利高填息30",
+    "market": "TWSE",
+    "foreign_ratio": 0.27,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -18.30786487591093,
+    "three_inst_ratio": -18.03786487591093,
+    "three_inst_ratio_change_20": -17.67099717015517
   }
 ]

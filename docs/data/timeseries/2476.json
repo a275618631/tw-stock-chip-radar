@@ -2759,5 +2759,16 @@
     "dealer_ratio": 2.497921093837385,
     "three_inst_ratio": 10.997341979744046,
     "three_inst_ratio_change_20": 0.4663310614984262
+  },
+  {
+    "date": "2026-09-15",
+    "code": "2476",
+    "name": "鉅祥",
+    "market": "TWSE",
+    "foreign_ratio": 7.89,
+    "trust_ratio": 0.6094208859066623,
+    "dealer_ratio": 2.4886091416373457,
+    "three_inst_ratio": 10.988030027544008,
+    "three_inst_ratio_change_20": 0.36624938844478017
   }
 ]
