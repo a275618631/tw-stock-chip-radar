@@ -2693,5 +2693,16 @@
     "dealer_ratio": 0.031263331589326676,
     "three_inst_ratio": 51.511263331589326,
     "three_inst_ratio_change_20": 0.07011067734535459
+  },
+  {
+    "date": "2026-09-15",
+    "code": "1735",
+    "name": "日勝化",
+    "market": "TWSE",
+    "foreign_ratio": 51.48,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.03623173823801666,
+    "three_inst_ratio": 51.51623173823801,
+    "three_inst_ratio_change_20": 0.07071135348331126
   }
 ]

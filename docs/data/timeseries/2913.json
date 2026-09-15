@@ -2759,5 +2759,16 @@
     "dealer_ratio": -0.027491139240506328,
     "three_inst_ratio": 5.422508860759494,
     "three_inst_ratio_change_20": 0.09178481012658235
+  },
+  {
+    "date": "2026-09-15",
+    "code": "2913",
+    "name": "農林",
+    "market": "TWSE",
+    "foreign_ratio": 5.45,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.02470632911392405,
+    "three_inst_ratio": 5.425293670886076,
+    "three_inst_ratio_change_20": -0.013658227848100779
   }
 ]

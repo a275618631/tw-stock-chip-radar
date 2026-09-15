@@ -2649,5 +2649,16 @@
     "dealer_ratio": 0.294676128854807,
     "three_inst_ratio": 4.534676128854807,
     "three_inst_ratio_change_20": -0.02611840542041932
+  },
+  {
+    "date": "2026-09-15",
+    "code": "1563",
+    "name": "巧新",
+    "market": "TWSE",
+    "foreign_ratio": 4.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.294676128854807,
+    "three_inst_ratio": 4.534676128854807,
+    "three_inst_ratio_change_20": 0.006290278060594012
   }
 ]

@@ -2748,5 +2748,16 @@
     "dealer_ratio": -0.0191589617785901,
     "three_inst_ratio": 53.96084103822141,
     "three_inst_ratio_change_20": -0.0493799758602691
+  },
+  {
+    "date": "2026-09-15",
+    "code": "8411",
+    "name": "福貞-KY",
+    "market": "TWSE",
+    "foreign_ratio": 53.98,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.05166747641103197,
+    "three_inst_ratio": 53.92833252358896,
+    "three_inst_ratio_change_20": -0.08188849049271596
   }
 ]

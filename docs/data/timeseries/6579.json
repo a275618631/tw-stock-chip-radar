@@ -2759,5 +2759,16 @@
     "dealer_ratio": 0.23505466508264347,
     "three_inst_ratio": 3.5315926857204527,
     "three_inst_ratio_change_20": -0.6837416921888098
+  },
+  {
+    "date": "2026-09-15",
+    "code": "6579",
+    "name": "研揚",
+    "market": "TWSE",
+    "foreign_ratio": 3.27,
+    "trust_ratio": 0.0070633896465107215,
+    "dealer_ratio": 0.25338442382778703,
+    "three_inst_ratio": 3.530447813474298,
+    "three_inst_ratio_change_20": -0.5700929265655748
   }
 ]

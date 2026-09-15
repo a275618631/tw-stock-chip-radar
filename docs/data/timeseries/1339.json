@@ -2759,5 +2759,16 @@
     "dealer_ratio": 0.040750702793128396,
     "three_inst_ratio": 1.4307507027931283,
     "three_inst_ratio_change_20": -0.587833660207322
+  },
+  {
+    "date": "2026-09-15",
+    "code": "1339",
+    "name": "昭輝",
+    "market": "TWSE",
+    "foreign_ratio": 1.39,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.042627291139325896,
+    "three_inst_ratio": 1.4326272911393259,
+    "three_inst_ratio_change_20": -0.4930848528898417
   }
 ]

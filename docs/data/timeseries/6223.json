@@ -2682,5 +2682,16 @@
     "dealer_ratio": -0.4649672520704944,
     "three_inst_ratio": 0.03495360528404451,
     "three_inst_ratio_change_20": -1.9658167661344472
+  },
+  {
+    "date": "2026-09-15",
+    "code": "6223",
+    "name": "旺矽",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.521782169699325,
+    "dealer_ratio": -0.4503113956152597,
+    "three_inst_ratio": 0.07147077408406532,
+    "three_inst_ratio_change_20": -1.2366052386583242
   }
 ]

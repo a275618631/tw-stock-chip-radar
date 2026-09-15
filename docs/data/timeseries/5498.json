@@ -2682,5 +2682,16 @@
     "dealer_ratio": 0.1004492180501796,
     "three_inst_ratio": 0.1004492180501796,
     "three_inst_ratio_change_20": 0.061283850002592365
+  },
+  {
+    "date": "2026-09-15",
+    "code": "5498",
+    "name": "凱崴",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.07102404205621902,
+    "three_inst_ratio": 0.07102404205621902,
+    "three_inst_ratio_change_20": 0.03413768881600221
   }
 ]

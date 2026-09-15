@@ -2077,5 +2077,16 @@
     "dealer_ratio": -0.008680210557469929,
     "three_inst_ratio": -0.008680210557469929,
     "three_inst_ratio_change_20": -0.01021584487794646
+  },
+  {
+    "date": "2026-09-15",
+    "code": "8284",
+    "name": "三竹",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.008627359786905693,
+    "three_inst_ratio": -0.008627359786905693,
+    "three_inst_ratio_change_20": -0.010162994107382224
   }
 ]

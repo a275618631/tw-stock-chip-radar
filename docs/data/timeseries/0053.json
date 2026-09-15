@@ -2726,5 +2726,16 @@
     "dealer_ratio": -17.762034441329597,
     "three_inst_ratio": -17.542034441329598,
     "three_inst_ratio_change_20": -4.263714470484116
+  },
+  {
+    "date": "2026-09-15",
+    "code": "0053",
+    "name": "元大電子",
+    "market": "TWSE",
+    "foreign_ratio": 0.22,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -20.223247897476973,
+    "three_inst_ratio": -20.003247897476975,
+    "three_inst_ratio_change_20": -6.672041629255402
   }
 ]

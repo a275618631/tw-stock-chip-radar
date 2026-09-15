@@ -2726,5 +2726,16 @@
     "dealer_ratio": -1.3920074120460038,
     "three_inst_ratio": 2.5379925879539966,
     "three_inst_ratio_change_20": -0.9575545990435339
+  },
+  {
+    "date": "2026-09-15",
+    "code": "3717",
+    "name": "聯嘉投控",
+    "market": "TWSE",
+    "foreign_ratio": 3.93,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -1.3898057761140736,
+    "three_inst_ratio": 2.5401942238859263,
+    "three_inst_ratio_change_20": -0.824238673597105
   }
 ]

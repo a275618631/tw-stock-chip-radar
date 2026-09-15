@@ -2726,5 +2726,16 @@
     "dealer_ratio": 28.28728257678772,
     "three_inst_ratio": 29.34728257678772,
     "three_inst_ratio_change_20": 2.2248033827880036
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00885",
+    "name": "富邦越南",
+    "market": "TWSE",
+    "foreign_ratio": 1.06,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 28.24801008202612,
+    "three_inst_ratio": 29.30801008202612,
+    "three_inst_ratio_change_20": 2.1707788994955948
   }
 ]

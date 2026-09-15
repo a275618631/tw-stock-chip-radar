@@ -2715,5 +2715,16 @@
     "dealer_ratio": -0.04224936245691772,
     "three_inst_ratio": 0.9477506375430823,
     "three_inst_ratio_change_20": -0.09057845301443435
+  },
+  {
+    "date": "2026-09-15",
+    "code": "3150",
+    "name": "鈺寶-創",
+    "market": "TWSE",
+    "foreign_ratio": 0.99,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.06929039661783364,
+    "three_inst_ratio": 0.9207096033821663,
+    "three_inst_ratio_change_20": -0.05437974571557913
   }
 ]

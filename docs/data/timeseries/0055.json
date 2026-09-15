@@ -2759,5 +2759,16 @@
     "dealer_ratio": -10.934912703475323,
     "three_inst_ratio": -9.928084674085099,
     "three_inst_ratio_change_20": -5.72067159355179
+  },
+  {
+    "date": "2026-09-15",
+    "code": "0055",
+    "name": "元大MSCI金融",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.37682802939022375,
+    "dealer_ratio": -11.819296193918776,
+    "three_inst_ratio": -10.812468164528552,
+    "three_inst_ratio_change_20": -6.728076168750961
   }
 ]

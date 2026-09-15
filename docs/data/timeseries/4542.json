@@ -2682,5 +2682,16 @@
     "dealer_ratio": -0.3653367564854741,
     "three_inst_ratio": -0.3653367564854741,
     "three_inst_ratio_change_20": 0.0060601774463904245
+  },
+  {
+    "date": "2026-09-15",
+    "code": "4542",
+    "name": "科嶠",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.3652037564079293,
+    "three_inst_ratio": -0.3652037564079293,
+    "three_inst_ratio_change_20": 0.008850287768798204
   }
 ]

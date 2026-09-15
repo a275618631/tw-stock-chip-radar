@@ -2682,5 +2682,16 @@
     "dealer_ratio": 0.1708019555058832,
     "three_inst_ratio": 0.1708019555058832,
     "three_inst_ratio_change_20": -0.043744324690028674
+  },
+  {
+    "date": "2026-09-15",
+    "code": "3663",
+    "name": "鑫科",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.17043419348415287,
+    "three_inst_ratio": 0.17043419348415287,
+    "three_inst_ratio_change_20": -0.03989065799114522
   }
 ]

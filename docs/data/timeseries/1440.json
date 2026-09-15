@@ -2759,5 +2759,16 @@
     "dealer_ratio": 0.0657499742893878,
     "three_inst_ratio": 7.8336381774018715,
     "three_inst_ratio_change_20": 0.3041708669921306
+  },
+  {
+    "date": "2026-09-15",
+    "code": "1440",
+    "name": "南紡",
+    "market": "TWSE",
+    "foreign_ratio": 7.76,
+    "trust_ratio": -0.007321694772987678,
+    "dealer_ratio": 0.06411068529506475,
+    "three_inst_ratio": 7.816788990522077,
+    "three_inst_ratio_change_20": 0.26110188294751424
   }
 ]

@@ -1274,5 +1274,16 @@
     "dealer_ratio": 24.316729570327695,
     "three_inst_ratio": 24.776729570327696,
     "three_inst_ratio_change_20": -0.23318556299647852
+  },
+  {
+    "date": "2026-09-15",
+    "code": "009801",
+    "name": "中信美國創新科技",
+    "market": "TWSE",
+    "foreign_ratio": 0.46,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 23.81171164541259,
+    "three_inst_ratio": 24.27171164541259,
+    "three_inst_ratio_change_20": -0.503755966800604
   }
 ]

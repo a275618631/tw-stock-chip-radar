@@ -2682,5 +2682,16 @@
     "dealer_ratio": 0.28072169896214527,
     "three_inst_ratio": 0.28472613834063226,
     "three_inst_ratio_change_20": -0.018138460615513885
+  },
+  {
+    "date": "2026-09-15",
+    "code": "6903",
+    "name": "巨漢",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.004004439378487012,
+    "dealer_ratio": 0.21741106245125683,
+    "three_inst_ratio": 0.22141550182974384,
+    "three_inst_ratio_change_20": -0.1046703461515388
   }
 ]

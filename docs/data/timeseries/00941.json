@@ -2726,5 +2726,16 @@
     "dealer_ratio": 40.53015736898927,
     "three_inst_ratio": 41.160157368989275,
     "three_inst_ratio_change_20": -1.9142001984045507
+  },
+  {
+    "date": "2026-09-15",
+    "code": "00941",
+    "name": "中信上游半導體",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 40.381699945689334,
+    "three_inst_ratio": 41.01169994568934,
+    "three_inst_ratio_change_20": -1.1430576349109813
   }
 ]

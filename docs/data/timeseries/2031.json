@@ -2759,5 +2759,16 @@
     "dealer_ratio": -0.0301996279011007,
     "three_inst_ratio": 10.507332817377483,
     "three_inst_ratio_change_20": 0.48301541729226827
+  },
+  {
+    "date": "2026-09-15",
+    "code": "2031",
+    "name": "新光鋼",
+    "market": "TWSE",
+    "foreign_ratio": 10.17,
+    "trust_ratio": 0.3675324452785841,
+    "dealer_ratio": -0.028331320766939706,
+    "three_inst_ratio": 10.509201124511645,
+    "three_inst_ratio_change_20": 0.35292231332008406
   }
 ]

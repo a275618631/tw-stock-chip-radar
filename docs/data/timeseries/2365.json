@@ -2759,5 +2759,16 @@
     "dealer_ratio": -0.1442834695180705,
     "three_inst_ratio": 3.0257165304819296,
     "three_inst_ratio_change_20": -0.317220357962436
+  },
+  {
+    "date": "2026-09-15",
+    "code": "2365",
+    "name": "昆盈",
+    "market": "TWSE",
+    "foreign_ratio": 3.17,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.1442834695180705,
+    "three_inst_ratio": 3.0257165304819296,
+    "three_inst_ratio_change_20": -0.23586613037809823
   }
 ]

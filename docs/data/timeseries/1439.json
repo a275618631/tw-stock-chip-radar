@@ -2638,5 +2638,16 @@
     "dealer_ratio": -0.00020652173913043476,
     "three_inst_ratio": 1.3997934782608694,
     "three_inst_ratio_change_20": 0.022173913043478155
+  },
+  {
+    "date": "2026-09-15",
+    "code": "1439",
+    "name": "雋揚",
+    "market": "TWSE",
+    "foreign_ratio": 1.4,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0008804347826086955,
+    "three_inst_ratio": 1.4008804347826087,
+    "three_inst_ratio_change_20": 0.024347826086956736
   }
 ]

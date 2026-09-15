@@ -2682,5 +2682,16 @@
     "dealer_ratio": 0.006922586873137794,
     "three_inst_ratio": 0.006922586873137794,
     "three_inst_ratio_change_20": 0.0037423093393398376
+  },
+  {
+    "date": "2026-09-15",
+    "code": "6275",
+    "name": "元山",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.007332583467424443,
+    "three_inst_ratio": 0.007332583467424443,
+    "three_inst_ratio_change_20": 0.0023166676862579946
   }
 ]

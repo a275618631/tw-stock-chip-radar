@@ -2726,5 +2726,16 @@
     "dealer_ratio": 0.006190805619873127,
     "three_inst_ratio": 1.4781712296825325,
     "three_inst_ratio_change_20": 0.04009787968670331
+  },
+  {
+    "date": "2026-09-15",
+    "code": "1752",
+    "name": "南光",
+    "market": "TWSE",
+    "foreign_ratio": 1.47,
+    "trust_ratio": 0.00198042406265935,
+    "dealer_ratio": 0.006190805619873127,
+    "three_inst_ratio": 1.4781712296825325,
+    "three_inst_ratio_change_20": 0.04009787968670331
   }
 ]

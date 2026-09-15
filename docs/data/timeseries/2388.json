@@ -2759,5 +2759,16 @@
     "dealer_ratio": 0.39857366786133125,
     "three_inst_ratio": 15.92568450654349,
     "three_inst_ratio_change_20": -1.5519314684712882
+  },
+  {
+    "date": "2026-09-15",
+    "code": "2388",
+    "name": "威盛",
+    "market": "TWSE",
+    "foreign_ratio": 15.42,
+    "trust_ratio": 0.1071108386821586,
+    "dealer_ratio": 0.3553027150810051,
+    "three_inst_ratio": 15.882413553763165,
+    "three_inst_ratio_change_20": -1.0577838280602663
   }
 ]
