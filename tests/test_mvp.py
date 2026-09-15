@@ -4,7 +4,11 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from generate_daily_report import generate_report
+from generate_daily_report import (
+    _fmt_broker_volume,
+    _fmt_institutional_flow,
+    generate_report,
+)
 from macro_context import (
     TICKER_MAP,
     calculate_percentage_changes,
@@ -34,6 +38,13 @@ class MvpRulesTest(unittest.TestCase):
         self.assertEqual(classify_global_environment(data)["label"], "positive")
         self.assertEqual(classify_stock_chip_status({"foreign_5d": 10, "trust_5d": 1, "foreign_20d": 2, "trust_20d": -1}), "positive")
 
+    def test_unit_specific_formatters(self):
+        self.assertEqual(_fmt_institutional_flow(1_000_000), "+1,000 張")
+        self.assertEqual(_fmt_institutional_flow(-11_191_022), "-11,191.022 張")
+        self.assertEqual(_fmt_broker_volume(709), "+709 張")
+        self.assertEqual(_fmt_institutional_flow(None), "—")
+        self.assertEqual(_fmt_broker_volume(None), "—")
+
     def test_report_generation_with_partial_data(self):
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)
@@ -48,6 +59,8 @@ class MvpRulesTest(unittest.TestCase):
             text = output.read_text(encoding="utf-8")
             self.assertIn("2330", text)
             self.assertIn("partial", text)
+            self.assertIn("+0.100 張", text)
+            self.assertIn("+10 張", text)
             self.assertIn("資料限制", text)
             self.assertIn("不產生交易指令", text)
 
