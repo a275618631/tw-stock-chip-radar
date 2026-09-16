@@ -2737,5 +2737,16 @@
     "dealer_ratio": 0.1325879909691303,
     "three_inst_ratio": 5.31258799096913,
     "three_inst_ratio_change_20": -0.3491642245265787
+  },
+  {
+    "date": "2026-09-16",
+    "code": "6994",
+    "name": "富威電力",
+    "market": "TWSE",
+    "foreign_ratio": 5.18,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.13168860939711352,
+    "three_inst_ratio": 5.311688609397113,
+    "three_inst_ratio_change_20": -0.2101997943126479
   }
 ]

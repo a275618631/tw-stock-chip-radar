@@ -1285,5 +1285,16 @@
     "dealer_ratio": 57.391462092323444,
     "three_inst_ratio": 59.201462092323446,
     "three_inst_ratio_change_20": 2.8357917863090165
+  },
+  {
+    "date": "2026-09-16",
+    "code": "009813",
+    "name": "貝萊德標普卓越50",
+    "market": "TWSE",
+    "foreign_ratio": 1.81,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 57.42313811966228,
+    "three_inst_ratio": 59.233138119662286,
+    "three_inst_ratio_change_20": 2.575484008845862
   }
 ]

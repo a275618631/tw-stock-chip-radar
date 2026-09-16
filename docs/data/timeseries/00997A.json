@@ -1208,5 +1208,16 @@
     "dealer_ratio": -36.06129131174568,
     "three_inst_ratio": -34.882273206699935,
     "three_inst_ratio_change_20": -3.362799147076746
+  },
+  {
+    "date": "2026-09-16",
+    "code": "00997A",
+    "name": "主動群益美國增長",
+    "market": "TWSE",
+    "foreign_ratio": 0.89,
+    "trust_ratio": 0.28901810504574504,
+    "dealer_ratio": -35.98567642132143,
+    "three_inst_ratio": -34.80665831627569,
+    "three_inst_ratio_change_20": -3.030090949270946
   }
 ]

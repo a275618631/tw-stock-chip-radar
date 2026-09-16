@@ -2737,5 +2737,16 @@
     "dealer_ratio": -0.22803226137884675,
     "three_inst_ratio": 1.421967738621153,
     "three_inst_ratio_change_20": 0.28434335139748734
+  },
+  {
+    "date": "2026-09-16",
+    "code": "8045",
+    "name": "達運光電",
+    "market": "TWSE",
+    "foreign_ratio": 1.65,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -0.2299714078482192,
+    "three_inst_ratio": 1.4200285921517808,
+    "three_inst_ratio_change_20": 0.30180552107511827
   }
 ]

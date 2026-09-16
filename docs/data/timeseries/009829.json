@@ -196,5 +196,16 @@
     "dealer_ratio": -28.12443875820822,
     "three_inst_ratio": -26.96443875820822,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-16",
+    "code": "009829",
+    "name": "大華韓國KOSPI50",
+    "market": "TWSE",
+    "foreign_ratio": 1.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -30.817200727564202,
+    "three_inst_ratio": -29.657200727564202,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

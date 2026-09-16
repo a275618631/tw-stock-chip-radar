@@ -702,5 +702,16 @@
     "dealer_ratio": -54.200208962154626,
     "three_inst_ratio": -53.960208962154624,
     "three_inst_ratio_change_20": 1.6393788324553782
+  },
+  {
+    "date": "2026-09-16",
+    "code": "009821",
+    "name": "野村稀土關鍵資源",
+    "market": "TWSE",
+    "foreign_ratio": 0.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -54.45071066480922,
+    "three_inst_ratio": -54.21071066480922,
+    "three_inst_ratio_change_20": 1.5266715001598214
   }
 ]

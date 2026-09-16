@@ -350,5 +350,16 @@
     "dealer_ratio": 84.41064914300333,
     "three_inst_ratio": 92.64064914300333,
     "three_inst_ratio_change_20": -32.61475054573464
+  },
+  {
+    "date": "2026-09-16",
+    "code": "00410A",
+    "name": "主動永豐科技趨勢",
+    "market": "TWSE",
+    "foreign_ratio": 8.23,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 84.13865822460987,
+    "three_inst_ratio": 92.36865822460987,
+    "three_inst_ratio_change_20": -32.9393362575633
   }
 ]

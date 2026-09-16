@@ -2770,5 +2770,16 @@
     "dealer_ratio": -0.05154773141973293,
     "three_inst_ratio": 50.17734571996319,
     "three_inst_ratio_change_20": 3.321943752235086
+  },
+  {
+    "date": "2026-09-16",
+    "code": "3532",
+    "name": "台勝科",
+    "market": "TWSE",
+    "foreign_ratio": 43.92,
+    "trust_ratio": 6.3344188952226945,
+    "dealer_ratio": 0.16546495111619672,
+    "three_inst_ratio": 50.4198838463389,
+    "three_inst_ratio_change_20": 3.578797351954371
   }
 ]

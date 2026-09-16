@@ -350,5 +350,16 @@
     "dealer_ratio": -58.48837848492416,
     "three_inst_ratio": -58.20837848492416,
     "three_inst_ratio_change_20": -15.951265270210442
+  },
+  {
+    "date": "2026-09-16",
+    "code": "009826",
+    "name": "貝萊德世界股票",
+    "market": "TWSE",
+    "foreign_ratio": 0.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -59.58428141879815,
+    "three_inst_ratio": -59.30428141879815,
+    "three_inst_ratio_change_20": -15.292825642817384
   }
 ]

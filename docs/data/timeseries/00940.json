@@ -2737,5 +2737,16 @@
     "dealer_ratio": 127.10841493814556,
     "three_inst_ratio": 127.20035410079574,
     "three_inst_ratio_change_20": 5.858950128757655
+  },
+  {
+    "date": "2026-09-16",
+    "code": "00940",
+    "name": "元大台灣價值高息",
+    "market": "TWSE",
+    "foreign_ratio": 0.09,
+    "trust_ratio": 0.0019391626501760275,
+    "dealer_ratio": 127.27429899754988,
+    "three_inst_ratio": 127.36623816020006,
+    "three_inst_ratio_change_20": 5.824136429868702
   }
 ]

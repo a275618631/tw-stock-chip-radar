@@ -108,5 +108,16 @@
     "dealer_ratio": -28.139162957645368,
     "three_inst_ratio": -28.05916295764537,
     "three_inst_ratio_change_20": 0.0
+  },
+  {
+    "date": "2026-09-16",
+    "code": "009827",
+    "name": "玉山未來全球算力",
+    "market": "TWSE",
+    "foreign_ratio": 0.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": -30.315071548217276,
+    "three_inst_ratio": -30.235071548217277,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

@@ -2770,5 +2770,16 @@
     "dealer_ratio": -0.96797888634326,
     "three_inst_ratio": 0.2933052265957966,
     "three_inst_ratio_change_20": -1.849328813339182
+  },
+  {
+    "date": "2026-09-16",
+    "code": "6209",
+    "name": "今國光",
+    "market": "TWSE",
+    "foreign_ratio": 1.25,
+    "trust_ratio": 0.01128411293905652,
+    "dealer_ratio": -0.8743630754528489,
+    "three_inst_ratio": 0.38692103748620776,
+    "three_inst_ratio_change_20": -1.8611164527823665
   }
 ]

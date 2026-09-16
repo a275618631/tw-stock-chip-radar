@@ -2737,5 +2737,16 @@
     "dealer_ratio": 51.18516674153523,
     "three_inst_ratio": 51.52411281324724,
     "three_inst_ratio_change_20": -8.069240092764154
+  },
+  {
+    "date": "2026-09-16",
+    "code": "00929",
+    "name": "復華台灣科技優息",
+    "market": "TWSE",
+    "foreign_ratio": 0.32,
+    "trust_ratio": 0.018946071712018193,
+    "dealer_ratio": 50.82474546426307,
+    "three_inst_ratio": 51.16369153597508,
+    "three_inst_ratio_change_20": -8.011807026353246
   }
 ]

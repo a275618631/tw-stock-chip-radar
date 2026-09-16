@@ -1,9 +1,9 @@
 {
-  "status": "partial",
-  "generated_at": "2026-09-16T15:30:21+08:00",
+  "status": "ok",
+  "generated_at": "2026-09-16T17:14:15+08:00",
   "freshness": {
     "institutional": "2026-09-16",
-    "broker": "2026-09-15",
+    "broker": "2026-09-16",
     "macro": "2026-09-16"
   },
   "environment": {
@@ -39,9 +39,9 @@
       "name": "USD/TWD",
       "status": "ok",
       "latest_date": "2026-09-16",
-      "close": 31.76,
-      "change_1d_pct": 0.1337,
-      "change_5d_pct": 0.9408
+      "close": 31.777,
+      "change_1d_pct": 0.1873,
+      "change_5d_pct": 0.9948
     },
     {
       "key": "USD_JPY",
@@ -49,9 +49,9 @@
       "name": "USD/JPY",
       "status": "ok",
       "latest_date": "2026-09-16",
-      "close": 154.931,
-      "change_1d_pct": 0.3537,
-      "change_5d_pct": 0.8843
+      "close": 155.076996,
+      "change_1d_pct": 0.4482,
+      "change_5d_pct": 0.9793
     },
     {
       "key": "NIKKEI",
@@ -78,25 +78,25 @@
     {
       "code": "2330",
       "name": "台積電",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "status": "negative",
       "institutional": {
-        "foreign_1d": -4226.76,
-        "foreign_5d": -28172.058,
-        "foreign_20d": -7350.073,
-        "trust_1d": -13.848,
-        "trust_5d": -313.66,
-        "trust_20d": -3753.779,
-        "dealer_1d": 350.547,
-        "dealer_5d": 90.811,
-        "dealer_20d": 2727.12,
+        "foreign_1d": -8744.38,
+        "foreign_5d": -34357.576,
+        "foreign_20d": -8676.51,
+        "trust_1d": 166.543,
+        "trust_5d": 56.476,
+        "trust_20d": -2918.826,
+        "dealer_1d": 762.216,
+        "dealer_5d": 811.297,
+        "dealer_20d": 2769.994,
         "unit": "lots",
         "source_unit": "shares",
         "scale": 1000
       },
       "brokers": {
         "available": true,
-        "as_of": "2026-09-15",
+        "as_of": "2026-09-16",
         "unit": "lots",
         "top_buys": [
           {
@@ -131,25 +131,25 @@
     {
       "code": "2317",
       "name": "鴻海",
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "status": "neutral",
       "institutional": {
-        "foreign_1d": -2393.248,
-        "foreign_5d": -6226.405,
-        "foreign_20d": -20371.886,
-        "trust_1d": -26.147,
-        "trust_5d": 2160.311,
-        "trust_20d": 5575.449,
-        "dealer_1d": 317.717,
-        "dealer_5d": -2333.715,
-        "dealer_20d": -2260.742,
+        "foreign_1d": -1688.228,
+        "foreign_5d": -11047.969,
+        "foreign_20d": -11995.73,
+        "trust_1d": 1281.857,
+        "trust_5d": 3476.374,
+        "trust_20d": 7157.306,
+        "dealer_1d": -2183.45,
+        "dealer_5d": -4002.933,
+        "dealer_20d": -3622.062,
         "unit": "lots",
         "source_unit": "shares",
         "scale": 1000
       },
       "brokers": {
         "available": true,
-        "as_of": "2026-09-15",
+        "as_of": "2026-09-16",
         "unit": "lots",
         "top_buys": [
           {
@@ -184,25 +184,25 @@
     {
       "code": "2454",
       "name": "聯發科",
-      "date": "2026-09-15",
-      "status": "neutral",
+      "date": "2026-09-16",
+      "status": "positive",
       "institutional": {
-        "foreign_1d": -999.999,
-        "foreign_5d": -47.834,
-        "foreign_20d": 4281.687,
-        "trust_1d": -19.057,
-        "trust_5d": 427.88,
-        "trust_20d": -478.641,
-        "dealer_1d": 35.344,
-        "dealer_5d": 6.197,
-        "dealer_20d": 407.922,
+        "foreign_1d": 997.028,
+        "foreign_5d": 1706.793,
+        "foreign_20d": 5494.945,
+        "trust_1d": -457.422,
+        "trust_5d": -206.888,
+        "trust_20d": 110.187,
+        "dealer_1d": 215.266,
+        "dealer_5d": 248.695,
+        "dealer_20d": 888.32,
         "unit": "lots",
         "source_unit": "shares",
         "scale": 1000
       },
       "brokers": {
         "available": true,
-        "as_of": "2026-09-15",
+        "as_of": "2026-09-16",
         "unit": "lots",
         "top_buys": [
           {

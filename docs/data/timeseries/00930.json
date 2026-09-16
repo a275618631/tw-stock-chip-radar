@@ -2737,5 +2737,16 @@
     "dealer_ratio": 111.280159372009,
     "three_inst_ratio": 111.430159372009,
     "three_inst_ratio_change_20": -13.872580671178099
+  },
+  {
+    "date": "2026-09-16",
+    "code": "00930",
+    "name": "永豐ESG低碳高息",
+    "market": "TWSE",
+    "foreign_ratio": 0.15,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 110.88309232150408,
+    "three_inst_ratio": 111.03309232150409,
+    "three_inst_ratio_change_20": -14.274704667870637
   }
 ]
