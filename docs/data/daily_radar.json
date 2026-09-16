@@ -1,0 +1,247 @@
+{
+  "status": "ok",
+  "generated_at": "2026-09-16T11:31:33+08:00",
+  "freshness": {
+    "institutional": "2026-09-15",
+    "broker": "2026-09-15",
+    "macro": "2026-09-15"
+  },
+  "environment": {
+    "label": "negative",
+    "score": -3,
+    "available_factors": 5,
+    "risk_flags": [
+      "USD/JPY 劇烈波動，carry trade 風險需留意"
+    ]
+  },
+  "macro": [
+    {
+      "key": "TSM",
+      "ticker": "TSM",
+      "name": "台積電 ADR",
+      "status": "ok",
+      "latest_date": "2026-09-15",
+      "close": 414.01001,
+      "change_1d_pct": -0.9569,
+      "change_5d_pct": -4.904
+    },
+    {
+      "key": "SOX",
+      "ticker": "^SOX",
+      "name": "費城半導體",
+      "status": "ok",
+      "latest_date": "2026-09-15",
+      "close": 11188.598633,
+      "change_1d_pct": 0.5149,
+      "change_5d_pct": -6.225
+    },
+    {
+      "key": "USD_TWD",
+      "ticker": "TWD=X",
+      "name": "USD/TWD",
+      "status": "ok",
+      "latest_date": "2026-09-15",
+      "close": 31.843,
+      "change_1d_pct": 0.5266,
+      "change_5d_pct": 1.0915
+    },
+    {
+      "key": "USD_JPY",
+      "ticker": "JPY=X",
+      "name": "USD/JPY",
+      "status": "ok",
+      "latest_date": "2026-09-15",
+      "close": 155.067001,
+      "change_1d_pct": 1.0709,
+      "change_5d_pct": 1.0353
+    },
+    {
+      "key": "NIKKEI",
+      "ticker": "^N225",
+      "name": "日經 225",
+      "status": "ok",
+      "latest_date": "2026-09-14",
+      "close": 63492.988281,
+      "change_1d_pct": -0.8098,
+      "change_5d_pct": -2.5326
+    },
+    {
+      "key": "US10Y",
+      "ticker": "^TNX",
+      "name": "美國 10Y",
+      "status": "ok",
+      "latest_date": "2026-09-15",
+      "close": 4.992,
+      "change_1d_pct": 0.6249,
+      "change_5d_pct": 3.2045
+    }
+  ],
+  "watchlist": [
+    {
+      "code": "2330",
+      "name": "台積電",
+      "date": "2026-09-15",
+      "status": "negative",
+      "institutional": {
+        "foreign_1d": -4226.76,
+        "foreign_5d": -28172.058,
+        "foreign_20d": -7350.073,
+        "trust_1d": -13.848,
+        "trust_5d": -313.66,
+        "trust_20d": -3753.779,
+        "dealer_1d": 350.547,
+        "dealer_5d": 90.811,
+        "dealer_20d": 2727.12,
+        "unit": "lots",
+        "source_unit": "shares",
+        "scale": 1000
+      },
+      "brokers": {
+        "available": true,
+        "as_of": "2026-09-15",
+        "unit": "lots",
+        "top_buys": [
+          {
+            "broker_name": "新加坡商瑞銀",
+            "net_vol": 468
+          },
+          {
+            "broker_name": "永豐金證券",
+            "net_vol": 404
+          },
+          {
+            "broker_name": "中國信託",
+            "net_vol": 390
+          }
+        ],
+        "top_sells": [
+          {
+            "broker_name": "富邦證券",
+            "net_vol": -1739
+          },
+          {
+            "broker_name": "花旗環球",
+            "net_vol": -1432
+          },
+          {
+            "broker_name": "凱基-台北",
+            "net_vol": -376
+          }
+        ]
+      }
+    },
+    {
+      "code": "2317",
+      "name": "鴻海",
+      "date": "2026-09-15",
+      "status": "neutral",
+      "institutional": {
+        "foreign_1d": -2393.248,
+        "foreign_5d": -6226.405,
+        "foreign_20d": -20371.886,
+        "trust_1d": -26.147,
+        "trust_5d": 2160.311,
+        "trust_20d": 5575.449,
+        "dealer_1d": 317.717,
+        "dealer_5d": -2333.715,
+        "dealer_20d": -2260.742,
+        "unit": "lots",
+        "source_unit": "shares",
+        "scale": 1000
+      },
+      "brokers": {
+        "available": true,
+        "as_of": "2026-09-15",
+        "unit": "lots",
+        "top_buys": [
+          {
+            "broker_name": "國泰證券",
+            "net_vol": 1016
+          },
+          {
+            "broker_name": "港商麥格理",
+            "net_vol": 920
+          },
+          {
+            "broker_name": "富邦證券",
+            "net_vol": 433
+          }
+        ],
+        "top_sells": [
+          {
+            "broker_name": "花旗環球",
+            "net_vol": -1326
+          },
+          {
+            "broker_name": "摩根大通",
+            "net_vol": -1274
+          },
+          {
+            "broker_name": "法銀巴黎",
+            "net_vol": -485
+          }
+        ]
+      }
+    },
+    {
+      "code": "2454",
+      "name": "聯發科",
+      "date": "2026-09-15",
+      "status": "neutral",
+      "institutional": {
+        "foreign_1d": -999.999,
+        "foreign_5d": -47.834,
+        "foreign_20d": 4281.687,
+        "trust_1d": -19.057,
+        "trust_5d": 427.88,
+        "trust_20d": -478.641,
+        "dealer_1d": 35.344,
+        "dealer_5d": 6.197,
+        "dealer_20d": 407.922,
+        "unit": "lots",
+        "source_unit": "shares",
+        "scale": 1000
+      },
+      "brokers": {
+        "available": true,
+        "as_of": "2026-09-15",
+        "unit": "lots",
+        "top_buys": [
+          {
+            "broker_name": "中國信託",
+            "net_vol": 466
+          },
+          {
+            "broker_name": "港商野村",
+            "net_vol": 305
+          },
+          {
+            "broker_name": "摩根大通",
+            "net_vol": 110
+          }
+        ],
+        "top_sells": [
+          {
+            "broker_name": "新加坡商瑞銀",
+            "net_vol": -446
+          },
+          {
+            "broker_name": "美商高盛",
+            "net_vol": -445
+          },
+          {
+            "broker_name": "花旗環球",
+            "net_vol": -288
+          }
+        ]
+      }
+    }
+  ],
+  "limitations": [
+    "券商分點是主力行為代理，不等於已確認主力身分。",
+    "yfinance 指標是市場環境代理，不是美日資金直接流入台股數據。",
+    "本工具僅供研究參考，不產生交易指令。",
+    "yfinance is a third-party convenience provider",
+    "macro indicators are proxies, not direct country-of-origin Taiwan stock flows"
+  ]
+}

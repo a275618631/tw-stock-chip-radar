@@ -18,10 +18,64 @@
       <p class="header-subtitle">整合三大法人持股 + 券商分點主力進出</p>
     </div>
     <nav class="main-nav">
-      <button class="nav-btn active" data-section="institutional">三大法人</button>
+      <button class="nav-btn active" data-section="daily-radar">今日雷達</button>
+      <button class="nav-btn" data-section="institutional">三大法人</button>
       <button class="nav-btn" data-section="broker">券商分點</button>
     </nav>
   </header>
+
+  <!-- 今日雷達區塊 -->
+  <section id="daily-radar" class="section active">
+    <div class="card radar-hero">
+      <div>
+        <p class="eyebrow">Daily Chip Radar</p>
+        <h2>今日雷達</h2>
+        <p class="subtitle">每天先看資料狀態、全球環境，再快速掃描我的追蹤股票。</p>
+      </div>
+      <span id="radarEnvironment" class="signal-pill insufficient_data">資料載入中</span>
+    </div>
+
+    <div id="radarLoadError" class="card radar-error" hidden></div>
+
+    <div class="card">
+      <div class="card-header">
+        <h3>資料狀態</h3>
+        <span id="radarGeneratedAt" class="update-time"></span>
+      </div>
+      <div id="radarFreshness" class="freshness-grid" aria-live="polite"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <h3>Global Context</h3>
+        <span class="subtitle">現有 deterministic environment score</span>
+      </div>
+      <div id="macroContextCards" class="macro-grid"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-header">
+        <div>
+          <h3>我的追蹤股票</h3>
+          <p class="subtitle">正式 Watchlist；點擊股票可直接開啟三大法人圖表。</p>
+        </div>
+        <span class="unit-note">法人：股 ÷ 1,000 = 張</span>
+      </div>
+      <div class="table-container radar-table-container">
+        <table id="watchlistTable">
+          <thead>
+            <tr><th>股票</th><th>籌碼</th><th>外資 5D（張）</th><th>投信 5D（張）</th><th>自營 5D（張）</th><th>分點</th></tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="card">
+      <h3>使用提醒</h3>
+      <p id="radarLimitations" class="subtitle">券商分點是主力行為代理，不等於已確認主力身分；本工具僅供研究參考，不產生交易指令。</p>
+    </div>
+  </section>
 
   <!-- 三大法人區塊 -->
   <section id="institutional" class="section active">
@@ -197,8 +251,7 @@
   </section>
 
   <footer class="footer">
-    <p>資料每日自動更新 | GitHub: <a href="https://github.com/voidful/tw-institutional-stocker"
-        target="_blank">tw-institutional-stocker</a></p>
+    <p>Private local UI · <a href="../reports/daily_market_report.html" target="_blank">開啟今日 HTML 報告</a> · GitHub Actions 每日更新</p>
   </footer>
 
   <script src="script.js"></script>
