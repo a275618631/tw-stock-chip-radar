@@ -65,13 +65,18 @@ Export scans source and output for Windows/macOS absolute paths, the private Git
 
 ## GitHub Actions
 
-Branch Actions and main final Actions are to be recorded after this branch is pushed and merged. The existing workflow remains unchanged; no Windows runner matrix was added.
+- Feature branch validation: [run 35067467389](https://github.com/a275618631/tw-stock-chip-radar/actions/runs/35067467389) — success; all data, broker, report, and validation steps passed.
+- Main final validation: [run 35068258241](https://github.com/a275618631/tw-stock-chip-radar/actions/runs/35068258241) — success in 7m15s; data update, macro context, report generation, and commit/push all passed.
+- Main generated-data commit: `5110f0952 chore: daily data update 2026-09-16`.
+- The existing workflow remains unchanged; no Windows runner matrix was added. GitHub's existing Node.js 20 deprecation annotation is non-blocking.
 
 ## PR / Merge
 
 Branch: `codex/usage-portability-sharing-fix`.
 
-PR and merge commit will be recorded after branch validation and clean diff review. No generated data churn is expected in the PR.
+- [PR #5](https://github.com/a275618631/tw-stock-chip-radar/pull/5) — merged successfully.
+- Merge commit: `9bc37ddbd feat: finalize dashboard portability and sharing (#5)`.
+- The PR contained code, launcher, documentation, and tests only; generated-data churn was excluded from the feature diff.
 
 ## Daily Usage
 
