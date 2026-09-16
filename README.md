@@ -1,6 +1,6 @@
 # tw_institutional_stocker
 
-台股三大法人持股比重追蹤（上市 + 上櫃），自動每日更新並發佈到 GitHub Pages。
+台股三大法人持股比重追蹤（上市 + 上櫃），自動每日更新並提供 private local UI。
 
 ## 新版重點
 
@@ -82,17 +82,23 @@ python generate_daily_report.py
 `yfinance` 第三方 convenience provider。券商分點是主力行為代理，不是已確認的主力身分；
 macro 指標不是美日資金直接流入台股數據；本工具僅供研究參考，不產生交易指令。
 
-## 每日怎麼使用
+## 每天怎麼使用
 
-一般使用者不需要在本機執行 Python。
+### 方法 A｜互動 Dashboard
 
-GitHub Actions 會每日盤後自動更新。
+Windows 使用者雙擊 `start_dashboard.cmd`，會在工作區更新最新 main、啟動 local static server，並開啟 `http://127.0.0.1:8765/`（若該 port 被占用會自動往後尋找）。
 
-直接閱讀：[每日籌碼報告](reports/daily_market_report.md)
+### 方法 B｜今天的 HTML 報告
 
-建議依序查看：Data Freshness → Global Context → Watchlist → 外資／投信／自營商 1D、5D、20D → 券商分點 → 籌碼狀態。
+雙擊 `open_daily_report.cmd`，即可開啟 self-contained 的 [每日 HTML 報告](reports/daily_market_report.html)。報告不依賴 Python server 或 JSON fetch。
 
-`positive / neutral / negative` 是研究排序訊號，不是交易指令。
+### 自動更新
+
+GitHub Actions 每日約台灣 19:10 更新市場資料；平常不需要手動執行 Python。
+
+正式 Watchlist 設定在 `config/watchlist.json`；`positive / neutral / negative` 是研究排序訊號，不是交易指令。
+
+目前 Dashboard 為 private local UI，不啟用 GitHub Pages 或其他公開部署。
 
 Based on / derived from `voidful/tw-institutional-stocker`.
 

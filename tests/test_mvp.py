@@ -10,7 +10,10 @@ import pandas as pd
 from generate_daily_report import (
     _fmt_broker_volume,
     _fmt_institutional_flow,
+    build_report_payload,
+    generate_outputs,
     generate_report,
+    load_watchlist,
 )
 from macro_context import (
     TICKER_MAP,
@@ -74,6 +77,49 @@ class MvpRulesTest(unittest.TestCase):
             self.assertIn("+10 張", text)
             self.assertIn("資料限制", text)
             self.assertIn("不產生交易指令", text)
+
+    def test_daily_radar_payload_and_outputs(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            flow = root / "flows.csv"
+            flow.write_text("date,code,name,foreign_net,trust_net,dealer_net,market\n2026-09-15,2330,台積電,100,50,-10,TWSE\n2026-09-14,2330,台積電,20,10,0,TWSE\n", encoding="utf-8")
+            broker = root / "broker.json"
+            broker.write_text(json.dumps({"data": []}, ensure_ascii=False), encoding="utf-8")
+            macro_data = {
+                key: {"ticker": config["ticker"], "name": config["name"], "status": "ok", "latest_date": "2026-09-15", "close": 1, "change_1d_pct": 1, "change_5d_pct": 1}
+                for key, config in TICKER_MAP.items()
+            }
+            macro = root / "macro.json"
+            macro.write_text(json.dumps({"as_of": "2026-09-15", "status": "ok", "data": macro_data, "environment": {"label": "positive", "score": 3, "risk_flags": []}}, ensure_ascii=False), encoding="utf-8")
+            watchlist = root / "watchlist.json"
+            watchlist.write_text(json.dumps({"version": 1, "stocks": [{"code": "2330", "name": "台積電", "enabled": True}, {"code": "2454", "name": "聯發科", "enabled": False}]}, ensure_ascii=False), encoding="utf-8")
+            report = root / "report.md"
+            html = root / "report.html"
+            radar = root / "daily_radar.json"
+
+            payload = build_report_payload([flow], broker, macro, watchlist)
+            self.assertEqual([item["code"] for item in load_watchlist(watchlist)], ["2330"])
+            self.assertEqual(payload["status"], "partial")
+            self.assertEqual(payload["freshness"]["institutional"], "2026-09-15")
+            stock = payload["watchlist"][0]
+            self.assertEqual(stock["institutional"]["unit"], "lots")
+            self.assertEqual(stock["institutional"]["source_unit"], "shares")
+            self.assertEqual(stock["institutional"]["foreign_5d"], 0.12)
+            self.assertEqual(stock["status"], "positive")
+            self.assertFalse(stock["brokers"]["available"])
+            self.assertEqual(stock["brokers"]["top_buys"], [])
+
+            generate_outputs([flow], broker, macro, watchlist, report, html, radar)
+            html_text = html.read_text(encoding="utf-8")
+            json_payload = json.loads(radar.read_text(encoding="utf-8"))
+            self.assertTrue(html.exists())
+            self.assertIn("2330 台積電", html_text)
+            self.assertIn("Global Context", html_text)
+            self.assertIn("Data Freshness", html_text)
+            self.assertIn("不產生交易指令", html_text)
+            self.assertIn("分點：未追蹤", html_text)
+            self.assertEqual(len(json_payload["macro"]), 6)
+            self.assertEqual(json_payload["watchlist"][0]["institutional"]["unit"], "lots")
 
 
 if __name__ == "__main__":

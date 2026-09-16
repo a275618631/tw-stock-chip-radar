@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "stocks": [
+    {
+      "code": "2330",
+      "name": "台積電",
+      "enabled": true
+    },
+    {
+      "code": "2317",
+      "name": "鴻海",
+      "enabled": true
+    },
+    {
+      "code": "2454",
+      "name": "聯發科",
+      "enabled": true
+    }
+  ]
+}

@@ -4,6 +4,7 @@ let marketFilter = "ALL";
 let currentWindow = 20;
 let currentMetric = "netbuy"; // "netbuy" | "change"
 let currentSide = "up";       // "up" | "down"
+let radarPayload = null;
 
 async function fetchJson(url) {
   const resp = await fetch(url);
@@ -32,6 +33,94 @@ function netClass(x) {
   if (x > 0) return "net-positive";
   if (x < 0) return "net-negative";
   return "";
+}
+
+function escapeHtml(value) {
+  return String(value ?? "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/\"/g, "&quot;")
+    .replace(/'/g, "&#039;");
+}
+
+function signedLots(value) {
+  const number = Number(value);
+  if (!Number.isFinite(number)) return "—";
+  const formatted = number.toLocaleString("zh-TW", { minimumFractionDigits: Number.isInteger(number) ? 0 : 3, maximumFractionDigits: 3 });
+  return `${number > 0 ? "+" : ""}${formatted} 張`;
+}
+
+function signalText(label) {
+  return { positive: "Positive", neutral: "Neutral", negative: "Negative", insufficient_data: "Insufficient" }[label] || "Missing";
+}
+
+function signalMarkup(label) {
+  const safe = ["positive", "neutral", "negative", "insufficient_data"].includes(label) ? label : "missing";
+  return `<span class="signal-pill ${safe}">${signalText(label)}</span>`;
+}
+
+function freshnessClass(status) {
+  return { ok: "fresh-ok", partial: "fresh-partial", missing: "fresh-missing" }[status] || "fresh-missing";
+}
+
+// ========== Daily Radar ==========
+
+function renderDailyRadar(payload) {
+  const environment = payload.environment || {};
+  const envNode = document.getElementById("radarEnvironment");
+  envNode.className = `signal-pill ${environment.label || "insufficient_data"}`;
+  envNode.innerHTML = signalText(environment.label);
+
+  document.getElementById("radarGeneratedAt").textContent = `最後更新：${payload.generated_at || "missing"}`;
+  const freshness = payload.freshness || {};
+  const freshnessNode = document.getElementById("radarFreshness");
+  freshnessNode.innerHTML = Object.entries({ institutional: "法人", broker: "分點", macro: "Macro" })
+    .map(([key, label]) => `<div class="freshness-card ${freshnessClass(payload.status)}"><span>${label}</span><strong>${escapeHtml(freshness[key] || "missing")}</strong></div>`)
+    .join("");
+
+  document.getElementById("macroContextCards").innerHTML = (payload.macro || []).map((item) => `
+    <div class="macro-card ${item.status === "ok" ? "" : "macro-missing"}">
+      <h4>${escapeHtml(item.name)}</h4>
+      <p class="macro-ticker">${escapeHtml(item.ticker)} · ${escapeHtml(item.latest_date || "missing")}</p>
+      <strong class="macro-close">${escapeHtml(item.close == null ? "—" : Number(item.close).toLocaleString("zh-TW"))}</strong>
+      <p class="macro-change">1D ${escapeHtml(item.change_1d_pct == null ? "—" : `${item.change_1d_pct}%`)} · 5D ${escapeHtml(item.change_5d_pct == null ? "—" : `${item.change_5d_pct}%`)}</p>
+    </div>`).join("");
+
+  const rows = (payload.watchlist || []).map((stock) => {
+    const m = stock.institutional || {};
+    const broker = stock.brokers || {};
+    const brokerLabel = broker.available
+      ? `買 ${((broker.top_buys || [])[0] || {}).broker_name || "有資料"}`
+      : "分點：未追蹤";
+    return `<tr data-stock-code="${escapeHtml(stock.code)}">
+      <td><span class="badge">${escapeHtml(stock.code)}</span>${escapeHtml(stock.name)}<small>${escapeHtml(stock.date || "missing")}</small></td>
+      <td>${signalMarkup(stock.status)}</td>
+      <td class="${netClass(Number(m.foreign_5d))}">${signedLots(m.foreign_5d)}</td>
+      <td class="${netClass(Number(m.trust_5d))}">${signedLots(m.trust_5d)}</td>
+      <td class="${netClass(Number(m.dealer_5d))}">${signedLots(m.dealer_5d)}</td>
+      <td>${escapeHtml(brokerLabel)}</td>
+    </tr>`;
+  }).join("");
+  const tbody = document.querySelector("#watchlistTable tbody");
+  tbody.innerHTML = rows || "<tr><td colspan='6'>目前沒有可用追蹤資料</td></tr>";
+  tbody.querySelectorAll("tr[data-stock-code]").forEach((row) => {
+    row.addEventListener("click", () => openInstitutionalStock(row.dataset.stockCode));
+  });
+
+  const limitations = [...new Set(payload.limitations || [])].slice(0, 3);
+  document.getElementById("radarLimitations").textContent = limitations.join("；");
+}
+
+async function loadDailyRadar() {
+  const errorNode = document.getElementById("radarLoadError");
+  try {
+    radarPayload = await fetchJson("data/daily_radar.json");
+    renderDailyRadar(radarPayload);
+  } catch (err) {
+    errorNode.hidden = false;
+    errorNode.textContent = `今日雷達載入失敗：${err.message}。請確認 GitHub Actions 已完成資料更新。`;
+  }
 }
 
 // ========== Stock Chart ==========
@@ -520,34 +609,34 @@ function renderBrokerTrendChart(selectedBroker) {
 
 // ========== Navigation ==========
 
-
-function initNavigation() {
+function activateSection(targetSection) {
   const navBtns = document.querySelectorAll(".nav-btn");
   const sections = document.querySelectorAll(".section");
 
-  navBtns.forEach(btn => {
+  navBtns.forEach((btn) => btn.classList.toggle("active", btn.dataset.section === targetSection));
+  sections.forEach((section) => section.classList.toggle("active", section.id === targetSection));
+
+  if (targetSection === "broker") {
+    loadBrokerRanking();
+    loadBrokerTrades();
+    loadTargetBrokers();
+    loadBrokerTrends();
+  }
+}
+
+function openInstitutionalStock(code) {
+  const input = document.getElementById("stockInput");
+  if (input) input.value = code;
+  activateSection("institutional");
+  loadStock(code);
+}
+
+function initNavigation() {
+  const navBtns = document.querySelectorAll(".nav-btn");
+
+  navBtns.forEach((btn) => {
     btn.addEventListener("click", () => {
-      const targetSection = btn.dataset.section;
-
-      // Update nav buttons
-      navBtns.forEach(b => b.classList.remove("active"));
-      btn.classList.add("active");
-
-      // Update sections
-      sections.forEach(section => {
-        section.classList.remove("active");
-        if (section.id === targetSection) {
-          section.classList.add("active");
-        }
-      });
-
-      // Load data for broker section on first click
-      if (targetSection === "broker") {
-        loadBrokerRanking();
-        loadBrokerTrades();
-        loadTargetBrokers();
-        loadBrokerTrends();
-      }
+      activateSection(btn.dataset.section);
     });
   });
 }
@@ -606,6 +695,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Load initial data
   input.value = "2330";
+  loadDailyRadar();
   loadStock("2330");
   loadRanking();
 });
