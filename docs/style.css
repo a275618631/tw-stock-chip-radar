@@ -384,6 +384,11 @@ body {
   box-shadow: 0 0 0 3px rgba(233, 69, 96, 0.2);
 }
 
+.stock-input-hint {
+  flex-basis: 100%;
+  margin: -0.35rem 0 0;
+}
+
 #loadBtn {
   padding: 0.5rem 1.2rem;
   border-radius: 8px;

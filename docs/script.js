@@ -5,13 +5,25 @@ let currentWindow = 20;
 let currentMetric = "netbuy"; // "netbuy" | "change"
 let currentSide = "up";       // "up" | "down"
 let radarPayload = null;
+let stockCatalog = new Map();
+let stockCatalogReady = false;
 
 async function fetchJson(url) {
   const resp = await fetch(url);
   if (!resp.ok) {
-    throw new Error(`HTTP ${resp.status}`);
+    const error = new Error(`HTTP ${resp.status}`);
+    error.status = resp.status;
+    throw error;
   }
   return await resp.json();
+}
+
+function normalizeStockCode(value) {
+  return String(value ?? "").trim().toUpperCase().replace(/\s+/g, "");
+}
+
+function isValidStockCode(code) {
+  return /^\d{4,6}[A-Z]*$/.test(code);
 }
 
 function formatPct(x) {
@@ -139,15 +151,48 @@ async function loadDailyRadar() {
 
 // ========== Stock Chart ==========
 
+async function loadStockCatalog() {
+  const datalist = document.getElementById("stockCatalog");
+  const hint = document.getElementById("stockInputHint");
+  if (!datalist) return;
+
+  try {
+    const payload = await fetchJson("data/stock_catalog.json");
+    const rows = Array.isArray(payload) ? payload : (payload.stocks || []);
+    stockCatalog = new Map(rows.map((item) => [normalizeStockCode(item.code), item]));
+    datalist.innerHTML = rows.map((item) => {
+      const label = [item.name, item.market].filter(Boolean).join(" · ");
+      return `<option value="${escapeHtml(normalizeStockCode(item.code))}" label="${escapeHtml(label)}"></option>`;
+    }).join("");
+    stockCatalogReady = true;
+    if (hint) hint.textContent = `可輸入任一有歷史資料的上市／上櫃代號；目前可切換 ${rows.length.toLocaleString("zh-TW")} 檔。`;
+  } catch (err) {
+    // The input remains usable for older exports without a catalog manifest.
+    if (hint) hint.textContent = "可直接輸入上市／上櫃代號；若該代號尚未有歷史資料，會顯示清楚提示。";
+  }
+}
+
 async function loadStock(code) {
   const status = document.getElementById("statusText");
   const title = document.getElementById("chartTitle");
   const btn = document.getElementById("loadBtn");
 
-  code = (code || "").trim();
-  if (!code) return;
+  code = normalizeStockCode(code);
+  if (!code) {
+    status.textContent = "請輸入股票代號";
+    return;
+  }
+  if (!isValidStockCode(code)) {
+    status.textContent = "股票代號格式錯誤（例如 2330、8069、00679B）";
+    return;
+  }
+  if (stockCatalogReady && !stockCatalog.has(code)) {
+    status.textContent = `找不到 ${code} 的歷史資料；請從下拉建議選取有效代號`;
+    return;
+  }
 
   btn.disabled = true;
+  document.getElementById("stockInput").value = code;
   status.textContent = `載入 ${code}...`;
 
   const showForeign = document.getElementById("showForeign").checked;
@@ -156,7 +201,7 @@ async function loadStock(code) {
   const showTotal = document.getElementById("showTotal").checked;
 
   try {
-    const data = await fetchJson(`data/timeseries/${code}.json`);
+    const data = await fetchJson(`data/timeseries/${encodeURIComponent(code)}.json`);
     if (!data.length) {
       status.textContent = `找不到 ${code} 資料`;
       btn.disabled = false;
@@ -250,7 +295,9 @@ async function loadStock(code) {
     status.textContent = `${last.date} | 三大法人 ${formatPct(last.three_inst_ratio)}%`;
   } catch (err) {
     console.error(err);
-    status.textContent = `載入失敗：${err.message}`;
+    status.textContent = err.status === 404
+      ? `找不到 ${code} 的歷史資料；請從下拉建議選取有效代號`
+      : `載入失敗：${err.message}`;
   } finally {
     btn.disabled = false;
   }
@@ -639,6 +686,7 @@ function activateSection(targetSection) {
 }
 
 function openInstitutionalStock(code) {
+  code = normalizeStockCode(code);
   const input = document.getElementById("stockInput");
   if (input) input.value = code;
   activateSection("institutional");
@@ -714,6 +762,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Load initial data
   input.value = "2330";
+  loadStockCatalog();
   loadDailyRadar();
   loadStock("2330");
   loadRanking();

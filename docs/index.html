@@ -6,6 +6,7 @@
   <title>台股三大法人持股追蹤（上市＋上櫃）</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="追蹤三大法人（外資、投信、自營商）持股比例變化及券商分點主力進出">
+  <meta name="robots" content="noindex,nofollow,noarchive">
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <link rel="stylesheet" href="style.css">
 </head>
@@ -99,10 +100,12 @@
       <div class="controls">
         <div class="control-block">
           <label for="stockInput">股票代碼：</label>
-          <input id="stockInput" type="text" placeholder="2330">
+          <input id="stockInput" list="stockCatalog" type="text" inputmode="numeric" autocomplete="off" placeholder="輸入代號，例如 2330" aria-describedby="stockInputHint">
+          <datalist id="stockCatalog"></datalist>
           <button id="loadBtn">載入</button>
           <span id="statusText" class="subtitle"></span>
         </div>
+        <p id="stockInputHint" class="subtitle stock-input-hint">可輸入任一有歷史資料的上市／上櫃代號，或從下拉建議選取。</p>
         <div class="control-block">
           <label for="marketFilter">市場：</label>
           <select id="marketFilter">
@@ -263,7 +266,8 @@
   </section>
 
   <footer class="footer">
-    <p>Private local UI · <a href="../reports/daily_market_report.html" target="_blank">開啟今日 HTML 報告</a> · GitHub Actions 每日更新</p>
+    <p>Personal &amp; Family Non-commercial Use · 僅供研究參考，不構成投資建議。</p>
+    <p>Broker branch ≠ confirmed beneficial owner · <a href="../reports/daily_market_report.html" target="_blank">開啟今日 HTML 報告</a> · GitHub Actions 每日更新</p>
   </footer>
 
   <script src="script.js"></script>
