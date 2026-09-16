@@ -2776,10 +2776,10 @@
     "code": "1708",
     "name": "東鹼",
     "market": "TWSE",
-    "foreign_ratio": 8.9,
+    "foreign_ratio": 8.96,
     "trust_ratio": 0.20240829648153616,
     "dealer_ratio": 0.10015636402346585,
-    "three_inst_ratio": 9.202564660505002,
-    "three_inst_ratio_change_20": -0.7815413552418562
+    "three_inst_ratio": 9.262564660505003,
+    "three_inst_ratio_change_20": -0.7215413552418557
   }
 ]

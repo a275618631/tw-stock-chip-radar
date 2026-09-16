@@ -2424,10 +2424,10 @@
     "code": "7791",
     "name": "皇家可口",
     "market": "TWSE",
-    "foreign_ratio": 0.44,
+    "foreign_ratio": 0.47,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.05254625,
-    "three_inst_ratio": 0.38745375,
-    "three_inst_ratio_change_20": -0.00500000000000006
+    "three_inst_ratio": 0.41745374999999996,
+    "three_inst_ratio_change_20": 0.02499999999999991
   }
 ]

@@ -2776,10 +2776,10 @@
     "code": "6206",
     "name": "飛捷",
     "market": "TWSE",
-    "foreign_ratio": 19.71,
+    "foreign_ratio": 19.67,
     "trust_ratio": -3.6480520196218813,
     "dealer_ratio": -0.3832231887970728,
-    "three_inst_ratio": 15.678724791581045,
-    "three_inst_ratio_change_20": -0.2662224925131227
+    "three_inst_ratio": 15.638724791581046,
+    "three_inst_ratio_change_20": -0.30622249251312184
   }
 ]

@@ -1929,10 +1929,10 @@
     "code": "00987A",
     "name": "主動台新優勢成長",
     "market": "TWSE",
-    "foreign_ratio": 0.96,
+    "foreign_ratio": 1.05,
     "trust_ratio": 0.0,
     "dealer_ratio": -48.66507316690936,
-    "three_inst_ratio": -47.70507316690936,
-    "three_inst_ratio_change_20": -3.3742968925632084
+    "three_inst_ratio": -47.61507316690936,
+    "three_inst_ratio_change_20": -3.284296892563212
   }
 ]

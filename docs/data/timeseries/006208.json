@@ -1313,10 +1313,10 @@
     "code": "006208",
     "name": "富邦台50",
     "market": "TWSE",
-    "foreign_ratio": 1.1,
+    "foreign_ratio": 1.08,
     "trust_ratio": 0.006342244724649833,
     "dealer_ratio": -0.072242091005837,
-    "three_inst_ratio": 1.0341001537188128,
-    "three_inst_ratio_change_20": 0.10424482802689217
+    "three_inst_ratio": 1.0141001537188128,
+    "three_inst_ratio_change_20": 0.08424482802689215
   }
 ]

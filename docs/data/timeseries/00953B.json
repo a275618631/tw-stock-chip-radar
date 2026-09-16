@@ -2743,10 +2743,10 @@
     "code": "00953B",
     "name": "群益優選非投等債",
     "market": "TWSE",
-    "foreign_ratio": 0.2,
-    "trust_ratio": -0.6937969955471465,
-    "dealer_ratio": -18.34936317125816,
-    "three_inst_ratio": -18.84316016680531,
-    "three_inst_ratio_change_20": -6.356877688838356
+    "foreign_ratio": 0.14,
+    "trust_ratio": -0.6868510713882026,
+    "dealer_ratio": -18.165659168833127,
+    "three_inst_ratio": -18.71251024022133,
+    "three_inst_ratio_change_20": -6.2262277622543785
   }
 ]

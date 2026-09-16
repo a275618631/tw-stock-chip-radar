@@ -2732,10 +2732,10 @@
     "code": "8442",
     "name": "威宏-KY",
     "market": "TWSE",
-    "foreign_ratio": 56.02,
+    "foreign_ratio": 56.0,
     "trust_ratio": 0.23621570111023887,
     "dealer_ratio": -0.3257058125491202,
-    "three_inst_ratio": 55.930509888561126,
-    "three_inst_ratio_change_20": -0.41675544982593493
+    "three_inst_ratio": 55.91050988856112,
+    "three_inst_ratio_change_20": -0.43675544982593806
   }
 ]

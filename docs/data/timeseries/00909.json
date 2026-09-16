@@ -2743,10 +2743,10 @@
     "code": "00909",
     "name": "國泰數位支付服務",
     "market": "TWSE",
-    "foreign_ratio": 1.66,
+    "foreign_ratio": 0.99,
     "trust_ratio": 0.0,
     "dealer_ratio": -23.02365393691497,
-    "three_inst_ratio": -21.36365393691497,
-    "three_inst_ratio_change_20": -1.9242277382783861
+    "three_inst_ratio": -22.033653936914973,
+    "three_inst_ratio_change_20": -2.594227738278388
   }
 ]

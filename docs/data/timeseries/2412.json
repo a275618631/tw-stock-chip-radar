@@ -2776,10 +2776,10 @@
     "code": "2412",
     "name": "中華電",
     "market": "TWSE",
-    "foreign_ratio": 17.83,
+    "foreign_ratio": 17.91,
     "trust_ratio": 0.8944483419576049,
     "dealer_ratio": 0.2478399675521064,
-    "three_inst_ratio": 18.97228830950971,
-    "three_inst_ratio_change_20": 0.7359742209928442
+    "three_inst_ratio": 19.052288309509713,
+    "three_inst_ratio_change_20": 0.815974220992846
   }
 ]

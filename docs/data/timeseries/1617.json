@@ -2776,10 +2776,10 @@
     "code": "1617",
     "name": "榮星",
     "market": "TWSE",
-    "foreign_ratio": 19.81,
+    "foreign_ratio": 19.85,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.00509159382637612,
-    "three_inst_ratio": 19.804908406173624,
-    "three_inst_ratio_change_20": -0.8223360805877
+    "three_inst_ratio": 19.844908406173627,
+    "three_inst_ratio_change_20": -0.7823360805876973
   }
 ]

@@ -2743,10 +2743,10 @@
     "code": "6133",
     "name": "金橋",
     "market": "TWSE",
-    "foreign_ratio": 1.32,
+    "foreign_ratio": 1.96,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.03504085002470038,
-    "three_inst_ratio": 1.3550408500247004,
-    "three_inst_ratio_change_20": -0.7684604498284513
+    "three_inst_ratio": 1.9950408500247003,
+    "three_inst_ratio_change_20": -0.1284604498284514
   }
 ]

@@ -2743,10 +2743,10 @@
     "code": "6743",
     "name": "安普新",
     "market": "TWSE",
-    "foreign_ratio": 3.74,
+    "foreign_ratio": 3.7,
     "trust_ratio": 0.34115666666666666,
     "dealer_ratio": 0.03739866666666667,
-    "three_inst_ratio": 4.118555333333333,
-    "three_inst_ratio_change_20": 0.25464533333333295
+    "three_inst_ratio": 4.078555333333333,
+    "three_inst_ratio_change_20": 0.2146453333333329
   }
 ]

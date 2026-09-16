@@ -2776,10 +2776,10 @@
     "code": "2103",
     "name": "台橡",
     "market": "TWSE",
-    "foreign_ratio": 25.81,
+    "foreign_ratio": 26.06,
     "trust_ratio": -0.4948468722513124,
     "dealer_ratio": 0.12251686753868922,
-    "three_inst_ratio": 25.437669995287376,
-    "three_inst_ratio_change_20": 0.012739582299197139
+    "three_inst_ratio": 25.687669995287376,
+    "three_inst_ratio_change_20": 0.26273958229919714
   }
 ]

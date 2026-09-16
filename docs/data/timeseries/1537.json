@@ -2776,10 +2776,10 @@
     "code": "1537",
     "name": "廣隆",
     "market": "TWSE",
-    "foreign_ratio": 15.3,
+    "foreign_ratio": 15.31,
     "trust_ratio": -0.07677047895785756,
     "dealer_ratio": -0.302241719919992,
-    "three_inst_ratio": 14.92098780112215,
-    "three_inst_ratio_change_20": -0.36547093607365966
+    "three_inst_ratio": 14.93098780112215,
+    "three_inst_ratio_change_20": -0.35547093607365987
   }
 ]

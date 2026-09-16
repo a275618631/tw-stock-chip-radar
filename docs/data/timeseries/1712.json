@@ -2776,10 +2776,10 @@
     "code": "1712",
     "name": "興農",
     "market": "TWSE",
-    "foreign_ratio": 12.79,
+    "foreign_ratio": 12.78,
     "trust_ratio": 0.3071771170471413,
     "dealer_ratio": 0.011468692129255977,
-    "three_inst_ratio": 13.108645809176396,
-    "three_inst_ratio_change_20": -0.4401312665239985
+    "three_inst_ratio": 13.098645809176396,
+    "three_inst_ratio_change_20": -0.45013126652399826
   }
 ]

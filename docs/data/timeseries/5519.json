@@ -2743,10 +2743,10 @@
     "code": "5519",
     "name": "隆大",
     "market": "TWSE",
-    "foreign_ratio": 3.5,
+    "foreign_ratio": 3.52,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.03299225621337612,
-    "three_inst_ratio": 3.532992256213376,
-    "three_inst_ratio_change_20": -0.2974860157546608
+    "three_inst_ratio": 3.552992256213376,
+    "three_inst_ratio_change_20": -0.2774860157546608
   }
 ]

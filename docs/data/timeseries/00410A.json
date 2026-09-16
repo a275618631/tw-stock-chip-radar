@@ -356,10 +356,10 @@
     "code": "00410A",
     "name": "主動永豐科技趨勢",
     "market": "TWSE",
-    "foreign_ratio": 8.23,
+    "foreign_ratio": 7.75,
     "trust_ratio": 0.0,
-    "dealer_ratio": 84.13865822460987,
-    "three_inst_ratio": 92.36865822460987,
-    "three_inst_ratio_change_20": -32.9393362575633
+    "dealer_ratio": 83.87046155807727,
+    "three_inst_ratio": 91.62046155807727,
+    "three_inst_ratio_change_20": -33.687532924095905
   }
 ]

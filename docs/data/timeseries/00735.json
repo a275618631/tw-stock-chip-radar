@@ -2743,10 +2743,10 @@
     "code": "00735",
     "name": "國泰臺韓科技",
     "market": "TWSE",
-    "foreign_ratio": 1.99,
+    "foreign_ratio": 2.0,
     "trust_ratio": 0.0,
     "dealer_ratio": -63.21927644249453,
-    "three_inst_ratio": -61.22927644249453,
-    "three_inst_ratio_change_20": -1.761459134573812
+    "three_inst_ratio": -61.21927644249453,
+    "three_inst_ratio_change_20": -1.751459134573814
   }
 ]

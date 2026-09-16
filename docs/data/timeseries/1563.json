@@ -2666,10 +2666,10 @@
     "code": "1563",
     "name": "巧新",
     "market": "TWSE",
-    "foreign_ratio": 4.25,
+    "foreign_ratio": 4.29,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.30176807154800944,
-    "three_inst_ratio": 4.551768071548009,
-    "three_inst_ratio_change_20": 0.30584614514943187
+    "three_inst_ratio": 4.591768071548009,
+    "three_inst_ratio_change_20": 0.3458461451494319
   }
 ]

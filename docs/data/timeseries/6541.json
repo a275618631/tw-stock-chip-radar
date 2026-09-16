@@ -2776,10 +2776,10 @@
     "code": "6541",
     "name": "泰福-KY",
     "market": "TWSE",
-    "foreign_ratio": 13.8,
+    "foreign_ratio": 13.83,
     "trust_ratio": -0.01132133714637478,
     "dealer_ratio": -0.09834807841265283,
-    "three_inst_ratio": 13.690330584440973,
-    "three_inst_ratio_change_20": -0.058296893515278114
+    "three_inst_ratio": 13.720330584440973,
+    "three_inst_ratio_change_20": -0.028296893515278754
   }
 ]

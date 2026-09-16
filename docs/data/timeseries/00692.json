@@ -2776,10 +2776,10 @@
     "code": "00692",
     "name": "富邦公司治理",
     "market": "TWSE",
-    "foreign_ratio": 0.32,
+    "foreign_ratio": 0.29,
     "trust_ratio": 0.01630576571875815,
     "dealer_ratio": 5.8617046047482395,
-    "three_inst_ratio": 6.1980103704669975,
-    "three_inst_ratio_change_20": 0.34163624140533155
+    "three_inst_ratio": 6.168010370466997,
+    "three_inst_ratio_change_20": 0.3116362414053313
   }
 ]

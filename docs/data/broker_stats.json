@@ -1,12 +1,12 @@
 {
-  "updated": "2026-09-16T17:14:11.802327+08:00",
+  "updated": "2026-09-16T23:31:46.571984+08:00",
   "analysis_days": 60,
   "date_range": {
     "start": "2026-06-15T00:00:00",
     "end": "2026-09-16T00:00:00"
   },
   "brokers_analyzed": 30,
-  "total_active_brokers": 162,
+  "total_active_brokers": 166,
   "results": [
     {
       "broker_id": "1470",
@@ -16,101 +16,101 @@
           "rank": 1,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": 195668,
-          "total_buy_vol": 342957,
-          "total_sell_vol": 147289,
+          "total_net_vol": 197149,
+          "total_buy_vol": 342836,
+          "total_sell_vol": 145687,
           "trading_days": 57,
-          "avg_net_vol": 3432.77
+          "avg_net_vol": 3458.75
         },
         {
           "rank": 2,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": 51982,
-          "total_buy_vol": 219512,
-          "total_sell_vol": 167530,
+          "total_net_vol": 50044,
+          "total_buy_vol": 221079,
+          "total_sell_vol": 171035,
           "trading_days": 58,
-          "avg_net_vol": 896.24
+          "avg_net_vol": 848.2
         },
         {
           "rank": 3,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": 49944,
-          "total_buy_vol": 90784,
-          "total_sell_vol": 40840,
+          "total_net_vol": 48021,
+          "total_buy_vol": 91491,
+          "total_sell_vol": 43470,
           "trading_days": 58,
-          "avg_net_vol": 861.1
+          "avg_net_vol": 827.95
         },
         {
           "rank": 4,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": 39944,
-          "total_buy_vol": 92371,
-          "total_sell_vol": 52427,
+          "total_net_vol": 38636,
+          "total_buy_vol": 91208,
+          "total_sell_vol": 52572,
           "trading_days": 59,
-          "avg_net_vol": 677.02
+          "avg_net_vol": 654.85
         },
         {
           "rank": 5,
           "stock_code": "2303",
           "stock_name": "聯電",
-          "total_net_vol": 34867,
-          "total_buy_vol": 487271,
-          "total_sell_vol": 452404,
+          "total_net_vol": 36045,
+          "total_buy_vol": 494688,
+          "total_sell_vol": 458643,
           "trading_days": 59,
-          "avg_net_vol": 581.12
+          "avg_net_vol": 590.9
         },
         {
           "rank": 6,
           "stock_code": "2615",
           "stock_name": "萬海",
-          "total_net_vol": 32319,
-          "total_buy_vol": 96972,
-          "total_sell_vol": 64653,
+          "total_net_vol": 31446,
+          "total_buy_vol": 99949,
+          "total_sell_vol": 68503,
           "trading_days": 59,
-          "avg_net_vol": 547.78
+          "avg_net_vol": 524.1
         },
         {
           "rank": 7,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": 22314,
-          "total_buy_vol": 92141,
-          "total_sell_vol": 69827,
+          "total_net_vol": 17884,
+          "total_buy_vol": 92045,
+          "total_sell_vol": 74161,
           "trading_days": 58,
-          "avg_net_vol": 378.2
+          "avg_net_vol": 303.12
         },
         {
           "rank": 8,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": 14993,
-          "total_buy_vol": 143535,
-          "total_sell_vol": 128542,
+          "total_net_vol": 15995,
+          "total_buy_vol": 145284,
+          "total_sell_vol": 129289,
           "trading_days": 59,
-          "avg_net_vol": 249.88
+          "avg_net_vol": 262.21
         },
         {
           "rank": 9,
           "stock_code": "3034",
           "stock_name": "聯詠",
-          "total_net_vol": 12075,
-          "total_buy_vol": 31509,
-          "total_sell_vol": 19434,
+          "total_net_vol": 12183,
+          "total_buy_vol": 31466,
+          "total_sell_vol": 19283,
           "trading_days": 59,
-          "avg_net_vol": 201.25
+          "avg_net_vol": 203.05
         },
         {
           "rank": 10,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": 11307,
-          "total_buy_vol": 194767,
-          "total_sell_vol": 183460,
+          "total_net_vol": 10790,
+          "total_buy_vol": 195910,
+          "total_sell_vol": 185120,
           "trading_days": 56,
-          "avg_net_vol": 198.37
+          "avg_net_vol": 186.03
         }
       ],
       "top_sell_stocks": [
@@ -118,61 +118,61 @@
           "rank": 1,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": -69287,
-          "total_buy_vol": 77702,
-          "total_sell_vol": 146989,
+          "total_net_vol": -72436,
+          "total_buy_vol": 77678,
+          "total_sell_vol": 150114,
           "trading_days": 57,
-          "avg_net_vol": -1215.56
+          "avg_net_vol": -1270.81
         },
         {
           "rank": 2,
           "stock_code": "2308",
           "stock_name": "台達電",
-          "total_net_vol": -18318,
-          "total_buy_vol": 58303,
-          "total_sell_vol": 76621,
+          "total_net_vol": -18731,
+          "total_buy_vol": 59256,
+          "total_sell_vol": 77987,
           "trading_days": 59,
-          "avg_net_vol": -310.47
+          "avg_net_vol": -312.18
         },
         {
           "rank": 3,
           "stock_code": "2609",
           "stock_name": "陽明",
-          "total_net_vol": -15508,
-          "total_buy_vol": 152314,
-          "total_sell_vol": 167822,
+          "total_net_vol": -13562,
+          "total_buy_vol": 155230,
+          "total_sell_vol": 168792,
           "trading_days": 58,
-          "avg_net_vol": -262.85
+          "avg_net_vol": -229.86
         },
         {
           "rank": 4,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": -11103,
-          "total_buy_vol": 98890,
-          "total_sell_vol": 109993,
+          "total_net_vol": -11306,
+          "total_buy_vol": 99138,
+          "total_sell_vol": 110444,
           "trading_days": 58,
-          "avg_net_vol": -191.43
+          "avg_net_vol": -191.63
         },
         {
           "rank": 5,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": -4058,
-          "total_buy_vol": 36698,
-          "total_sell_vol": 40756,
+          "total_net_vol": -3653,
+          "total_buy_vol": 37267,
+          "total_sell_vol": 40920,
           "trading_days": 58,
-          "avg_net_vol": -69.97
+          "avg_net_vol": -61.92
         },
         {
           "rank": 6,
           "stock_code": "2345",
           "stock_name": "智邦",
-          "total_net_vol": -1353,
-          "total_buy_vol": 15868,
-          "total_sell_vol": 17221,
+          "total_net_vol": -1065,
+          "total_buy_vol": 16186,
+          "total_sell_vol": 17251,
           "trading_days": 59,
-          "avg_net_vol": -22.55
+          "avg_net_vol": -17.46
         }
       ]
     },
@@ -194,91 +194,91 @@
           "rank": 2,
           "stock_code": "2882",
           "stock_name": "國泰金",
-          "total_net_vol": 32676,
-          "total_buy_vol": 135568,
-          "total_sell_vol": 102892,
+          "total_net_vol": 31908,
+          "total_buy_vol": 136655,
+          "total_sell_vol": 104747,
           "trading_days": 57,
-          "avg_net_vol": 563.38
+          "avg_net_vol": 540.81
         },
         {
           "rank": 3,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": 23756,
-          "total_buy_vol": 56202,
-          "total_sell_vol": 32446,
+          "total_net_vol": 24134,
+          "total_buy_vol": 57311,
+          "total_sell_vol": 33177,
           "trading_days": 58,
-          "avg_net_vol": 409.59
+          "avg_net_vol": 409.05
         },
         {
           "rank": 4,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": 14539,
-          "total_buy_vol": 108495,
-          "total_sell_vol": 93956,
+          "total_net_vol": 12088,
+          "total_buy_vol": 106709,
+          "total_sell_vol": 94621,
           "trading_days": 57,
-          "avg_net_vol": 255.07
+          "avg_net_vol": 212.07
         },
         {
           "rank": 5,
-          "stock_code": "2412",
-          "stock_name": "中華電",
-          "total_net_vol": 10134,
-          "total_buy_vol": 87960,
-          "total_sell_vol": 77826,
-          "trading_days": 58,
-          "avg_net_vol": 174.72
+          "stock_code": "2615",
+          "stock_name": "萬海",
+          "total_net_vol": 9157,
+          "total_buy_vol": 44255,
+          "total_sell_vol": 35098,
+          "trading_days": 56,
+          "avg_net_vol": 157.88
         },
         {
           "rank": 6,
-          "stock_code": "2615",
-          "stock_name": "萬海",
-          "total_net_vol": 9066,
-          "total_buy_vol": 43271,
-          "total_sell_vol": 34205,
-          "trading_days": 56,
-          "avg_net_vol": 159.05
+          "stock_code": "2609",
+          "stock_name": "陽明",
+          "total_net_vol": 9062,
+          "total_buy_vol": 83416,
+          "total_sell_vol": 74354,
+          "trading_days": 58,
+          "avg_net_vol": 156.24
         },
         {
           "rank": 7,
-          "stock_code": "2609",
-          "stock_name": "陽明",
-          "total_net_vol": 8360,
-          "total_buy_vol": 83276,
-          "total_sell_vol": 74916,
+          "stock_code": "2412",
+          "stock_name": "中華電",
+          "total_net_vol": 9029,
+          "total_buy_vol": 87263,
+          "total_sell_vol": 78234,
           "trading_days": 58,
-          "avg_net_vol": 144.14
+          "avg_net_vol": 155.67
         },
         {
           "rank": 8,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": 7749,
-          "total_buy_vol": 99240,
-          "total_sell_vol": 91491,
+          "total_net_vol": 7719,
+          "total_buy_vol": 99908,
+          "total_sell_vol": 92189,
           "trading_days": 60,
-          "avg_net_vol": 127.03
+          "avg_net_vol": 124.5
         },
         {
           "rank": 9,
           "stock_code": "3034",
           "stock_name": "聯詠",
-          "total_net_vol": 7125,
-          "total_buy_vol": 26031,
-          "total_sell_vol": 18906,
+          "total_net_vol": 7673,
+          "total_buy_vol": 26423,
+          "total_sell_vol": 18750,
           "trading_days": 58,
-          "avg_net_vol": 120.76
+          "avg_net_vol": 130.05
         },
         {
           "rank": 10,
-          "stock_code": "2345",
-          "stock_name": "智邦",
-          "total_net_vol": 133,
-          "total_buy_vol": 12802,
-          "total_sell_vol": 12669,
-          "trading_days": 59,
-          "avg_net_vol": 2.25
+          "stock_code": "2891",
+          "stock_name": "中信金",
+          "total_net_vol": 3168,
+          "total_buy_vol": 234561,
+          "total_sell_vol": 231393,
+          "trading_days": 58,
+          "avg_net_vol": 54.62
         }
       ],
       "top_sell_stocks": [
@@ -286,101 +286,101 @@
           "rank": 1,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": -58909,
-          "total_buy_vol": 172683,
-          "total_sell_vol": 231592,
+          "total_net_vol": -59178,
+          "total_buy_vol": 173451,
+          "total_sell_vol": 232629,
           "trading_days": 58,
-          "avg_net_vol": -998.46
+          "avg_net_vol": -1003.02
         },
         {
           "rank": 2,
           "stock_code": "2303",
           "stock_name": "聯電",
-          "total_net_vol": -50408,
-          "total_buy_vol": 491541,
-          "total_sell_vol": 541949,
+          "total_net_vol": -48113,
+          "total_buy_vol": 493042,
+          "total_sell_vol": 541155,
           "trading_days": 55,
-          "avg_net_vol": -916.51
+          "avg_net_vol": -874.78
         },
         {
           "rank": 3,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": -31325,
-          "total_buy_vol": 146780,
-          "total_sell_vol": 178105,
+          "total_net_vol": -33117,
+          "total_buy_vol": 147665,
+          "total_sell_vol": 180782,
           "trading_days": 57,
-          "avg_net_vol": -549.56
+          "avg_net_vol": -581.0
         },
         {
           "rank": 4,
           "stock_code": "2308",
           "stock_name": "台達電",
-          "total_net_vol": -11852,
-          "total_buy_vol": 51269,
-          "total_sell_vol": 63121,
+          "total_net_vol": -11885,
+          "total_buy_vol": 51680,
+          "total_sell_vol": 63565,
           "trading_days": 59,
-          "avg_net_vol": -200.88
+          "avg_net_vol": -198.08
         },
         {
           "rank": 5,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": -8175,
-          "total_buy_vol": 37850,
-          "total_sell_vol": 46025,
+          "total_net_vol": -8338,
+          "total_buy_vol": 38333,
+          "total_sell_vol": 46671,
           "trading_days": 59,
-          "avg_net_vol": -136.25
+          "avg_net_vol": -136.69
         },
         {
           "rank": 6,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": -7977,
-          "total_buy_vol": 13238,
-          "total_sell_vol": 21215,
+          "total_net_vol": -7876,
+          "total_buy_vol": 13361,
+          "total_sell_vol": 21237,
           "trading_days": 57,
-          "avg_net_vol": -137.53
+          "avg_net_vol": -135.79
         },
         {
           "rank": 7,
           "stock_code": "3006",
           "stock_name": "晶豪科",
-          "total_net_vol": -4939,
-          "total_buy_vol": 27042,
-          "total_sell_vol": 31981,
+          "total_net_vol": -4506,
+          "total_buy_vol": 27057,
+          "total_sell_vol": 31563,
           "trading_days": 57,
-          "avg_net_vol": -86.65
+          "avg_net_vol": -79.05
         },
         {
           "rank": 8,
-          "stock_code": "2382",
-          "stock_name": "廣達",
-          "total_net_vol": -4031,
-          "total_buy_vol": 65510,
-          "total_sell_vol": 69541,
-          "trading_days": 55,
-          "avg_net_vol": -71.98
+          "stock_code": "3037",
+          "stock_name": "欣興",
+          "total_net_vol": -2178,
+          "total_buy_vol": 48279,
+          "total_sell_vol": 50457,
+          "trading_days": 56,
+          "avg_net_vol": -38.89
         },
         {
           "rank": 9,
-          "stock_code": "2891",
-          "stock_name": "中信金",
-          "total_net_vol": -2629,
-          "total_buy_vol": 228470,
-          "total_sell_vol": 231099,
-          "trading_days": 58,
-          "avg_net_vol": -45.33
+          "stock_code": "2382",
+          "stock_name": "廣達",
+          "total_net_vol": -1747,
+          "total_buy_vol": 68767,
+          "total_sell_vol": 70514,
+          "trading_days": 55,
+          "avg_net_vol": -30.65
         },
         {
           "rank": 10,
-          "stock_code": "3037",
-          "stock_name": "欣興",
-          "total_net_vol": -1833,
-          "total_buy_vol": 48316,
-          "total_sell_vol": 50149,
-          "trading_days": 56,
-          "avg_net_vol": -32.73
+          "stock_code": "2345",
+          "stock_name": "智邦",
+          "total_net_vol": -100,
+          "total_buy_vol": 12950,
+          "total_sell_vol": 13050,
+          "trading_days": 59,
+          "avg_net_vol": -1.67
         }
       ]
     },
@@ -392,81 +392,81 @@
           "rank": 1,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": 110826,
-          "total_buy_vol": 238614,
-          "total_sell_vol": 127788,
+          "total_net_vol": 113946,
+          "total_buy_vol": 238680,
+          "total_sell_vol": 124734,
           "trading_days": 58,
-          "avg_net_vol": 1910.79
+          "avg_net_vol": 1964.59
         },
         {
           "rank": 2,
           "stock_code": "2882",
           "stock_name": "國泰金",
-          "total_net_vol": 22481,
-          "total_buy_vol": 144227,
-          "total_sell_vol": 121746,
+          "total_net_vol": 22978,
+          "total_buy_vol": 145948,
+          "total_sell_vol": 122970,
           "trading_days": 59,
-          "avg_net_vol": 381.03
+          "avg_net_vol": 389.46
         },
         {
           "rank": 3,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": 18867,
-          "total_buy_vol": 57268,
-          "total_sell_vol": 38401,
+          "total_net_vol": 20602,
+          "total_buy_vol": 59554,
+          "total_sell_vol": 38952,
           "trading_days": 57,
-          "avg_net_vol": 325.29
+          "avg_net_vol": 349.19
         },
         {
           "rank": 4,
           "stock_code": "2303",
           "stock_name": "聯電",
-          "total_net_vol": 11732,
-          "total_buy_vol": 560889,
-          "total_sell_vol": 549157,
+          "total_net_vol": 16654,
+          "total_buy_vol": 572211,
+          "total_sell_vol": 555557,
           "trading_days": 56,
-          "avg_net_vol": 205.82
+          "avg_net_vol": 287.14
         },
         {
           "rank": 5,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": 8199,
-          "total_buy_vol": 229068,
-          "total_sell_vol": 220869,
+          "total_net_vol": 6903,
+          "total_buy_vol": 232253,
+          "total_sell_vol": 225350,
           "trading_days": 59,
-          "avg_net_vol": 138.97
+          "avg_net_vol": 115.05
         },
         {
           "rank": 6,
           "stock_code": "3034",
           "stock_name": "聯詠",
-          "total_net_vol": 6329,
-          "total_buy_vol": 25364,
-          "total_sell_vol": 19035,
+          "total_net_vol": 6462,
+          "total_buy_vol": 25599,
+          "total_sell_vol": 19137,
           "trading_days": 59,
-          "avg_net_vol": 105.48
+          "avg_net_vol": 105.93
         },
         {
           "rank": 7,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": 1475,
-          "total_buy_vol": 69573,
-          "total_sell_vol": 68098,
+          "total_net_vol": 1018,
+          "total_buy_vol": 69722,
+          "total_sell_vol": 68704,
           "trading_days": 59,
-          "avg_net_vol": 25.0
+          "avg_net_vol": 17.25
         },
         {
           "rank": 8,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": 821,
-          "total_buy_vol": 15513,
-          "total_sell_vol": 14692,
+          "total_net_vol": 875,
+          "total_buy_vol": 15827,
+          "total_sell_vol": 14952,
           "trading_days": 58,
-          "avg_net_vol": 13.92
+          "avg_net_vol": 14.58
         }
       ],
       "top_sell_stocks": [
@@ -474,101 +474,101 @@
           "rank": 1,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": -21365,
-          "total_buy_vol": 111459,
-          "total_sell_vol": 132824,
+          "total_net_vol": -22236,
+          "total_buy_vol": 110599,
+          "total_sell_vol": 132835,
           "trading_days": 58,
-          "avg_net_vol": -368.36
+          "avg_net_vol": -383.38
         },
         {
           "rank": 2,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": -14453,
-          "total_buy_vol": 82051,
-          "total_sell_vol": 96504,
+          "total_net_vol": -13665,
+          "total_buy_vol": 83146,
+          "total_sell_vol": 96811,
           "trading_days": 58,
-          "avg_net_vol": -249.19
+          "avg_net_vol": -231.61
         },
         {
           "rank": 3,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": -11998,
-          "total_buy_vol": 170599,
-          "total_sell_vol": 182597,
+          "total_net_vol": -10822,
+          "total_buy_vol": 173019,
+          "total_sell_vol": 183841,
           "trading_days": 58,
-          "avg_net_vol": -203.36
+          "avg_net_vol": -180.37
         },
         {
           "rank": 4,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": -8907,
-          "total_buy_vol": 132965,
-          "total_sell_vol": 141872,
+          "total_net_vol": -10356,
+          "total_buy_vol": 132587,
+          "total_sell_vol": 142943,
           "trading_days": 60,
-          "avg_net_vol": -148.45
+          "avg_net_vol": -172.6
         },
         {
           "rank": 5,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": -5026,
-          "total_buy_vol": 47411,
-          "total_sell_vol": 52437,
+          "total_net_vol": -5179,
+          "total_buy_vol": 47800,
+          "total_sell_vol": 52979,
           "trading_days": 54,
-          "avg_net_vol": -93.07
+          "avg_net_vol": -95.91
         },
         {
           "rank": 6,
-          "stock_code": "2609",
-          "stock_name": "陽明",
-          "total_net_vol": -3041,
-          "total_buy_vol": 122598,
-          "total_sell_vol": 125639,
-          "trading_days": 55,
-          "avg_net_vol": -55.29
+          "stock_code": "2308",
+          "stock_name": "台達電",
+          "total_net_vol": -2382,
+          "total_buy_vol": 46116,
+          "total_sell_vol": 48498,
+          "trading_days": 54,
+          "avg_net_vol": -44.11
         },
         {
           "rank": 7,
-          "stock_code": "2308",
-          "stock_name": "台達電",
-          "total_net_vol": -1880,
-          "total_buy_vol": 46911,
-          "total_sell_vol": 48791,
-          "trading_days": 54,
-          "avg_net_vol": -34.81
+          "stock_code": "2609",
+          "stock_name": "陽明",
+          "total_net_vol": -2348,
+          "total_buy_vol": 125492,
+          "total_sell_vol": 127840,
+          "trading_days": 55,
+          "avg_net_vol": -42.69
         },
         {
           "rank": 8,
-          "stock_code": "3006",
-          "stock_name": "晶豪科",
-          "total_net_vol": -1044,
-          "total_buy_vol": 33044,
-          "total_sell_vol": 34088,
-          "trading_days": 53,
-          "avg_net_vol": -19.7
+          "stock_code": "3037",
+          "stock_name": "欣興",
+          "total_net_vol": -2118,
+          "total_buy_vol": 97750,
+          "total_sell_vol": 99868,
+          "trading_days": 59,
+          "avg_net_vol": -35.9
         },
         {
           "rank": 9,
-          "stock_code": "2454",
-          "stock_name": "聯發科",
-          "total_net_vol": -767,
-          "total_buy_vol": 31940,
-          "total_sell_vol": 32707,
-          "trading_days": 53,
-          "avg_net_vol": -14.2
+          "stock_code": "2345",
+          "stock_name": "智邦",
+          "total_net_vol": -726,
+          "total_buy_vol": 13790,
+          "total_sell_vol": 14516,
+          "trading_days": 55,
+          "avg_net_vol": -13.2
         },
         {
           "rank": 10,
-          "stock_code": "2345",
-          "stock_name": "智邦",
-          "total_net_vol": -740,
-          "total_buy_vol": 13827,
-          "total_sell_vol": 14567,
-          "trading_days": 55,
-          "avg_net_vol": -13.45
+          "stock_code": "2454",
+          "stock_name": "聯發科",
+          "total_net_vol": -639,
+          "total_buy_vol": 32324,
+          "total_sell_vol": 32963,
+          "trading_days": 53,
+          "avg_net_vol": -11.62
         }
       ]
     },
@@ -590,71 +590,71 @@
           "rank": 2,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": 22332,
-          "total_buy_vol": 148285,
-          "total_sell_vol": 125953,
+          "total_net_vol": 22838,
+          "total_buy_vol": 148896,
+          "total_sell_vol": 126058,
           "trading_days": 60,
-          "avg_net_vol": 366.1
+          "avg_net_vol": 368.35
         },
         {
           "rank": 3,
           "stock_code": "2882",
           "stock_name": "國泰金",
-          "total_net_vol": 15359,
-          "total_buy_vol": 115192,
-          "total_sell_vol": 99833,
+          "total_net_vol": 16279,
+          "total_buy_vol": 115479,
+          "total_sell_vol": 99200,
           "trading_days": 55,
-          "avg_net_vol": 279.25
+          "avg_net_vol": 295.98
         },
         {
           "rank": 4,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": 14065,
-          "total_buy_vol": 60761,
-          "total_sell_vol": 46696,
+          "total_net_vol": 13896,
+          "total_buy_vol": 60515,
+          "total_sell_vol": 46619,
           "trading_days": 55,
-          "avg_net_vol": 255.73
+          "avg_net_vol": 252.65
         },
         {
           "rank": 5,
           "stock_code": "2615",
           "stock_name": "萬海",
-          "total_net_vol": 13082,
-          "total_buy_vol": 32269,
-          "total_sell_vol": 19187,
+          "total_net_vol": 13581,
+          "total_buy_vol": 33233,
+          "total_sell_vol": 19652,
           "trading_days": 51,
-          "avg_net_vol": 251.58
+          "avg_net_vol": 261.17
         },
         {
           "rank": 6,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": 10049,
-          "total_buy_vol": 47719,
-          "total_sell_vol": 37670,
+          "total_net_vol": 9288,
+          "total_buy_vol": 48293,
+          "total_sell_vol": 39005,
           "trading_days": 57,
-          "avg_net_vol": 176.3
+          "avg_net_vol": 160.14
         },
         {
           "rank": 7,
           "stock_code": "3034",
           "stock_name": "聯詠",
-          "total_net_vol": 3710,
-          "total_buy_vol": 14770,
-          "total_sell_vol": 11060,
+          "total_net_vol": 4044,
+          "total_buy_vol": 14922,
+          "total_sell_vol": 10878,
           "trading_days": 58,
-          "avg_net_vol": 62.88
+          "avg_net_vol": 68.54
         },
         {
           "rank": 8,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": 1016,
-          "total_buy_vol": 49058,
-          "total_sell_vol": 48042,
+          "total_net_vol": 1373,
+          "total_buy_vol": 49492,
+          "total_sell_vol": 48119,
           "trading_days": 55,
-          "avg_net_vol": 18.47
+          "avg_net_vol": 24.96
         },
         {
           "rank": 9,
@@ -670,103 +670,103 @@
       "top_sell_stocks": [
         {
           "rank": 1,
-          "stock_code": "2303",
-          "stock_name": "聯電",
-          "total_net_vol": -61070,
-          "total_buy_vol": 339793,
-          "total_sell_vol": 400863,
-          "trading_days": 56,
-          "avg_net_vol": -1090.54
+          "stock_code": "2317",
+          "stock_name": "鴻海",
+          "total_net_vol": -55487,
+          "total_buy_vol": 141542,
+          "total_sell_vol": 197029,
+          "trading_days": 57,
+          "avg_net_vol": -956.67
         },
         {
           "rank": 2,
-          "stock_code": "2317",
-          "stock_name": "鴻海",
-          "total_net_vol": -55831,
-          "total_buy_vol": 140621,
-          "total_sell_vol": 196452,
-          "trading_days": 57,
-          "avg_net_vol": -979.49
+          "stock_code": "2303",
+          "stock_name": "聯電",
+          "total_net_vol": -54717,
+          "total_buy_vol": 347271,
+          "total_sell_vol": 401988,
+          "trading_days": 56,
+          "avg_net_vol": -977.09
         },
         {
           "rank": 3,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": -16570,
-          "total_buy_vol": 142270,
-          "total_sell_vol": 158840,
+          "total_net_vol": -16442,
+          "total_buy_vol": 146902,
+          "total_sell_vol": 163344,
           "trading_days": 58,
-          "avg_net_vol": -280.85
+          "avg_net_vol": -274.03
         },
         {
           "rank": 4,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": -8995,
-          "total_buy_vol": 108723,
-          "total_sell_vol": 117718,
+          "total_net_vol": -9076,
+          "total_buy_vol": 109791,
+          "total_sell_vol": 118867,
           "trading_days": 56,
-          "avg_net_vol": -157.81
+          "avg_net_vol": -156.48
         },
         {
           "rank": 5,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": -7818,
-          "total_buy_vol": 55849,
-          "total_sell_vol": 63667,
+          "total_net_vol": -7611,
+          "total_buy_vol": 56731,
+          "total_sell_vol": 64342,
           "trading_days": 59,
-          "avg_net_vol": -132.51
+          "avg_net_vol": -126.85
         },
         {
           "rank": 6,
-          "stock_code": "2609",
-          "stock_name": "陽明",
-          "total_net_vol": -6357,
-          "total_buy_vol": 80151,
-          "total_sell_vol": 86508,
-          "trading_days": 57,
-          "avg_net_vol": -111.53
+          "stock_code": "2454",
+          "stock_name": "聯發科",
+          "total_net_vol": -5983,
+          "total_buy_vol": 27657,
+          "total_sell_vol": 33640,
+          "trading_days": 56,
+          "avg_net_vol": -104.96
         },
         {
           "rank": 7,
-          "stock_code": "2454",
-          "stock_name": "聯發科",
-          "total_net_vol": -6340,
-          "total_buy_vol": 27603,
-          "total_sell_vol": 33943,
-          "trading_days": 56,
-          "avg_net_vol": -111.23
+          "stock_code": "2609",
+          "stock_name": "陽明",
+          "total_net_vol": -4392,
+          "total_buy_vol": 83191,
+          "total_sell_vol": 87583,
+          "trading_days": 57,
+          "avg_net_vol": -75.72
         },
         {
           "rank": 8,
           "stock_code": "3006",
           "stock_name": "晶豪科",
-          "total_net_vol": -4642,
-          "total_buy_vol": 24236,
-          "total_sell_vol": 28878,
+          "total_net_vol": -4346,
+          "total_buy_vol": 24676,
+          "total_sell_vol": 29022,
           "trading_days": 54,
-          "avg_net_vol": -85.96
+          "avg_net_vol": -79.02
         },
         {
           "rank": 9,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": -2928,
-          "total_buy_vol": 9474,
-          "total_sell_vol": 12402,
+          "total_net_vol": -2988,
+          "total_buy_vol": 9423,
+          "total_sell_vol": 12411,
           "trading_days": 57,
-          "avg_net_vol": -51.37
+          "avg_net_vol": -52.42
         },
         {
           "rank": 10,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": -2893,
-          "total_buy_vol": 32544,
-          "total_sell_vol": 35437,
+          "total_net_vol": -2117,
+          "total_buy_vol": 33788,
+          "total_sell_vol": 35905,
           "trading_days": 56,
-          "avg_net_vol": -51.66
+          "avg_net_vol": -37.14
         }
       ]
     },
@@ -778,101 +778,101 @@
           "rank": 1,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": 37541,
-          "total_buy_vol": 154219,
-          "total_sell_vol": 116678,
+          "total_net_vol": 37960,
+          "total_buy_vol": 154923,
+          "total_sell_vol": 116963,
           "trading_days": 53,
-          "avg_net_vol": 708.32
+          "avg_net_vol": 702.96
         },
         {
           "rank": 2,
-          "stock_code": "2882",
-          "stock_name": "國泰金",
-          "total_net_vol": 18186,
-          "total_buy_vol": 90805,
-          "total_sell_vol": 72619,
-          "trading_days": 54,
-          "avg_net_vol": 336.78
+          "stock_code": "2303",
+          "stock_name": "聯電",
+          "total_net_vol": 18080,
+          "total_buy_vol": 487459,
+          "total_sell_vol": 469379,
+          "trading_days": 53,
+          "avg_net_vol": 334.81
         },
         {
           "rank": 3,
-          "stock_code": "2303",
-          "stock_name": "聯電",
-          "total_net_vol": 16238,
-          "total_buy_vol": 484292,
-          "total_sell_vol": 468054,
-          "trading_days": 53,
-          "avg_net_vol": 300.7
+          "stock_code": "2882",
+          "stock_name": "國泰金",
+          "total_net_vol": 17909,
+          "total_buy_vol": 90705,
+          "total_sell_vol": 72796,
+          "trading_days": 54,
+          "avg_net_vol": 331.65
         },
         {
           "rank": 4,
           "stock_code": "2615",
           "stock_name": "萬海",
-          "total_net_vol": 13666,
-          "total_buy_vol": 75605,
-          "total_sell_vol": 61939,
+          "total_net_vol": 13617,
+          "total_buy_vol": 76144,
+          "total_sell_vol": 62527,
           "trading_days": 53,
-          "avg_net_vol": 253.07
+          "avg_net_vol": 252.17
         },
         {
           "rank": 5,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": 9295,
-          "total_buy_vol": 49249,
-          "total_sell_vol": 39954,
+          "total_net_vol": 9834,
+          "total_buy_vol": 50167,
+          "total_sell_vol": 40333,
           "trading_days": 58,
-          "avg_net_vol": 160.26
+          "avg_net_vol": 166.68
         },
         {
           "rank": 6,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": 7036,
-          "total_buy_vol": 115537,
-          "total_sell_vol": 108501,
+          "total_net_vol": 7382,
+          "total_buy_vol": 116205,
+          "total_sell_vol": 108823,
           "trading_days": 59,
-          "avg_net_vol": 117.27
+          "avg_net_vol": 123.03
         },
         {
           "rank": 7,
           "stock_code": "2609",
           "stock_name": "陽明",
-          "total_net_vol": 2845,
-          "total_buy_vol": 120367,
-          "total_sell_vol": 117522,
+          "total_net_vol": 3899,
+          "total_buy_vol": 121498,
+          "total_sell_vol": 117599,
           "trading_days": 57,
-          "avg_net_vol": 49.91
+          "avg_net_vol": 68.4
         },
         {
           "rank": 8,
-          "stock_code": "3006",
-          "stock_name": "晶豪科",
-          "total_net_vol": 1804,
-          "total_buy_vol": 49832,
-          "total_sell_vol": 48028,
-          "trading_days": 54,
-          "avg_net_vol": 32.8
+          "stock_code": "3034",
+          "stock_name": "聯詠",
+          "total_net_vol": 1938,
+          "total_buy_vol": 21942,
+          "total_sell_vol": 20004,
+          "trading_days": 59,
+          "avg_net_vol": 31.77
         },
         {
           "rank": 9,
-          "stock_code": "3034",
-          "stock_name": "聯詠",
-          "total_net_vol": 1766,
-          "total_buy_vol": 21639,
-          "total_sell_vol": 19873,
-          "trading_days": 59,
-          "avg_net_vol": 29.43
+          "stock_code": "3006",
+          "stock_name": "晶豪科",
+          "total_net_vol": 1835,
+          "total_buy_vol": 49954,
+          "total_sell_vol": 48119,
+          "trading_days": 54,
+          "avg_net_vol": 33.36
         },
         {
           "rank": 10,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": 1000,
-          "total_buy_vol": 58274,
-          "total_sell_vol": 57274,
+          "total_net_vol": 1649,
+          "total_buy_vol": 58052,
+          "total_sell_vol": 56403,
           "trading_days": 56,
-          "avg_net_vol": 17.54
+          "avg_net_vol": 28.93
         }
       ],
       "top_sell_stocks": [
@@ -880,71 +880,71 @@
           "rank": 1,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": -40697,
-          "total_buy_vol": 116566,
-          "total_sell_vol": 157263,
+          "total_net_vol": -41595,
+          "total_buy_vol": 116495,
+          "total_sell_vol": 158090,
           "trading_days": 57,
-          "avg_net_vol": -713.98
+          "avg_net_vol": -729.74
         },
         {
           "rank": 2,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": -9012,
-          "total_buy_vol": 144418,
-          "total_sell_vol": 153430,
+          "total_net_vol": -11196,
+          "total_buy_vol": 143449,
+          "total_sell_vol": 154645,
           "trading_days": 59,
-          "avg_net_vol": -150.2
+          "avg_net_vol": -186.6
         },
         {
           "rank": 3,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": -6962,
-          "total_buy_vol": 59308,
-          "total_sell_vol": 66270,
+          "total_net_vol": -6812,
+          "total_buy_vol": 60004,
+          "total_sell_vol": 66816,
           "trading_days": 54,
-          "avg_net_vol": -128.93
+          "avg_net_vol": -123.85
         },
         {
           "rank": 4,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": -6421,
-          "total_buy_vol": 63068,
-          "total_sell_vol": 69489,
+          "total_net_vol": -6719,
+          "total_buy_vol": 64539,
+          "total_sell_vol": 71258,
           "trading_days": 60,
-          "avg_net_vol": -107.02
+          "avg_net_vol": -110.15
         },
         {
           "rank": 5,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": -1517,
-          "total_buy_vol": 61780,
-          "total_sell_vol": 63297,
+          "total_net_vol": -1362,
+          "total_buy_vol": 62166,
+          "total_sell_vol": 63528,
           "trading_days": 55,
-          "avg_net_vol": -27.09
+          "avg_net_vol": -24.32
         },
         {
           "rank": 6,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": -532,
-          "total_buy_vol": 23168,
-          "total_sell_vol": 23700,
+          "total_net_vol": -400,
+          "total_buy_vol": 23289,
+          "total_sell_vol": 23689,
           "trading_days": 55,
-          "avg_net_vol": -9.67
+          "avg_net_vol": -7.27
         },
         {
           "rank": 7,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": -401,
-          "total_buy_vol": 89724,
-          "total_sell_vol": 90125,
+          "total_net_vol": -305,
+          "total_buy_vol": 90358,
+          "total_sell_vol": 90663,
           "trading_days": 53,
-          "avg_net_vol": -7.43
+          "avg_net_vol": -5.55
         }
       ]
     },
@@ -956,101 +956,101 @@
           "rank": 1,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": 67421,
-          "total_buy_vol": 210916,
-          "total_sell_vol": 143495,
+          "total_net_vol": 63123,
+          "total_buy_vol": 206125,
+          "total_sell_vol": 143002,
           "trading_days": 54,
-          "avg_net_vol": 1248.54
+          "avg_net_vol": 1168.94
         },
         {
           "rank": 2,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": 58611,
-          "total_buy_vol": 253304,
-          "total_sell_vol": 194693,
+          "total_net_vol": 62440,
+          "total_buy_vol": 255293,
+          "total_sell_vol": 192853,
           "trading_days": 56,
-          "avg_net_vol": 1046.62
+          "avg_net_vol": 1115.0
         },
         {
           "rank": 3,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": 54013,
-          "total_buy_vol": 241678,
-          "total_sell_vol": 187665,
+          "total_net_vol": 54535,
+          "total_buy_vol": 242647,
+          "total_sell_vol": 188112,
           "trading_days": 58,
-          "avg_net_vol": 915.47
+          "avg_net_vol": 908.92
         },
         {
           "rank": 4,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": 51066,
-          "total_buy_vol": 146819,
-          "total_sell_vol": 95753,
+          "total_net_vol": 50083,
+          "total_buy_vol": 147175,
+          "total_sell_vol": 97092,
           "trading_days": 55,
-          "avg_net_vol": 928.47
+          "avg_net_vol": 910.6
         },
         {
           "rank": 5,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": 25747,
-          "total_buy_vol": 129676,
-          "total_sell_vol": 103929,
+          "total_net_vol": 24312,
+          "total_buy_vol": 130449,
+          "total_sell_vol": 106137,
           "trading_days": 57,
-          "avg_net_vol": 451.7
+          "avg_net_vol": 419.17
         },
         {
           "rank": 6,
           "stock_code": "2615",
           "stock_name": "萬海",
-          "total_net_vol": 22699,
-          "total_buy_vol": 89948,
-          "total_sell_vol": 67249,
+          "total_net_vol": 23578,
+          "total_buy_vol": 91638,
+          "total_sell_vol": 68060,
           "trading_days": 56,
-          "avg_net_vol": 398.23
+          "avg_net_vol": 413.65
         },
         {
           "rank": 7,
           "stock_code": "2882",
           "stock_name": "國泰金",
-          "total_net_vol": 14363,
-          "total_buy_vol": 152695,
-          "total_sell_vol": 138332,
+          "total_net_vol": 13656,
+          "total_buy_vol": 153224,
+          "total_sell_vol": 139568,
           "trading_days": 57,
-          "avg_net_vol": 247.64
+          "avg_net_vol": 235.45
         },
         {
           "rank": 8,
           "stock_code": "2609",
           "stock_name": "陽明",
-          "total_net_vol": 9900,
-          "total_buy_vol": 122439,
-          "total_sell_vol": 112539,
+          "total_net_vol": 9657,
+          "total_buy_vol": 124429,
+          "total_sell_vol": 114772,
           "trading_days": 49,
-          "avg_net_vol": 198.0
+          "avg_net_vol": 189.35
         },
         {
           "rank": 9,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": 8239,
-          "total_buy_vol": 66277,
-          "total_sell_vol": 58038,
+          "total_net_vol": 8606,
+          "total_buy_vol": 66565,
+          "total_sell_vol": 57959,
           "trading_days": 55,
-          "avg_net_vol": 149.8
+          "avg_net_vol": 156.47
         },
         {
           "rank": 10,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": 7973,
-          "total_buy_vol": 159800,
-          "total_sell_vol": 151827,
+          "total_net_vol": 8290,
+          "total_buy_vol": 160128,
+          "total_sell_vol": 151838,
           "trading_days": 56,
-          "avg_net_vol": 139.88
+          "avg_net_vol": 145.44
         }
       ],
       "top_sell_stocks": [
@@ -1058,31 +1058,31 @@
           "rank": 1,
           "stock_code": "2303",
           "stock_name": "聯電",
-          "total_net_vol": -193333,
-          "total_buy_vol": 1034879,
-          "total_sell_vol": 1228212,
+          "total_net_vol": -192390,
+          "total_buy_vol": 1044217,
+          "total_sell_vol": 1236607,
           "trading_days": 59,
-          "avg_net_vol": -3222.22
+          "avg_net_vol": -3153.93
         },
         {
           "rank": 2,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": -9160,
-          "total_buy_vol": 125786,
-          "total_sell_vol": 134946,
+          "total_net_vol": -8281,
+          "total_buy_vol": 126822,
+          "total_sell_vol": 135103,
           "trading_days": 58,
-          "avg_net_vol": -155.25
+          "avg_net_vol": -138.02
         },
         {
           "rank": 3,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": -8357,
-          "total_buy_vol": 114697,
-          "total_sell_vol": 123054,
+          "total_net_vol": -8019,
+          "total_buy_vol": 114930,
+          "total_sell_vol": 122949,
           "trading_days": 59,
-          "avg_net_vol": -141.64
+          "avg_net_vol": -135.92
         },
         {
           "rank": 4,
@@ -1108,11 +1108,11 @@
           "rank": 6,
           "stock_code": "3006",
           "stock_name": "晶豪科",
-          "total_net_vol": -1421,
-          "total_buy_vol": 61504,
-          "total_sell_vol": 62925,
+          "total_net_vol": -872,
+          "total_buy_vol": 62608,
+          "total_sell_vol": 63480,
           "trading_days": 53,
-          "avg_net_vol": -26.81
+          "avg_net_vol": -16.15
         }
       ]
     },
@@ -1124,81 +1124,81 @@
           "rank": 1,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": 31281,
-          "total_buy_vol": 82040,
-          "total_sell_vol": 50759,
-          "trading_days": 58,
-          "avg_net_vol": 539.33
+          "total_net_vol": 30830,
+          "total_buy_vol": 82203,
+          "total_sell_vol": 51373,
+          "trading_days": 59,
+          "avg_net_vol": 522.54
         },
         {
           "rank": 2,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": 29440,
-          "total_buy_vol": 151145,
-          "total_sell_vol": 121705,
+          "total_net_vol": 28786,
+          "total_buy_vol": 153474,
+          "total_sell_vol": 124688,
           "trading_days": 59,
-          "avg_net_vol": 490.67
+          "avg_net_vol": 471.9
         },
         {
           "rank": 3,
           "stock_code": "2615",
           "stock_name": "萬海",
-          "total_net_vol": 26401,
-          "total_buy_vol": 47325,
-          "total_sell_vol": 20924,
+          "total_net_vol": 26507,
+          "total_buy_vol": 47927,
+          "total_sell_vol": 21420,
           "trading_days": 58,
-          "avg_net_vol": 447.47
+          "avg_net_vol": 441.78
         },
         {
           "rank": 4,
           "stock_code": "2609",
           "stock_name": "陽明",
-          "total_net_vol": 23970,
-          "total_buy_vol": 68091,
-          "total_sell_vol": 44121,
+          "total_net_vol": 23022,
+          "total_buy_vol": 66818,
+          "total_sell_vol": 43796,
           "trading_days": 53,
-          "avg_net_vol": 452.26
+          "avg_net_vol": 434.38
         },
         {
           "rank": 5,
           "stock_code": "2303",
           "stock_name": "聯電",
-          "total_net_vol": 20262,
-          "total_buy_vol": 196461,
-          "total_sell_vol": 176199,
+          "total_net_vol": 22698,
+          "total_buy_vol": 199367,
+          "total_sell_vol": 176669,
           "trading_days": 50,
-          "avg_net_vol": 397.29
+          "avg_net_vol": 436.5
         },
         {
           "rank": 6,
           "stock_code": "2882",
           "stock_name": "國泰金",
-          "total_net_vol": 13237,
-          "total_buy_vol": 70059,
-          "total_sell_vol": 56822,
+          "total_net_vol": 13513,
+          "total_buy_vol": 70936,
+          "total_sell_vol": 57423,
           "trading_days": 55,
-          "avg_net_vol": 236.38
+          "avg_net_vol": 241.3
         },
         {
           "rank": 7,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": 11291,
-          "total_buy_vol": 25718,
-          "total_sell_vol": 14427,
+          "total_net_vol": 11400,
+          "total_buy_vol": 25870,
+          "total_sell_vol": 14470,
           "trading_days": 51,
-          "avg_net_vol": 221.39
+          "avg_net_vol": 219.23
         },
         {
           "rank": 8,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": 9309,
-          "total_buy_vol": 26761,
-          "total_sell_vol": 17452,
+          "total_net_vol": 9363,
+          "total_buy_vol": 27018,
+          "total_sell_vol": 17655,
           "trading_days": 52,
-          "avg_net_vol": 175.64
+          "avg_net_vol": 173.39
         },
         {
           "rank": 9,
@@ -1214,11 +1214,11 @@
           "rank": 10,
           "stock_code": "3034",
           "stock_name": "聯詠",
-          "total_net_vol": 4294,
-          "total_buy_vol": 13846,
-          "total_sell_vol": 9552,
-          "trading_days": 57,
-          "avg_net_vol": 75.33
+          "total_net_vol": 4314,
+          "total_buy_vol": 13891,
+          "total_sell_vol": 9577,
+          "trading_days": 58,
+          "avg_net_vol": 74.38
         }
       ],
       "top_sell_stocks": [
@@ -1226,31 +1226,31 @@
           "rank": 1,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": -21905,
-          "total_buy_vol": 119799,
-          "total_sell_vol": 141704,
+          "total_net_vol": -21079,
+          "total_buy_vol": 120632,
+          "total_sell_vol": 141711,
           "trading_days": 58,
-          "avg_net_vol": -371.27
+          "avg_net_vol": -357.27
         },
         {
           "rank": 2,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": -17306,
-          "total_buy_vol": 72419,
+          "total_net_vol": -16775,
+          "total_buy_vol": 72950,
           "total_sell_vol": 89725,
           "trading_days": 58,
-          "avg_net_vol": -293.32
+          "avg_net_vol": -284.32
         },
         {
           "rank": 3,
           "stock_code": "2308",
           "stock_name": "台達電",
-          "total_net_vol": -16337,
-          "total_buy_vol": 24876,
-          "total_sell_vol": 41213,
+          "total_net_vol": -16274,
+          "total_buy_vol": 25334,
+          "total_sell_vol": 41608,
           "trading_days": 57,
-          "avg_net_vol": -286.61
+          "avg_net_vol": -280.59
         },
         {
           "rank": 4,
@@ -1266,51 +1266,41 @@
           "rank": 5,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": -6526,
-          "total_buy_vol": 25722,
-          "total_sell_vol": 32248,
+          "total_net_vol": -6560,
+          "total_buy_vol": 26009,
+          "total_sell_vol": 32569,
           "trading_days": 57,
-          "avg_net_vol": -114.49
+          "avg_net_vol": -115.09
         },
         {
           "rank": 6,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": -5331,
-          "total_buy_vol": 32732,
-          "total_sell_vol": 38063,
+          "total_net_vol": -5251,
+          "total_buy_vol": 33122,
+          "total_sell_vol": 38373,
           "trading_days": 54,
-          "avg_net_vol": -98.72
+          "avg_net_vol": -97.24
         },
         {
           "rank": 7,
           "stock_code": "2345",
           "stock_name": "智邦",
-          "total_net_vol": -1249,
-          "total_buy_vol": 6595,
-          "total_sell_vol": 7844,
+          "total_net_vol": -1279,
+          "total_buy_vol": 6676,
+          "total_sell_vol": 7955,
           "trading_days": 55,
-          "avg_net_vol": -22.3
+          "avg_net_vol": -22.44
         },
         {
           "rank": 8,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": -953,
-          "total_buy_vol": 9747,
-          "total_sell_vol": 10700,
-          "trading_days": 53,
-          "avg_net_vol": -17.98
-        },
-        {
-          "rank": 9,
-          "stock_code": "3037",
-          "stock_name": "欣興",
-          "total_net_vol": -124,
-          "total_buy_vol": 37863,
-          "total_sell_vol": 37987,
-          "trading_days": 53,
-          "avg_net_vol": -2.34
+          "total_net_vol": -881,
+          "total_buy_vol": 9847,
+          "total_sell_vol": 10728,
+          "trading_days": 54,
+          "avg_net_vol": -16.31
         }
       ]
     },
@@ -1322,101 +1312,101 @@
           "rank": 1,
           "stock_code": "2303",
           "stock_name": "聯電",
-          "total_net_vol": 65176,
-          "total_buy_vol": 133284,
-          "total_sell_vol": 68108,
+          "total_net_vol": 70367,
+          "total_buy_vol": 139112,
+          "total_sell_vol": 68745,
           "trading_days": 37,
-          "avg_net_vol": 1761.51
+          "avg_net_vol": 1851.76
         },
         {
           "rank": 2,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": 64988,
-          "total_buy_vol": 91333,
-          "total_sell_vol": 26345,
+          "total_net_vol": 63304,
+          "total_buy_vol": 89517,
+          "total_sell_vol": 26213,
           "trading_days": 54,
-          "avg_net_vol": 1203.48
+          "avg_net_vol": 1172.3
         },
         {
           "rank": 3,
           "stock_code": "2882",
           "stock_name": "國泰金",
-          "total_net_vol": 17540,
-          "total_buy_vol": 64195,
-          "total_sell_vol": 46655,
+          "total_net_vol": 18419,
+          "total_buy_vol": 65457,
+          "total_sell_vol": 47038,
           "trading_days": 52,
-          "avg_net_vol": 337.31
+          "avg_net_vol": 347.53
         },
         {
           "rank": 4,
-          "stock_code": "2603",
-          "stock_name": "長榮",
-          "total_net_vol": 14439,
-          "total_buy_vol": 22095,
-          "total_sell_vol": 7656,
+          "stock_code": "2609",
+          "stock_name": "陽明",
+          "total_net_vol": 14446,
+          "total_buy_vol": 46275,
+          "total_sell_vol": 31829,
           "trading_days": 54,
-          "avg_net_vol": 267.39
+          "avg_net_vol": 267.52
         },
         {
           "rank": 5,
-          "stock_code": "2609",
-          "stock_name": "陽明",
-          "total_net_vol": 9920,
-          "total_buy_vol": 41615,
-          "total_sell_vol": 31695,
+          "stock_code": "2603",
+          "stock_name": "長榮",
+          "total_net_vol": 14328,
+          "total_buy_vol": 22038,
+          "total_sell_vol": 7710,
           "trading_days": 54,
-          "avg_net_vol": 183.7
+          "avg_net_vol": 265.33
         },
         {
           "rank": 6,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": 4947,
-          "total_buy_vol": 19208,
-          "total_sell_vol": 14261,
+          "total_net_vol": 5315,
+          "total_buy_vol": 19233,
+          "total_sell_vol": 13918,
           "trading_days": 53,
-          "avg_net_vol": 93.34
+          "avg_net_vol": 100.28
         },
         {
           "rank": 7,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": 4307,
-          "total_buy_vol": 15722,
-          "total_sell_vol": 11415,
+          "total_net_vol": 4509,
+          "total_buy_vol": 16011,
+          "total_sell_vol": 11502,
           "trading_days": 50,
-          "avg_net_vol": 86.14
+          "avg_net_vol": 88.41
         },
         {
           "rank": 8,
           "stock_code": "3034",
           "stock_name": "聯詠",
-          "total_net_vol": 2399,
-          "total_buy_vol": 8354,
-          "total_sell_vol": 5955,
+          "total_net_vol": 2380,
+          "total_buy_vol": 8386,
+          "total_sell_vol": 6006,
           "trading_days": 56,
-          "avg_net_vol": 42.84
+          "avg_net_vol": 41.75
         },
         {
           "rank": 9,
-          "stock_code": "3006",
-          "stock_name": "晶豪科",
-          "total_net_vol": 1962,
-          "total_buy_vol": 2839,
-          "total_sell_vol": 877,
-          "trading_days": 23,
-          "avg_net_vol": 85.3
+          "stock_code": "2615",
+          "stock_name": "萬海",
+          "total_net_vol": 2145,
+          "total_buy_vol": 17982,
+          "total_sell_vol": 15837,
+          "trading_days": 47,
+          "avg_net_vol": 45.64
         },
         {
           "rank": 10,
-          "stock_code": "2615",
-          "stock_name": "萬海",
-          "total_net_vol": 1944,
-          "total_buy_vol": 17699,
-          "total_sell_vol": 15755,
-          "trading_days": 46,
-          "avg_net_vol": 42.26
+          "stock_code": "3006",
+          "stock_name": "晶豪科",
+          "total_net_vol": 2099,
+          "total_buy_vol": 2960,
+          "total_sell_vol": 861,
+          "trading_days": 23,
+          "avg_net_vol": 91.26
         }
       ],
       "top_sell_stocks": [
@@ -1424,71 +1414,71 @@
           "rank": 1,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": -26728,
-          "total_buy_vol": 27427,
-          "total_sell_vol": 54155,
+          "total_net_vol": -26093,
+          "total_buy_vol": 28455,
+          "total_sell_vol": 54548,
           "trading_days": 56,
-          "avg_net_vol": -477.29
+          "avg_net_vol": -457.77
         },
         {
           "rank": 2,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": -15034,
-          "total_buy_vol": 63582,
-          "total_sell_vol": 78616,
+          "total_net_vol": -14774,
+          "total_buy_vol": 64694,
+          "total_sell_vol": 79468,
           "trading_days": 57,
-          "avg_net_vol": -263.75
+          "avg_net_vol": -254.72
         },
         {
           "rank": 3,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": -9785,
-          "total_buy_vol": 20481,
-          "total_sell_vol": 30266,
+          "total_net_vol": -9545,
+          "total_buy_vol": 21097,
+          "total_sell_vol": 30642,
           "trading_days": 54,
-          "avg_net_vol": -181.2
+          "avg_net_vol": -173.55
         },
         {
           "rank": 4,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": -9457,
-          "total_buy_vol": 89145,
-          "total_sell_vol": 98602,
+          "total_net_vol": -9343,
+          "total_buy_vol": 89957,
+          "total_sell_vol": 99300,
           "trading_days": 57,
-          "avg_net_vol": -165.91
+          "avg_net_vol": -161.09
         },
         {
           "rank": 5,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": -4422,
-          "total_buy_vol": 6004,
-          "total_sell_vol": 10426,
+          "total_net_vol": -4316,
+          "total_buy_vol": 6147,
+          "total_sell_vol": 10463,
           "trading_days": 58,
-          "avg_net_vol": -76.24
+          "avg_net_vol": -73.15
         },
         {
           "rank": 6,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": -3794,
-          "total_buy_vol": 17039,
-          "total_sell_vol": 20833,
+          "total_net_vol": -3758,
+          "total_buy_vol": 16631,
+          "total_sell_vol": 20389,
           "trading_days": 55,
-          "avg_net_vol": -68.98
+          "avg_net_vol": -68.33
         },
         {
           "rank": 7,
           "stock_code": "2345",
           "stock_name": "智邦",
-          "total_net_vol": -317,
-          "total_buy_vol": 3821,
-          "total_sell_vol": 4138,
+          "total_net_vol": -303,
+          "total_buy_vol": 3861,
+          "total_sell_vol": 4164,
           "trading_days": 50,
-          "avg_net_vol": -6.34
+          "avg_net_vol": -5.94
         }
       ]
     },
@@ -1500,54 +1490,64 @@
           "rank": 1,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": 13509,
-          "total_buy_vol": 40105,
-          "total_sell_vol": 26596,
+          "total_net_vol": 13391,
+          "total_buy_vol": 40144,
+          "total_sell_vol": 26753,
           "trading_days": 51,
-          "avg_net_vol": 264.88
+          "avg_net_vol": 257.52
         },
         {
           "rank": 2,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": 9230,
+          "total_net_vol": 9241,
           "total_buy_vol": 12055,
-          "total_sell_vol": 2825,
+          "total_sell_vol": 2814,
           "trading_days": 52,
-          "avg_net_vol": 177.5
+          "avg_net_vol": 177.71
         },
         {
           "rank": 3,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": 7326,
-          "total_buy_vol": 32493,
-          "total_sell_vol": 25167,
-          "trading_days": 53,
-          "avg_net_vol": 138.23
+          "total_net_vol": 8209,
+          "total_buy_vol": 33400,
+          "total_sell_vol": 25191,
+          "trading_days": 54,
+          "avg_net_vol": 152.02
         },
         {
           "rank": 4,
-          "stock_code": "2609",
-          "stock_name": "陽明",
-          "total_net_vol": 2832,
-          "total_buy_vol": 18661,
-          "total_sell_vol": 15829,
-          "trading_days": 40,
-          "avg_net_vol": 70.8
+          "stock_code": "2881",
+          "stock_name": "富邦金",
+          "total_net_vol": 7673,
+          "total_buy_vol": 22863,
+          "total_sell_vol": 15190,
+          "trading_days": 36,
+          "avg_net_vol": 207.38
         },
         {
           "rank": 5,
-          "stock_code": "2345",
-          "stock_name": "智邦",
-          "total_net_vol": 2618,
-          "total_buy_vol": 7523,
-          "total_sell_vol": 4905,
-          "trading_days": 55,
-          "avg_net_vol": 47.6
+          "stock_code": "2609",
+          "stock_name": "陽明",
+          "total_net_vol": 3021,
+          "total_buy_vol": 18802,
+          "total_sell_vol": 15781,
+          "trading_days": 40,
+          "avg_net_vol": 75.53
         },
         {
           "rank": 6,
+          "stock_code": "2345",
+          "stock_name": "智邦",
+          "total_net_vol": 2626,
+          "total_buy_vol": 7538,
+          "total_sell_vol": 4912,
+          "trading_days": 55,
+          "avg_net_vol": 46.89
+        },
+        {
+          "rank": 7,
           "stock_code": "2615",
           "stock_name": "萬海",
           "total_net_vol": 2415,
@@ -1557,24 +1557,14 @@
           "avg_net_vol": 77.9
         },
         {
-          "rank": 7,
-          "stock_code": "2881",
-          "stock_name": "富邦金",
-          "total_net_vol": 1616,
-          "total_buy_vol": 16805,
-          "total_sell_vol": 15189,
-          "trading_days": 36,
-          "avg_net_vol": 44.89
-        },
-        {
           "rank": 8,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": 1593,
-          "total_buy_vol": 18594,
-          "total_sell_vol": 17001,
+          "total_net_vol": 1646,
+          "total_buy_vol": 18736,
+          "total_sell_vol": 17090,
           "trading_days": 53,
-          "avg_net_vol": 30.06
+          "avg_net_vol": 30.48
         }
       ],
       "top_sell_stocks": [
@@ -1582,101 +1572,101 @@
           "rank": 1,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": -32338,
-          "total_buy_vol": 70035,
-          "total_sell_vol": 102373,
-          "trading_days": 55,
-          "avg_net_vol": -587.96
+          "total_net_vol": -30423,
+          "total_buy_vol": 71954,
+          "total_sell_vol": 102377,
+          "trading_days": 56,
+          "avg_net_vol": -543.27
         },
         {
           "rank": 2,
-          "stock_code": "2882",
-          "stock_name": "國泰金",
-          "total_net_vol": -25292,
-          "total_buy_vol": 43728,
-          "total_sell_vol": 69020,
-          "trading_days": 47,
-          "avg_net_vol": -538.13
+          "stock_code": "2303",
+          "stock_name": "聯電",
+          "total_net_vol": -25180,
+          "total_buy_vol": 417121,
+          "total_sell_vol": 442301,
+          "trading_days": 53,
+          "avg_net_vol": -475.09
         },
         {
           "rank": 3,
-          "stock_code": "2303",
-          "stock_name": "聯電",
-          "total_net_vol": -22706,
-          "total_buy_vol": 418076,
-          "total_sell_vol": 440782,
-          "trading_days": 53,
-          "avg_net_vol": -428.42
+          "stock_code": "2618",
+          "stock_name": "長榮航",
+          "total_net_vol": -20507,
+          "total_buy_vol": 83345,
+          "total_sell_vol": 103852,
+          "trading_days": 49,
+          "avg_net_vol": -418.51
         },
         {
           "rank": 4,
-          "stock_code": "2618",
-          "stock_name": "長榮航",
-          "total_net_vol": -20254,
-          "total_buy_vol": 83591,
-          "total_sell_vol": 103845,
-          "trading_days": 49,
-          "avg_net_vol": -413.35
+          "stock_code": "2882",
+          "stock_name": "國泰金",
+          "total_net_vol": -18838,
+          "total_buy_vol": 50288,
+          "total_sell_vol": 69126,
+          "trading_days": 47,
+          "avg_net_vol": -400.81
         },
         {
           "rank": 5,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": -16903,
-          "total_buy_vol": 14974,
-          "total_sell_vol": 31877,
+          "total_net_vol": -17158,
+          "total_buy_vol": 14697,
+          "total_sell_vol": 31855,
           "trading_days": 42,
-          "avg_net_vol": -402.45
+          "avg_net_vol": -408.52
         },
         {
           "rank": 6,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": -15212,
-          "total_buy_vol": 32823,
-          "total_sell_vol": 48035,
+          "total_net_vol": -13736,
+          "total_buy_vol": 33467,
+          "total_sell_vol": 47203,
           "trading_days": 48,
-          "avg_net_vol": -316.92
+          "avg_net_vol": -286.17
         },
         {
           "rank": 7,
           "stock_code": "2308",
           "stock_name": "台達電",
-          "total_net_vol": -8022,
-          "total_buy_vol": 12909,
-          "total_sell_vol": 20931,
+          "total_net_vol": -8603,
+          "total_buy_vol": 13169,
+          "total_sell_vol": 21772,
           "trading_days": 56,
-          "avg_net_vol": -140.74
+          "avg_net_vol": -148.33
         },
         {
           "rank": 8,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": -6868,
-          "total_buy_vol": 33539,
-          "total_sell_vol": 40407,
+          "total_net_vol": -6360,
+          "total_buy_vol": 34024,
+          "total_sell_vol": 40384,
           "trading_days": 51,
-          "avg_net_vol": -134.67
+          "avg_net_vol": -124.71
         },
         {
           "rank": 9,
           "stock_code": "3034",
           "stock_name": "聯詠",
-          "total_net_vol": -4699,
-          "total_buy_vol": 5767,
-          "total_sell_vol": 10466,
-          "trading_days": 51,
-          "avg_net_vol": -92.14
+          "total_net_vol": -4575,
+          "total_buy_vol": 5893,
+          "total_sell_vol": 10468,
+          "trading_days": 52,
+          "avg_net_vol": -87.98
         },
         {
           "rank": 10,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": -1602,
-          "total_buy_vol": 22942,
-          "total_sell_vol": 24544,
+          "total_net_vol": -1260,
+          "total_buy_vol": 22862,
+          "total_sell_vol": 24122,
           "trading_days": 54,
-          "avg_net_vol": -29.67
+          "avg_net_vol": -23.33
         }
       ]
     },
@@ -1688,101 +1678,101 @@
           "rank": 1,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": 21227,
-          "total_buy_vol": 47650,
-          "total_sell_vol": 26423,
+          "total_net_vol": 21118,
+          "total_buy_vol": 47981,
+          "total_sell_vol": 26863,
           "trading_days": 51,
-          "avg_net_vol": 408.21
+          "avg_net_vol": 398.45
         },
         {
           "rank": 2,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": 13911,
-          "total_buy_vol": 64570,
-          "total_sell_vol": 50659,
+          "total_net_vol": 16674,
+          "total_buy_vol": 67992,
+          "total_sell_vol": 51318,
           "trading_days": 53,
-          "avg_net_vol": 257.61
+          "avg_net_vol": 303.16
         },
         {
           "rank": 3,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": 4979,
-          "total_buy_vol": 24098,
-          "total_sell_vol": 19119,
+          "total_net_vol": 8892,
+          "total_buy_vol": 28010,
+          "total_sell_vol": 19118,
           "trading_days": 51,
-          "avg_net_vol": 97.63
+          "avg_net_vol": 174.35
         },
         {
           "rank": 4,
-          "stock_code": "3037",
-          "stock_name": "欣興",
-          "total_net_vol": 4304,
-          "total_buy_vol": 20861,
-          "total_sell_vol": 16557,
-          "trading_days": 46,
-          "avg_net_vol": 91.57
+          "stock_code": "2609",
+          "stock_name": "陽明",
+          "total_net_vol": 4385,
+          "total_buy_vol": 17517,
+          "total_sell_vol": 13132,
+          "trading_days": 36,
+          "avg_net_vol": 118.51
         },
         {
           "rank": 5,
-          "stock_code": "2609",
-          "stock_name": "陽明",
-          "total_net_vol": 4280,
-          "total_buy_vol": 17095,
-          "total_sell_vol": 12815,
-          "trading_days": 36,
-          "avg_net_vol": 118.89
+          "stock_code": "3037",
+          "stock_name": "欣興",
+          "total_net_vol": 4037,
+          "total_buy_vol": 20483,
+          "total_sell_vol": 16446,
+          "trading_days": 46,
+          "avg_net_vol": 85.89
         },
         {
           "rank": 6,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": 3058,
-          "total_buy_vol": 35555,
-          "total_sell_vol": 32497,
+          "total_net_vol": 3585,
+          "total_buy_vol": 36140,
+          "total_sell_vol": 32555,
           "trading_days": 42,
-          "avg_net_vol": 71.12
+          "avg_net_vol": 83.37
         },
         {
           "rank": 7,
-          "stock_code": "2308",
-          "stock_name": "台達電",
-          "total_net_vol": 3040,
-          "total_buy_vol": 13649,
-          "total_sell_vol": 10609,
-          "trading_days": 52,
-          "avg_net_vol": 58.46
+          "stock_code": "2615",
+          "stock_name": "萬海",
+          "total_net_vol": 3221,
+          "total_buy_vol": 9688,
+          "total_sell_vol": 6467,
+          "trading_days": 35,
+          "avg_net_vol": 89.47
         },
         {
           "rank": 8,
-          "stock_code": "2615",
-          "stock_name": "萬海",
-          "total_net_vol": 3033,
-          "total_buy_vol": 9492,
-          "total_sell_vol": 6459,
-          "trading_days": 35,
-          "avg_net_vol": 84.25
+          "stock_code": "2308",
+          "stock_name": "台達電",
+          "total_net_vol": 2908,
+          "total_buy_vol": 13561,
+          "total_sell_vol": 10653,
+          "trading_days": 52,
+          "avg_net_vol": 55.92
         },
         {
           "rank": 9,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": 2573,
-          "total_buy_vol": 5207,
-          "total_sell_vol": 2634,
+          "total_net_vol": 2587,
+          "total_buy_vol": 5279,
+          "total_sell_vol": 2692,
           "trading_days": 45,
-          "avg_net_vol": 57.18
+          "avg_net_vol": 56.24
         },
         {
           "rank": 10,
           "stock_code": "2882",
           "stock_name": "國泰金",
-          "total_net_vol": 1893,
-          "total_buy_vol": 27907,
-          "total_sell_vol": 26014,
+          "total_net_vol": 2148,
+          "total_buy_vol": 28187,
+          "total_sell_vol": 26039,
           "trading_days": 43,
-          "avg_net_vol": 44.02
+          "avg_net_vol": 49.95
         }
       ],
       "top_sell_stocks": [
@@ -1800,11 +1790,11 @@
           "rank": 2,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": -21695,
-          "total_buy_vol": 32199,
-          "total_sell_vol": 53894,
+          "total_net_vol": -21824,
+          "total_buy_vol": 32147,
+          "total_sell_vol": 53971,
           "trading_days": 45,
-          "avg_net_vol": -471.63
+          "avg_net_vol": -474.43
         },
         {
           "rank": 3,
@@ -1820,21 +1810,21 @@
           "rank": 4,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": -4565,
-          "total_buy_vol": 20367,
-          "total_sell_vol": 24932,
+          "total_net_vol": -4316,
+          "total_buy_vol": 20553,
+          "total_sell_vol": 24869,
           "trading_days": 43,
-          "avg_net_vol": -106.16
+          "avg_net_vol": -100.37
         },
         {
           "rank": 5,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": -1689,
-          "total_buy_vol": 24350,
-          "total_sell_vol": 26039,
-          "trading_days": 44,
-          "avg_net_vol": -38.39
+          "total_net_vol": -1515,
+          "total_buy_vol": 24558,
+          "total_sell_vol": 26073,
+          "trading_days": 45,
+          "avg_net_vol": -33.67
         },
         {
           "rank": 6,
@@ -1850,31 +1840,31 @@
           "rank": 7,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": -454,
-          "total_buy_vol": 8194,
-          "total_sell_vol": 8648,
+          "total_net_vol": -440,
+          "total_buy_vol": 8232,
+          "total_sell_vol": 8672,
           "trading_days": 47,
-          "avg_net_vol": -9.66
+          "avg_net_vol": -9.36
         },
         {
           "rank": 8,
-          "stock_code": "2345",
-          "stock_name": "智邦",
-          "total_net_vol": -206,
-          "total_buy_vol": 4618,
-          "total_sell_vol": 4824,
-          "trading_days": 55,
-          "avg_net_vol": -3.75
+          "stock_code": "2603",
+          "stock_name": "長榮",
+          "total_net_vol": -332,
+          "total_buy_vol": 11540,
+          "total_sell_vol": 11872,
+          "trading_days": 47,
+          "avg_net_vol": -6.92
         },
         {
           "rank": 9,
-          "stock_code": "2603",
-          "stock_name": "長榮",
-          "total_net_vol": -196,
-          "total_buy_vol": 11668,
-          "total_sell_vol": 11864,
-          "trading_days": 47,
-          "avg_net_vol": -4.08
+          "stock_code": "2345",
+          "stock_name": "智邦",
+          "total_net_vol": -37,
+          "total_buy_vol": 4800,
+          "total_sell_vol": 4837,
+          "trading_days": 55,
+          "avg_net_vol": -0.66
         }
       ]
     },
@@ -1884,43 +1874,43 @@
       "top_buy_stocks": [
         {
           "rank": 1,
-          "stock_code": "2618",
-          "stock_name": "長榮航",
-          "total_net_vol": 16106,
-          "total_buy_vol": 26908,
-          "total_sell_vol": 10802,
-          "trading_days": 33,
-          "avg_net_vol": 488.06
+          "stock_code": "2303",
+          "stock_name": "聯電",
+          "total_net_vol": 16009,
+          "total_buy_vol": 68008,
+          "total_sell_vol": 51999,
+          "trading_days": 37,
+          "avg_net_vol": 432.68
         },
         {
           "rank": 2,
-          "stock_code": "2303",
-          "stock_name": "聯電",
-          "total_net_vol": 15514,
-          "total_buy_vol": 68818,
-          "total_sell_vol": 53304,
-          "trading_days": 37,
-          "avg_net_vol": 419.3
+          "stock_code": "2618",
+          "stock_name": "長榮航",
+          "total_net_vol": 15878,
+          "total_buy_vol": 26909,
+          "total_sell_vol": 11031,
+          "trading_days": 33,
+          "avg_net_vol": 467.0
         },
         {
           "rank": 3,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": 12481,
-          "total_buy_vol": 22058,
-          "total_sell_vol": 9577,
-          "trading_days": 47,
-          "avg_net_vol": 265.55
+          "total_net_vol": 11587,
+          "total_buy_vol": 22115,
+          "total_sell_vol": 10528,
+          "trading_days": 48,
+          "avg_net_vol": 241.4
         },
         {
           "rank": 4,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": 11522,
-          "total_buy_vol": 30743,
-          "total_sell_vol": 19221,
+          "total_net_vol": 10778,
+          "total_buy_vol": 30792,
+          "total_sell_vol": 20014,
           "trading_days": 47,
-          "avg_net_vol": 245.15
+          "avg_net_vol": 224.54
         },
         {
           "rank": 5,
@@ -1936,21 +1926,21 @@
           "rank": 6,
           "stock_code": "2615",
           "stock_name": "萬海",
-          "total_net_vol": 6352,
-          "total_buy_vol": 10996,
-          "total_sell_vol": 4644,
+          "total_net_vol": 6183,
+          "total_buy_vol": 10869,
+          "total_sell_vol": 4686,
           "trading_days": 34,
-          "avg_net_vol": 181.49
+          "avg_net_vol": 176.66
         },
         {
           "rank": 7,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": 5246,
-          "total_buy_vol": 10255,
-          "total_sell_vol": 5009,
+          "total_net_vol": 5233,
+          "total_buy_vol": 10154,
+          "total_sell_vol": 4921,
           "trading_days": 37,
-          "avg_net_vol": 138.05
+          "avg_net_vol": 137.71
         },
         {
           "rank": 8,
@@ -1966,21 +1956,21 @@
           "rank": 9,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": 3809,
-          "total_buy_vol": 16733,
-          "total_sell_vol": 12924,
+          "total_net_vol": 3786,
+          "total_buy_vol": 16782,
+          "total_sell_vol": 12996,
           "trading_days": 46,
-          "avg_net_vol": 82.8
+          "avg_net_vol": 80.55
         },
         {
           "rank": 10,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": 2661,
-          "total_buy_vol": 5359,
-          "total_sell_vol": 2698,
+          "total_net_vol": 2645,
+          "total_buy_vol": 5344,
+          "total_sell_vol": 2699,
           "trading_days": 45,
-          "avg_net_vol": 59.13
+          "avg_net_vol": 58.78
         }
       ],
       "top_sell_stocks": [
@@ -1988,21 +1978,21 @@
           "rank": 1,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": -19478,
-          "total_buy_vol": 23631,
-          "total_sell_vol": 43109,
+          "total_net_vol": -19505,
+          "total_buy_vol": 23618,
+          "total_sell_vol": 43123,
           "trading_days": 53,
-          "avg_net_vol": -367.51
+          "avg_net_vol": -368.02
         },
         {
           "rank": 2,
           "stock_code": "3034",
           "stock_name": "聯詠",
-          "total_net_vol": -8514,
-          "total_buy_vol": 6959,
-          "total_sell_vol": 15473,
+          "total_net_vol": -8854,
+          "total_buy_vol": 6618,
+          "total_sell_vol": 15472,
           "trading_days": 51,
-          "avg_net_vol": -166.94
+          "avg_net_vol": -173.61
         },
         {
           "rank": 3,
@@ -2018,21 +2008,21 @@
           "rank": 4,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": -6284,
-          "total_buy_vol": 14760,
-          "total_sell_vol": 21044,
+          "total_net_vol": -5800,
+          "total_buy_vol": 14644,
+          "total_sell_vol": 20444,
           "trading_days": 51,
-          "avg_net_vol": -120.85
+          "avg_net_vol": -111.54
         },
         {
           "rank": 5,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": -850,
-          "total_buy_vol": 23853,
-          "total_sell_vol": 24703,
+          "total_net_vol": -1004,
+          "total_buy_vol": 23863,
+          "total_sell_vol": 24867,
           "trading_days": 54,
-          "avg_net_vol": -15.45
+          "avg_net_vol": -17.93
         },
         {
           "rank": 6,
@@ -2043,6 +2033,16 @@
           "total_sell_vol": 8473,
           "trading_days": 49,
           "avg_net_vol": -16.53
+        },
+        {
+          "rank": 7,
+          "stock_code": "2609",
+          "stock_name": "陽明",
+          "total_net_vol": -242,
+          "total_buy_vol": 19251,
+          "total_sell_vol": 19493,
+          "trading_days": 44,
+          "avg_net_vol": -5.26
         }
       ]
     },
@@ -2054,84 +2054,74 @@
           "rank": 1,
           "stock_code": "2609",
           "stock_name": "陽明",
-          "total_net_vol": 43575,
-          "total_buy_vol": 52990,
-          "total_sell_vol": 9415,
-          "trading_days": 30,
-          "avg_net_vol": 1452.5
+          "total_net_vol": 42498,
+          "total_buy_vol": 53156,
+          "total_sell_vol": 10658,
+          "trading_days": 31,
+          "avg_net_vol": 1370.9
         },
         {
           "rank": 2,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": 37386,
-          "total_buy_vol": 64126,
-          "total_sell_vol": 26740,
+          "total_net_vol": 37755,
+          "total_buy_vol": 64449,
+          "total_sell_vol": 26694,
           "trading_days": 42,
-          "avg_net_vol": 890.14
+          "avg_net_vol": 898.93
         },
         {
           "rank": 3,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": 17793,
-          "total_buy_vol": 30846,
-          "total_sell_vol": 13053,
+          "total_net_vol": 15170,
+          "total_buy_vol": 31390,
+          "total_sell_vol": 16220,
           "trading_days": 45,
-          "avg_net_vol": 395.4
+          "avg_net_vol": 337.11
         },
         {
           "rank": 4,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": 14001,
-          "total_buy_vol": 22421,
-          "total_sell_vol": 8420,
+          "total_net_vol": 13821,
+          "total_buy_vol": 22427,
+          "total_sell_vol": 8606,
           "trading_days": 49,
-          "avg_net_vol": 285.73
+          "avg_net_vol": 276.42
         },
         {
           "rank": 5,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": 7265,
-          "total_buy_vol": 20861,
-          "total_sell_vol": 13596,
-          "trading_days": 46,
-          "avg_net_vol": 157.93
+          "total_net_vol": 7198,
+          "total_buy_vol": 20950,
+          "total_sell_vol": 13752,
+          "trading_days": 47,
+          "avg_net_vol": 153.15
         },
         {
           "rank": 6,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": 6813,
-          "total_buy_vol": 11685,
-          "total_sell_vol": 4872,
-          "trading_days": 32,
-          "avg_net_vol": 212.91
+          "total_net_vol": 6941,
+          "total_buy_vol": 11914,
+          "total_sell_vol": 4973,
+          "trading_days": 33,
+          "avg_net_vol": 210.33
         },
         {
           "rank": 7,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": 4231,
-          "total_buy_vol": 9690,
-          "total_sell_vol": 5459,
-          "trading_days": 33,
-          "avg_net_vol": 128.21
+          "total_net_vol": 3427,
+          "total_buy_vol": 9881,
+          "total_sell_vol": 6454,
+          "trading_days": 34,
+          "avg_net_vol": 100.79
         },
         {
           "rank": 8,
-          "stock_code": "3037",
-          "stock_name": "欣興",
-          "total_net_vol": 2981,
-          "total_buy_vol": 8877,
-          "total_sell_vol": 5896,
-          "trading_days": 42,
-          "avg_net_vol": 69.33
-        },
-        {
-          "rank": 9,
           "stock_code": "2615",
           "stock_name": "萬海",
           "total_net_vol": 2481,
@@ -2141,14 +2131,24 @@
           "avg_net_vol": 72.97
         },
         {
+          "rank": 9,
+          "stock_code": "3037",
+          "stock_name": "欣興",
+          "total_net_vol": 2251,
+          "total_buy_vol": 8901,
+          "total_sell_vol": 6650,
+          "trading_days": 42,
+          "avg_net_vol": 51.16
+        },
+        {
           "rank": 10,
           "stock_code": "2308",
           "stock_name": "台達電",
-          "total_net_vol": 1184,
-          "total_buy_vol": 7625,
-          "total_sell_vol": 6441,
-          "trading_days": 48,
-          "avg_net_vol": 24.67
+          "total_net_vol": 1259,
+          "total_buy_vol": 8087,
+          "total_sell_vol": 6828,
+          "trading_days": 49,
+          "avg_net_vol": 25.69
         }
       ],
       "top_sell_stocks": [
@@ -2156,71 +2156,71 @@
           "rank": 1,
           "stock_code": "2303",
           "stock_name": "聯電",
-          "total_net_vol": -35035,
-          "total_buy_vol": 116540,
-          "total_sell_vol": 151575,
+          "total_net_vol": -35746,
+          "total_buy_vol": 115659,
+          "total_sell_vol": 151405,
           "trading_days": 43,
-          "avg_net_vol": -814.77
+          "avg_net_vol": -831.3
         },
         {
           "rank": 2,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": -28212,
-          "total_buy_vol": 17792,
-          "total_sell_vol": 46004,
+          "total_net_vol": -28796,
+          "total_buy_vol": 17963,
+          "total_sell_vol": 46759,
           "trading_days": 41,
-          "avg_net_vol": -671.71
+          "avg_net_vol": -685.62
         },
         {
           "rank": 3,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": -16919,
-          "total_buy_vol": 24211,
-          "total_sell_vol": 41130,
+          "total_net_vol": -16208,
+          "total_buy_vol": 25544,
+          "total_sell_vol": 41752,
           "trading_days": 42,
-          "avg_net_vol": -393.47
+          "avg_net_vol": -376.93
         },
         {
           "rank": 4,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": -11999,
-          "total_buy_vol": 9794,
-          "total_sell_vol": 21793,
+          "total_net_vol": -12076,
+          "total_buy_vol": 9931,
+          "total_sell_vol": 22007,
           "trading_days": 49,
-          "avg_net_vol": -239.98
+          "avg_net_vol": -236.78
         },
         {
           "rank": 5,
           "stock_code": "2882",
           "stock_name": "國泰金",
-          "total_net_vol": -5375,
-          "total_buy_vol": 17604,
-          "total_sell_vol": 22979,
-          "trading_days": 35,
-          "avg_net_vol": -153.57
+          "total_net_vol": -4594,
+          "total_buy_vol": 19270,
+          "total_sell_vol": 23864,
+          "trading_days": 36,
+          "avg_net_vol": -127.61
         },
         {
           "rank": 6,
-          "stock_code": "3034",
-          "stock_name": "聯詠",
-          "total_net_vol": -1377,
-          "total_buy_vol": 2287,
-          "total_sell_vol": 3664,
-          "trading_days": 45,
-          "avg_net_vol": -30.6
+          "stock_code": "2345",
+          "stock_name": "智邦",
+          "total_net_vol": -1476,
+          "total_buy_vol": 2232,
+          "total_sell_vol": 3708,
+          "trading_days": 54,
+          "avg_net_vol": -27.33
         },
         {
           "rank": 7,
-          "stock_code": "2345",
-          "stock_name": "智邦",
-          "total_net_vol": -1196,
-          "total_buy_vol": 2228,
-          "total_sell_vol": 3424,
-          "trading_days": 54,
-          "avg_net_vol": -22.15
+          "stock_code": "3034",
+          "stock_name": "聯詠",
+          "total_net_vol": -1103,
+          "total_buy_vol": 2573,
+          "total_sell_vol": 3676,
+          "trading_days": 45,
+          "avg_net_vol": -23.98
         },
         {
           "rank": 8,
@@ -2234,13 +2234,23 @@
         },
         {
           "rank": 9,
+          "stock_code": "3006",
+          "stock_name": "晶豪科",
+          "total_net_vol": -112,
+          "total_buy_vol": 1132,
+          "total_sell_vol": 1244,
+          "trading_days": 17,
+          "avg_net_vol": -6.59
+        },
+        {
+          "rank": 10,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": -29,
-          "total_buy_vol": 3771,
-          "total_sell_vol": 3800,
+          "total_net_vol": -76,
+          "total_buy_vol": 3801,
+          "total_sell_vol": 3877,
           "trading_days": 49,
-          "avg_net_vol": -0.59
+          "avg_net_vol": -1.52
         }
       ]
     },
@@ -2252,31 +2262,31 @@
           "rank": 1,
           "stock_code": "2303",
           "stock_name": "聯電",
-          "total_net_vol": 9018,
-          "total_buy_vol": 125761,
-          "total_sell_vol": 116743,
+          "total_net_vol": 8079,
+          "total_buy_vol": 127319,
+          "total_sell_vol": 119240,
           "trading_days": 39,
-          "avg_net_vol": 225.45
+          "avg_net_vol": 197.05
         },
         {
           "rank": 2,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": 5150,
-          "total_buy_vol": 16326,
-          "total_sell_vol": 11176,
+          "total_net_vol": 5279,
+          "total_buy_vol": 16535,
+          "total_sell_vol": 11256,
           "trading_days": 43,
-          "avg_net_vol": 119.77
+          "avg_net_vol": 122.77
         },
         {
           "rank": 3,
           "stock_code": "2308",
           "stock_name": "台達電",
-          "total_net_vol": 3003,
-          "total_buy_vol": 8784,
-          "total_sell_vol": 5781,
+          "total_net_vol": 3059,
+          "total_buy_vol": 8781,
+          "total_sell_vol": 5722,
           "trading_days": 41,
-          "avg_net_vol": 71.5
+          "avg_net_vol": 72.83
         },
         {
           "rank": 4,
@@ -2292,11 +2302,11 @@
           "rank": 5,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": 969,
-          "total_buy_vol": 7569,
-          "total_sell_vol": 6600,
+          "total_net_vol": 918,
+          "total_buy_vol": 7603,
+          "total_sell_vol": 6685,
           "trading_days": 34,
-          "avg_net_vol": 28.5
+          "avg_net_vol": 27.0
         },
         {
           "rank": 6,
@@ -2312,41 +2322,41 @@
           "rank": 7,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": 508,
-          "total_buy_vol": 17637,
-          "total_sell_vol": 17129,
+          "total_net_vol": 474,
+          "total_buy_vol": 17733,
+          "total_sell_vol": 17259,
           "trading_days": 47,
-          "avg_net_vol": 10.58
+          "avg_net_vol": 9.67
         },
         {
           "rank": 8,
           "stock_code": "2345",
           "stock_name": "智邦",
-          "total_net_vol": 252,
-          "total_buy_vol": 1181,
-          "total_sell_vol": 929,
+          "total_net_vol": 249,
+          "total_buy_vol": 1180,
+          "total_sell_vol": 931,
           "trading_days": 35,
-          "avg_net_vol": 7.2
+          "avg_net_vol": 7.11
         },
         {
           "rank": 9,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": 153,
-          "total_buy_vol": 5419,
-          "total_sell_vol": 5266,
+          "total_net_vol": 134,
+          "total_buy_vol": 5482,
+          "total_sell_vol": 5348,
           "trading_days": 45,
-          "avg_net_vol": 3.33
+          "avg_net_vol": 2.85
         },
         {
           "rank": 10,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": 121,
-          "total_buy_vol": 2095,
-          "total_sell_vol": 1974,
-          "trading_days": 33,
-          "avg_net_vol": 3.67
+          "total_net_vol": 100,
+          "total_buy_vol": 2110,
+          "total_sell_vol": 2010,
+          "trading_days": 34,
+          "avg_net_vol": 2.94
         }
       ],
       "top_sell_stocks": [
@@ -2354,31 +2364,31 @@
           "rank": 1,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": -9455,
-          "total_buy_vol": 14504,
-          "total_sell_vol": 23959,
+          "total_net_vol": -9484,
+          "total_buy_vol": 14506,
+          "total_sell_vol": 23990,
           "trading_days": 39,
-          "avg_net_vol": -242.44
+          "avg_net_vol": -243.18
         },
         {
           "rank": 2,
           "stock_code": "2615",
           "stock_name": "萬海",
-          "total_net_vol": -3554,
-          "total_buy_vol": 12067,
-          "total_sell_vol": 15621,
-          "trading_days": 38,
-          "avg_net_vol": -93.53
+          "total_net_vol": -3668,
+          "total_buy_vol": 12614,
+          "total_sell_vol": 16282,
+          "trading_days": 39,
+          "avg_net_vol": -94.05
         },
         {
           "rank": 3,
           "stock_code": "2609",
           "stock_name": "陽明",
-          "total_net_vol": -2993,
-          "total_buy_vol": 31313,
-          "total_sell_vol": 34306,
-          "trading_days": 39,
-          "avg_net_vol": -76.74
+          "total_net_vol": -3283,
+          "total_buy_vol": 31849,
+          "total_sell_vol": 35132,
+          "trading_days": 40,
+          "avg_net_vol": -82.08
         },
         {
           "rank": 4,
@@ -2394,24 +2404,34 @@
           "rank": 5,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": -1299,
-          "total_buy_vol": 32519,
-          "total_sell_vol": 33818,
+          "total_net_vol": -1262,
+          "total_buy_vol": 32847,
+          "total_sell_vol": 34109,
           "trading_days": 48,
-          "avg_net_vol": -26.51
+          "avg_net_vol": -25.24
         },
         {
           "rank": 6,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": -1098,
-          "total_buy_vol": 9127,
-          "total_sell_vol": 10225,
+          "total_net_vol": -1243,
+          "total_buy_vol": 9188,
+          "total_sell_vol": 10431,
           "trading_days": 50,
-          "avg_net_vol": -21.53
+          "avg_net_vol": -23.9
         },
         {
           "rank": 7,
+          "stock_code": "2882",
+          "stock_name": "國泰金",
+          "total_net_vol": -344,
+          "total_buy_vol": 12810,
+          "total_sell_vol": 13154,
+          "trading_days": 44,
+          "avg_net_vol": -7.48
+        },
+        {
+          "rank": 8,
           "stock_code": "3006",
           "stock_name": "晶豪科",
           "total_net_vol": -253,
@@ -2419,16 +2439,6 @@
           "total_sell_vol": 8413,
           "trading_days": 32,
           "avg_net_vol": -7.91
-        },
-        {
-          "rank": 8,
-          "stock_code": "2882",
-          "stock_name": "國泰金",
-          "total_net_vol": -239,
-          "total_buy_vol": 12714,
-          "total_sell_vol": 12953,
-          "trading_days": 44,
-          "avg_net_vol": -5.31
         },
         {
           "rank": 9,
@@ -2439,6 +2449,16 @@
           "total_sell_vol": 1180,
           "trading_days": 31,
           "avg_net_vol": -6.55
+        },
+        {
+          "rank": 10,
+          "stock_code": "2891",
+          "stock_name": "中信金",
+          "total_net_vol": -26,
+          "total_buy_vol": 10782,
+          "total_sell_vol": 10808,
+          "trading_days": 38,
+          "avg_net_vol": -0.68
         }
       ]
     },
@@ -2460,44 +2480,64 @@
           "rank": 2,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": 16863,
-          "total_buy_vol": 56702,
-          "total_sell_vol": 39839,
+          "total_net_vol": 16869,
+          "total_buy_vol": 56590,
+          "total_sell_vol": 39721,
           "trading_days": 55,
-          "avg_net_vol": 306.6
+          "avg_net_vol": 306.71
         },
         {
           "rank": 3,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": 16281,
-          "total_buy_vol": 31873,
-          "total_sell_vol": 15592,
+          "total_net_vol": 16131,
+          "total_buy_vol": 31865,
+          "total_sell_vol": 15734,
           "trading_days": 52,
-          "avg_net_vol": 313.1
+          "avg_net_vol": 310.21
         },
         {
           "rank": 4,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": 14335,
-          "total_buy_vol": 29777,
-          "total_sell_vol": 15442,
+          "total_net_vol": 13628,
+          "total_buy_vol": 30114,
+          "total_sell_vol": 16486,
           "trading_days": 40,
-          "avg_net_vol": 358.38
+          "avg_net_vol": 332.39
         },
         {
           "rank": 5,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": 11646,
-          "total_buy_vol": 54164,
+          "total_net_vol": 11847,
+          "total_buy_vol": 54365,
           "total_sell_vol": 42518,
           "trading_days": 44,
-          "avg_net_vol": 264.68
+          "avg_net_vol": 263.27
         },
         {
           "rank": 6,
+          "stock_code": "2609",
+          "stock_name": "陽明",
+          "total_net_vol": 4816,
+          "total_buy_vol": 8064,
+          "total_sell_vol": 3248,
+          "trading_days": 23,
+          "avg_net_vol": 209.39
+        },
+        {
+          "rank": 7,
+          "stock_code": "2615",
+          "stock_name": "萬海",
+          "total_net_vol": 4773,
+          "total_buy_vol": 7890,
+          "total_sell_vol": 3117,
+          "trading_days": 21,
+          "avg_net_vol": 227.29
+        },
+        {
+          "rank": 8,
           "stock_code": "2303",
           "stock_name": "聯電",
           "total_net_vol": 4380,
@@ -2507,44 +2547,24 @@
           "avg_net_vol": 208.57
         },
         {
-          "rank": 7,
+          "rank": 9,
           "stock_code": "2882",
           "stock_name": "國泰金",
-          "total_net_vol": 3840,
-          "total_buy_vol": 19293,
-          "total_sell_vol": 15453,
+          "total_net_vol": 3765,
+          "total_buy_vol": 19259,
+          "total_sell_vol": 15494,
           "trading_days": 41,
-          "avg_net_vol": 93.66
-        },
-        {
-          "rank": 8,
-          "stock_code": "2615",
-          "stock_name": "萬海",
-          "total_net_vol": 3763,
-          "total_buy_vol": 7158,
-          "total_sell_vol": 3395,
-          "trading_days": 21,
-          "avg_net_vol": 179.19
-        },
-        {
-          "rank": 9,
-          "stock_code": "2454",
-          "stock_name": "聯發科",
-          "total_net_vol": 2596,
-          "total_buy_vol": 9357,
-          "total_sell_vol": 6761,
-          "trading_days": 43,
-          "avg_net_vol": 60.37
+          "avg_net_vol": 91.83
         },
         {
           "rank": 10,
-          "stock_code": "2609",
-          "stock_name": "陽明",
-          "total_net_vol": 2550,
-          "total_buy_vol": 5798,
-          "total_sell_vol": 3248,
-          "trading_days": 22,
-          "avg_net_vol": 115.91
+          "stock_code": "2454",
+          "stock_name": "聯發科",
+          "total_net_vol": 2558,
+          "total_buy_vol": 9316,
+          "total_sell_vol": 6758,
+          "trading_days": 43,
+          "avg_net_vol": 59.49
         }
       ],
       "top_sell_stocks": [
@@ -2552,21 +2572,21 @@
           "rank": 1,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": -18914,
-          "total_buy_vol": 24986,
+          "total_net_vol": -18847,
+          "total_buy_vol": 25053,
           "total_sell_vol": 43900,
           "trading_days": 52,
-          "avg_net_vol": -363.73
+          "avg_net_vol": -362.44
         },
         {
           "rank": 2,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": -3536,
-          "total_buy_vol": 2485,
+          "total_net_vol": -3504,
+          "total_buy_vol": 2517,
           "total_sell_vol": 6021,
           "trading_days": 24,
-          "avg_net_vol": -147.33
+          "avg_net_vol": -140.16
         },
         {
           "rank": 3,
@@ -2577,16 +2597,6 @@
           "total_sell_vol": 6424,
           "trading_days": 26,
           "avg_net_vol": -83.35
-        },
-        {
-          "rank": 4,
-          "stock_code": "2308",
-          "stock_name": "台達電",
-          "total_net_vol": -38,
-          "total_buy_vol": 10370,
-          "total_sell_vol": 10408,
-          "trading_days": 50,
-          "avg_net_vol": -0.76
         }
       ]
     },
@@ -2598,21 +2608,21 @@
           "rank": 1,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": 40137,
-          "total_buy_vol": 45421,
-          "total_sell_vol": 5284,
+          "total_net_vol": 40171,
+          "total_buy_vol": 45484,
+          "total_sell_vol": 5313,
           "trading_days": 41,
-          "avg_net_vol": 978.95
+          "avg_net_vol": 979.78
         },
         {
           "rank": 2,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": 31221,
-          "total_buy_vol": 67862,
-          "total_sell_vol": 36641,
+          "total_net_vol": 33458,
+          "total_buy_vol": 70220,
+          "total_sell_vol": 36762,
           "trading_days": 51,
-          "avg_net_vol": 600.4
+          "avg_net_vol": 631.28
         },
         {
           "rank": 3,
@@ -2628,31 +2638,31 @@
           "rank": 4,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": 14202,
-          "total_buy_vol": 20882,
-          "total_sell_vol": 6680,
-          "trading_days": 25,
-          "avg_net_vol": 568.08
+          "total_net_vol": 13825,
+          "total_buy_vol": 20884,
+          "total_sell_vol": 7059,
+          "trading_days": 26,
+          "avg_net_vol": 531.73
         },
         {
           "rank": 5,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": 5296,
-          "total_buy_vol": 30086,
-          "total_sell_vol": 24790,
+          "total_net_vol": 5109,
+          "total_buy_vol": 29916,
+          "total_sell_vol": 24807,
           "trading_days": 46,
-          "avg_net_vol": 112.68
+          "avg_net_vol": 108.7
         },
         {
           "rank": 6,
           "stock_code": "2615",
           "stock_name": "萬海",
-          "total_net_vol": 4478,
-          "total_buy_vol": 4871,
-          "total_sell_vol": 393,
-          "trading_days": 18,
-          "avg_net_vol": 248.78
+          "total_net_vol": 4946,
+          "total_buy_vol": 5424,
+          "total_sell_vol": 478,
+          "trading_days": 19,
+          "avg_net_vol": 260.32
         },
         {
           "rank": 7,
@@ -2678,11 +2688,11 @@
           "rank": 9,
           "stock_code": "3006",
           "stock_name": "晶豪科",
-          "total_net_vol": 2366,
-          "total_buy_vol": 2786,
+          "total_net_vol": 2396,
+          "total_buy_vol": 2816,
           "total_sell_vol": 420,
-          "trading_days": 14,
-          "avg_net_vol": 169.0
+          "trading_days": 15,
+          "avg_net_vol": 159.73
         },
         {
           "rank": 10,
@@ -2700,11 +2710,11 @@
           "rank": 1,
           "stock_code": "2303",
           "stock_name": "聯電",
-          "total_net_vol": -28825,
-          "total_buy_vol": 18144,
-          "total_sell_vol": 46969,
-          "trading_days": 26,
-          "avg_net_vol": -1108.65
+          "total_net_vol": -30249,
+          "total_buy_vol": 18181,
+          "total_sell_vol": 48430,
+          "trading_days": 27,
+          "avg_net_vol": -1120.33
         },
         {
           "rank": 2,
@@ -2720,31 +2730,31 @@
           "rank": 3,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": -3009,
-          "total_buy_vol": 1261,
-          "total_sell_vol": 4270,
-          "trading_days": 36,
-          "avg_net_vol": -83.58
+          "total_net_vol": -3026,
+          "total_buy_vol": 1264,
+          "total_sell_vol": 4290,
+          "trading_days": 37,
+          "avg_net_vol": -81.78
         },
         {
           "rank": 4,
           "stock_code": "2345",
           "stock_name": "智邦",
-          "total_net_vol": -2762,
-          "total_buy_vol": 2626,
-          "total_sell_vol": 5388,
+          "total_net_vol": -2928,
+          "total_buy_vol": 2644,
+          "total_sell_vol": 5572,
           "trading_days": 47,
-          "avg_net_vol": -58.77
+          "avg_net_vol": -62.3
         },
         {
           "rank": 5,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": -2189,
-          "total_buy_vol": 5063,
-          "total_sell_vol": 7252,
-          "trading_days": 22,
-          "avg_net_vol": -99.5
+          "total_net_vol": -2148,
+          "total_buy_vol": 5125,
+          "total_sell_vol": 7273,
+          "trading_days": 23,
+          "avg_net_vol": -93.39
         },
         {
           "rank": 6,
@@ -2768,6 +2778,16 @@
         },
         {
           "rank": 8,
+          "stock_code": "2603",
+          "stock_name": "長榮",
+          "total_net_vol": -378,
+          "total_buy_vol": 1677,
+          "total_sell_vol": 2055,
+          "trading_days": 19,
+          "avg_net_vol": -19.89
+        },
+        {
+          "rank": 9,
           "stock_code": "2412",
           "stock_name": "中華電",
           "total_net_vol": -373,
@@ -2777,24 +2797,14 @@
           "avg_net_vol": -18.65
         },
         {
-          "rank": 9,
-          "stock_code": "2603",
-          "stock_name": "長榮",
-          "total_net_vol": -342,
-          "total_buy_vol": 1676,
-          "total_sell_vol": 2018,
-          "trading_days": 18,
-          "avg_net_vol": -19.0
-        },
-        {
           "rank": 10,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": -224,
-          "total_buy_vol": 8742,
-          "total_sell_vol": 8966,
+          "total_net_vol": -173,
+          "total_buy_vol": 8800,
+          "total_sell_vol": 8973,
           "trading_days": 50,
-          "avg_net_vol": -4.39
+          "avg_net_vol": -3.33
         }
       ]
     },
@@ -2806,11 +2816,11 @@
           "rank": 1,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": 7918,
-          "total_buy_vol": 18216,
-          "total_sell_vol": 10298,
-          "trading_days": 25,
-          "avg_net_vol": 316.72
+          "total_net_vol": 8768,
+          "total_buy_vol": 19078,
+          "total_sell_vol": 10310,
+          "trading_days": 26,
+          "avg_net_vol": 337.23
         },
         {
           "rank": 2,
@@ -2826,21 +2836,21 @@
           "rank": 3,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": 3636,
-          "total_buy_vol": 9745,
-          "total_sell_vol": 6109,
+          "total_net_vol": 3658,
+          "total_buy_vol": 9777,
+          "total_sell_vol": 6119,
           "trading_days": 35,
-          "avg_net_vol": 101.0
+          "avg_net_vol": 98.86
         },
         {
           "rank": 4,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": 1025,
-          "total_buy_vol": 10882,
-          "total_sell_vol": 9857,
-          "trading_days": 35,
-          "avg_net_vol": 29.29
+          "total_net_vol": 1164,
+          "total_buy_vol": 11065,
+          "total_sell_vol": 9901,
+          "trading_days": 36,
+          "avg_net_vol": 32.33
         },
         {
           "rank": 5,
@@ -2898,11 +2908,11 @@
           "rank": 3,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": -29623,
-          "total_buy_vol": 1460,
-          "total_sell_vol": 31083,
-          "trading_days": 20,
-          "avg_net_vol": -1481.15
+          "total_net_vol": -27284,
+          "total_buy_vol": 3812,
+          "total_sell_vol": 31096,
+          "trading_days": 21,
+          "avg_net_vol": -1299.24
         },
         {
           "rank": 4,
@@ -2918,11 +2928,11 @@
           "rank": 5,
           "stock_code": "2308",
           "stock_name": "台達電",
-          "total_net_vol": -5451,
-          "total_buy_vol": 7564,
-          "total_sell_vol": 13015,
+          "total_net_vol": -5097,
+          "total_buy_vol": 7989,
+          "total_sell_vol": 13086,
           "trading_days": 51,
-          "avg_net_vol": -104.83
+          "avg_net_vol": -96.17
         },
         {
           "rank": 6,
@@ -2938,14 +2948,24 @@
           "rank": 7,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": -4045,
-          "total_buy_vol": 12711,
-          "total_sell_vol": 16756,
+          "total_net_vol": -4089,
+          "total_buy_vol": 12761,
+          "total_sell_vol": 16850,
           "trading_days": 36,
-          "avg_net_vol": -112.36
+          "avg_net_vol": -110.51
         },
         {
           "rank": 8,
+          "stock_code": "3034",
+          "stock_name": "聯詠",
+          "total_net_vol": -806,
+          "total_buy_vol": 1453,
+          "total_sell_vol": 2259,
+          "trading_days": 25,
+          "avg_net_vol": -31.0
+        },
+        {
+          "rank": 9,
           "stock_code": "2882",
           "stock_name": "國泰金",
           "total_net_vol": -754,
@@ -2955,24 +2975,14 @@
           "avg_net_vol": -41.89
         },
         {
-          "rank": 9,
+          "rank": 10,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": -692,
-          "total_buy_vol": 7195,
-          "total_sell_vol": 7887,
-          "trading_days": 53,
-          "avg_net_vol": -13.06
-        },
-        {
-          "rank": 10,
-          "stock_code": "3006",
-          "stock_name": "晶豪科",
-          "total_net_vol": -561,
-          "total_buy_vol": 4028,
-          "total_sell_vol": 4589,
-          "trading_days": 27,
-          "avg_net_vol": -20.78
+          "total_net_vol": -574,
+          "total_buy_vol": 7337,
+          "total_sell_vol": 7911,
+          "trading_days": 54,
+          "avg_net_vol": -10.63
         }
       ]
     },
@@ -3044,21 +3054,21 @@
           "rank": 7,
           "stock_code": "3034",
           "stock_name": "聯詠",
-          "total_net_vol": 1833,
-          "total_buy_vol": 4068,
-          "total_sell_vol": 2235,
-          "trading_days": 26,
-          "avg_net_vol": 70.5
+          "total_net_vol": 1852,
+          "total_buy_vol": 4090,
+          "total_sell_vol": 2238,
+          "trading_days": 27,
+          "avg_net_vol": 68.59
         },
         {
           "rank": 8,
           "stock_code": "2308",
           "stock_name": "台達電",
-          "total_net_vol": 549,
-          "total_buy_vol": 6587,
-          "total_sell_vol": 6038,
+          "total_net_vol": 651,
+          "total_buy_vol": 6692,
+          "total_sell_vol": 6041,
           "trading_days": 47,
-          "avg_net_vol": 11.44
+          "avg_net_vol": 13.56
         },
         {
           "rank": 9,
@@ -3086,11 +3096,11 @@
           "rank": 1,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": -19515,
-          "total_buy_vol": 5394,
-          "total_sell_vol": 24909,
+          "total_net_vol": -19869,
+          "total_buy_vol": 5555,
+          "total_sell_vol": 25424,
           "trading_days": 44,
-          "avg_net_vol": -443.52
+          "avg_net_vol": -451.57
         },
         {
           "rank": 2,
@@ -3106,31 +3116,31 @@
           "rank": 3,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": -3507,
-          "total_buy_vol": 7804,
-          "total_sell_vol": 11311,
-          "trading_days": 30,
-          "avg_net_vol": -116.9
+          "total_net_vol": -3486,
+          "total_buy_vol": 7827,
+          "total_sell_vol": 11313,
+          "trading_days": 31,
+          "avg_net_vol": -112.45
         },
         {
           "rank": 4,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": -1803,
-          "total_buy_vol": 3939,
-          "total_sell_vol": 5742,
+          "total_net_vol": -1881,
+          "total_buy_vol": 3969,
+          "total_sell_vol": 5850,
           "trading_days": 37,
-          "avg_net_vol": -48.73
+          "avg_net_vol": -49.5
         },
         {
           "rank": 5,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": -1507,
-          "total_buy_vol": 8715,
-          "total_sell_vol": 10222,
+          "total_net_vol": -1693,
+          "total_buy_vol": 8523,
+          "total_sell_vol": 10216,
           "trading_days": 37,
-          "avg_net_vol": -39.66
+          "avg_net_vol": -44.55
         },
         {
           "rank": 6,
@@ -3146,14 +3156,24 @@
           "rank": 7,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": -644,
-          "total_buy_vol": 1396,
-          "total_sell_vol": 2040,
+          "total_net_vol": -624,
+          "total_buy_vol": 1399,
+          "total_sell_vol": 2023,
           "trading_days": 35,
-          "avg_net_vol": -18.4
+          "avg_net_vol": -17.83
         },
         {
           "rank": 8,
+          "stock_code": "2330",
+          "stock_name": "台積電",
+          "total_net_vol": -588,
+          "total_buy_vol": 13616,
+          "total_sell_vol": 14204,
+          "trading_days": 40,
+          "avg_net_vol": -14.34
+        },
+        {
+          "rank": 9,
           "stock_code": "2303",
           "stock_name": "聯電",
           "total_net_vol": -544,
@@ -3161,16 +3181,6 @@
           "total_sell_vol": 93184,
           "trading_days": 43,
           "avg_net_vol": -12.65
-        },
-        {
-          "rank": 9,
-          "stock_code": "2330",
-          "stock_name": "台積電",
-          "total_net_vol": -516,
-          "total_buy_vol": 13497,
-          "total_sell_vol": 14013,
-          "trading_days": 40,
-          "avg_net_vol": -12.9
         },
         {
           "rank": 10,
@@ -3192,31 +3202,31 @@
           "rank": 1,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": 14417,
-          "total_buy_vol": 21745,
-          "total_sell_vol": 7328,
-          "trading_days": 41,
-          "avg_net_vol": 351.63
+          "total_net_vol": 14499,
+          "total_buy_vol": 21840,
+          "total_sell_vol": 7341,
+          "trading_days": 42,
+          "avg_net_vol": 345.21
         },
         {
           "rank": 2,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": 2833,
-          "total_buy_vol": 15765,
-          "total_sell_vol": 12932,
+          "total_net_vol": 3077,
+          "total_buy_vol": 16038,
+          "total_sell_vol": 12961,
           "trading_days": 49,
-          "avg_net_vol": 56.66
+          "avg_net_vol": 60.33
         },
         {
           "rank": 3,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": 1846,
-          "total_buy_vol": 10066,
-          "total_sell_vol": 8220,
+          "total_net_vol": 1940,
+          "total_buy_vol": 10212,
+          "total_sell_vol": 8272,
           "trading_days": 32,
-          "avg_net_vol": 57.69
+          "avg_net_vol": 58.79
         },
         {
           "rank": 4,
@@ -3230,16 +3240,6 @@
         },
         {
           "rank": 5,
-          "stock_code": "2317",
-          "stock_name": "鴻海",
-          "total_net_vol": 838,
-          "total_buy_vol": 14036,
-          "total_sell_vol": 13198,
-          "trading_days": 26,
-          "avg_net_vol": 32.23
-        },
-        {
-          "rank": 6,
           "stock_code": "3006",
           "stock_name": "晶豪科",
           "total_net_vol": 832,
@@ -3247,6 +3247,16 @@
           "total_sell_vol": 5891,
           "trading_days": 36,
           "avg_net_vol": 22.49
+        },
+        {
+          "rank": 6,
+          "stock_code": "2317",
+          "stock_name": "鴻海",
+          "total_net_vol": 773,
+          "total_buy_vol": 14041,
+          "total_sell_vol": 13268,
+          "trading_days": 27,
+          "avg_net_vol": 28.63
         },
         {
           "rank": 7,
@@ -3264,31 +3274,31 @@
           "rank": 1,
           "stock_code": "2303",
           "stock_name": "聯電",
-          "total_net_vol": -54200,
-          "total_buy_vol": 82146,
-          "total_sell_vol": 136346,
+          "total_net_vol": -54547,
+          "total_buy_vol": 82597,
+          "total_sell_vol": 137144,
           "trading_days": 41,
-          "avg_net_vol": -1321.95
+          "avg_net_vol": -1298.74
         },
         {
           "rank": 2,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": -14674,
-          "total_buy_vol": 12164,
-          "total_sell_vol": 26838,
+          "total_net_vol": -13970,
+          "total_buy_vol": 12875,
+          "total_sell_vol": 26845,
           "trading_days": 28,
-          "avg_net_vol": -506.0
+          "avg_net_vol": -465.67
         },
         {
           "rank": 3,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": -9782,
-          "total_buy_vol": 653,
-          "total_sell_vol": 10435,
-          "trading_days": 14,
-          "avg_net_vol": -698.71
+          "total_net_vol": -9755,
+          "total_buy_vol": 772,
+          "total_sell_vol": 10527,
+          "trading_days": 15,
+          "avg_net_vol": -650.33
         },
         {
           "rank": 4,
@@ -3304,24 +3314,14 @@
           "rank": 5,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": -4819,
-          "total_buy_vol": 5027,
-          "total_sell_vol": 9846,
-          "trading_days": 20,
-          "avg_net_vol": -240.95
+          "total_net_vol": -4887,
+          "total_buy_vol": 5050,
+          "total_sell_vol": 9937,
+          "trading_days": 21,
+          "avg_net_vol": -232.71
         },
         {
           "rank": 6,
-          "stock_code": "2308",
-          "stock_name": "台達電",
-          "total_net_vol": -2437,
-          "total_buy_vol": 4876,
-          "total_sell_vol": 7313,
-          "trading_days": 40,
-          "avg_net_vol": -60.92
-        },
-        {
-          "rank": 7,
           "stock_code": "2382",
           "stock_name": "廣達",
           "total_net_vol": -2204,
@@ -3329,6 +3329,16 @@
           "total_sell_vol": 15061,
           "trading_days": 37,
           "avg_net_vol": -59.57
+        },
+        {
+          "rank": 7,
+          "stock_code": "2308",
+          "stock_name": "台達電",
+          "total_net_vol": -1863,
+          "total_buy_vol": 5487,
+          "total_sell_vol": 7350,
+          "trading_days": 41,
+          "avg_net_vol": -45.44
         },
         {
           "rank": 8,
@@ -3352,13 +3362,13 @@
         },
         {
           "rank": 10,
-          "stock_code": "2609",
-          "stock_name": "陽明",
-          "total_net_vol": -515,
-          "total_buy_vol": 8582,
-          "total_sell_vol": 9097,
-          "trading_days": 14,
-          "avg_net_vol": -36.79
+          "stock_code": "2412",
+          "stock_name": "中華電",
+          "total_net_vol": -584,
+          "total_buy_vol": 5261,
+          "total_sell_vol": 5845,
+          "trading_days": 25,
+          "avg_net_vol": -23.36
         }
       ]
     },
@@ -3370,11 +3380,11 @@
           "rank": 1,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": 26267,
+          "total_net_vol": 25324,
           "total_buy_vol": 29701,
-          "total_sell_vol": 3434,
+          "total_sell_vol": 4377,
           "trading_days": 28,
-          "avg_net_vol": 938.11
+          "avg_net_vol": 904.43
         },
         {
           "rank": 2,
@@ -3388,36 +3398,26 @@
         },
         {
           "rank": 3,
-          "stock_code": "2303",
-          "stock_name": "聯電",
-          "total_net_vol": 5430,
-          "total_buy_vol": 37874,
-          "total_sell_vol": 32444,
+          "stock_code": "3034",
+          "stock_name": "聯詠",
+          "total_net_vol": 1423,
+          "total_buy_vol": 3048,
+          "total_sell_vol": 1625,
           "trading_days": 36,
-          "avg_net_vol": 150.83
+          "avg_net_vol": 39.53
         },
         {
           "rank": 4,
-          "stock_code": "3034",
-          "stock_name": "聯詠",
-          "total_net_vol": 1429,
-          "total_buy_vol": 3048,
-          "total_sell_vol": 1619,
-          "trading_days": 35,
-          "avg_net_vol": 40.83
+          "stock_code": "2603",
+          "stock_name": "長榮",
+          "total_net_vol": 1345,
+          "total_buy_vol": 2626,
+          "total_sell_vol": 1281,
+          "trading_days": 18,
+          "avg_net_vol": 74.72
         },
         {
           "rank": 5,
-          "stock_code": "2603",
-          "stock_name": "長榮",
-          "total_net_vol": 1403,
-          "total_buy_vol": 2626,
-          "total_sell_vol": 1223,
-          "trading_days": 17,
-          "avg_net_vol": 82.53
-        },
-        {
-          "rank": 6,
           "stock_code": "2615",
           "stock_name": "萬海",
           "total_net_vol": 1274,
@@ -3427,7 +3427,7 @@
           "avg_net_vol": 106.17
         },
         {
-          "rank": 7,
+          "rank": 6,
           "stock_code": "2882",
           "stock_name": "國泰金",
           "total_net_vol": 102,
@@ -3437,7 +3437,7 @@
           "avg_net_vol": 3.29
         },
         {
-          "rank": 8,
+          "rank": 7,
           "stock_code": "2345",
           "stock_name": "智邦",
           "total_net_vol": 8,
@@ -3452,91 +3452,91 @@
           "rank": 1,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": -8300,
-          "total_buy_vol": 6676,
-          "total_sell_vol": 14976,
+          "total_net_vol": -8956,
+          "total_buy_vol": 6714,
+          "total_sell_vol": 15670,
           "trading_days": 27,
-          "avg_net_vol": -307.41
+          "avg_net_vol": -319.86
         },
         {
           "rank": 2,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": -6889,
-          "total_buy_vol": 9946,
-          "total_sell_vol": 16835,
-          "trading_days": 45,
-          "avg_net_vol": -153.09
+          "total_net_vol": -7171,
+          "total_buy_vol": 10015,
+          "total_sell_vol": 17186,
+          "trading_days": 46,
+          "avg_net_vol": -155.89
         },
         {
           "rank": 3,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": -6466,
-          "total_buy_vol": 9693,
-          "total_sell_vol": 16159,
+          "total_net_vol": -6367,
+          "total_buy_vol": 9663,
+          "total_sell_vol": 16030,
           "trading_days": 50,
-          "avg_net_vol": -129.32
+          "avg_net_vol": -127.34
         },
         {
           "rank": 4,
           "stock_code": "2308",
           "stock_name": "台達電",
-          "total_net_vol": -6098,
-          "total_buy_vol": 2149,
-          "total_sell_vol": 8247,
+          "total_net_vol": -5941,
+          "total_buy_vol": 2115,
+          "total_sell_vol": 8056,
           "trading_days": 37,
-          "avg_net_vol": -164.81
+          "avg_net_vol": -160.57
         },
         {
           "rank": 5,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": -3803,
-          "total_buy_vol": 2037,
-          "total_sell_vol": 5840,
+          "total_net_vol": -3807,
+          "total_buy_vol": 2055,
+          "total_sell_vol": 5862,
           "trading_days": 26,
-          "avg_net_vol": -146.27
+          "avg_net_vol": -146.42
         },
         {
           "rank": 6,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": -3078,
+          "total_net_vol": -3296,
           "total_buy_vol": 2252,
-          "total_sell_vol": 5330,
-          "trading_days": 25,
-          "avg_net_vol": -123.12
+          "total_sell_vol": 5548,
+          "trading_days": 26,
+          "avg_net_vol": -126.77
         },
         {
           "rank": 7,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": -2653,
-          "total_buy_vol": 5160,
-          "total_sell_vol": 7813,
-          "trading_days": 35,
-          "avg_net_vol": -75.8
+          "total_net_vol": -2737,
+          "total_buy_vol": 5177,
+          "total_sell_vol": 7914,
+          "trading_days": 36,
+          "avg_net_vol": -76.03
         },
         {
           "rank": 8,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": -1490,
-          "total_buy_vol": 1395,
-          "total_sell_vol": 2885,
-          "trading_days": 27,
-          "avg_net_vol": -55.19
+          "total_net_vol": -1426,
+          "total_buy_vol": 1471,
+          "total_sell_vol": 2897,
+          "trading_days": 28,
+          "avg_net_vol": -50.93
         },
         {
           "rank": 9,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": -1146,
-          "total_buy_vol": 2161,
-          "total_sell_vol": 3307,
-          "trading_days": 22,
-          "avg_net_vol": -52.09
+          "total_net_vol": -1174,
+          "total_buy_vol": 2164,
+          "total_sell_vol": 3338,
+          "trading_days": 23,
+          "avg_net_vol": -51.04
         },
         {
           "rank": 10,
@@ -3556,83 +3556,83 @@
       "top_buy_stocks": [
         {
           "rank": 1,
-          "stock_code": "2303",
-          "stock_name": "聯電",
-          "total_net_vol": 10858,
-          "total_buy_vol": 62004,
-          "total_sell_vol": 51146,
-          "trading_days": 32,
-          "avg_net_vol": 339.31
+          "stock_code": "2891",
+          "stock_name": "中信金",
+          "total_net_vol": 10587,
+          "total_buy_vol": 24856,
+          "total_sell_vol": 14269,
+          "trading_days": 36,
+          "avg_net_vol": 294.08
         },
         {
           "rank": 2,
-          "stock_code": "2891",
-          "stock_name": "中信金",
-          "total_net_vol": 10341,
-          "total_buy_vol": 24692,
-          "total_sell_vol": 14351,
-          "trading_days": 36,
-          "avg_net_vol": 287.25
+          "stock_code": "2303",
+          "stock_name": "聯電",
+          "total_net_vol": 10360,
+          "total_buy_vol": 62739,
+          "total_sell_vol": 52379,
+          "trading_days": 32,
+          "avg_net_vol": 313.94
         },
         {
           "rank": 3,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": 7530,
-          "total_buy_vol": 19482,
-          "total_sell_vol": 11952,
+          "total_net_vol": 8280,
+          "total_buy_vol": 19520,
+          "total_sell_vol": 11240,
           "trading_days": 49,
-          "avg_net_vol": 150.6
+          "avg_net_vol": 165.6
         },
         {
           "rank": 4,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": 6578,
-          "total_buy_vol": 12634,
-          "total_sell_vol": 6056,
+          "total_net_vol": 6283,
+          "total_buy_vol": 12345,
+          "total_sell_vol": 6062,
           "trading_days": 33,
-          "avg_net_vol": 199.33
+          "avg_net_vol": 190.39
         },
         {
           "rank": 5,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": 3048,
-          "total_buy_vol": 10447,
-          "total_sell_vol": 7399,
+          "total_net_vol": 2974,
+          "total_buy_vol": 10520,
+          "total_sell_vol": 7546,
           "trading_days": 30,
-          "avg_net_vol": 98.32
+          "avg_net_vol": 92.94
         },
         {
           "rank": 6,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": 2759,
-          "total_buy_vol": 5560,
-          "total_sell_vol": 2801,
-          "trading_days": 24,
-          "avg_net_vol": 114.96
+          "total_net_vol": 2812,
+          "total_buy_vol": 5645,
+          "total_sell_vol": 2833,
+          "trading_days": 25,
+          "avg_net_vol": 112.48
         },
         {
           "rank": 7,
           "stock_code": "2609",
           "stock_name": "陽明",
-          "total_net_vol": 1633,
-          "total_buy_vol": 2894,
-          "total_sell_vol": 1261,
-          "trading_days": 10,
-          "avg_net_vol": 163.3
+          "total_net_vol": 1691,
+          "total_buy_vol": 3055,
+          "total_sell_vol": 1364,
+          "trading_days": 11,
+          "avg_net_vol": 153.73
         },
         {
           "rank": 8,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": 1137,
-          "total_buy_vol": 6313,
-          "total_sell_vol": 5176,
+          "total_net_vol": 1286,
+          "total_buy_vol": 6475,
+          "total_sell_vol": 5189,
           "trading_days": 35,
-          "avg_net_vol": 32.49
+          "avg_net_vol": 36.74
         },
         {
           "rank": 9,
@@ -3648,11 +3648,11 @@
           "rank": 10,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": 924,
-          "total_buy_vol": 3804,
-          "total_sell_vol": 2880,
+          "total_net_vol": 815,
+          "total_buy_vol": 3821,
+          "total_sell_vol": 3006,
           "trading_days": 35,
-          "avg_net_vol": 26.4
+          "avg_net_vol": 22.64
         }
       ],
       "top_sell_stocks": [
@@ -3670,41 +3670,41 @@
           "rank": 2,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": -9050,
-          "total_buy_vol": 4653,
-          "total_sell_vol": 13703,
-          "trading_days": 34,
-          "avg_net_vol": -266.18
+          "total_net_vol": -8797,
+          "total_buy_vol": 5073,
+          "total_sell_vol": 13870,
+          "trading_days": 35,
+          "avg_net_vol": -251.34
         },
         {
           "rank": 3,
           "stock_code": "2615",
           "stock_name": "萬海",
-          "total_net_vol": -8442,
-          "total_buy_vol": 1519,
-          "total_sell_vol": 9961,
-          "trading_days": 11,
-          "avg_net_vol": -767.45
+          "total_net_vol": -8264,
+          "total_buy_vol": 1741,
+          "total_sell_vol": 10005,
+          "trading_days": 12,
+          "avg_net_vol": -688.67
         },
         {
           "rank": 4,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": -7762,
-          "total_buy_vol": 3435,
-          "total_sell_vol": 11197,
-          "trading_days": 19,
-          "avg_net_vol": -408.53
+          "total_net_vol": -7713,
+          "total_buy_vol": 3502,
+          "total_sell_vol": 11215,
+          "trading_days": 20,
+          "avg_net_vol": -385.65
         },
         {
           "rank": 5,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": -5156,
-          "total_buy_vol": 5940,
-          "total_sell_vol": 11096,
-          "trading_days": 17,
-          "avg_net_vol": -303.29
+          "total_net_vol": -4728,
+          "total_buy_vol": 6385,
+          "total_sell_vol": 11113,
+          "trading_days": 18,
+          "avg_net_vol": -262.67
         },
         {
           "rank": 6,
@@ -3720,31 +3720,31 @@
           "rank": 7,
           "stock_code": "3034",
           "stock_name": "聯詠",
-          "total_net_vol": -1517,
-          "total_buy_vol": 1201,
-          "total_sell_vol": 2718,
-          "trading_days": 22,
-          "avg_net_vol": -68.95
+          "total_net_vol": -1487,
+          "total_buy_vol": 1232,
+          "total_sell_vol": 2719,
+          "trading_days": 23,
+          "avg_net_vol": -64.65
         },
         {
           "rank": 8,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": -898,
-          "total_buy_vol": 1547,
-          "total_sell_vol": 2445,
-          "trading_days": 35,
-          "avg_net_vol": -25.66
+          "total_net_vol": -969,
+          "total_buy_vol": 1548,
+          "total_sell_vol": 2517,
+          "trading_days": 36,
+          "avg_net_vol": -26.92
         },
         {
           "rank": 9,
           "stock_code": "2345",
           "stock_name": "智邦",
-          "total_net_vol": -324,
-          "total_buy_vol": 687,
-          "total_sell_vol": 1011,
+          "total_net_vol": -215,
+          "total_buy_vol": 798,
+          "total_sell_vol": 1013,
           "trading_days": 31,
-          "avg_net_vol": -10.12
+          "avg_net_vol": -6.72
         },
         {
           "rank": 10,
@@ -3774,23 +3774,23 @@
         },
         {
           "rank": 2,
-          "stock_code": "2618",
-          "stock_name": "長榮航",
-          "total_net_vol": 9289,
-          "total_buy_vol": 15904,
-          "total_sell_vol": 6615,
-          "trading_days": 36,
-          "avg_net_vol": 258.03
+          "stock_code": "2891",
+          "stock_name": "中信金",
+          "total_net_vol": 16501,
+          "total_buy_vol": 23977,
+          "total_sell_vol": 7476,
+          "trading_days": 42,
+          "avg_net_vol": 392.88
         },
         {
           "rank": 3,
-          "stock_code": "2891",
-          "stock_name": "中信金",
-          "total_net_vol": 7760,
-          "total_buy_vol": 15118,
-          "total_sell_vol": 7358,
-          "trading_days": 41,
-          "avg_net_vol": 189.27
+          "stock_code": "2618",
+          "stock_name": "長榮航",
+          "total_net_vol": 9330,
+          "total_buy_vol": 15945,
+          "total_sell_vol": 6615,
+          "trading_days": 36,
+          "avg_net_vol": 252.16
         },
         {
           "rank": 4,
@@ -3868,21 +3868,21 @@
           "rank": 1,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": -20656,
-          "total_buy_vol": 14628,
-          "total_sell_vol": 35284,
+          "total_net_vol": -21592,
+          "total_buy_vol": 14768,
+          "total_sell_vol": 36360,
           "trading_days": 44,
-          "avg_net_vol": -459.02
+          "avg_net_vol": -469.39
         },
         {
           "rank": 2,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": -1507,
-          "total_buy_vol": 4309,
-          "total_sell_vol": 5816,
-          "trading_days": 20,
-          "avg_net_vol": -75.35
+          "total_net_vol": -1458,
+          "total_buy_vol": 4370,
+          "total_sell_vol": 5828,
+          "trading_days": 21,
+          "avg_net_vol": -69.43
         },
         {
           "rank": 3,
@@ -3898,31 +3898,31 @@
           "rank": 4,
           "stock_code": "2308",
           "stock_name": "台達電",
-          "total_net_vol": -1136,
-          "total_buy_vol": 3900,
-          "total_sell_vol": 5036,
+          "total_net_vol": -1154,
+          "total_buy_vol": 3906,
+          "total_sell_vol": 5060,
           "trading_days": 33,
-          "avg_net_vol": -34.42
+          "avg_net_vol": -33.94
         },
         {
           "rank": 5,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": -864,
-          "total_buy_vol": 2379,
+          "total_net_vol": -800,
+          "total_buy_vol": 2443,
           "total_sell_vol": 3243,
-          "trading_days": 27,
-          "avg_net_vol": -32.0
+          "trading_days": 28,
+          "avg_net_vol": -28.57
         },
         {
           "rank": 6,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": -742,
+          "total_net_vol": -769,
           "total_buy_vol": 867,
-          "total_sell_vol": 1609,
-          "trading_days": 32,
-          "avg_net_vol": -23.19
+          "total_sell_vol": 1636,
+          "trading_days": 33,
+          "avg_net_vol": -23.3
         },
         {
           "rank": 7,
@@ -3944,11 +3944,11 @@
           "rank": 1,
           "stock_code": "2882",
           "stock_name": "國泰金",
-          "total_net_vol": 2334,
-          "total_buy_vol": 5710,
-          "total_sell_vol": 3376,
-          "trading_days": 20,
-          "avg_net_vol": 116.7
+          "total_net_vol": 2447,
+          "total_buy_vol": 5871,
+          "total_sell_vol": 3424,
+          "trading_days": 21,
+          "avg_net_vol": 116.52
         },
         {
           "rank": 2,
@@ -3974,11 +3974,11 @@
           "rank": 4,
           "stock_code": "2881",
           "stock_name": "富邦金",
-          "total_net_vol": 630,
-          "total_buy_vol": 2395,
-          "total_sell_vol": 1765,
+          "total_net_vol": 692,
+          "total_buy_vol": 2518,
+          "total_sell_vol": 1826,
           "trading_days": 15,
-          "avg_net_vol": 42.0
+          "avg_net_vol": 43.25
         },
         {
           "rank": 5,
@@ -4004,11 +4004,11 @@
           "rank": 7,
           "stock_code": "2345",
           "stock_name": "智邦",
-          "total_net_vol": 40,
-          "total_buy_vol": 1007,
-          "total_sell_vol": 967,
-          "trading_days": 30,
-          "avg_net_vol": 1.33
+          "total_net_vol": 49,
+          "total_buy_vol": 1020,
+          "total_sell_vol": 971,
+          "trading_days": 31,
+          "avg_net_vol": 1.58
         }
       ],
       "top_sell_stocks": [
@@ -4026,11 +4026,11 @@
           "rank": 2,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": -9902,
-          "total_buy_vol": 13868,
-          "total_sell_vol": 23770,
-          "trading_days": 23,
-          "avg_net_vol": -430.52
+          "total_net_vol": -9955,
+          "total_buy_vol": 13875,
+          "total_sell_vol": 23830,
+          "trading_days": 24,
+          "avg_net_vol": -414.79
         },
         {
           "rank": 3,
@@ -4046,21 +4046,21 @@
           "rank": 4,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": -2414,
-          "total_buy_vol": 12610,
-          "total_sell_vol": 15024,
-          "trading_days": 27,
-          "avg_net_vol": -89.41
+          "total_net_vol": -2305,
+          "total_buy_vol": 12807,
+          "total_sell_vol": 15112,
+          "trading_days": 28,
+          "avg_net_vol": -82.32
         },
         {
           "rank": 5,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": -1921,
-          "total_buy_vol": 7131,
-          "total_sell_vol": 9052,
+          "total_net_vol": -1898,
+          "total_buy_vol": 7116,
+          "total_sell_vol": 9014,
           "trading_days": 39,
-          "avg_net_vol": -49.26
+          "avg_net_vol": -48.67
         },
         {
           "rank": 6,
@@ -4074,6 +4074,16 @@
         },
         {
           "rank": 7,
+          "stock_code": "2382",
+          "stock_name": "廣達",
+          "total_net_vol": -1376,
+          "total_buy_vol": 9993,
+          "total_sell_vol": 11369,
+          "trading_days": 28,
+          "avg_net_vol": -49.14
+        },
+        {
+          "rank": 8,
           "stock_code": "3034",
           "stock_name": "聯詠",
           "total_net_vol": -1363,
@@ -4083,27 +4093,7 @@
           "avg_net_vol": -68.15
         },
         {
-          "rank": 8,
-          "stock_code": "2382",
-          "stock_name": "廣達",
-          "total_net_vol": -1334,
-          "total_buy_vol": 9983,
-          "total_sell_vol": 11317,
-          "trading_days": 27,
-          "avg_net_vol": -49.41
-        },
-        {
           "rank": 9,
-          "stock_code": "2317",
-          "stock_name": "鴻海",
-          "total_net_vol": -1205,
-          "total_buy_vol": 20373,
-          "total_sell_vol": 21578,
-          "trading_days": 38,
-          "avg_net_vol": -31.71
-        },
-        {
-          "rank": 10,
           "stock_code": "3006",
           "stock_name": "晶豪科",
           "total_net_vol": -1143,
@@ -4111,6 +4101,16 @@
           "total_sell_vol": 3378,
           "trading_days": 20,
           "avg_net_vol": -57.15
+        },
+        {
+          "rank": 10,
+          "stock_code": "2317",
+          "stock_name": "鴻海",
+          "total_net_vol": -1102,
+          "total_buy_vol": 20497,
+          "total_sell_vol": 21599,
+          "trading_days": 38,
+          "avg_net_vol": -29.0
         }
       ]
     },
@@ -4122,11 +4122,11 @@
           "rank": 1,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": 5566,
-          "total_buy_vol": 11418,
-          "total_sell_vol": 5852,
+          "total_net_vol": 5659,
+          "total_buy_vol": 11359,
+          "total_sell_vol": 5700,
           "trading_days": 23,
-          "avg_net_vol": 231.92
+          "avg_net_vol": 235.79
         },
         {
           "rank": 2,
@@ -4142,21 +4142,21 @@
           "rank": 3,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": 1251,
-          "total_buy_vol": 5205,
-          "total_sell_vol": 3954,
+          "total_net_vol": 1315,
+          "total_buy_vol": 5253,
+          "total_sell_vol": 3938,
           "trading_days": 28,
-          "avg_net_vol": 44.68
+          "avg_net_vol": 46.96
         },
         {
           "rank": 4,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": 1114,
-          "total_buy_vol": 3962,
-          "total_sell_vol": 2848,
+          "total_net_vol": 1053,
+          "total_buy_vol": 4000,
+          "total_sell_vol": 2947,
           "trading_days": 23,
-          "avg_net_vol": 48.43
+          "avg_net_vol": 43.88
         },
         {
           "rank": 5,
@@ -4172,11 +4172,11 @@
           "rank": 6,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": 456,
-          "total_buy_vol": 3478,
-          "total_sell_vol": 3022,
+          "total_net_vol": 424,
+          "total_buy_vol": 3522,
+          "total_sell_vol": 3098,
           "trading_days": 29,
-          "avg_net_vol": 15.72
+          "avg_net_vol": 14.13
         },
         {
           "rank": 7,
@@ -4202,11 +4202,11 @@
           "rank": 9,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": 227,
-          "total_buy_vol": 1359,
-          "total_sell_vol": 1132,
-          "trading_days": 22,
-          "avg_net_vol": 10.32
+          "total_net_vol": 208,
+          "total_buy_vol": 1385,
+          "total_sell_vol": 1177,
+          "trading_days": 23,
+          "avg_net_vol": 9.04
         },
         {
           "rank": 10,
@@ -4264,21 +4264,21 @@
           "rank": 5,
           "stock_code": "2609",
           "stock_name": "陽明",
-          "total_net_vol": -509,
-          "total_buy_vol": 4877,
-          "total_sell_vol": 5386,
-          "trading_days": 30,
-          "avg_net_vol": -16.97
+          "total_net_vol": -700,
+          "total_buy_vol": 5034,
+          "total_sell_vol": 5734,
+          "trading_days": 31,
+          "avg_net_vol": -22.58
         },
         {
           "rank": 6,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": -312,
-          "total_buy_vol": 4629,
-          "total_sell_vol": 4941,
-          "trading_days": 25,
-          "avg_net_vol": -12.48
+          "total_net_vol": -280,
+          "total_buy_vol": 4754,
+          "total_sell_vol": 5034,
+          "trading_days": 26,
+          "avg_net_vol": -10.77
         },
         {
           "rank": 7,
@@ -4304,11 +4304,11 @@
           "rank": 9,
           "stock_code": "3034",
           "stock_name": "聯詠",
-          "total_net_vol": -12,
+          "total_net_vol": -20,
           "total_buy_vol": 284,
-          "total_sell_vol": 296,
+          "total_sell_vol": 304,
           "trading_days": 14,
-          "avg_net_vol": -0.8
+          "avg_net_vol": -1.25
         }
       ]
     },
@@ -4320,11 +4320,11 @@
           "rank": 1,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": 4668,
-          "total_buy_vol": 8454,
-          "total_sell_vol": 3786,
-          "trading_days": 25,
-          "avg_net_vol": 186.72
+          "total_net_vol": 4728,
+          "total_buy_vol": 8525,
+          "total_sell_vol": 3797,
+          "trading_days": 26,
+          "avg_net_vol": 181.85
         },
         {
           "rank": 2,
@@ -4370,11 +4370,11 @@
           "rank": 6,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": 1092,
-          "total_buy_vol": 3874,
-          "total_sell_vol": 2782,
+          "total_net_vol": 1041,
+          "total_buy_vol": 3898,
+          "total_sell_vol": 2857,
           "trading_days": 21,
-          "avg_net_vol": 52.0
+          "avg_net_vol": 47.32
         },
         {
           "rank": 7,
@@ -4390,11 +4390,11 @@
           "rank": 8,
           "stock_code": "2308",
           "stock_name": "台達電",
-          "total_net_vol": 457,
-          "total_buy_vol": 1683,
-          "total_sell_vol": 1226,
-          "trading_days": 22,
-          "avg_net_vol": 20.77
+          "total_net_vol": 560,
+          "total_buy_vol": 1796,
+          "total_sell_vol": 1236,
+          "trading_days": 23,
+          "avg_net_vol": 24.35
         },
         {
           "rank": 9,
@@ -4412,11 +4412,11 @@
           "rank": 1,
           "stock_code": "2412",
           "stock_name": "中華電",
-          "total_net_vol": -21389,
-          "total_buy_vol": 4888,
-          "total_sell_vol": 26277,
+          "total_net_vol": -18182,
+          "total_buy_vol": 4899,
+          "total_sell_vol": 23081,
           "trading_days": 30,
-          "avg_net_vol": -712.97
+          "avg_net_vol": -606.07
         },
         {
           "rank": 2,
@@ -4452,11 +4452,11 @@
           "rank": 5,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": -4294,
-          "total_buy_vol": 12654,
-          "total_sell_vol": 16948,
+          "total_net_vol": -4251,
+          "total_buy_vol": 12698,
+          "total_sell_vol": 16949,
           "trading_days": 23,
-          "avg_net_vol": -186.7
+          "avg_net_vol": -177.12
         },
         {
           "rank": 6,
@@ -4482,11 +4482,11 @@
           "rank": 8,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": -1481,
-          "total_buy_vol": 3902,
-          "total_sell_vol": 5383,
-          "trading_days": 32,
-          "avg_net_vol": -46.28
+          "total_net_vol": -1429,
+          "total_buy_vol": 3987,
+          "total_sell_vol": 5416,
+          "trading_days": 33,
+          "avg_net_vol": -43.3
         },
         {
           "rank": 9,
@@ -4536,6 +4536,16 @@
         },
         {
           "rank": 3,
+          "stock_code": "2382",
+          "stock_name": "廣達",
+          "total_net_vol": 1136,
+          "total_buy_vol": 5078,
+          "total_sell_vol": 3942,
+          "trading_days": 25,
+          "avg_net_vol": 45.44
+        },
+        {
+          "rank": 4,
           "stock_code": "2317",
           "stock_name": "鴻海",
           "total_net_vol": 1124,
@@ -4545,24 +4555,14 @@
           "avg_net_vol": 48.87
         },
         {
-          "rank": 4,
-          "stock_code": "2382",
-          "stock_name": "廣達",
-          "total_net_vol": 1027,
-          "total_buy_vol": 4969,
-          "total_sell_vol": 3942,
-          "trading_days": 24,
-          "avg_net_vol": 42.79
-        },
-        {
           "rank": 5,
           "stock_code": "2379",
           "stock_name": "瑞昱",
-          "total_net_vol": 655,
-          "total_buy_vol": 916,
+          "total_net_vol": 660,
+          "total_buy_vol": 921,
           "total_sell_vol": 261,
           "trading_days": 21,
-          "avg_net_vol": 31.19
+          "avg_net_vol": 31.43
         },
         {
           "rank": 6,
@@ -4573,6 +4573,16 @@
           "total_sell_vol": 1937,
           "trading_days": 8,
           "avg_net_vol": 30.38
+        },
+        {
+          "rank": 7,
+          "stock_code": "2330",
+          "stock_name": "台積電",
+          "total_net_vol": 62,
+          "total_buy_vol": 2812,
+          "total_sell_vol": 2750,
+          "trading_days": 23,
+          "avg_net_vol": 2.7
         }
       ],
       "top_sell_stocks": [
@@ -4580,11 +4590,11 @@
           "rank": 1,
           "stock_code": "2603",
           "stock_name": "長榮",
-          "total_net_vol": -5118,
-          "total_buy_vol": 953,
+          "total_net_vol": -5074,
+          "total_buy_vol": 997,
           "total_sell_vol": 6071,
-          "trading_days": 11,
-          "avg_net_vol": -465.27
+          "trading_days": 12,
+          "avg_net_vol": -422.83
         },
         {
           "rank": 2,
@@ -4600,11 +4610,11 @@
           "rank": 3,
           "stock_code": "2891",
           "stock_name": "中信金",
-          "total_net_vol": -2965,
-          "total_buy_vol": 5807,
-          "total_sell_vol": 8772,
-          "trading_days": 16,
-          "avg_net_vol": -185.31
+          "total_net_vol": -2776,
+          "total_buy_vol": 5997,
+          "total_sell_vol": 8773,
+          "trading_days": 17,
+          "avg_net_vol": -163.29
         },
         {
           "rank": 4,
@@ -4650,14 +4660,24 @@
           "rank": 8,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": -710,
-          "total_buy_vol": 1476,
-          "total_sell_vol": 2186,
-          "trading_days": 20,
-          "avg_net_vol": -35.5
+          "total_net_vol": -663,
+          "total_buy_vol": 1529,
+          "total_sell_vol": 2192,
+          "trading_days": 21,
+          "avg_net_vol": -31.57
         },
         {
           "rank": 9,
+          "stock_code": "2303",
+          "stock_name": "聯電",
+          "total_net_vol": -441,
+          "total_buy_vol": 39369,
+          "total_sell_vol": 39810,
+          "trading_days": 33,
+          "avg_net_vol": -13.36
+        },
+        {
+          "rank": 10,
           "stock_code": "3034",
           "stock_name": "聯詠",
           "total_net_vol": -296,
@@ -4665,16 +4685,6 @@
           "total_sell_vol": 975,
           "trading_days": 18,
           "avg_net_vol": -16.44
-        },
-        {
-          "rank": 10,
-          "stock_code": "2303",
-          "stock_name": "聯電",
-          "total_net_vol": -225,
-          "total_buy_vol": 39323,
-          "total_sell_vol": 39548,
-          "trading_days": 32,
-          "avg_net_vol": -7.03
         }
       ]
     },
@@ -4696,11 +4706,11 @@
           "rank": 2,
           "stock_code": "3711",
           "stock_name": "日月光投控",
-          "total_net_vol": 1958,
-          "total_buy_vol": 3546,
-          "total_sell_vol": 1588,
-          "trading_days": 28,
-          "avg_net_vol": 69.93
+          "total_net_vol": 906,
+          "total_buy_vol": 3809,
+          "total_sell_vol": 2903,
+          "trading_days": 29,
+          "avg_net_vol": 31.24
         },
         {
           "rank": 3,
@@ -4716,11 +4726,11 @@
           "rank": 4,
           "stock_code": "2345",
           "stock_name": "智邦",
-          "total_net_vol": 318,
+          "total_net_vol": 264,
           "total_buy_vol": 661,
-          "total_sell_vol": 343,
-          "trading_days": 20,
-          "avg_net_vol": 15.9
+          "total_sell_vol": 397,
+          "trading_days": 21,
+          "avg_net_vol": 12.57
         },
         {
           "rank": 5,
@@ -4788,11 +4798,11 @@
           "rank": 5,
           "stock_code": "2303",
           "stock_name": "聯電",
-          "total_net_vol": -4274,
-          "total_buy_vol": 11752,
+          "total_net_vol": -3754,
+          "total_buy_vol": 12272,
           "total_sell_vol": 16026,
-          "trading_days": 14,
-          "avg_net_vol": -305.29
+          "trading_days": 15,
+          "avg_net_vol": -250.27
         },
         {
           "rank": 6,
@@ -4808,11 +4818,11 @@
           "rank": 7,
           "stock_code": "2308",
           "stock_name": "台達電",
-          "total_net_vol": -2471,
-          "total_buy_vol": 2195,
-          "total_sell_vol": 4666,
+          "total_net_vol": -2665,
+          "total_buy_vol": 2000,
+          "total_sell_vol": 4665,
           "trading_days": 32,
-          "avg_net_vol": -74.88
+          "avg_net_vol": -80.76
         },
         {
           "rank": 8,
@@ -4838,11 +4848,11 @@
           "rank": 10,
           "stock_code": "2454",
           "stock_name": "聯發科",
-          "total_net_vol": -876,
-          "total_buy_vol": 2286,
+          "total_net_vol": -797,
+          "total_buy_vol": 2365,
           "total_sell_vol": 3162,
-          "trading_days": 28,
-          "avg_net_vol": -31.29
+          "trading_days": 29,
+          "avg_net_vol": -27.48
         }
       ]
     },
@@ -4864,11 +4874,11 @@
           "rank": 2,
           "stock_code": "3037",
           "stock_name": "欣興",
-          "total_net_vol": 2370,
-          "total_buy_vol": 5785,
-          "total_sell_vol": 3415,
+          "total_net_vol": 2318,
+          "total_buy_vol": 5808,
+          "total_sell_vol": 3490,
           "trading_days": 28,
-          "avg_net_vol": 84.64
+          "avg_net_vol": 79.93
         },
         {
           "rank": 3,
@@ -4922,6 +4932,16 @@
         },
         {
           "rank": 8,
+          "stock_code": "2618",
+          "stock_name": "長榮航",
+          "total_net_vol": 465,
+          "total_buy_vol": 1484,
+          "total_sell_vol": 1019,
+          "trading_days": 6,
+          "avg_net_vol": 77.5
+        },
+        {
+          "rank": 9,
           "stock_code": "3006",
           "stock_name": "晶豪科",
           "total_net_vol": 320,
@@ -4929,16 +4949,6 @@
           "total_sell_vol": 52,
           "trading_days": 5,
           "avg_net_vol": 64.0
-        },
-        {
-          "rank": 9,
-          "stock_code": "2412",
-          "stock_name": "中華電",
-          "total_net_vol": 128,
-          "total_buy_vol": 380,
-          "total_sell_vol": 252,
-          "trading_days": 5,
-          "avg_net_vol": 25.6
         },
         {
           "rank": 10,
@@ -4966,11 +4976,11 @@
           "rank": 2,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": -6991,
-          "total_buy_vol": 2355,
-          "total_sell_vol": 9346,
-          "trading_days": 10,
-          "avg_net_vol": -699.1
+          "total_net_vol": -6017,
+          "total_buy_vol": 3340,
+          "total_sell_vol": 9357,
+          "trading_days": 11,
+          "avg_net_vol": -547.0
         },
         {
           "rank": 3,
@@ -5014,16 +5024,6 @@
         },
         {
           "rank": 7,
-          "stock_code": "2618",
-          "stock_name": "長榮航",
-          "total_net_vol": -536,
-          "total_buy_vol": 483,
-          "total_sell_vol": 1019,
-          "trading_days": 5,
-          "avg_net_vol": -107.2
-        },
-        {
-          "rank": 8,
           "stock_code": "2345",
           "stock_name": "智邦",
           "total_net_vol": -280,
@@ -5033,7 +5033,7 @@
           "avg_net_vol": -10.77
         },
         {
-          "rank": 9,
+          "rank": 8,
           "stock_code": "2382",
           "stock_name": "廣達",
           "total_net_vol": -264,
@@ -5043,7 +5043,7 @@
           "avg_net_vol": -33.0
         },
         {
-          "rank": 10,
+          "rank": 9,
           "stock_code": "2454",
           "stock_name": "聯發科",
           "total_net_vol": -15,
@@ -5082,11 +5082,11 @@
           "rank": 3,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": 1661,
-          "total_buy_vol": 2590,
-          "total_sell_vol": 929,
-          "trading_days": 16,
-          "avg_net_vol": 103.81
+          "total_net_vol": 1767,
+          "total_buy_vol": 2700,
+          "total_sell_vol": 933,
+          "trading_days": 17,
+          "avg_net_vol": 103.94
         },
         {
           "rank": 4,
@@ -5142,6 +5142,16 @@
       "top_sell_stocks": [
         {
           "rank": 1,
+          "stock_code": "2882",
+          "stock_name": "國泰金",
+          "total_net_vol": -11391,
+          "total_buy_vol": 2156,
+          "total_sell_vol": 13547,
+          "trading_days": 10,
+          "avg_net_vol": -1139.1
+        },
+        {
+          "rank": 2,
           "stock_code": "2618",
           "stock_name": "長榮航",
           "total_net_vol": -9394,
@@ -5149,16 +5159,6 @@
           "total_sell_vol": 14543,
           "trading_days": 17,
           "avg_net_vol": -552.59
-        },
-        {
-          "rank": 2,
-          "stock_code": "2882",
-          "stock_name": "國泰金",
-          "total_net_vol": -9229,
-          "total_buy_vol": 2155,
-          "total_sell_vol": 11384,
-          "trading_days": 9,
-          "avg_net_vol": -1025.44
         },
         {
           "rank": 3,
@@ -5194,21 +5194,21 @@
           "rank": 6,
           "stock_code": "2609",
           "stock_name": "陽明",
-          "total_net_vol": -2777,
-          "total_buy_vol": 557,
-          "total_sell_vol": 3334,
-          "trading_days": 5,
-          "avg_net_vol": -555.4
+          "total_net_vol": -2677,
+          "total_buy_vol": 736,
+          "total_sell_vol": 3413,
+          "trading_days": 6,
+          "avg_net_vol": -446.17
         },
         {
           "rank": 7,
           "stock_code": "3034",
           "stock_name": "聯詠",
-          "total_net_vol": -1034,
-          "total_buy_vol": 181,
-          "total_sell_vol": 1215,
-          "trading_days": 16,
-          "avg_net_vol": -64.62
+          "total_net_vol": -1024,
+          "total_buy_vol": 194,
+          "total_sell_vol": 1218,
+          "trading_days": 17,
+          "avg_net_vol": -60.24
         },
         {
           "rank": 8,
@@ -5222,23 +5222,23 @@
         },
         {
           "rank": 9,
-          "stock_code": "2317",
-          "stock_name": "鴻海",
-          "total_net_vol": -519,
-          "total_buy_vol": 2026,
-          "total_sell_vol": 2545,
-          "trading_days": 13,
-          "avg_net_vol": -39.92
+          "stock_code": "2454",
+          "stock_name": "聯發科",
+          "total_net_vol": -411,
+          "total_buy_vol": 614,
+          "total_sell_vol": 1025,
+          "trading_days": 17,
+          "avg_net_vol": -24.18
         },
         {
           "rank": 10,
-          "stock_code": "2454",
-          "stock_name": "聯發科",
-          "total_net_vol": -364,
-          "total_buy_vol": 618,
-          "total_sell_vol": 982,
-          "trading_days": 17,
-          "avg_net_vol": -21.41
+          "stock_code": "2317",
+          "stock_name": "鴻海",
+          "total_net_vol": -378,
+          "total_buy_vol": 2173,
+          "total_sell_vol": 2551,
+          "trading_days": 14,
+          "avg_net_vol": -27.0
         }
       ]
     },
@@ -5292,21 +5292,21 @@
           "rank": 2,
           "stock_code": "2303",
           "stock_name": "聯電",
-          "total_net_vol": -15889,
-          "total_buy_vol": 28699,
-          "total_sell_vol": 44588,
-          "trading_days": 10,
-          "avg_net_vol": -1588.9
+          "total_net_vol": -15535,
+          "total_buy_vol": 29309,
+          "total_sell_vol": 44844,
+          "trading_days": 11,
+          "avg_net_vol": -1412.27
         },
         {
           "rank": 3,
           "stock_code": "2317",
           "stock_name": "鴻海",
-          "total_net_vol": -12466,
-          "total_buy_vol": 5317,
-          "total_sell_vol": 17783,
-          "trading_days": 22,
-          "avg_net_vol": -566.64
+          "total_net_vol": -12214,
+          "total_buy_vol": 5573,
+          "total_sell_vol": 17787,
+          "trading_days": 23,
+          "avg_net_vol": -531.04
         },
         {
           "rank": 4,
@@ -5322,11 +5322,11 @@
           "rank": 5,
           "stock_code": "2882",
           "stock_name": "國泰金",
-          "total_net_vol": -8889,
-          "total_buy_vol": 5928,
+          "total_net_vol": -8800,
+          "total_buy_vol": 6017,
           "total_sell_vol": 14817,
-          "trading_days": 15,
-          "avg_net_vol": -592.6
+          "trading_days": 16,
+          "avg_net_vol": -550.0
         },
         {
           "rank": 6,
@@ -5352,11 +5352,11 @@
           "rank": 8,
           "stock_code": "2308",
           "stock_name": "台達電",
-          "total_net_vol": -1488,
-          "total_buy_vol": 1094,
-          "total_sell_vol": 2582,
-          "trading_days": 20,
-          "avg_net_vol": -74.4
+          "total_net_vol": -1625,
+          "total_buy_vol": 1122,
+          "total_sell_vol": 2747,
+          "trading_days": 21,
+          "avg_net_vol": -77.38
         },
         {
           "rank": 9,
@@ -5398,21 +5398,21 @@
           "rank": 2,
           "stock_code": "2382",
           "stock_name": "廣達",
-          "total_net_vol": 431,
-          "total_buy_vol": 1553,
+          "total_net_vol": 454,
+          "total_buy_vol": 1576,
           "total_sell_vol": 1122,
-          "trading_days": 11,
-          "avg_net_vol": 39.18
+          "trading_days": 12,
+          "avg_net_vol": 37.83
         },
         {
           "rank": 3,
           "stock_code": "2330",
           "stock_name": "台積電",
-          "total_net_vol": 207,
-          "total_buy_vol": 4197,
-          "total_sell_vol": 3990,
-          "trading_days": 27,
-          "avg_net_vol": 7.67
+          "total_net_vol": 297,
+          "total_buy_vol": 4330,
+          "total_sell_vol": 4033,
+          "trading_days": 28,
+          "avg_net_vol": 10.61
         },
         {
           "rank": 4,
@@ -5436,6 +5436,16 @@
         },
         {
           "rank": 6,
+          "stock_code": "2379",
+          "stock_name": "瑞昱",
+          "total_net_vol": 91,
+          "total_buy_vol": 117,
+          "total_sell_vol": 26,
+          "trading_days": 5,
+          "avg_net_vol": 18.2
+        },
+        {
+          "rank": 7,
           "stock_code": "3711",
           "stock_name": "日月光投控",
           "total_net_vol": 76,
@@ -5443,16 +5453,6 @@
           "total_sell_vol": 1327,
           "trading_days": 12,
           "avg_net_vol": 6.33
-        },
-        {
-          "rank": 7,
-          "stock_code": "2379",
-          "stock_name": "瑞昱",
-          "total_net_vol": 67,
-          "total_buy_vol": 93,
-          "total_sell_vol": 26,
-          "trading_days": 4,
-          "avg_net_vol": 16.75
         }
       ],
       "top_sell_stocks": [
@@ -5490,11 +5490,11 @@
           "rank": 4,
           "stock_code": "2303",
           "stock_name": "聯電",
-          "total_net_vol": -1577,
-          "total_buy_vol": 17192,
-          "total_sell_vol": 18769,
+          "total_net_vol": -2206,
+          "total_buy_vol": 16386,
+          "total_sell_vol": 18592,
           "trading_days": 25,
-          "avg_net_vol": -63.08
+          "avg_net_vol": -88.24
         },
         {
           "rank": 5,
@@ -5510,11 +5510,11 @@
           "rank": 6,
           "stock_code": "2618",
           "stock_name": "長榮航",
-          "total_net_vol": -533,
-          "total_buy_vol": 1221,
+          "total_net_vol": -487,
+          "total_buy_vol": 1267,
           "total_sell_vol": 1754,
-          "trading_days": 4,
-          "avg_net_vol": -133.25
+          "trading_days": 5,
+          "avg_net_vol": -97.4
         },
         {
           "rank": 7,

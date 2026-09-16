@@ -2776,10 +2776,10 @@
     "code": "2539",
     "name": "櫻花建",
     "market": "TWSE",
-    "foreign_ratio": 2.37,
+    "foreign_ratio": 2.38,
     "trust_ratio": -0.17214774427462917,
     "dealer_ratio": 0.011079118257752985,
-    "three_inst_ratio": 2.208931373983124,
-    "three_inst_ratio_change_20": 0.08405646660078903
+    "three_inst_ratio": 2.2189313739831236,
+    "three_inst_ratio_change_20": 0.09405646660078881
   }
 ]

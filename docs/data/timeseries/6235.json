@@ -2776,10 +2776,10 @@
     "code": "6235",
     "name": "華孚",
     "market": "TWSE",
-    "foreign_ratio": 3.47,
+    "foreign_ratio": 3.5,
     "trust_ratio": 0.0010004686895670014,
     "dealer_ratio": -0.15026689553255013,
-    "three_inst_ratio": 3.320733573157017,
-    "three_inst_ratio_change_20": 0.08500997762421791
+    "three_inst_ratio": 3.350733573157017,
+    "three_inst_ratio_change_20": 0.11500997762421772
   }
 ]

@@ -2721,10 +2721,10 @@
     "code": "1445",
     "name": "大宇",
     "market": "TWSE",
-    "foreign_ratio": 3.43,
+    "foreign_ratio": 3.48,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.022158015448758474,
-    "three_inst_ratio": 3.4521580154487586,
-    "three_inst_ratio_change_20": 0.2245918589677256
+    "three_inst_ratio": 3.5021580154487584,
+    "three_inst_ratio_change_20": 0.2745918589677254
   }
 ]

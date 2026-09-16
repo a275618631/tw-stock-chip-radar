@@ -2699,10 +2699,10 @@
     "code": "8422",
     "name": "可寧衛*",
     "market": "TWSE",
-    "foreign_ratio": 5.46,
+    "foreign_ratio": 5.44,
     "trust_ratio": 4.551923669674658,
     "dealer_ratio": -0.8940601182195121,
-    "three_inst_ratio": 9.117863551455146,
-    "three_inst_ratio_change_20": 0.7342125962994785
+    "three_inst_ratio": 9.097863551455147,
+    "three_inst_ratio_change_20": 0.714212596299479
   }
 ]

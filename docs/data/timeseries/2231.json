@@ -2776,10 +2776,10 @@
     "code": "2231",
     "name": "為升",
     "market": "TWSE",
-    "foreign_ratio": 3.93,
+    "foreign_ratio": 3.97,
     "trust_ratio": 0.035110235737947255,
     "dealer_ratio": -0.4715965431800504,
-    "three_inst_ratio": 3.4935136925578973,
-    "three_inst_ratio_change_20": -0.06936958492515366
+    "three_inst_ratio": 3.5335136925578974,
+    "three_inst_ratio_change_20": -0.029369584925153625
   }
 ]

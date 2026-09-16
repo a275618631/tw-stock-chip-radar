@@ -2776,10 +2776,10 @@
     "code": "6153",
     "name": "嘉聯益",
     "market": "TWSE",
-    "foreign_ratio": 8.7,
+    "foreign_ratio": 8.75,
     "trust_ratio": -0.04891322077696109,
     "dealer_ratio": 0.2856272731876072,
-    "three_inst_ratio": 8.936714052410645,
-    "three_inst_ratio_change_20": -0.03367183317181777
+    "three_inst_ratio": 8.986714052410646,
+    "three_inst_ratio_change_20": 0.016328166828182944
   }
 ]

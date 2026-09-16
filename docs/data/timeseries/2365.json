@@ -2776,10 +2776,10 @@
     "code": "2365",
     "name": "昆盈",
     "market": "TWSE",
-    "foreign_ratio": 3.14,
+    "foreign_ratio": 3.18,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.14608910629718716,
-    "three_inst_ratio": 2.993910893702813,
-    "three_inst_ratio_change_20": -0.26767176715721464
+    "three_inst_ratio": 3.033910893702813,
+    "three_inst_ratio_change_20": -0.2276717671572146
   }
 ]

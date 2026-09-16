@@ -2776,10 +2776,10 @@
     "code": "2498",
     "name": "宏達電",
     "market": "TWSE",
-    "foreign_ratio": 8.6,
+    "foreign_ratio": 8.69,
     "trust_ratio": -0.006329770359529162,
     "dealer_ratio": 0.8117681402617498,
-    "three_inst_ratio": 9.40543836990222,
-    "three_inst_ratio_change_20": -0.32846932082031977
+    "three_inst_ratio": 9.49543836990222,
+    "three_inst_ratio_change_20": -0.2384693208203199
   }
 ]

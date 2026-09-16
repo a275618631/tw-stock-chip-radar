@@ -2776,10 +2776,10 @@
     "code": "9941",
     "name": "裕融",
     "market": "TWSE",
-    "foreign_ratio": 4.8,
+    "foreign_ratio": 4.72,
     "trust_ratio": 2.5214315547424873,
     "dealer_ratio": 0.17461323659451644,
-    "three_inst_ratio": 7.496044791337003,
-    "three_inst_ratio_change_20": 0.26385935980763264
+    "three_inst_ratio": 7.416044791337003,
+    "three_inst_ratio_change_20": 0.18385935980763257
   }
 ]

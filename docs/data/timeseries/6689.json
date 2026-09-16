@@ -2743,10 +2743,10 @@
     "code": "6689",
     "name": "伊雲谷",
     "market": "TWSE",
-    "foreign_ratio": 4.45,
+    "foreign_ratio": 4.18,
     "trust_ratio": -0.9304161764705882,
     "dealer_ratio": 0.02577794117647059,
-    "three_inst_ratio": 3.545361764705883,
-    "three_inst_ratio_change_20": -0.13794117647058757
+    "three_inst_ratio": 3.2753617647058824,
+    "three_inst_ratio_change_20": -0.40794117647058803
   }
 ]

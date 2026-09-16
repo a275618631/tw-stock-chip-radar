@@ -2743,10 +2743,10 @@
     "code": "00980A",
     "name": "主動野村臺灣優選",
     "market": "TWSE",
-    "foreign_ratio": 1.82,
-    "trust_ratio": 9.616979194401127,
-    "dealer_ratio": -70.04697779975405,
-    "three_inst_ratio": -58.60999860535292,
-    "three_inst_ratio_change_20": -5.329105391598887
+    "foreign_ratio": 1.67,
+    "trust_ratio": 9.6048016410672,
+    "dealer_ratio": -69.95828042495536,
+    "three_inst_ratio": -58.68347878388816,
+    "three_inst_ratio_change_20": -5.4025855701341285
   }
 ]

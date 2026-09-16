@@ -2666,10 +2666,10 @@
     "code": "4439",
     "name": "冠星-KY",
     "market": "TWSE",
-    "foreign_ratio": 61.25,
+    "foreign_ratio": 61.23,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.04920735721621013,
-    "three_inst_ratio": 61.20079264278379,
-    "three_inst_ratio_change_20": -0.11475233473219504
+    "three_inst_ratio": 61.180792642783786,
+    "three_inst_ratio_change_20": -0.13475233473219816
   }
 ]

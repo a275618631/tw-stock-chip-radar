@@ -2732,10 +2732,10 @@
     "code": "4440",
     "name": "宜新實業",
     "market": "TWSE",
-    "foreign_ratio": 2.03,
+    "foreign_ratio": 2.06,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.10596319417734253,
-    "three_inst_ratio": 1.9240368058226573,
-    "three_inst_ratio_change_20": 0.06573596851977848
+    "three_inst_ratio": 1.9540368058226576,
+    "three_inst_ratio_change_20": 0.09573596851977872
   }
 ]

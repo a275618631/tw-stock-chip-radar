@@ -2776,10 +2776,10 @@
     "code": "6196",
     "name": "帆宣",
     "market": "TWSE",
-    "foreign_ratio": 19.64,
+    "foreign_ratio": 19.62,
     "trust_ratio": -7.638525837360638,
     "dealer_ratio": -0.6326909544657539,
-    "three_inst_ratio": 11.368783208173607,
-    "three_inst_ratio_change_20": 0.8032267067116532
+    "three_inst_ratio": 11.348783208173607,
+    "three_inst_ratio_change_20": 0.7832267067116536
   }
 ]

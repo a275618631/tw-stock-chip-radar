@@ -774,10 +774,10 @@
     "code": "00405A",
     "name": "主動富邦台灣龍耀",
     "market": "TWSE",
-    "foreign_ratio": 1.02,
+    "foreign_ratio": 1.12,
     "trust_ratio": 0.0,
-    "dealer_ratio": -58.868919415017274,
-    "three_inst_ratio": -57.84891941501727,
-    "three_inst_ratio_change_20": -2.2837116980698227
+    "dealer_ratio": -58.897545242799644,
+    "three_inst_ratio": -57.77754524279965,
+    "three_inst_ratio_change_20": -2.212337525852199
   }
 ]

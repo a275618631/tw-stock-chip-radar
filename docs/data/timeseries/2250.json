@@ -2743,10 +2743,10 @@
     "code": "2250",
     "name": "IKKA-KY",
     "market": "TWSE",
-    "foreign_ratio": 6.2,
+    "foreign_ratio": 6.15,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.9275170490586707,
-    "three_inst_ratio": 5.272482950941329,
-    "three_inst_ratio_change_20": -0.24274814166538405
+    "three_inst_ratio": 5.2224829509413295,
+    "three_inst_ratio_change_20": -0.2927481416653839
   }
 ]

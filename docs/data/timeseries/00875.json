@@ -2743,10 +2743,10 @@
     "code": "00875",
     "name": "國泰網路資安",
     "market": "TWSE",
-    "foreign_ratio": 6.2,
+    "foreign_ratio": 5.86,
     "trust_ratio": 0.0,
-    "dealer_ratio": -14.546487603305785,
-    "three_inst_ratio": -8.346487603305786,
-    "three_inst_ratio_change_20": -10.49154246688823
+    "dealer_ratio": -13.664240659873848,
+    "three_inst_ratio": -7.804240659873847,
+    "three_inst_ratio_change_20": -9.949295523456291
   }
 ]

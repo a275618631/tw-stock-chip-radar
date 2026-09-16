@@ -2776,10 +2776,10 @@
     "code": "2308",
     "name": "台達電",
     "market": "TWSE",
-    "foreign_ratio": 61.55,
+    "foreign_ratio": 61.5,
     "trust_ratio": -0.35014565102563494,
     "dealer_ratio": 0.6361116989090272,
-    "three_inst_ratio": 61.83596604788339,
-    "three_inst_ratio_change_20": -0.7494530990324151
+    "three_inst_ratio": 61.78596604788339,
+    "three_inst_ratio_change_20": -0.7994530990324122
   }
 ]

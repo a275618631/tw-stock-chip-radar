@@ -2776,10 +2776,10 @@
     "code": "2616",
     "name": "山隆",
     "market": "TWSE",
-    "foreign_ratio": 1.61,
+    "foreign_ratio": 1.59,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.01491020366446609,
-    "three_inst_ratio": 1.6249102036644663,
-    "three_inst_ratio_change_20": 0.11267697486281292
+    "three_inst_ratio": 1.6049102036644662,
+    "three_inst_ratio_change_20": 0.0926769748628129
   }
 ]

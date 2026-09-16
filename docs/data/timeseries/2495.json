@@ -2776,10 +2776,10 @@
     "code": "2495",
     "name": "普安",
     "market": "TWSE",
-    "foreign_ratio": 8.25,
+    "foreign_ratio": 8.3,
     "trust_ratio": 0.07823023097022397,
     "dealer_ratio": 0.21617059963303878,
-    "three_inst_ratio": 8.544400830603262,
-    "three_inst_ratio_change_20": 0.3002610673678596
+    "three_inst_ratio": 8.594400830603263,
+    "three_inst_ratio_change_20": 0.35026106736786033
   }
 ]

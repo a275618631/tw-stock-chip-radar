@@ -1929,10 +1929,10 @@
     "code": "00992A",
     "name": "主動群益科技創新",
     "market": "TWSE",
-    "foreign_ratio": 1.77,
+    "foreign_ratio": 1.52,
     "trust_ratio": 0.030878425023875642,
     "dealer_ratio": -63.799947418453385,
-    "three_inst_ratio": -61.99906899342951,
-    "three_inst_ratio_change_20": -4.585736975910393
+    "three_inst_ratio": -62.24906899342951,
+    "three_inst_ratio_change_20": -4.835736975910393
   }
 ]

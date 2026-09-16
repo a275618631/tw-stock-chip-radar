@@ -2776,10 +2776,10 @@
     "code": "2030",
     "name": "彰源",
     "market": "TWSE",
-    "foreign_ratio": 10.08,
+    "foreign_ratio": 10.29,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.1629339013167573,
-    "three_inst_ratio": 10.242933901316757,
-    "three_inst_ratio_change_20": 2.3348326970388387
+    "three_inst_ratio": 10.452933901316756,
+    "three_inst_ratio_change_20": 2.5448326970388377
   }
 ]

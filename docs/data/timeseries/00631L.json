@@ -2721,10 +2721,10 @@
     "code": "00631L",
     "name": "元大台灣50正2",
     "market": "TWSE",
-    "foreign_ratio": 0.23,
-    "trust_ratio": -0.1306959929615098,
-    "dealer_ratio": -53.555557068013506,
-    "three_inst_ratio": -53.456253060975016,
-    "three_inst_ratio_change_20": -0.053263612303950936
+    "foreign_ratio": 0.31,
+    "trust_ratio": -0.1303488029385595,
+    "dealer_ratio": -53.413288321541394,
+    "three_inst_ratio": -53.233637124479955,
+    "three_inst_ratio_change_20": 0.16935232419110946
   }
 ]

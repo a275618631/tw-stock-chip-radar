@@ -2776,10 +2776,10 @@
     "code": "2362",
     "name": "藍天",
     "market": "TWSE",
-    "foreign_ratio": 10.67,
+    "foreign_ratio": 10.68,
     "trust_ratio": -0.1622529380663803,
     "dealer_ratio": 0.0449176634317001,
-    "three_inst_ratio": 10.55266472536532,
-    "three_inst_ratio_change_20": 0.048249614712750244
+    "three_inst_ratio": 10.56266472536532,
+    "three_inst_ratio_change_20": 0.05824961471275003
   }
 ]

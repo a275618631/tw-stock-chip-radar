@@ -2776,10 +2776,10 @@
     "code": "2426",
     "name": "鼎元",
     "market": "TWSE",
-    "foreign_ratio": 6.75,
+    "foreign_ratio": 7.58,
     "trust_ratio": -0.002328503613232197,
     "dealer_ratio": 0.5853342486437099,
-    "three_inst_ratio": 7.333005745030477,
-    "three_inst_ratio_change_20": 0.2360137668052591
+    "three_inst_ratio": 8.163005745030478,
+    "three_inst_ratio_change_20": 1.06601376680526
   }
 ]

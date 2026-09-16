@@ -2776,10 +2776,10 @@
     "code": "6112",
     "name": "邁達特",
     "market": "TWSE",
-    "foreign_ratio": 1.56,
+    "foreign_ratio": 1.81,
     "trust_ratio": 0.0017833125437705277,
     "dealer_ratio": 0.09340013175807499,
-    "three_inst_ratio": 1.6551834443018456,
-    "three_inst_ratio_change_20": -0.15994252074153348
+    "three_inst_ratio": 1.9051834443018456,
+    "three_inst_ratio_change_20": 0.09005747925846652
   }
 ]

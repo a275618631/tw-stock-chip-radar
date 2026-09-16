@@ -2743,10 +2743,10 @@
     "code": "00907",
     "name": "永豐優息存股",
     "market": "TWSE",
-    "foreign_ratio": 0.66,
+    "foreign_ratio": 0.69,
     "trust_ratio": 0.0,
     "dealer_ratio": 43.56753029471731,
-    "three_inst_ratio": 44.227530294717305,
-    "three_inst_ratio_change_20": 1.3191772606195684
+    "three_inst_ratio": 44.257530294717306,
+    "three_inst_ratio_change_20": 1.3491772606195696
   }
 ]

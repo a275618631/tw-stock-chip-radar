@@ -1291,10 +1291,10 @@
     "code": "009803",
     "name": "玉山市值動能50",
     "market": "TWSE",
-    "foreign_ratio": 0.13,
-    "trust_ratio": 1.2669940106065154,
-    "dealer_ratio": -50.63329438083394,
-    "three_inst_ratio": -49.236300370227426,
-    "three_inst_ratio_change_20": -30.136496739409964
+    "foreign_ratio": 0.7,
+    "trust_ratio": 1.2317787011687535,
+    "dealer_ratio": -49.22597349806134,
+    "three_inst_ratio": -47.29419479689259,
+    "three_inst_ratio_change_20": -28.19439116607513
   }
 ]

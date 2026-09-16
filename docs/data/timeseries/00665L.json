@@ -2776,10 +2776,10 @@
     "code": "00665L",
     "name": "富邦恒生國企正2",
     "market": "TWSE",
-    "foreign_ratio": 0.8,
+    "foreign_ratio": 0.71,
     "trust_ratio": 0.0,
     "dealer_ratio": 7.602095032662115,
-    "three_inst_ratio": 8.402095032662116,
-    "three_inst_ratio_change_20": -2.332243602673426
+    "three_inst_ratio": 8.312095032662114,
+    "three_inst_ratio_change_20": -2.4222436026734275
   }
 ]

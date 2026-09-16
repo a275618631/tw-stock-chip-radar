@@ -2776,10 +2776,10 @@
     "code": "2354",
     "name": "鴻準",
     "market": "TWSE",
-    "foreign_ratio": 14.27,
+    "foreign_ratio": 14.33,
     "trust_ratio": -0.30542306306448774,
     "dealer_ratio": 0.08563348749429679,
-    "three_inst_ratio": 14.050210424429808,
-    "three_inst_ratio_change_20": 1.9485789067489936
+    "three_inst_ratio": 14.110210424429809,
+    "three_inst_ratio_change_20": 2.008578906748994
   }
 ]

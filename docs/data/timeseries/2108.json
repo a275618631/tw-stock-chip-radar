@@ -2776,10 +2776,10 @@
     "code": "2108",
     "name": "南帝",
     "market": "TWSE",
-    "foreign_ratio": 6.51,
+    "foreign_ratio": 6.56,
     "trust_ratio": 0.03168048788536214,
     "dealer_ratio": 0.05331399643000299,
-    "three_inst_ratio": 6.5949944843153645,
-    "three_inst_ratio_change_20": 0.06864051429259188
+    "three_inst_ratio": 6.644994484315364,
+    "three_inst_ratio_change_20": 0.1186405142925917
   }
 ]

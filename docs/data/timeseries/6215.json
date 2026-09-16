@@ -2776,10 +2776,10 @@
     "code": "6215",
     "name": "和椿",
     "market": "TWSE",
-    "foreign_ratio": 6.98,
+    "foreign_ratio": 7.0,
     "trust_ratio": 0.001020658453220741,
     "dealer_ratio": -0.44148007651145654,
-    "three_inst_ratio": 6.539540581941765,
-    "three_inst_ratio_change_20": -0.05504081625233148
+    "three_inst_ratio": 6.559540581941764,
+    "three_inst_ratio_change_20": -0.03504081625233191
   }
 ]

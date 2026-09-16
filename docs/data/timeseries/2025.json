@@ -2743,10 +2743,10 @@
     "code": "2025",
     "name": "千興",
     "market": "TWSE",
-    "foreign_ratio": 1.49,
+    "foreign_ratio": 1.52,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.1297302818520151,
-    "three_inst_ratio": 1.6197302818520152,
-    "three_inst_ratio_change_20": 0.18695005371696527
+    "three_inst_ratio": 1.6497302818520152,
+    "three_inst_ratio_change_20": 0.2169500537169653
   }
 ]

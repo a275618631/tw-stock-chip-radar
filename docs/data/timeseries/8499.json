@@ -2743,10 +2743,10 @@
     "code": "8499",
     "name": "鼎炫-KY",
     "market": "TWSE",
-    "foreign_ratio": 72.2,
+    "foreign_ratio": 72.16,
     "trust_ratio": 0.4153958125721462,
     "dealer_ratio": 0.23314393632521477,
-    "three_inst_ratio": 72.84853974889737,
-    "three_inst_ratio_change_20": 0.153781208887807
+    "three_inst_ratio": 72.80853974889736,
+    "three_inst_ratio_change_20": 0.11378120888780074
   }
 ]

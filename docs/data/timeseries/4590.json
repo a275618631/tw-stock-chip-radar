@@ -1698,10 +1698,10 @@
     "code": "4590",
     "name": "富田-創",
     "market": "TWSE",
-    "foreign_ratio": 6.65,
+    "foreign_ratio": 6.93,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.030888939137538658,
-    "three_inst_ratio": 6.680888939137539,
-    "three_inst_ratio_change_20": 0.46359237322751934
+    "three_inst_ratio": 6.960888939137538,
+    "three_inst_ratio_change_20": 0.7435923732275187
   }
 ]

@@ -2776,10 +2776,10 @@
     "code": "2317",
     "name": "鴻海",
     "market": "TWSE",
-    "foreign_ratio": 40.33,
+    "foreign_ratio": 40.32,
     "trust_ratio": -0.35869724405769715,
     "dealer_ratio": 0.7158415730356322,
-    "three_inst_ratio": 40.687144328977936,
-    "three_inst_ratio_change_20": -0.1147998250277098
+    "three_inst_ratio": 40.67714432897794,
+    "three_inst_ratio_change_20": -0.12479982502770781
   }
 ]

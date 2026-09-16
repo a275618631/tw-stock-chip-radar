@@ -2732,10 +2732,10 @@
     "code": "7721",
     "name": "微程式",
     "market": "TWSE",
-    "foreign_ratio": 1.41,
+    "foreign_ratio": 1.44,
     "trust_ratio": 0.0019685750406357233,
     "dealer_ratio": 0.11915477695502981,
-    "three_inst_ratio": 1.5311233519956655,
-    "three_inst_ratio_change_20": 0.031080007224128403
+    "three_inst_ratio": 1.5611233519956655,
+    "three_inst_ratio_change_20": 0.06108000722412843
   }
 ]

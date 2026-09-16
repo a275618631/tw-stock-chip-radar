@@ -2743,10 +2743,10 @@
     "code": "3229",
     "name": "晟鈦",
     "market": "TWSE",
-    "foreign_ratio": 3.39,
+    "foreign_ratio": 3.44,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.006224421517825186,
-    "three_inst_ratio": 3.383775578482175,
-    "three_inst_ratio_change_20": 0.45288284082598107
+    "three_inst_ratio": 3.433775578482175,
+    "three_inst_ratio_change_20": 0.5028828408259809
   }
 ]

@@ -2743,10 +2743,10 @@
     "code": "6937",
     "name": "天虹",
     "market": "TWSE",
-    "foreign_ratio": 4.41,
+    "foreign_ratio": 4.45,
     "trust_ratio": -0.41534093216073964,
     "dealer_ratio": -0.09632214422106378,
-    "three_inst_ratio": 3.8983369236181966,
-    "three_inst_ratio_change_20": 0.3289571741078001
+    "three_inst_ratio": 3.938336923618197,
+    "three_inst_ratio_change_20": 0.3689571741078006
   }
 ]

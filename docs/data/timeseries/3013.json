@@ -2776,10 +2776,10 @@
     "code": "3013",
     "name": "晟銘電",
     "market": "TWSE",
-    "foreign_ratio": 3.97,
+    "foreign_ratio": 4.13,
     "trust_ratio": -0.5844819410923124,
     "dealer_ratio": -0.1265435088308202,
-    "three_inst_ratio": 3.258974550076868,
-    "three_inst_ratio_change_20": -1.6035624115812626
+    "three_inst_ratio": 3.4189745500768676,
+    "three_inst_ratio_change_20": -1.4435624115812629
   }
 ]

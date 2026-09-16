@@ -2776,10 +2776,10 @@
     "code": "4952",
     "name": "凌通",
     "market": "TWSE",
-    "foreign_ratio": 6.49,
+    "foreign_ratio": 6.55,
     "trust_ratio": 0.005513904339053066,
     "dealer_ratio": 0.04687921469062917,
-    "three_inst_ratio": 6.542393119029683,
-    "three_inst_ratio_change_20": -0.1990815504246184
+    "three_inst_ratio": 6.602393119029682,
+    "three_inst_ratio_change_20": -0.13908155042461878
   }
 ]

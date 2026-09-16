@@ -1247,10 +1247,10 @@
     "code": "00400A",
     "name": "主動國泰動能高息",
     "market": "TWSE",
-    "foreign_ratio": 1.61,
+    "foreign_ratio": 1.68,
     "trust_ratio": 0.0,
-    "dealer_ratio": -59.83363353874256,
-    "three_inst_ratio": -58.22363353874256,
-    "three_inst_ratio_change_20": -5.869691659130439
+    "dealer_ratio": -59.61459338751347,
+    "three_inst_ratio": -57.93459338751347,
+    "three_inst_ratio_change_20": -5.580651507901351
   }
 ]

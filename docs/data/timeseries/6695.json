@@ -2743,10 +2743,10 @@
     "code": "6695",
     "name": "芯鼎",
     "market": "TWSE",
-    "foreign_ratio": 2.57,
+    "foreign_ratio": 2.63,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.031109815064475972,
-    "three_inst_ratio": 2.601109815064476,
-    "three_inst_ratio_change_20": -1.088858915462541
+    "three_inst_ratio": 2.661109815064476,
+    "three_inst_ratio_change_20": -1.028858915462541
   }
 ]

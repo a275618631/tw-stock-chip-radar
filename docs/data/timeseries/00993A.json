@@ -1665,10 +1665,10 @@
     "code": "00993A",
     "name": "主動安聯台灣",
     "market": "TWSE",
-    "foreign_ratio": 0.27,
+    "foreign_ratio": 0.3,
     "trust_ratio": 0.0,
     "dealer_ratio": 27.353322145009745,
-    "three_inst_ratio": 27.623322145009745,
-    "three_inst_ratio_change_20": 1.3838346056268342
+    "three_inst_ratio": 27.653322145009746,
+    "three_inst_ratio_change_20": 1.4138346056268354
   }
 ]

@@ -2776,10 +2776,10 @@
     "code": "2845",
     "name": "遠東銀",
     "market": "TWSE",
-    "foreign_ratio": 10.86,
+    "foreign_ratio": 10.9,
     "trust_ratio": 2.1180767765429267,
     "dealer_ratio": 0.27375828417882575,
-    "three_inst_ratio": 13.251835060721751,
-    "three_inst_ratio_change_20": 1.3753839638784324
+    "three_inst_ratio": 13.291835060721752,
+    "three_inst_ratio_change_20": 1.4153839638784333
   }
 ]

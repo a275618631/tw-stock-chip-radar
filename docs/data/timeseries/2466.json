@@ -2776,10 +2776,10 @@
     "code": "2466",
     "name": "冠西電",
     "market": "TWSE",
-    "foreign_ratio": 11.44,
+    "foreign_ratio": 11.48,
     "trust_ratio": 0.23002594098813045,
     "dealer_ratio": -0.032137910040913084,
-    "three_inst_ratio": 11.637888030947217,
-    "three_inst_ratio_change_20": -0.7587553984104929
+    "three_inst_ratio": 11.67788803094722,
+    "three_inst_ratio_change_20": -0.7187553984104902
   }
 ]

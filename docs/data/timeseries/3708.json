@@ -2776,10 +2776,10 @@
     "code": "3708",
     "name": "上緯投控",
     "market": "TWSE",
-    "foreign_ratio": 7.8,
+    "foreign_ratio": 7.49,
     "trust_ratio": 1.0429319312054048,
     "dealer_ratio": -0.6700141999022471,
-    "three_inst_ratio": 8.172917731303157,
-    "three_inst_ratio_change_20": -0.4977998441210971
+    "three_inst_ratio": 7.862917731303159,
+    "three_inst_ratio_change_20": -0.807799844121095
   }
 ]

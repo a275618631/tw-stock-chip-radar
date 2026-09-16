@@ -2776,10 +2776,10 @@
     "code": "00690",
     "name": "兆豐藍籌30",
     "market": "TWSE",
-    "foreign_ratio": 0.19,
+    "foreign_ratio": 0.23,
     "trust_ratio": 0.0,
     "dealer_ratio": -12.522829535965647,
-    "three_inst_ratio": -12.332829535965647,
-    "three_inst_ratio_change_20": 0.5076655135393047
+    "three_inst_ratio": -12.292829535965646,
+    "three_inst_ratio_change_20": 0.5476655135393056
   }
 ]

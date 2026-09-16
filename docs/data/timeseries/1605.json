@@ -2776,10 +2776,10 @@
     "code": "1605",
     "name": "華新",
     "market": "TWSE",
-    "foreign_ratio": 18.15,
+    "foreign_ratio": 18.21,
     "trust_ratio": 0.031185830904981237,
     "dealer_ratio": 0.1493947549797154,
-    "three_inst_ratio": 18.330580585884697,
-    "three_inst_ratio_change_20": 0.41807886913037606
+    "three_inst_ratio": 18.3905805858847,
+    "three_inst_ratio_change_20": 0.47807886913037834
   }
 ]

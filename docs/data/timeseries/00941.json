@@ -2743,10 +2743,10 @@
     "code": "00941",
     "name": "中信上游半導體",
     "market": "TWSE",
-    "foreign_ratio": 0.62,
+    "foreign_ratio": 0.42,
     "trust_ratio": 0.0,
     "dealer_ratio": 40.45299267724569,
-    "three_inst_ratio": 41.072992677245686,
-    "three_inst_ratio_change_20": -0.8733375262828389
+    "three_inst_ratio": 40.87299267724569,
+    "three_inst_ratio_change_20": -1.0733375262828346
   }
 ]

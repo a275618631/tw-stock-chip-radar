@@ -2743,10 +2743,10 @@
     "code": "00763U",
     "name": "期街口道瓊銅",
     "market": "TWSE",
-    "foreign_ratio": 1.15,
+    "foreign_ratio": 0.66,
     "trust_ratio": 0.0,
     "dealer_ratio": -27.863350785340312,
-    "three_inst_ratio": -26.713350785340314,
-    "three_inst_ratio_change_20": -5.5508653461390765
+    "three_inst_ratio": -27.203350785340312,
+    "three_inst_ratio_change_20": -6.040865346139075
   }
 ]

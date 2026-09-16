@@ -2776,10 +2776,10 @@
     "code": "9958",
     "name": "世紀鋼",
     "market": "TWSE",
-    "foreign_ratio": 8.03,
+    "foreign_ratio": 8.23,
     "trust_ratio": -0.014796363229192092,
     "dealer_ratio": 0.11707227589374336,
-    "three_inst_ratio": 8.13227591266455,
-    "three_inst_ratio_change_20": -0.6701511502931456
+    "three_inst_ratio": 8.332275912664551,
+    "three_inst_ratio_change_20": -0.4701511502931446
   }
 ]

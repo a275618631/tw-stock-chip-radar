@@ -2776,10 +2776,10 @@
     "code": "5269",
     "name": "祥碩",
     "market": "TWSE",
-    "foreign_ratio": 8.93,
+    "foreign_ratio": 9.71,
     "trust_ratio": 4.066579104834422,
     "dealer_ratio": -0.05818516521287136,
-    "three_inst_ratio": 12.93839393962155,
-    "three_inst_ratio_change_20": -0.1165705897366216
+    "three_inst_ratio": 13.718393939621551,
+    "three_inst_ratio_change_20": 0.6634294102633795
   }
 ]

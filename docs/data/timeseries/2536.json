@@ -2776,10 +2776,10 @@
     "code": "2536",
     "name": "宏普",
     "market": "TWSE",
-    "foreign_ratio": 5.14,
+    "foreign_ratio": 5.12,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.03220919869595217,
-    "three_inst_ratio": 5.107790801304048,
-    "three_inst_ratio_change_20": -1.3250236478828086
+    "three_inst_ratio": 5.087790801304048,
+    "three_inst_ratio_change_20": -1.3450236478828081
   }
 ]

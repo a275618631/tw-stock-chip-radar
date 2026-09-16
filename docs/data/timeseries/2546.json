@@ -2776,10 +2776,10 @@
     "code": "2546",
     "name": "根基",
     "market": "TWSE",
-    "foreign_ratio": 4.1,
+    "foreign_ratio": 4.07,
     "trust_ratio": 0.07114170958603823,
     "dealer_ratio": -0.015999360052960078,
-    "three_inst_ratio": 4.155142349533078,
-    "three_inst_ratio_change_20": -0.26093918348969325
+    "three_inst_ratio": 4.125142349533078,
+    "three_inst_ratio_change_20": -0.2909391834896926
   }
 ]

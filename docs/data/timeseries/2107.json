@@ -2776,10 +2776,10 @@
     "code": "2107",
     "name": "厚生",
     "market": "TWSE",
-    "foreign_ratio": 6.66,
+    "foreign_ratio": 6.65,
     "trust_ratio": -0.01712817208806252,
     "dealer_ratio": 0.020761650286205167,
-    "three_inst_ratio": 6.663633478198143,
-    "three_inst_ratio_change_20": 0.11592898264586893
+    "three_inst_ratio": 6.653633478198143,
+    "three_inst_ratio_change_20": 0.10592898264586914
   }
 ]

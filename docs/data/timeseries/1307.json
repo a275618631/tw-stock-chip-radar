@@ -2776,10 +2776,10 @@
     "code": "1307",
     "name": "三芳",
     "market": "TWSE",
-    "foreign_ratio": 6.98,
+    "foreign_ratio": 6.97,
     "trust_ratio": -0.3544222617950797,
     "dealer_ratio": -0.04148227273083077,
-    "three_inst_ratio": 6.58409546547409,
-    "three_inst_ratio_change_20": 0.018876182529703023
+    "three_inst_ratio": 6.574095465474089,
+    "three_inst_ratio_change_20": 0.008876182529702348
   }
 ]

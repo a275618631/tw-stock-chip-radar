@@ -2776,10 +2776,10 @@
     "code": "6155",
     "name": "鈞寶",
     "market": "TWSE",
-    "foreign_ratio": 7.5,
+    "foreign_ratio": 7.54,
     "trust_ratio": 0.21244209021749846,
     "dealer_ratio": 0.3106300977865261,
-    "three_inst_ratio": 8.023072188004024,
-    "three_inst_ratio_change_20": 0.10294396886448709
+    "three_inst_ratio": 8.063072188004025,
+    "three_inst_ratio_change_20": 0.142943968864488
   }
 ]

@@ -2776,10 +2776,10 @@
     "code": "00688L",
     "name": "國泰20年美債正2",
     "market": "TWSE",
-    "foreign_ratio": 1.66,
+    "foreign_ratio": 1.71,
     "trust_ratio": 0.0,
     "dealer_ratio": 158.415109341661,
-    "three_inst_ratio": 160.075109341661,
-    "three_inst_ratio_change_20": 10.583071372279932
+    "three_inst_ratio": 160.12510934166102,
+    "three_inst_ratio_change_20": 10.633071372279943
   }
 ]

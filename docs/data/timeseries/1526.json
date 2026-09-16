@@ -2776,10 +2776,10 @@
     "code": "1526",
     "name": "日馳",
     "market": "TWSE",
-    "foreign_ratio": 3.38,
+    "foreign_ratio": 3.4,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.00736,
-    "three_inst_ratio": 3.3873599999999997,
-    "three_inst_ratio_change_20": 0.4333333333333327
+    "three_inst_ratio": 3.4073599999999997,
+    "three_inst_ratio_change_20": 0.4533333333333327
   }
 ]

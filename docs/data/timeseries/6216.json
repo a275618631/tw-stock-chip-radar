@@ -2743,10 +2743,10 @@
     "code": "6216",
     "name": "居易",
     "market": "TWSE",
-    "foreign_ratio": 2.53,
+    "foreign_ratio": 2.57,
     "trust_ratio": 0.012550344110784172,
     "dealer_ratio": 0.022349294299320435,
-    "three_inst_ratio": 2.564899638410105,
-    "three_inst_ratio_change_20": -0.3379176973901852
+    "three_inst_ratio": 2.604899638410105,
+    "three_inst_ratio_change_20": -0.29791769739018514
   }
 ]

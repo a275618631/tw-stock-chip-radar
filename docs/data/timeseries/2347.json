@@ -2776,10 +2776,10 @@
     "code": "2347",
     "name": "聯強",
     "market": "TWSE",
-    "foreign_ratio": 29.8,
+    "foreign_ratio": 29.84,
     "trust_ratio": -2.4441102014701466,
     "dealer_ratio": -0.03988586044781251,
-    "three_inst_ratio": 27.31600393808204,
-    "three_inst_ratio_change_20": 0.12807960628158455
+    "three_inst_ratio": 27.35600393808204,
+    "three_inst_ratio_change_20": 0.1680796062815837
   }
 ]

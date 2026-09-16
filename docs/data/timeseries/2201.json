@@ -2776,10 +2776,10 @@
     "code": "2201",
     "name": "裕隆",
     "market": "TWSE",
-    "foreign_ratio": 4.9,
+    "foreign_ratio": 4.96,
     "trust_ratio": -0.04555424580526962,
     "dealer_ratio": 0.11458108098978288,
-    "three_inst_ratio": 4.969026835184514,
-    "three_inst_ratio_change_20": -0.20747292345922652
+    "three_inst_ratio": 5.0290268351845135,
+    "three_inst_ratio_change_20": -0.1474729234592269
   }
 ]

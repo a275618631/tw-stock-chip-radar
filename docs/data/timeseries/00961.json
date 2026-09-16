@@ -2743,10 +2743,10 @@
     "code": "00961",
     "name": "FT臺灣永續高息",
     "market": "TWSE",
-    "foreign_ratio": 0.11,
+    "foreign_ratio": 0.57,
     "trust_ratio": 0.0,
-    "dealer_ratio": -53.35981200590266,
-    "three_inst_ratio": -53.24981200590266,
-    "three_inst_ratio_change_20": -19.976108424003463
+    "dealer_ratio": -51.33730368709354,
+    "three_inst_ratio": -50.76730368709354,
+    "three_inst_ratio_change_20": -17.49360010519434
   }
 ]

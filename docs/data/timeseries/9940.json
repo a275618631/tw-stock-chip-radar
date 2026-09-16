@@ -2776,10 +2776,10 @@
     "code": "9940",
     "name": "信義",
     "market": "TWSE",
-    "foreign_ratio": 3.86,
+    "foreign_ratio": 3.85,
     "trust_ratio": -0.014249915009435479,
     "dealer_ratio": 0.10310587076141368,
-    "three_inst_ratio": 3.9488559557519785,
-    "three_inst_ratio_change_20": -0.0519532765643862
+    "three_inst_ratio": 3.9388559557519787,
+    "three_inst_ratio_change_20": -0.061953276564385984
   }
 ]

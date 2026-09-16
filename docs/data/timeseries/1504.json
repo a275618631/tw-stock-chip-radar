@@ -2776,10 +2776,10 @@
     "code": "1504",
     "name": "東元",
     "market": "TWSE",
-    "foreign_ratio": 7.4,
+    "foreign_ratio": 7.35,
     "trust_ratio": -6.706455123118907,
     "dealer_ratio": 0.02337138072662284,
-    "three_inst_ratio": 0.716916257607716,
-    "three_inst_ratio_change_20": -0.07780758166821433
+    "three_inst_ratio": 0.6669162576077153,
+    "three_inst_ratio_change_20": -0.12780758166821504
   }
 ]

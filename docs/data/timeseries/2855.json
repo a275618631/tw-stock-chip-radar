@@ -2776,10 +2776,10 @@
     "code": "2855",
     "name": "統一證",
     "market": "TWSE",
-    "foreign_ratio": 6.85,
+    "foreign_ratio": 6.79,
     "trust_ratio": 7.274929045570924,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 14.124929045570923,
-    "three_inst_ratio_change_20": 1.1113722688349519
+    "three_inst_ratio": 14.064929045570924,
+    "three_inst_ratio_change_20": 1.0513722688349532
   }
 ]

@@ -2776,10 +2776,10 @@
     "code": "2501",
     "name": "國建",
     "market": "TWSE",
-    "foreign_ratio": 11.72,
+    "foreign_ratio": 11.63,
     "trust_ratio": -0.05734928702879113,
     "dealer_ratio": -0.0876040112002416,
-    "three_inst_ratio": 11.575046701770969,
-    "three_inst_ratio_change_20": -0.6570440447586634
+    "three_inst_ratio": 11.485046701770969,
+    "three_inst_ratio_change_20": -0.7470440447586633
   }
 ]

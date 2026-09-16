@@ -2776,10 +2776,10 @@
     "code": "1762",
     "name": "中化生",
     "market": "TWSE",
-    "foreign_ratio": 3.09,
+    "foreign_ratio": 3.06,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.07563769208767779,
-    "three_inst_ratio": 3.1656376920876776,
-    "three_inst_ratio_change_20": -0.1761309446423467
+    "three_inst_ratio": 3.135637692087678,
+    "three_inst_ratio_change_20": -0.2061309446423465
   }
 ]

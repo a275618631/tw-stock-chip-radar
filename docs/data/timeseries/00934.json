@@ -2743,10 +2743,10 @@
     "code": "00934",
     "name": "中信成長高股息",
     "market": "TWSE",
-    "foreign_ratio": 1.11,
+    "foreign_ratio": 1.18,
     "trust_ratio": -0.8296918688791782,
     "dealer_ratio": 31.66513608070703,
-    "three_inst_ratio": 31.94544421182785,
-    "three_inst_ratio_change_20": -2.233701106287217
+    "three_inst_ratio": 32.01544421182785,
+    "three_inst_ratio_change_20": -2.1637011062872205
   }
 ]

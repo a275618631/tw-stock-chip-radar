@@ -2776,10 +2776,10 @@
     "code": "2834",
     "name": "臺企銀",
     "market": "TWSE",
-    "foreign_ratio": 16.62,
+    "foreign_ratio": 16.73,
     "trust_ratio": -0.17109260369163498,
     "dealer_ratio": 0.042589989232535305,
-    "three_inst_ratio": 16.491497385540903,
-    "three_inst_ratio_change_20": -1.7581875889913086
+    "three_inst_ratio": 16.601497385540902,
+    "three_inst_ratio_change_20": -1.6481875889913091
   }
 ]

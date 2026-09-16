@@ -2743,10 +2743,10 @@
     "code": "2753",
     "name": "八方雲集",
     "market": "TWSE",
-    "foreign_ratio": 6.13,
+    "foreign_ratio": 6.1,
     "trust_ratio": 0.5741798654466584,
     "dealer_ratio": -0.22146965533512922,
-    "three_inst_ratio": 6.482710210111529,
-    "three_inst_ratio_change_20": -0.10391550392021642
+    "three_inst_ratio": 6.452710210111529,
+    "three_inst_ratio_change_20": -0.13391550392021667
   }
 ]

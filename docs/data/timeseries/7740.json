@@ -2743,10 +2743,10 @@
     "code": "7740",
     "name": "熙特爾-創",
     "market": "TWSE",
-    "foreign_ratio": 4.88,
+    "foreign_ratio": 4.79,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.1380266666666667,
-    "three_inst_ratio": 4.741973333333333,
-    "three_inst_ratio_change_20": 0.04110303258145365
+    "three_inst_ratio": 4.651973333333333,
+    "three_inst_ratio_change_20": -0.04889696741854621
   }
 ]

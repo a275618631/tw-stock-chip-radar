@@ -2700,9 +2700,9 @@
     "name": "宜鼎",
     "market": "TPEX",
     "foreign_ratio": 0.0,
-    "trust_ratio": -0.6961662255008492,
-    "dealer_ratio": 0.04844804807968069,
-    "three_inst_ratio": -0.6477181774211684,
-    "three_inst_ratio_change_20": -0.4307692426163252
+    "trust_ratio": -0.6825678122059586,
+    "dealer_ratio": 0.04750169854851198,
+    "three_inst_ratio": -0.6350661136574467,
+    "three_inst_ratio_change_20": -0.41811717885260347
   }
 ]

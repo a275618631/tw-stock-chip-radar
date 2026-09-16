@@ -2743,10 +2743,10 @@
     "code": "00985B",
     "name": "群益ESG投等債0-5",
     "market": "TWSE",
-    "foreign_ratio": 0.19,
+    "foreign_ratio": 0.42,
     "trust_ratio": 0.0,
-    "dealer_ratio": 5.963772749066728,
-    "three_inst_ratio": 6.153772749066729,
-    "three_inst_ratio_change_20": -15.214446948572313
+    "dealer_ratio": 5.927975836763701,
+    "three_inst_ratio": 6.347975836763701,
+    "three_inst_ratio_change_20": -15.02024386087534
   }
 ]

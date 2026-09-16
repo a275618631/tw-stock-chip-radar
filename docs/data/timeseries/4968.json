@@ -2776,10 +2776,10 @@
     "code": "4968",
     "name": "立積",
     "market": "TWSE",
-    "foreign_ratio": 4.6,
+    "foreign_ratio": 4.75,
     "trust_ratio": -1.7176149571274877,
     "dealer_ratio": -0.478433454074529,
-    "three_inst_ratio": 2.403951588797983,
-    "three_inst_ratio_change_20": 0.40999348204462827
+    "three_inst_ratio": 2.5539515887979833,
+    "three_inst_ratio_change_20": 0.5599934820446286
   }
 ]

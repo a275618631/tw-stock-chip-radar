@@ -2776,10 +2776,10 @@
     "code": "2368",
     "name": "金像電",
     "market": "TWSE",
-    "foreign_ratio": 25.63,
+    "foreign_ratio": 25.56,
     "trust_ratio": -2.120251570822525,
     "dealer_ratio": -1.335478682416445,
-    "three_inst_ratio": 22.17426974676103,
-    "three_inst_ratio_change_20": -0.9150844527629687
+    "three_inst_ratio": 22.10426974676103,
+    "three_inst_ratio_change_20": -0.985084452762969
   }
 ]

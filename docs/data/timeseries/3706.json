@@ -2776,10 +2776,10 @@
     "code": "3706",
     "name": "神達",
     "market": "TWSE",
-    "foreign_ratio": 9.14,
+    "foreign_ratio": 9.3,
     "trust_ratio": 4.003010239955039,
     "dealer_ratio": -1.039623446334291,
-    "three_inst_ratio": 12.103386793620748,
-    "three_inst_ratio_change_20": -0.06634724230152322
+    "three_inst_ratio": 12.263386793620748,
+    "three_inst_ratio_change_20": 0.09365275769847692
   }
 ]

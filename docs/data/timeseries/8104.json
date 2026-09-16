@@ -2743,10 +2743,10 @@
     "code": "8104",
     "name": "錸寶",
     "market": "TWSE",
-    "foreign_ratio": 2.36,
+    "foreign_ratio": 2.38,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.4701004222714152,
-    "three_inst_ratio": 1.8898995777285847,
-    "three_inst_ratio_change_20": 0.6728830022339809
+    "three_inst_ratio": 1.9098995777285848,
+    "three_inst_ratio_change_20": 0.6928830022339809
   }
 ]

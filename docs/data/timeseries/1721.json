@@ -2776,10 +2776,10 @@
     "code": "1721",
     "name": "國慶科技",
     "market": "TWSE",
-    "foreign_ratio": 1.29,
+    "foreign_ratio": 1.27,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.08366431006946774,
-    "three_inst_ratio": 1.3736643100694679,
-    "three_inst_ratio_change_20": -0.21621384407696898
+    "three_inst_ratio": 1.3536643100694679,
+    "three_inst_ratio_change_20": -0.236213844076969
   }
 ]

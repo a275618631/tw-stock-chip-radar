@@ -2776,10 +2776,10 @@
     "code": "2355",
     "name": "敬鵬",
     "market": "TWSE",
-    "foreign_ratio": 17.2,
+    "foreign_ratio": 17.25,
     "trust_ratio": -0.8013445790142688,
     "dealer_ratio": 0.07389443631828513,
-    "three_inst_ratio": 16.472549857304013,
-    "three_inst_ratio_change_20": -0.33428885444768497
+    "three_inst_ratio": 16.522549857304014,
+    "three_inst_ratio_change_20": -0.28428885444768426
   }
 ]

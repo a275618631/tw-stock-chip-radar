@@ -2776,10 +2776,10 @@
     "code": "1340",
     "name": "勝悅-KY",
     "market": "TWSE",
-    "foreign_ratio": 26.02,
+    "foreign_ratio": 26.04,
     "trust_ratio": 0.0013078489804548836,
     "dealer_ratio": 0.015957065410530036,
-    "three_inst_ratio": 26.037264914390985,
-    "three_inst_ratio_change_20": -0.03803822652931643
+    "three_inst_ratio": 26.057264914390984,
+    "three_inst_ratio_change_20": -0.01803822652931686
   }
 ]

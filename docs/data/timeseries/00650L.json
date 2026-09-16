@@ -2776,10 +2776,10 @@
     "code": "00650L",
     "name": "復華香港正2",
     "market": "TWSE",
-    "foreign_ratio": 0.78,
+    "foreign_ratio": 0.76,
     "trust_ratio": 0.0,
     "dealer_ratio": 42.75489630260126,
-    "three_inst_ratio": 43.53489630260126,
-    "three_inst_ratio_change_20": -1.613505357903918
+    "three_inst_ratio": 43.51489630260126,
+    "three_inst_ratio_change_20": -1.6335053579039212
   }
 ]

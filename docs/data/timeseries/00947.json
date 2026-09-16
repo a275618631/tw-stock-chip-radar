@@ -2743,10 +2743,10 @@
     "code": "00947",
     "name": "台新臺灣IC設計",
     "market": "TWSE",
-    "foreign_ratio": 2.17,
+    "foreign_ratio": 2.23,
     "trust_ratio": 0.054080558399792325,
     "dealer_ratio": -54.65034178912909,
-    "three_inst_ratio": -52.426261230729295,
-    "three_inst_ratio_change_20": -3.2240570534412427
+    "three_inst_ratio": -52.36626123072929,
+    "three_inst_ratio_change_20": -3.1640570534412404
   }
 ]

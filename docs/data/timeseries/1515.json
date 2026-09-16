@@ -2776,10 +2776,10 @@
     "code": "1515",
     "name": "力山",
     "market": "TWSE",
-    "foreign_ratio": 2.26,
+    "foreign_ratio": 2.28,
     "trust_ratio": 0.22096890179557896,
     "dealer_ratio": 0.022083114063485853,
-    "three_inst_ratio": 2.503052015859065,
-    "three_inst_ratio_change_20": -0.9239667775184803
+    "three_inst_ratio": 2.523052015859065,
+    "three_inst_ratio_change_20": -0.9039667775184803
   }
 ]

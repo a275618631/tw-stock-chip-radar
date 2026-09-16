@@ -2776,10 +2776,10 @@
     "code": "2388",
     "name": "威盛",
     "market": "TWSE",
-    "foreign_ratio": 15.29,
+    "foreign_ratio": 15.34,
     "trust_ratio": 0.1071108386821586,
     "dealer_ratio": 0.38302060885901906,
-    "three_inst_ratio": 15.780131447541176,
-    "three_inst_ratio_change_20": -0.9047977968236118
+    "three_inst_ratio": 15.830131447541177,
+    "three_inst_ratio_change_20": -0.8547977968236111
   }
 ]

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "generated_at": "2026-09-16T17:14:15+08:00",
+  "generated_at": "2026-09-16T23:31:49+08:00",
   "freshness": {
     "institutional": "2026-09-16",
     "broker": "2026-09-16",
@@ -8,7 +8,7 @@
   },
   "environment": {
     "label": "neutral",
-    "score": -1,
+    "score": 1,
     "available_factors": 5,
     "risk_flags": []
   },
@@ -18,20 +18,20 @@
       "ticker": "TSM",
       "name": "台積電 ADR",
       "status": "ok",
-      "latest_date": "2026-09-15",
-      "close": 413.75,
-      "change_1d_pct": -1.0191,
-      "change_5d_pct": -4.9637
+      "latest_date": "2026-09-16",
+      "close": 418.269989,
+      "change_1d_pct": 1.0924,
+      "change_5d_pct": -2.2802
     },
     {
       "key": "SOX",
       "ticker": "^SOX",
       "name": "費城半導體",
       "status": "ok",
-      "latest_date": "2026-09-15",
-      "close": 11175.549805,
-      "change_1d_pct": 0.3977,
-      "change_5d_pct": -6.3343
+      "latest_date": "2026-09-16",
+      "close": 11372.202148,
+      "change_1d_pct": 1.7597,
+      "change_5d_pct": -2.0834
     },
     {
       "key": "USD_TWD",
@@ -39,9 +39,9 @@
       "name": "USD/TWD",
       "status": "ok",
       "latest_date": "2026-09-16",
-      "close": 31.777,
-      "change_1d_pct": 0.1873,
-      "change_5d_pct": 0.9948
+      "close": 31.746,
+      "change_1d_pct": 0.0895,
+      "change_5d_pct": 0.8963
     },
     {
       "key": "USD_JPY",
@@ -49,29 +49,29 @@
       "name": "USD/JPY",
       "status": "ok",
       "latest_date": "2026-09-16",
-      "close": 155.076996,
-      "change_1d_pct": 0.4482,
-      "change_5d_pct": 0.9793
+      "close": 155.091003,
+      "change_1d_pct": 0.4573,
+      "change_5d_pct": 0.9885
     },
     {
       "key": "NIKKEI",
       "ticker": "^N225",
       "name": "日經 225",
       "status": "ok",
-      "latest_date": "2026-09-16",
-      "close": 63923.0,
-      "change_1d_pct": 0.6914,
-      "change_5d_pct": -2.0652
+      "latest_date": "2026-09-15",
+      "close": 63484.101562,
+      "change_1d_pct": -0.014,
+      "change_5d_pct": -2.7376
     },
     {
       "key": "US10Y",
       "ticker": "^TNX",
       "name": "美國 10Y",
       "status": "ok",
-      "latest_date": "2026-09-15",
-      "close": 4.996,
-      "change_1d_pct": 0.7055,
-      "change_5d_pct": 3.2872
+      "latest_date": "2026-09-16",
+      "close": 4.955,
+      "change_1d_pct": -0.8207,
+      "change_5d_pct": 0.2225
     }
   ],
   "watchlist": [
@@ -100,30 +100,30 @@
         "unit": "lots",
         "top_buys": [
           {
-            "broker_name": "新加坡商瑞銀",
-            "net_vol": 468
+            "broker_name": "美林",
+            "net_vol": 628
           },
           {
-            "broker_name": "永豐金證券",
-            "net_vol": 404
+            "broker_name": "花旗環球",
+            "net_vol": 260
           },
           {
-            "broker_name": "中國信託",
-            "net_vol": 390
+            "broker_name": "國泰-敦南",
+            "net_vol": 223
           }
         ],
         "top_sells": [
           {
-            "broker_name": "富邦證券",
-            "net_vol": -1739
+            "broker_name": "台灣摩根士丹利",
+            "net_vol": -3243
           },
           {
-            "broker_name": "花旗環球",
-            "net_vol": -1432
+            "broker_name": "摩根大通",
+            "net_vol": -2160
           },
           {
-            "broker_name": "凱基-台北",
-            "net_vol": -376
+            "broker_name": "元大證券",
+            "net_vol": -1358
           }
         ]
       }
@@ -153,30 +153,30 @@
         "unit": "lots",
         "top_buys": [
           {
-            "broker_name": "國泰證券",
-            "net_vol": 1016
+            "broker_name": "美商高盛",
+            "net_vol": 1176
           },
           {
-            "broker_name": "港商麥格理",
-            "net_vol": 920
+            "broker_name": "國票-敦北法人",
+            "net_vol": 974
           },
           {
-            "broker_name": "富邦證券",
-            "net_vol": 433
+            "broker_name": "美林",
+            "net_vol": 877
           }
         ],
         "top_sells": [
           {
-            "broker_name": "花旗環球",
-            "net_vol": -1326
+            "broker_name": "凱基",
+            "net_vol": -2769
           },
           {
             "broker_name": "摩根大通",
-            "net_vol": -1274
+            "net_vol": -1543
           },
           {
-            "broker_name": "法銀巴黎",
-            "net_vol": -485
+            "broker_name": "花旗環球",
+            "net_vol": -1330
           }
         ]
       }
@@ -206,30 +206,30 @@
         "unit": "lots",
         "top_buys": [
           {
-            "broker_name": "中國信託",
-            "net_vol": 466
+            "broker_name": "台灣摩根士丹利",
+            "net_vol": 405
           },
           {
-            "broker_name": "港商野村",
-            "net_vol": 305
+            "broker_name": "花旗環球",
+            "net_vol": 202
           },
           {
-            "broker_name": "摩根大通",
-            "net_vol": 110
+            "broker_name": "凱基-台北",
+            "net_vol": 154
           }
         ],
         "top_sells": [
           {
-            "broker_name": "新加坡商瑞銀",
-            "net_vol": -446
+            "broker_name": "元大證券",
+            "net_vol": -397
           },
           {
-            "broker_name": "美商高盛",
-            "net_vol": -445
+            "broker_name": "摩根大通",
+            "net_vol": -163
           },
           {
-            "broker_name": "花旗環球",
-            "net_vol": -288
+            "broker_name": "群益金鼎",
+            "net_vol": -110
           }
         ]
       }

@@ -2776,10 +2776,10 @@
     "code": "2204",
     "name": "中華",
     "market": "TWSE",
-    "foreign_ratio": 18.8,
+    "foreign_ratio": 18.78,
     "trust_ratio": -0.8077483178896632,
     "dealer_ratio": 0.007864956667361764,
-    "three_inst_ratio": 18.000116638777698,
-    "three_inst_ratio_change_20": 0.18586757749591243
+    "three_inst_ratio": 17.9801166387777,
+    "three_inst_ratio_change_20": 0.1658675774959164
   }
 ]

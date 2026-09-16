@@ -2776,10 +2776,10 @@
     "code": "9908",
     "name": "大台北",
     "market": "TWSE",
-    "foreign_ratio": 2.05,
+    "foreign_ratio": 2.04,
     "trust_ratio": 0.003876186676685555,
     "dealer_ratio": 0.049486015516366555,
-    "three_inst_ratio": 2.1033622021930523,
-    "three_inst_ratio_change_20": -0.13557283899929873
+    "three_inst_ratio": 2.0933622021930525,
+    "three_inst_ratio_change_20": -0.14557283899929852
   }
 ]

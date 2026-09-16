@@ -2743,10 +2743,10 @@
     "code": "3138",
     "name": "耀登",
     "market": "TWSE",
-    "foreign_ratio": 4.77,
+    "foreign_ratio": 4.83,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.7559381230569826,
-    "three_inst_ratio": 4.014061876943017,
-    "three_inst_ratio_change_20": 0.1291864696313043
+    "three_inst_ratio": 4.074061876943017,
+    "three_inst_ratio_change_20": 0.1891864696313048
   }
 ]

@@ -2776,10 +2776,10 @@
     "code": "00657",
     "name": "國泰日經225",
     "market": "TWSE",
-    "foreign_ratio": 6.92,
+    "foreign_ratio": 6.91,
     "trust_ratio": 0.0,
-    "dealer_ratio": -1.466420118343195,
-    "three_inst_ratio": 5.453579881656805,
-    "three_inst_ratio_change_20": -0.11255620582800585
+    "dealer_ratio": -1.4676262543181444,
+    "three_inst_ratio": 5.442373745681856,
+    "three_inst_ratio_change_20": -0.12376234180295498
   }
 ]

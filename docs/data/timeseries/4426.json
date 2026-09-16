@@ -2754,10 +2754,10 @@
     "code": "4426",
     "name": "利勤",
     "market": "TWSE",
-    "foreign_ratio": 2.15,
+    "foreign_ratio": 2.14,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.019354031908717907,
-    "three_inst_ratio": 2.1693540319087177,
-    "three_inst_ratio_change_20": -0.059420884742408475
+    "three_inst_ratio": 2.159354031908718,
+    "three_inst_ratio_change_20": -0.06942088474240826
   }
 ]

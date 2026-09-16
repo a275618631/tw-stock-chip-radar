@@ -2743,10 +2743,10 @@
     "code": "3717",
     "name": "聯嘉投控",
     "market": "TWSE",
-    "foreign_ratio": 3.87,
+    "foreign_ratio": 4.02,
     "trust_ratio": 0.0,
     "dealer_ratio": -1.3932217759210455,
-    "three_inst_ratio": 2.476778224078955,
-    "three_inst_ratio_change_20": -0.696506223891507
+    "three_inst_ratio": 2.6267782240789543,
+    "three_inst_ratio_change_20": -0.5465062238915075
   }
 ]

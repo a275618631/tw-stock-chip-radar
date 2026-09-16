@@ -2743,10 +2743,10 @@
     "code": "00913",
     "name": "兆豐台灣晶圓製造",
     "market": "TWSE",
-    "foreign_ratio": 3.37,
+    "foreign_ratio": 3.36,
     "trust_ratio": 0.0,
     "dealer_ratio": -67.42102967143302,
-    "three_inst_ratio": -64.05102967143301,
-    "three_inst_ratio_change_20": 2.582836734361109
+    "three_inst_ratio": -64.06102967143302,
+    "three_inst_ratio_change_20": 2.572836734361104
   }
 ]

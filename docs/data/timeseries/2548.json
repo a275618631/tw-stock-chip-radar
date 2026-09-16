@@ -2776,10 +2776,10 @@
     "code": "2548",
     "name": "華固",
     "market": "TWSE",
-    "foreign_ratio": 13.99,
+    "foreign_ratio": 13.88,
     "trust_ratio": -0.17874999168539918,
     "dealer_ratio": 0.08822904799308533,
-    "three_inst_ratio": 13.899479056307687,
-    "three_inst_ratio_change_20": -0.42590574289694416
+    "three_inst_ratio": 13.789479056307687,
+    "three_inst_ratio_change_20": -0.5359057428969436
   }
 ]

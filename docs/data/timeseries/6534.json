@@ -2743,10 +2743,10 @@
     "code": "6534",
     "name": "正瀚-創",
     "market": "TWSE",
-    "foreign_ratio": 40.45,
+    "foreign_ratio": 40.43,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.015417315175097274,
-    "three_inst_ratio": 40.4654173151751,
-    "three_inst_ratio_change_20": 0.038309338521408165
+    "three_inst_ratio": 40.4454173151751,
+    "three_inst_ratio_change_20": 0.01830933852140504
   }
 ]

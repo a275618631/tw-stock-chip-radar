@@ -1192,10 +1192,10 @@
     "code": "6225",
     "name": "天瀚",
     "market": "TWSE",
-    "foreign_ratio": 0.54,
+    "foreign_ratio": 0.53,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0009028776978417266,
-    "three_inst_ratio": 0.5409028776978417,
-    "three_inst_ratio_change_20": 0.36
+    "three_inst_ratio": 0.5309028776978417,
+    "three_inst_ratio_change_20": 0.35
   }
 ]

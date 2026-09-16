@@ -2743,10 +2743,10 @@
     "code": "5225",
     "name": "東科-KY",
     "market": "TWSE",
-    "foreign_ratio": 39.74,
+    "foreign_ratio": 39.77,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.022792264287557124,
-    "three_inst_ratio": 39.71720773571244,
-    "three_inst_ratio_change_20": 0.6855372679552048
+    "three_inst_ratio": 39.74720773571244,
+    "three_inst_ratio_change_20": 0.7155372679552059
   }
 ]

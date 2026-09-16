@@ -2743,10 +2743,10 @@
     "code": "00899",
     "name": "FT潔淨能源",
     "market": "TWSE",
-    "foreign_ratio": 0.63,
+    "foreign_ratio": 0.62,
     "trust_ratio": 0.0,
     "dealer_ratio": 41.24148125193678,
-    "three_inst_ratio": 41.871481251936785,
-    "three_inst_ratio_change_20": 0.6264053300279002
+    "three_inst_ratio": 41.86148125193678,
+    "three_inst_ratio_change_20": 0.6164053300278951
   }
 ]

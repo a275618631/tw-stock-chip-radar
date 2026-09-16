@@ -2776,10 +2776,10 @@
     "code": "6226",
     "name": "光鼎",
     "market": "TWSE",
-    "foreign_ratio": 9.1,
+    "foreign_ratio": 8.88,
     "trust_ratio": 0.2458134060382453,
     "dealer_ratio": 0.16810347920399976,
-    "three_inst_ratio": 9.513916885242244,
-    "three_inst_ratio_change_20": 6.702417795128357
+    "three_inst_ratio": 9.293916885242245,
+    "three_inst_ratio_change_20": 6.482417795128358
   }
 ]

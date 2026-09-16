@@ -2776,10 +2776,10 @@
     "code": "2031",
     "name": "新光鋼",
     "market": "TWSE",
-    "foreign_ratio": 10.15,
+    "foreign_ratio": 10.12,
     "trust_ratio": 0.3675324452785841,
     "dealer_ratio": -0.027761798475542963,
-    "three_inst_ratio": 10.489770646803041,
-    "three_inst_ratio_change_20": 0.17859469122832294
+    "three_inst_ratio": 10.45977064680304,
+    "three_inst_ratio_change_20": 0.1485946912283218
   }
 ]

@@ -2776,10 +2776,10 @@
     "code": "2369",
     "name": "菱生",
     "market": "TWSE",
-    "foreign_ratio": 14.46,
+    "foreign_ratio": 14.49,
     "trust_ratio": -0.0017458455873137157,
     "dealer_ratio": 0.36002303632202803,
-    "three_inst_ratio": 14.818277190734715,
-    "three_inst_ratio_change_20": -0.7579638172397054
+    "three_inst_ratio": 14.848277190734715,
+    "three_inst_ratio_change_20": -0.727963817239706
   }
 ]

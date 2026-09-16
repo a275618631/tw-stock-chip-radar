@@ -2677,10 +2677,10 @@
     "code": "1472",
     "name": "三洋實業",
     "market": "TWSE",
-    "foreign_ratio": 0.91,
+    "foreign_ratio": 0.89,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.07602868780764364,
-    "three_inst_ratio": 0.8339713121923564,
-    "three_inst_ratio_change_20": -0.005634756095678983
+    "three_inst_ratio": 0.8139713121923564,
+    "three_inst_ratio_change_20": -0.025634756095679
   }
 ]

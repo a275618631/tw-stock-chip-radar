@@ -2710,10 +2710,10 @@
     "code": "2607",
     "name": "榮運",
     "market": "TWSE",
-    "foreign_ratio": 8.36,
+    "foreign_ratio": 8.35,
     "trust_ratio": -3.3480517431933885,
     "dealer_ratio": 0.011049897774811022,
-    "three_inst_ratio": 5.022998154581422,
-    "three_inst_ratio_change_20": 0.14973555511863612
+    "three_inst_ratio": 5.012998154581422,
+    "three_inst_ratio_change_20": 0.13973555511863633
   }
 ]

@@ -2776,10 +2776,10 @@
     "code": "2476",
     "name": "鉅祥",
     "market": "TWSE",
-    "foreign_ratio": 7.82,
+    "foreign_ratio": 7.67,
     "trust_ratio": 0.6094208859066623,
     "dealer_ratio": 2.489903996183768,
-    "three_inst_ratio": 10.91932488209043,
-    "three_inst_ratio_change_20": 0.34327565977846675
+    "three_inst_ratio": 10.76932488209043,
+    "three_inst_ratio_change_20": 0.1932756597784664
   }
 ]

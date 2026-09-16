@@ -2776,10 +2776,10 @@
     "code": "2399",
     "name": "映泰",
     "market": "TWSE",
-    "foreign_ratio": 5.92,
+    "foreign_ratio": 6.29,
     "trust_ratio": -0.0016844469399213925,
     "dealer_ratio": 0.08951712521055587,
-    "three_inst_ratio": 6.007832678270634,
-    "three_inst_ratio_change_20": 0.004911847276810377
+    "three_inst_ratio": 6.377832678270634,
+    "three_inst_ratio_change_20": 0.3749118472768105
   }
 ]

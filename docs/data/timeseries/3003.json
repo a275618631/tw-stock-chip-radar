@@ -2776,10 +2776,10 @@
     "code": "3003",
     "name": "健和興",
     "market": "TWSE",
-    "foreign_ratio": 4.23,
+    "foreign_ratio": 4.22,
     "trust_ratio": -0.0006116094393179681,
     "dealer_ratio": 0.07408376312494905,
-    "three_inst_ratio": 4.3034721536856315,
-    "three_inst_ratio_change_20": -2.0059532411734695
+    "three_inst_ratio": 4.293472153685631,
+    "three_inst_ratio_change_20": -2.01595324117347
   }
 ]

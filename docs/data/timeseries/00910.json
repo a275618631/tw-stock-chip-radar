@@ -2743,10 +2743,10 @@
     "code": "00910",
     "name": "第一金太空衛星",
     "market": "TWSE",
-    "foreign_ratio": 2.44,
+    "foreign_ratio": 2.02,
     "trust_ratio": 0.0,
-    "dealer_ratio": -78.66997848396036,
-    "three_inst_ratio": -76.22997848396037,
-    "three_inst_ratio_change_20": -10.063491323150245
+    "dealer_ratio": -79.01981252056672,
+    "three_inst_ratio": -76.99981252056672,
+    "three_inst_ratio_change_20": -10.8333253597566
   }
 ]

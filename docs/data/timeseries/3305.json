@@ -2776,10 +2776,10 @@
     "code": "3305",
     "name": "昇貿",
     "market": "TWSE",
-    "foreign_ratio": 3.78,
+    "foreign_ratio": 3.91,
     "trust_ratio": 0.04118596685362265,
     "dealer_ratio": -2.3374798391049207,
-    "three_inst_ratio": 1.4837061277487016,
-    "three_inst_ratio_change_20": -2.300242169911843
+    "three_inst_ratio": 1.613706127748702,
+    "three_inst_ratio_change_20": -2.170242169911843
   }
 ]

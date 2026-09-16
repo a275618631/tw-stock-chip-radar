@@ -2776,10 +2776,10 @@
     "code": "6024",
     "name": "群益期",
     "market": "TWSE",
-    "foreign_ratio": 5.01,
+    "foreign_ratio": 5.0,
     "trust_ratio": 0.03974750539687691,
     "dealer_ratio": -0.5065009613665384,
-    "three_inst_ratio": 4.543246544030338,
-    "three_inst_ratio_change_20": -0.05672701736889518
+    "three_inst_ratio": 4.533246544030338,
+    "three_inst_ratio_change_20": -0.06672701736889497
   }
 ]

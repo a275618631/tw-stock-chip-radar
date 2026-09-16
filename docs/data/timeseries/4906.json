@@ -2776,10 +2776,10 @@
     "code": "4906",
     "name": "正文",
     "market": "TWSE",
-    "foreign_ratio": 6.71,
+    "foreign_ratio": 6.86,
     "trust_ratio": -0.16190899044315155,
     "dealer_ratio": -1.4166523609087598,
-    "three_inst_ratio": 5.131438648648088,
-    "three_inst_ratio_change_20": -2.2213351920642292
+    "three_inst_ratio": 5.281438648648089,
+    "three_inst_ratio_change_20": -2.071335192064229
   }
 ]

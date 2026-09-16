@@ -1291,10 +1291,10 @@
     "code": "009818",
     "name": "華南永昌NASDAQxT",
     "market": "TWSE",
-    "foreign_ratio": 0.36,
+    "foreign_ratio": 0.35,
     "trust_ratio": 0.0,
     "dealer_ratio": 129.31453241462992,
-    "three_inst_ratio": 129.67453241462994,
-    "three_inst_ratio_change_20": 6.160731939570567
+    "three_inst_ratio": 129.66453241462992,
+    "three_inst_ratio_change_20": 6.150731939570548
   }
 ]

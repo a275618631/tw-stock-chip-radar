@@ -202,10 +202,10 @@
     "code": "009829",
     "name": "大華韓國KOSPI50",
     "market": "TWSE",
-    "foreign_ratio": 1.16,
+    "foreign_ratio": 0.85,
     "trust_ratio": 0.0,
-    "dealer_ratio": -30.817200727564202,
-    "three_inst_ratio": -29.657200727564202,
+    "dealer_ratio": -30.534793658551486,
+    "three_inst_ratio": -29.684793658551484,
     "three_inst_ratio_change_20": 0.0
   }
 ]

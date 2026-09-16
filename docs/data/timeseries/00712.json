@@ -2776,10 +2776,10 @@
     "code": "00712",
     "name": "復華富時不動產",
     "market": "TWSE",
-    "foreign_ratio": 0.64,
+    "foreign_ratio": 0.27,
     "trust_ratio": 0.0,
-    "dealer_ratio": -31.084861254891038,
-    "three_inst_ratio": -30.444861254891038,
-    "three_inst_ratio_change_20": -10.090508396171522
+    "dealer_ratio": -30.607877297503205,
+    "three_inst_ratio": -30.337877297503205,
+    "three_inst_ratio_change_20": -9.98352443878369
   }
 ]

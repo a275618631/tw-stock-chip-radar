@@ -2776,10 +2776,10 @@
     "code": "3029",
     "name": "零壹",
     "market": "TWSE",
-    "foreign_ratio": 6.63,
+    "foreign_ratio": 6.12,
     "trust_ratio": -0.03191098011959052,
     "dealer_ratio": -0.24861439653751644,
-    "three_inst_ratio": 6.349474623342893,
-    "three_inst_ratio_change_20": -0.5216928630945965
+    "three_inst_ratio": 5.839474623342893,
+    "three_inst_ratio_change_20": -1.0316928630945963
   }
 ]

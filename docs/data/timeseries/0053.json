@@ -2743,10 +2743,10 @@
     "code": "0053",
     "name": "元大電子",
     "market": "TWSE",
-    "foreign_ratio": 0.16,
+    "foreign_ratio": 0.26,
     "trust_ratio": 0.0,
     "dealer_ratio": -19.773588863463004,
-    "three_inst_ratio": -19.613588863463004,
-    "three_inst_ratio_change_20": -5.664193819731226
+    "three_inst_ratio": -19.513588863463003,
+    "three_inst_ratio_change_20": -5.564193819731225
   }
 ]

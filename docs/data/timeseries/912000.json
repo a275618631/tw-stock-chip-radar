@@ -1291,10 +1291,10 @@
     "code": "912000",
     "name": "晨訊科-DR",
     "market": "TWSE",
-    "foreign_ratio": 2.79,
+    "foreign_ratio": 2.89,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0009171748082953986,
-    "three_inst_ratio": 2.7909171748082953,
-    "three_inst_ratio_change_20": 0.16091717480829537
+    "three_inst_ratio": 2.8909171748082954,
+    "three_inst_ratio_change_20": 0.26091717480829546
   }
 ]

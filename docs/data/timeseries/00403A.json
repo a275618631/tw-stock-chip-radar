@@ -1005,10 +1005,10 @@
     "code": "00403A",
     "name": "主動統一升級50",
     "market": "TWSE",
-    "foreign_ratio": 1.8,
+    "foreign_ratio": 1.82,
     "trust_ratio": 0.0,
     "dealer_ratio": -41.027280759139785,
-    "three_inst_ratio": -39.22728075913979,
-    "three_inst_ratio_change_20": -2.972112672899101
+    "three_inst_ratio": -39.207280759139785,
+    "three_inst_ratio_change_20": -2.952112672899098
   }
 ]

@@ -2776,10 +2776,10 @@
     "code": "4526",
     "name": "東台",
     "market": "TWSE",
-    "foreign_ratio": 4.78,
+    "foreign_ratio": 4.92,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.13324989825134367,
-    "three_inst_ratio": 4.913249898251344,
-    "three_inst_ratio_change_20": -2.1789621775974037
+    "three_inst_ratio": 5.053249898251344,
+    "three_inst_ratio_change_20": -2.038962177597404
   }
 ]

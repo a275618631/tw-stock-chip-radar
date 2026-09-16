@@ -2776,10 +2776,10 @@
     "code": "1313",
     "name": "聯成",
     "market": "TWSE",
-    "foreign_ratio": 7.14,
+    "foreign_ratio": 7.18,
     "trust_ratio": 0.0012773828552064134,
     "dealer_ratio": 0.01978094977438289,
-    "three_inst_ratio": 7.1610583326295885,
-    "three_inst_ratio_change_20": 0.37495038454510077
+    "three_inst_ratio": 7.2010583326295885,
+    "three_inst_ratio_change_20": 0.4149503845451008
   }
 ]

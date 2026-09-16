@@ -2776,10 +2776,10 @@
     "code": "2049",
     "name": "上銀",
     "market": "TWSE",
-    "foreign_ratio": 39.0,
+    "foreign_ratio": 38.86,
     "trust_ratio": 0.3586443840599782,
     "dealer_ratio": 0.3676194254571553,
-    "three_inst_ratio": 39.726263809517135,
-    "three_inst_ratio_change_20": -0.4813409926684713
+    "three_inst_ratio": 39.586263809517135,
+    "three_inst_ratio_change_20": -0.6213409926684719
   }
 ]

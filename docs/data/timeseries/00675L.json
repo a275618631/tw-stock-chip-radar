@@ -2776,10 +2776,10 @@
     "code": "00675L",
     "name": "富邦臺灣加權正2",
     "market": "TWSE",
-    "foreign_ratio": 3.45,
+    "foreign_ratio": 1.71,
     "trust_ratio": 0.0,
-    "dealer_ratio": 0.2331131160441411,
-    "three_inst_ratio": 3.683113116044141,
-    "three_inst_ratio_change_20": 5.102721540739161
+    "dealer_ratio": 0.23969290405133317,
+    "three_inst_ratio": 1.949692904051333,
+    "three_inst_ratio_change_20": 3.369301328746353
   }
 ]

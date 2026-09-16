@@ -2743,10 +2743,10 @@
     "code": "3543",
     "name": "州巧",
     "market": "TWSE",
-    "foreign_ratio": 5.79,
+    "foreign_ratio": 4.39,
     "trust_ratio": 0.0,
-    "dealer_ratio": 0.509710633153506,
-    "three_inst_ratio": 6.299710633153506,
-    "three_inst_ratio_change_20": -0.9995901214503666
+    "dealer_ratio": 0.38425468069024904,
+    "three_inst_ratio": 4.774254680690249,
+    "three_inst_ratio_change_20": -2.5250460739136233
   }
 ]

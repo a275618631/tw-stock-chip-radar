@@ -2743,10 +2743,10 @@
     "code": "00922",
     "name": "國泰台灣領袖50",
     "market": "TWSE",
-    "foreign_ratio": 20.87,
+    "foreign_ratio": 20.68,
     "trust_ratio": 0.13692375774552482,
     "dealer_ratio": -18.976080677891886,
-    "three_inst_ratio": 2.030843079853639,
-    "three_inst_ratio_change_20": 1.1382639043244787
+    "three_inst_ratio": 1.840843079853638,
+    "three_inst_ratio_change_20": 0.9482639043244774
   }
 ]

@@ -2776,10 +2776,10 @@
     "code": "1312",
     "name": "國喬",
     "market": "TWSE",
-    "foreign_ratio": 3.41,
+    "foreign_ratio": 3.6,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.22972915633807808,
-    "three_inst_ratio": 3.1802708436619223,
-    "three_inst_ratio_change_20": 0.5058878005979235
+    "three_inst_ratio": 3.370270843661922,
+    "three_inst_ratio_change_20": 0.6958878005979234
   }
 ]

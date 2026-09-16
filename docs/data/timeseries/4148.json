@@ -2666,10 +2666,10 @@
     "code": "4148",
     "name": "全宇生技-KY",
     "market": "TWSE",
-    "foreign_ratio": 71.42,
+    "foreign_ratio": 71.39,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.017679595547014523,
-    "three_inst_ratio": 71.402320404453,
-    "three_inst_ratio_change_20": 0.12041113559595829
+    "three_inst_ratio": 71.37232040445299,
+    "three_inst_ratio_change_20": 0.09041113559595715
   }
 ]

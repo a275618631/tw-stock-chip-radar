@@ -2776,10 +2776,10 @@
     "code": "4414",
     "name": "如興",
     "market": "TWSE",
-    "foreign_ratio": 26.51,
+    "foreign_ratio": 26.52,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.02664826627074119,
-    "three_inst_ratio": 26.536648266270742,
-    "three_inst_ratio_change_20": -0.008157184990224664
+    "three_inst_ratio": 26.54664826627074,
+    "three_inst_ratio_change_20": 0.0018428150097733464
   }
 ]

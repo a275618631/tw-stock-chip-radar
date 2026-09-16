@@ -2776,10 +2776,10 @@
     "code": "4739",
     "name": "康普",
     "market": "TWSE",
-    "foreign_ratio": 4.32,
+    "foreign_ratio": 4.28,
     "trust_ratio": -0.751490167182609,
     "dealer_ratio": -0.6191973737126368,
-    "three_inst_ratio": 2.949312459104754,
-    "three_inst_ratio_change_20": -2.39572779764958
+    "three_inst_ratio": 2.909312459104754,
+    "three_inst_ratio_change_20": -2.43572779764958
   }
 ]

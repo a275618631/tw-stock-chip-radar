@@ -2776,10 +2776,10 @@
     "code": "2417",
     "name": "圓剛",
     "market": "TWSE",
-    "foreign_ratio": 2.19,
+    "foreign_ratio": 2.21,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.03018721722858906,
-    "three_inst_ratio": 2.220187217228589,
-    "three_inst_ratio_change_20": -0.6687278880223939
+    "three_inst_ratio": 2.240187217228589,
+    "three_inst_ratio_change_20": -0.6487278880223939
   }
 ]

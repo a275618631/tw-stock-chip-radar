@@ -2765,10 +2765,10 @@
     "code": "2497",
     "name": "怡利電",
     "market": "TWSE",
-    "foreign_ratio": 2.7,
+    "foreign_ratio": 2.71,
     "trust_ratio": 0.10696194193256209,
     "dealer_ratio": -0.004272365566334909,
-    "three_inst_ratio": 2.8026895763662276,
-    "three_inst_ratio_change_20": -0.4535613537824599
+    "three_inst_ratio": 2.8126895763662274,
+    "three_inst_ratio_change_20": -0.4435613537824601
   }
 ]

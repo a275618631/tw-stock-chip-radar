@@ -2677,10 +2677,10 @@
     "code": "7780",
     "name": "大研生醫*",
     "market": "TWSE",
-    "foreign_ratio": 0.65,
+    "foreign_ratio": 0.64,
     "trust_ratio": 0.07962725359170456,
     "dealer_ratio": -0.13256629120091565,
-    "three_inst_ratio": 0.5970609623907889,
-    "three_inst_ratio_change_20": -0.04056083746241801
+    "three_inst_ratio": 0.5870609623907889,
+    "three_inst_ratio_change_20": -0.05056083746241802
   }
 ]

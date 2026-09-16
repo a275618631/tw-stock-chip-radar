@@ -2776,10 +2776,10 @@
     "code": "2603",
     "name": "長榮",
     "market": "TWSE",
-    "foreign_ratio": 26.17,
+    "foreign_ratio": 26.21,
     "trust_ratio": 1.8755933288633866,
     "dealer_ratio": 0.09389328543385658,
-    "three_inst_ratio": 28.139486614297248,
-    "three_inst_ratio_change_20": 1.7023273631467468
+    "three_inst_ratio": 28.179486614297247,
+    "three_inst_ratio_change_20": 1.742327363146746
   }
 ]

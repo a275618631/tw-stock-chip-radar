@@ -2776,10 +2776,10 @@
     "code": "2329",
     "name": "華泰",
     "market": "TWSE",
-    "foreign_ratio": 9.38,
+    "foreign_ratio": 9.49,
     "trust_ratio": 0.27279847447462924,
     "dealer_ratio": -0.009536559522641664,
-    "three_inst_ratio": 9.643261914951987,
-    "three_inst_ratio_change_20": 0.2765227673320485
+    "three_inst_ratio": 9.753261914951986,
+    "three_inst_ratio_change_20": 0.38652276733204793
   }
 ]

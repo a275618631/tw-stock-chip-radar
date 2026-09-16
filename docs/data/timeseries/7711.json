@@ -2248,10 +2248,10 @@
     "code": "7711",
     "name": "永擎",
     "market": "TWSE",
-    "foreign_ratio": 1.59,
+    "foreign_ratio": 1.76,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.1504690800733524,
-    "three_inst_ratio": 1.7404690800733524,
-    "three_inst_ratio_change_20": 0.0693858392371205
+    "three_inst_ratio": 1.9104690800733524,
+    "three_inst_ratio_change_20": 0.23938583923712042
   }
 ]

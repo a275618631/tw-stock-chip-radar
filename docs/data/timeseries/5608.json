@@ -2776,10 +2776,10 @@
     "code": "5608",
     "name": "四維航",
     "market": "TWSE",
-    "foreign_ratio": 6.15,
+    "foreign_ratio": 6.16,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.009853930476468094,
-    "three_inst_ratio": 6.159853930476468,
-    "three_inst_ratio_change_20": -0.7366422700689661
+    "three_inst_ratio": 6.169853930476468,
+    "three_inst_ratio_change_20": -0.7266422700689663
   }
 ]

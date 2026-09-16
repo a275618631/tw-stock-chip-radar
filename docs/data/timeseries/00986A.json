@@ -2743,10 +2743,10 @@
     "code": "00986A",
     "name": "主動台新龍頭成長",
     "market": "TWSE",
-    "foreign_ratio": 1.61,
+    "foreign_ratio": 1.67,
     "trust_ratio": 0.0,
     "dealer_ratio": 66.40062269314785,
-    "three_inst_ratio": 68.01062269314785,
-    "three_inst_ratio_change_20": 2.092841097580788
+    "three_inst_ratio": 68.07062269314785,
+    "three_inst_ratio_change_20": 2.15284109758079
   }
 ]

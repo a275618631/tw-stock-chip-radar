@@ -2776,10 +2776,10 @@
     "code": "00709",
     "name": "富邦歐洲",
     "market": "TWSE",
-    "foreign_ratio": 0.68,
+    "foreign_ratio": 0.66,
     "trust_ratio": 7.448132780082988,
     "dealer_ratio": 13.90106500691563,
-    "three_inst_ratio": 22.029197786998616,
-    "three_inst_ratio_change_20": 3.431316770955835
+    "three_inst_ratio": 22.00919778699862,
+    "three_inst_ratio_change_20": 3.411316770955839
   }
 ]

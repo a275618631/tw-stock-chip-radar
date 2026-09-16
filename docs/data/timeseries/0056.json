@@ -2777,9 +2777,9 @@
     "name": "元大高股息",
     "market": "TWSE",
     "foreign_ratio": 0.35,
-    "trust_ratio": 0.15976724649595261,
-    "dealer_ratio": -2.5552024032530403,
-    "three_inst_ratio": -2.0454351567570876,
-    "three_inst_ratio_change_20": 0.3533794333415714
+    "trust_ratio": 0.1604207245479702,
+    "dealer_ratio": -2.5656536611022567,
+    "three_inst_ratio": -2.0552329365542867,
+    "three_inst_ratio_change_20": 0.3435816535443723
   }
 ]

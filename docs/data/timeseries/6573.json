@@ -2732,10 +2732,10 @@
     "code": "6573",
     "name": "虹揚-KY",
     "market": "TWSE",
-    "foreign_ratio": 54.35,
+    "foreign_ratio": 54.38,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.02844992092792805,
-    "three_inst_ratio": 54.37844992092793,
-    "three_inst_ratio_change_20": -1.068031039879891
+    "three_inst_ratio": 54.40844992092793,
+    "three_inst_ratio_change_20": -1.0380310398798898
   }
 ]

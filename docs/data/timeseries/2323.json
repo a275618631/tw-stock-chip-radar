@@ -2776,10 +2776,10 @@
     "code": "2323",
     "name": "中環",
     "market": "TWSE",
-    "foreign_ratio": 9.9,
+    "foreign_ratio": 9.89,
     "trust_ratio": 0.10511422017806593,
     "dealer_ratio": 0.631987659322868,
-    "three_inst_ratio": 10.637101879500936,
-    "three_inst_ratio_change_20": -1.8436506385861904
+    "three_inst_ratio": 10.627101879500936,
+    "three_inst_ratio_change_20": -1.8536506385861902
   }
 ]

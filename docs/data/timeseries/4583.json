@@ -2743,10 +2743,10 @@
     "code": "4583",
     "name": "台灣精銳",
     "market": "TWSE",
-    "foreign_ratio": 2.25,
+    "foreign_ratio": 2.28,
     "trust_ratio": -0.8978194716963172,
     "dealer_ratio": 0.28757903805313195,
-    "three_inst_ratio": 1.6397595663568147,
-    "three_inst_ratio_change_20": -0.4859476663926994
+    "three_inst_ratio": 1.6697595663568146,
+    "three_inst_ratio_change_20": -0.45594766639269957
   }
 ]

@@ -2776,10 +2776,10 @@
     "code": "2520",
     "name": "冠德",
     "market": "TWSE",
-    "foreign_ratio": 12.77,
+    "foreign_ratio": 12.71,
     "trust_ratio": -9.542498774092204,
     "dealer_ratio": 0.0891877762599442,
-    "three_inst_ratio": 3.31668900216774,
-    "three_inst_ratio_change_20": -0.12857493278241838
+    "three_inst_ratio": 3.2566890021677413,
+    "three_inst_ratio_change_20": -0.1885749327824171
   }
 ]

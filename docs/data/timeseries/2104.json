@@ -2776,10 +2776,10 @@
     "code": "2104",
     "name": "國際中橡",
     "market": "TWSE",
-    "foreign_ratio": 5.9,
+    "foreign_ratio": 5.98,
     "trust_ratio": -0.1197278096398912,
     "dealer_ratio": 0.096627857101965,
-    "three_inst_ratio": 5.876900047462074,
-    "three_inst_ratio_change_20": 0.4586879332469227
+    "three_inst_ratio": 5.956900047462074,
+    "three_inst_ratio_change_20": 0.5386879332469228
   }
 ]

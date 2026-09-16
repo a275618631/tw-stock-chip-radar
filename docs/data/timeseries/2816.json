@@ -2776,10 +2776,10 @@
     "code": "2816",
     "name": "旺旺保",
     "market": "TWSE",
-    "foreign_ratio": 3.4,
+    "foreign_ratio": 3.49,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.05048432971986692,
-    "three_inst_ratio": 3.450484329719867,
-    "three_inst_ratio_change_20": 0.8214661371686165
+    "three_inst_ratio": 3.540484329719867,
+    "three_inst_ratio_change_20": 0.9114661371686168
   }
 ]

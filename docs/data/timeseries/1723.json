@@ -2776,10 +2776,10 @@
     "code": "1723",
     "name": "中碳",
     "market": "TWSE",
-    "foreign_ratio": 8.92,
+    "foreign_ratio": 8.98,
     "trust_ratio": 0.16052967845943647,
     "dealer_ratio": 0.050912080683320135,
-    "three_inst_ratio": 9.131441759142756,
-    "three_inst_ratio_change_20": -0.4595248920577628
+    "three_inst_ratio": 9.191441759142757,
+    "three_inst_ratio_change_20": -0.3995248920577623
   }
 ]

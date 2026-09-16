@@ -2776,10 +2776,10 @@
     "code": "2034",
     "name": "允強",
     "market": "TWSE",
-    "foreign_ratio": 5.63,
+    "foreign_ratio": 5.64,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.45925789373642584,
-    "three_inst_ratio": 5.170742106263574,
-    "three_inst_ratio_change_20": 0.9117018211658463
+    "three_inst_ratio": 5.1807421062635735,
+    "three_inst_ratio_change_20": 0.9217018211658461
   }
 ]

@@ -1214,10 +1214,10 @@
     "code": "00997A",
     "name": "主動群益美國增長",
     "market": "TWSE",
-    "foreign_ratio": 0.89,
-    "trust_ratio": 0.28901810504574504,
-    "dealer_ratio": -35.98567642132143,
-    "three_inst_ratio": -34.80665831627569,
-    "three_inst_ratio_change_20": -3.030090949270946
+    "foreign_ratio": 0.92,
+    "trust_ratio": 0.28914549572144005,
+    "dealer_ratio": -36.00153784852831,
+    "three_inst_ratio": -34.79239235280687,
+    "three_inst_ratio_change_20": -3.01582498580213
   }
 ]

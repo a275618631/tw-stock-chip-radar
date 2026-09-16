@@ -2743,10 +2743,10 @@
     "code": "00945B",
     "name": "凱基美國非投等債",
     "market": "TWSE",
-    "foreign_ratio": 0.24,
+    "foreign_ratio": 0.22,
     "trust_ratio": -5.112844904116114,
     "dealer_ratio": -9.236426493832685,
-    "three_inst_ratio": -14.109271397948799,
-    "three_inst_ratio_change_20": -2.3513722757796884
+    "three_inst_ratio": -14.129271397948798,
+    "three_inst_ratio_change_20": -2.371372275779688
   }
 ]

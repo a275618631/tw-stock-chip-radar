@@ -1797,10 +1797,10 @@
     "code": "7795",
     "name": "長廣",
     "market": "TWSE",
-    "foreign_ratio": 6.7,
+    "foreign_ratio": 6.72,
     "trust_ratio": 0.07525704535796063,
     "dealer_ratio": 0.15289901495017666,
-    "three_inst_ratio": 6.928156060308138,
-    "three_inst_ratio_change_20": -0.035425004915734526
+    "three_inst_ratio": 6.948156060308137,
+    "three_inst_ratio_change_20": -0.015425004915734952
   }
 ]

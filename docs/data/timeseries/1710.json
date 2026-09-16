@@ -2776,10 +2776,10 @@
     "code": "1710",
     "name": "東聯",
     "market": "TWSE",
-    "foreign_ratio": 5.68,
+    "foreign_ratio": 5.71,
     "trust_ratio": -0.2001799634807391,
     "dealer_ratio": 0.19186566426431403,
-    "three_inst_ratio": 5.671685700783574,
-    "three_inst_ratio_change_20": 0.9881258716458552
+    "three_inst_ratio": 5.701685700783575,
+    "three_inst_ratio_change_20": 1.0181258716458554
   }
 ]

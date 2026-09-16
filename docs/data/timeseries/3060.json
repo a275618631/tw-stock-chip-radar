@@ -2776,10 +2776,10 @@
     "code": "3060",
     "name": "銘異",
     "market": "TWSE",
-    "foreign_ratio": 9.92,
+    "foreign_ratio": 9.95,
     "trust_ratio": 0.2740558720686835,
     "dealer_ratio": 0.28253052288188435,
-    "three_inst_ratio": 10.476586394950568,
-    "three_inst_ratio_change_20": -2.072263686964515
+    "three_inst_ratio": 10.506586394950567,
+    "three_inst_ratio_change_20": -2.0422636869645157
   }
 ]

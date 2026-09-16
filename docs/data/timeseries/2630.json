@@ -2743,10 +2743,10 @@
     "code": "2630",
     "name": "亞航",
     "market": "TWSE",
-    "foreign_ratio": 2.52,
+    "foreign_ratio": 2.55,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.19769315821673109,
-    "three_inst_ratio": 2.322306841783269,
-    "three_inst_ratio_change_20": -0.8151912756089139
+    "three_inst_ratio": 2.352306841783269,
+    "three_inst_ratio_change_20": -0.7851912756089141
   }
 ]

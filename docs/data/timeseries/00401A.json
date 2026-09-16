@@ -1236,10 +1236,10 @@
     "code": "00401A",
     "name": "主動摩根台灣鑫收",
     "market": "TWSE",
-    "foreign_ratio": 0.99,
+    "foreign_ratio": 1.0,
     "trust_ratio": 0.0,
     "dealer_ratio": -16.49355886901239,
-    "three_inst_ratio": -15.503558869012389,
-    "three_inst_ratio_change_20": -13.86948050822627
+    "three_inst_ratio": -15.49355886901239,
+    "three_inst_ratio_change_20": -13.85948050822627
   }
 ]

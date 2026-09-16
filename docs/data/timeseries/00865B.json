@@ -2743,10 +2743,10 @@
     "code": "00865B",
     "name": "國泰US短期公債",
     "market": "TWSE",
-    "foreign_ratio": 0.91,
+    "foreign_ratio": 0.46,
     "trust_ratio": 0.0,
-    "dealer_ratio": -68.48154228917767,
-    "three_inst_ratio": -67.57154228917767,
-    "three_inst_ratio_change_20": -1.1660444480605179
+    "dealer_ratio": -68.69571844975981,
+    "three_inst_ratio": -68.23571844975982,
+    "three_inst_ratio_change_20": -1.8302206086426622
   }
 ]

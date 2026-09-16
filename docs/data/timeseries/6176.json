@@ -2699,10 +2699,10 @@
     "code": "6176",
     "name": "瑞儀",
     "market": "TWSE",
-    "foreign_ratio": 33.23,
+    "foreign_ratio": 33.2,
     "trust_ratio": -40.88204382752647,
     "dealer_ratio": -0.5188349573666716,
-    "three_inst_ratio": -8.170878784893148,
-    "three_inst_ratio_change_20": -11.539323857026478
+    "three_inst_ratio": -8.200878784893142,
+    "three_inst_ratio_change_20": -11.569323857026472
   }
 ]

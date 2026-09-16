@@ -2754,10 +2754,10 @@
     "code": "2392",
     "name": "正崴",
     "market": "TWSE",
-    "foreign_ratio": 8.55,
+    "foreign_ratio": 8.6,
     "trust_ratio": -0.014053526055061638,
     "dealer_ratio": 0.24624842097899438,
-    "three_inst_ratio": 8.782194894923935,
-    "three_inst_ratio_change_20": 0.033317130268420314
+    "three_inst_ratio": 8.832194894923934,
+    "three_inst_ratio_change_20": 0.08331713026841925
   }
 ]

@@ -2743,10 +2743,10 @@
     "code": "4989",
     "name": "榮科",
     "market": "TWSE",
-    "foreign_ratio": 0.96,
+    "foreign_ratio": 1.28,
     "trust_ratio": 0.010580721336524353,
     "dealer_ratio": 1.8349764001470106,
-    "three_inst_ratio": 2.8055571214835346,
-    "three_inst_ratio_change_20": -1.4911847676043912
+    "three_inst_ratio": 3.125557121483535,
+    "three_inst_ratio_change_20": -1.171184767604391
   }
 ]

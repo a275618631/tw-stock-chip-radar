@@ -1291,10 +1291,10 @@
     "code": "009802",
     "name": "富邦旗艦50",
     "market": "TWSE",
-    "foreign_ratio": 0.63,
+    "foreign_ratio": 0.69,
     "trust_ratio": 0.0,
     "dealer_ratio": -4.691386555730482,
-    "three_inst_ratio": -4.061386555730482,
-    "three_inst_ratio_change_20": -6.812593404798374
+    "three_inst_ratio": -4.001386555730482,
+    "three_inst_ratio_change_20": -6.752593404798374
   }
 ]

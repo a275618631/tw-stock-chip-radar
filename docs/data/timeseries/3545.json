@@ -2765,10 +2765,10 @@
     "code": "3545",
     "name": "敦泰",
     "market": "TWSE",
-    "foreign_ratio": 15.12,
+    "foreign_ratio": 15.3,
     "trust_ratio": -0.11066161866289648,
     "dealer_ratio": -0.10658269013699166,
-    "three_inst_ratio": 14.90275569120011,
-    "three_inst_ratio_change_20": 0.09381943694299899
+    "three_inst_ratio": 15.082755691200111,
+    "three_inst_ratio_change_20": 0.2738194369430005
   }
 ]

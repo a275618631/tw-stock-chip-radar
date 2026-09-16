@@ -2776,10 +2776,10 @@
     "code": "2401",
     "name": "凌陽",
     "market": "TWSE",
-    "foreign_ratio": 16.83,
+    "foreign_ratio": 16.86,
     "trust_ratio": 0.1458421301078768,
     "dealer_ratio": 0.24544534984429484,
-    "three_inst_ratio": 17.22128747995217,
-    "three_inst_ratio_change_20": -0.80349049014389
+    "three_inst_ratio": 17.251287479952172,
+    "three_inst_ratio_change_20": -0.7734904901438888
   }
 ]

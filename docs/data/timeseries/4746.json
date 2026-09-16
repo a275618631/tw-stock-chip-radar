@@ -2776,10 +2776,10 @@
     "code": "4746",
     "name": "台耀",
     "market": "TWSE",
-    "foreign_ratio": 7.65,
+    "foreign_ratio": 7.64,
     "trust_ratio": 1.8926296403281055,
     "dealer_ratio": 0.08971779636407717,
-    "three_inst_ratio": 9.632347436692182,
-    "three_inst_ratio_change_20": -1.0737979851360873
+    "three_inst_ratio": 9.622347436692182,
+    "three_inst_ratio_change_20": -1.083797985136087
   }
 ]

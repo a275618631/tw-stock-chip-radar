@@ -2776,10 +2776,10 @@
     "code": "4155",
     "name": "訊映",
     "market": "TWSE",
-    "foreign_ratio": 2.7,
+    "foreign_ratio": 2.73,
     "trust_ratio": 0.0018739965311733093,
     "dealer_ratio": 0.08714243630955988,
-    "three_inst_ratio": 2.7890164328407336,
-    "three_inst_ratio_change_20": -0.3104016687837121
+    "three_inst_ratio": 2.8190164328407334,
+    "three_inst_ratio_change_20": -0.2804016687837123
   }
 ]

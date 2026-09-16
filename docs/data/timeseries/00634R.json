@@ -2776,10 +2776,10 @@
     "code": "00634R",
     "name": "富邦上証反1",
     "market": "TWSE",
-    "foreign_ratio": 5.35,
+    "foreign_ratio": 5.34,
     "trust_ratio": 0.0,
     "dealer_ratio": 8.774890073907756,
-    "three_inst_ratio": 14.124890073907755,
-    "three_inst_ratio_change_20": 0.7025319543260231
+    "three_inst_ratio": 14.114890073907755,
+    "three_inst_ratio_change_20": 0.6925319543260233
   }
 ]

@@ -2776,10 +2776,10 @@
     "code": "6139",
     "name": "亞翔",
     "market": "TWSE",
-    "foreign_ratio": 22.12,
+    "foreign_ratio": 22.11,
     "trust_ratio": 3.293023096047027,
     "dealer_ratio": -0.45694564012037164,
-    "three_inst_ratio": 24.956077455926657,
-    "three_inst_ratio_change_20": -1.629836963336679
+    "three_inst_ratio": 24.946077455926655,
+    "three_inst_ratio_change_20": -1.6398369633366805
   }
 ]

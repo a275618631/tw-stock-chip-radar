@@ -2776,10 +2776,10 @@
     "code": "6177",
     "name": "達麗",
     "market": "TWSE",
-    "foreign_ratio": 7.06,
+    "foreign_ratio": 7.05,
     "trust_ratio": -1.8380346668981435,
     "dealer_ratio": 0.503439534839101,
-    "three_inst_ratio": 5.7254048679409575,
-    "three_inst_ratio_change_20": 1.1032213522777585
+    "three_inst_ratio": 5.715404867940958,
+    "three_inst_ratio_change_20": 1.0932213522777587
   }
 ]

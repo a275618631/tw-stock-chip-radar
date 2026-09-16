@@ -2699,10 +2699,10 @@
     "code": "6120",
     "name": "達運",
     "market": "TWSE",
-    "foreign_ratio": 8.38,
+    "foreign_ratio": 8.39,
     "trust_ratio": 0.6075129245244474,
     "dealer_ratio": 0.11460157865013072,
-    "three_inst_ratio": 9.10211450317458,
-    "three_inst_ratio_change_20": -0.420637416016179
+    "three_inst_ratio": 9.11211450317458,
+    "three_inst_ratio_change_20": -0.4106374160161792
   }
 ]

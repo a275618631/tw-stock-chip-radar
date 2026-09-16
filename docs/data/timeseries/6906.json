@@ -2743,10 +2743,10 @@
     "code": "6906",
     "name": "現觀科",
     "market": "TWSE",
-    "foreign_ratio": 6.91,
+    "foreign_ratio": 6.89,
     "trust_ratio": -0.4860245576580176,
     "dealer_ratio": -0.0283564021063052,
-    "three_inst_ratio": 6.395619040235677,
-    "three_inst_ratio_change_20": -0.406526266198334
+    "three_inst_ratio": 6.3756190402356765,
+    "three_inst_ratio_change_20": -0.42652626619833445
   }
 ]

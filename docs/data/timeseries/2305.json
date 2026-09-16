@@ -2776,10 +2776,10 @@
     "code": "2305",
     "name": "全友",
     "market": "TWSE",
-    "foreign_ratio": 2.86,
+    "foreign_ratio": 5.23,
     "trust_ratio": 0.13420154145349228,
     "dealer_ratio": 0.320055603005039,
-    "three_inst_ratio": 3.314257144458531,
-    "three_inst_ratio_change_20": 0.3910209452284268
+    "three_inst_ratio": 5.684257144458532,
+    "three_inst_ratio_change_20": 2.761020945228428
   }
 ]

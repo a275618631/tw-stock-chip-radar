@@ -2523,10 +2523,10 @@
     "code": "00983D",
     "name": "主動富邦複合收益",
     "market": "TWSE",
-    "foreign_ratio": 0.29,
+    "foreign_ratio": 0.45,
     "trust_ratio": 0.0,
     "dealer_ratio": 44.92103707400405,
-    "three_inst_ratio": 45.21103707400405,
-    "three_inst_ratio_change_20": -1.8501058026135766
+    "three_inst_ratio": 45.37103707400405,
+    "three_inst_ratio_change_20": -1.690105802613573
   }
 ]

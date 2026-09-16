@@ -2776,10 +2776,10 @@
     "code": "1416",
     "name": "廣豐",
     "market": "TWSE",
-    "foreign_ratio": 6.82,
+    "foreign_ratio": 6.8,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.043163949609135895,
-    "three_inst_ratio": 6.863163949609136,
-    "three_inst_ratio_change_20": 0.06431364329352274
+    "three_inst_ratio": 6.843163949609136,
+    "three_inst_ratio_change_20": 0.044313643293522276
   }
 ]

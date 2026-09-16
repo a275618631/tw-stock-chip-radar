@@ -2743,10 +2743,10 @@
     "code": "4588",
     "name": "玖鼎電力",
     "market": "TWSE",
-    "foreign_ratio": 2.9,
+    "foreign_ratio": 2.94,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.058241246946609274,
-    "three_inst_ratio": 2.958241246946609,
-    "three_inst_ratio_change_20": 0.1887297894614397
+    "three_inst_ratio": 2.998241246946609,
+    "three_inst_ratio_change_20": 0.22872978946143974
   }
 ]

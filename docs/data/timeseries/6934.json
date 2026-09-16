@@ -1676,10 +1676,10 @@
     "code": "6934",
     "name": "心誠鎂",
     "market": "TWSE",
-    "foreign_ratio": 12.32,
+    "foreign_ratio": 12.33,
     "trust_ratio": 0.0,
     "dealer_ratio": -0.3741247335970477,
-    "three_inst_ratio": 11.945875266402952,
-    "three_inst_ratio_change_20": -0.05722011893332102
+    "three_inst_ratio": 11.955875266402952,
+    "three_inst_ratio_change_20": -0.04722011893332123
   }
 ]

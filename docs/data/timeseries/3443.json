@@ -2776,10 +2776,10 @@
     "code": "3443",
     "name": "創意",
     "market": "TWSE",
-    "foreign_ratio": 27.15,
+    "foreign_ratio": 27.13,
     "trust_ratio": 9.30654216250972,
     "dealer_ratio": 0.2714206500644558,
-    "three_inst_ratio": 36.72796281257418,
-    "three_inst_ratio_change_20": 1.0395739457815765
+    "three_inst_ratio": 36.70796281257417,
+    "three_inst_ratio_change_20": 1.0195739457815733
   }
 ]

@@ -642,10 +642,10 @@
     "code": "009824",
     "name": "群益美國科技巨頭",
     "market": "TWSE",
-    "foreign_ratio": 0.58,
+    "foreign_ratio": 0.2,
     "trust_ratio": 0.0,
-    "dealer_ratio": -5.613585917733232,
-    "three_inst_ratio": -5.033585917733232,
-    "three_inst_ratio_change_20": 2.2903965122788215
+    "dealer_ratio": -5.634977240986421,
+    "three_inst_ratio": -5.434977240986421,
+    "three_inst_ratio_change_20": 1.8890051890256325
   }
 ]

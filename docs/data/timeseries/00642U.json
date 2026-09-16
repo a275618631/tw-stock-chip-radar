@@ -2776,10 +2776,10 @@
     "code": "00642U",
     "name": "期元大S&P石油",
     "market": "TWSE",
-    "foreign_ratio": 1.73,
+    "foreign_ratio": 1.74,
     "trust_ratio": 0.0,
     "dealer_ratio": 149.56619031696027,
-    "three_inst_ratio": 151.29619031696026,
-    "three_inst_ratio_change_20": 70.64182375010948
+    "three_inst_ratio": 151.30619031696028,
+    "three_inst_ratio_change_20": 70.6518237501095
   }
 ]

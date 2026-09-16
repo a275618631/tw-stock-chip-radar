@@ -2721,10 +2721,10 @@
     "code": "0052",
     "name": "富邦科技",
     "market": "TWSE",
-    "foreign_ratio": 2.38,
+    "foreign_ratio": 2.22,
     "trust_ratio": 0.19282493628700254,
     "dealer_ratio": -64.8853103313076,
-    "three_inst_ratio": -62.31248539502059,
-    "three_inst_ratio_change_20": -2.359409838619598
+    "three_inst_ratio": -62.47248539502059,
+    "three_inst_ratio_change_20": -2.5194098386196018
   }
 ]

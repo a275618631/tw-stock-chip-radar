@@ -2017,10 +2017,10 @@
     "code": "00991A",
     "name": "主動復華未來50",
     "market": "TWSE",
-    "foreign_ratio": 1.85,
+    "foreign_ratio": 1.66,
     "trust_ratio": 0.13140094972653005,
     "dealer_ratio": -70.72107950934084,
-    "three_inst_ratio": -68.7396785596143,
-    "three_inst_ratio_change_20": -6.705659972678696
+    "three_inst_ratio": -68.9296785596143,
+    "three_inst_ratio_change_20": -6.895659972678693
   }
 ]

@@ -2776,10 +2776,10 @@
     "code": "1227",
     "name": "佳格",
     "market": "TWSE",
-    "foreign_ratio": 6.87,
+    "foreign_ratio": 6.86,
     "trust_ratio": -0.01435302087268524,
     "dealer_ratio": 0.04828565468842711,
-    "three_inst_ratio": 6.903932633815741,
-    "three_inst_ratio_change_20": -0.40017867549976316
+    "three_inst_ratio": 6.893932633815742,
+    "three_inst_ratio_change_20": -0.41017867549976295
   }
 ]

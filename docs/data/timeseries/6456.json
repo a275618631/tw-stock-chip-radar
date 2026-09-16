@@ -2776,10 +2776,10 @@
     "code": "6456",
     "name": "GIS-KY",
     "market": "TWSE",
-    "foreign_ratio": 44.97,
+    "foreign_ratio": 45.15,
     "trust_ratio": -0.040320790862751296,
     "dealer_ratio": -0.02525183479424442,
-    "three_inst_ratio": 44.904427374343,
-    "three_inst_ratio_change_20": 0.02508962838943063
+    "three_inst_ratio": 45.084427374343,
+    "three_inst_ratio_change_20": 0.20508962838943035
   }
 ]
