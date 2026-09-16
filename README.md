@@ -2,6 +2,42 @@
 
 台股三大法人持股比重追蹤（上市 + 上櫃），自動每日更新並提供 private local UI。
 
+## 怎麼使用
+
+### 我自己的 Windows
+
+第一次或每天使用，從專案根目錄雙擊 `START_HERE.cmd`。它會在必要時更新 clean `main`、啟動本機 static HTTP server，並開啟 `http://127.0.0.1:8765/`（若被占用會使用 fallback port）。
+
+### 我自己的 Mac
+
+雙擊 `start_dashboard.command`。需要 `git` 與 `python3`／`python`；它會依相同規則保留 dirty working tree、做 HTTP health check，再開啟本機 Dashboard。
+
+### 只看今日報告
+
+直接打開 `reports/daily_market_report.html`，或雙擊 `open_daily_report.cmd`。這份 self-contained HTML 不需要 server，也不需要 Python 套件。
+
+### 給別人試用
+
+執行 `export_share_snapshot.cmd`，然後只分享 `exports/share/` 產生的單一 HTML。這是固定時間點 Demo Snapshot，不會自動更新，不需要 GitHub、Python 或 source code。
+
+### 不要這樣開
+
+不要直接雙擊 `docs/index.html`；互動 Dashboard 需要 `http://localhost`。若誤開，頁面會顯示正確入口，不會把問題誤報成資料抓取失敗。
+
+## Viewer requirements
+
+只看既有 Dashboard 的另一台電腦只需要 Git（若要自動 pull）、Python 3 standard library、以及瀏覽器。Viewer 不需要 `pandas`、`playwright` 或 `yfinance`；那些是資料更新 pipeline 的需求。Windows 可 clone private repo 後直接雙擊 `START_HERE.cmd`。
+
+## 在另一台 Windows 使用
+
+```text
+git clone <private-repo-url>
+cd tw-institutional-stocker
+雙擊 START_HERE.cmd
+```
+
+不要手動執行 `update_all.py` 或安裝 updater dependencies 才能看既有資料。
+
 ## 新版重點
 
 - 支援多個變化視窗：`WINDOWS = [5, 20, 60, 120]`
@@ -58,7 +94,7 @@ pip install -r requirements.txt
 python update_all.py
 ```
 
-執行完後，`docs/data/` 底下會長出 json 檔，直接用 `python -m http.server` 或 VSCode Live Server 打開 `docs/index.html` 即可預覽。
+執行完後，`docs/data/` 底下會長出 json 檔；互動 Dashboard 請使用 `START_HERE.cmd` 或 `python -m http.server`，不要用 `file://` 直接開啟 `docs/index.html`。
 
 若要啟用「基準點校正」：
 1. 從投信 / 自營商的財報或官方持股統計整理出某幾個日期的「實際持股股數」。
@@ -86,7 +122,7 @@ macro 指標不是美日資金直接流入台股數據；本工具僅供研究�
 
 ### 方法 A｜互動 Dashboard
 
-Windows 使用者雙擊 `start_dashboard.cmd`，會在工作區更新最新 main、啟動 local static server，並開啟 `http://127.0.0.1:8765/`（若該 port 被占用會自動往後尋找）。
+Windows 使用者可雙擊 `START_HERE.cmd`；底層 launcher 仍是 `start_dashboard.cmd`。它會在工作區更新最新 main、啟動 local static server，並開啟 `http://127.0.0.1:8765/`（若該 port 被占用會自動往後尋找）。
 
 ### 方法 B｜今天的 HTML 報告
 
@@ -99,6 +135,8 @@ GitHub Actions 每日約台灣 19:10 更新市場資料；平常不需要手動�
 正式 Watchlist 設定在 `config/watchlist.json`；`positive / neutral / negative` 是研究排序訊號，不是交易指令。
 
 目前 Dashboard 為 private local UI，不啟用 GitHub Pages 或其他公開部署。
+
+分享給陌生人時只提供 `exports/share/` 的固定 HTML snapshot，不提供 Private Repo collaborator 權限，也不會暴露 source code 或自動更新。
 
 Based on / derived from `voidful/tw-institutional-stocker`.
 

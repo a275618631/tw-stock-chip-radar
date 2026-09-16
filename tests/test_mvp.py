@@ -121,6 +121,31 @@ class MvpRulesTest(unittest.TestCase):
             self.assertEqual(len(json_payload["macro"]), 6)
             self.assertEqual(json_payload["watchlist"][0]["institutional"]["unit"], "lots")
 
+    def test_direct_file_open_has_safe_ux_guard(self):
+        root = Path(__file__).resolve().parents[1]
+        html = (root / "docs" / "index.html").read_text(encoding="utf-8")
+        script = (root / "docs" / "script.js").read_text(encoding="utf-8")
+        self.assertIn('id="directFileNotice"', html)
+        self.assertIn("START_HERE.cmd", html)
+        self.assertIn('../reports/daily_market_report.html', html)
+        self.assertIn('window.location.protocol === "file:"', script)
+        self.assertIn("showDirectFileNotice();", script)
+        self.assertNotIn("今日雷達載入失敗：Failed to fetch", script)
+
+    def test_portability_and_snapshot_contract(self):
+        root = Path(__file__).resolve().parents[1]
+        start_ps1 = (root / "scripts" / "start_dashboard.ps1").read_text(encoding="utf-8-sig")
+        share_ps1 = (root / "scripts" / "export_share_snapshot.ps1").read_text(encoding="utf-8-sig")
+        readme = (root / "README.md").read_text(encoding="utf-8")
+        self.assertIn("[switch]$NoBrowser", start_ps1)
+        self.assertIn("[switch]$SkipPull", start_ps1)
+        self.assertIn("Test-DashboardHealth", start_ps1)
+        self.assertIn("ConvertFrom-Json", start_ps1)
+        self.assertIn("台股籌碼雷達｜Demo Snapshot", share_ps1)
+        self.assertIn("Find-PrivacyIssue", share_ps1)
+        self.assertIn("START_HERE.cmd", readme)
+        self.assertIn("export_share_snapshot.cmd", readme)
+
 
 if __name__ == "__main__":
     unittest.main()

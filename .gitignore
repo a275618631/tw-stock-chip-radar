@@ -20,6 +20,9 @@ env/
 *.swp
 *.swo
 
+# Local share snapshots are generated on demand and are not source data.
+exports/share/
+
 # OS
 .DS_Store
 Thumbs.db

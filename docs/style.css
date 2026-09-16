@@ -98,6 +98,47 @@ body {
   display: block;
 }
 
+.direct-file-notice {
+  min-height: 60vh;
+  display: none;
+  align-items: center;
+  justify-content: center;
+}
+
+.direct-file-notice.active {
+  display: flex;
+}
+
+.direct-file-card {
+  max-width: 720px;
+  text-align: center;
+}
+
+.direct-file-card h2 {
+  margin-bottom: 18px;
+}
+
+.launcher-name {
+  display: inline-block;
+  margin: 4px 0 18px;
+  padding: 12px 18px;
+  border: 1px solid rgba(255, 230, 109, 0.5);
+  border-radius: 10px;
+  color: #ffe66d;
+  font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
+  font-weight: 700;
+}
+
+.primary-link {
+  display: inline-block;
+  padding: 12px 18px;
+  border-radius: 10px;
+  background: #4ecdc4;
+  color: #10131a;
+  font-weight: 700;
+  text-decoration: none;
+}
+
 @keyframes fadeIn {
   from {
     opacity: 0;
