@@ -21,7 +21,7 @@ from macro_context import (
     classify_global_environment,
     classify_stock_chip_status,
 )
-from update_all import FLOW_COLUMNS, validate_flow_history
+from update_all import FLOW_COLUMNS, export_stock_catalog, validate_flow_history
 
 
 class MvpRulesTest(unittest.TestCase):
@@ -145,6 +145,44 @@ class MvpRulesTest(unittest.TestCase):
         self.assertIn("Find-PrivacyIssue", share_ps1)
         self.assertIn("START_HERE.cmd", readme)
         self.assertIn("export_share_snapshot.cmd", readme)
+
+    def test_stock_catalog_and_switch_contract(self):
+        root = Path(__file__).resolve().parents[1]
+        html = (root / "docs" / "index.html").read_text(encoding="utf-8")
+        script = (root / "docs" / "script.js").read_text(encoding="utf-8")
+        self.assertIn('list="stockCatalog"', html)
+        self.assertIn('id="stockCatalog"', html)
+        self.assertIn('data/stock_catalog.json', script)
+        self.assertIn("encodeURIComponent(code)", script)
+        self.assertIn("isValidStockCode", script)
+
+        with tempfile.TemporaryDirectory() as tmp:
+            output = Path(tmp) / "stock_catalog.json"
+            frame = pd.DataFrame([
+                {"code": "2330", "name": "台積電", "market": "TWSE", "date": date(2026, 9, 15)},
+                {"code": "8069", "name": "元太", "market": "TPEX", "date": date(2026, 9, 15)},
+            ])
+            export_stock_catalog(frame, output)
+            payload = json.loads(output.read_text(encoding="utf-8"))
+            self.assertEqual([item["code"] for item in payload["stocks"]], ["2330", "8069"])
+            self.assertEqual(payload["stocks"][1]["market"], "TPEX")
+
+    def test_github_pages_contract(self):
+        root = Path(__file__).resolve().parents[1]
+        index = (root / "docs" / "index.html").read_text(encoding="utf-8")
+        broker = (root / "docs" / "broker_stats.html").read_text(encoding="utf-8")
+        robots = (root / "docs" / "robots.txt").read_text(encoding="utf-8")
+        self.assertIn('<meta name="robots" content="noindex,nofollow,noarchive">', index)
+        self.assertIn('<meta name="robots" content="noindex,nofollow,noarchive">', broker)
+        self.assertIn("Personal &amp; Family Non-commercial Use", index)
+        self.assertIn("User-agent: *", robots)
+        self.assertIn("Disallow: /", robots)
+        for path in (root / "docs").rglob("*"):
+            if path.is_file() and path.suffix.lower() in {".html", ".js", ".css", ".json", ".txt"}:
+                text = path.read_text(encoding="utf-8")
+                self.assertNotRegex(text, r"C:\\\\Users\\|/Users/")
+                self.assertNotRegex(text, r"(?:ghp_|github_pat_|sk-[A-Za-z0-9_-]{12,})")
+                self.assertNotIn("github.com/a275618631/tw-stock-chip-radar", text)
 
 
 if __name__ == "__main__":

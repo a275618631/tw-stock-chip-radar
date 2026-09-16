@@ -7,6 +7,7 @@
 - 計算三大法人持股比重；
 - 計算多視窗變化：5 / 20 / 60 / 120 日；
 - 輸出 ranking JSON + 每檔股票時序 JSON。
+- 輸出 Dashboard 可搜尋的全市場股票目錄。
 """
 import json
 import os
@@ -1133,6 +1134,47 @@ def export_timeseries_by_code(
             json.dump(records, f, ensure_ascii=False, indent=2)
 
 
+def export_stock_catalog(
+    merged: pd.DataFrame,
+    out_path: str = os.path.join(DOCS_DIR, "stock_catalog.json"),
+):
+    """Export the stock-code catalog used by the static Dashboard selector."""
+    merged = restore_column_from_index(merged.copy(), "code")
+    merged = ensure_columns(merged, ["code", "name", "market", "date"])
+    merged = merged.dropna(subset=["code"])
+    if merged.empty:
+        return
+
+    records = []
+    for code, group in merged.groupby("code"):
+        group = group.sort_values("date")
+        latest = group.iloc[-1]
+        code_text = str(code).strip()
+        if not code_text:
+            continue
+        if code_text.isdigit():
+            code_text = code_text.zfill(4)
+        latest_date = pd.to_datetime(latest.get("date"), errors="coerce")
+        records.append(
+            {
+                "code": code_text,
+                "name": str(latest.get("name") or ""),
+                "market": str(latest.get("market") or ""),
+                "latest_date": latest_date.date().isoformat() if not pd.isna(latest_date) else "",
+            }
+        )
+
+    records.sort(key=lambda item: item["code"])
+    os.makedirs(os.path.dirname(out_path) or ".", exist_ok=True)
+    payload = {
+        "version": 1,
+        "updated_at": datetime.now(ZoneInfo("Asia/Taipei")).isoformat(),
+        "stocks": records,
+    }
+    with open(out_path, "w", encoding="utf-8") as f:
+        json.dump(payload, f, ensure_ascii=False, indent=2)
+
+
 # ---------- validation ----------
 
 def validate_no_nulls(df: pd.DataFrame, columns: list[str], label: str):
@@ -1442,6 +1484,7 @@ def main():
 
     export_change_rankings(merged, windows=WINDOWS, out_dir=DOCS_DIR)
     export_timeseries_by_code(merged, out_root=TIMESERIES_DIR, primary_window=20)
+    export_stock_catalog(merged, out_path=os.path.join(DOCS_DIR, "stock_catalog.json"))
     validation_target_date = get_common_latest_date(twse_flows_all, tpex_flows_all)
     if validation_target_date != target_date:
         print(

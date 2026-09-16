@@ -1,6 +1,6 @@
 # tw_institutional_stocker
 
-台股三大法人持股比重追蹤（上市 + 上櫃），自動每日更新並提供 private local UI。
+台股三大法人持股比重追蹤（上市 + 上櫃），自動每日更新並提供互動 Dashboard。
 
 ## 怎麼使用
 
@@ -23,6 +23,17 @@
 ### 不要這樣開
 
 不要直接雙擊 `docs/index.html`；互動 Dashboard 需要 `http://localhost`。若誤開，頁面會顯示正確入口，不會把問題誤報成資料抓取失敗。
+
+## 家庭網頁版
+
+直接開啟 GitHub Pages 網址：
+
+`https://a275618631.github.io/tw-stock-chip-radar/`
+
+不需要 GitHub 帳號、Git 或 Python。網站由 GitHub Pages 提供，市場資料由 GitHub Actions 更新。
+此網址是公開可存取網址，但已要求搜尋引擎不要索引；這不是帳密保護網站。
+
+頁面可輸入或從搜尋建議切換任一有歷史資料的上市／上櫃股票代號，並查看三大法人圖表。
 
 ## Viewer requirements
 
@@ -79,9 +90,10 @@ cd tw-institutional-stocker
 - `docs/`
   - 靜態前端（index.html + script.js + style.css）
   - 提供：
-    - 隨輸入代碼動態載入該股三法人持股時序。
+    - 從全市場股票目錄搜尋或輸入代碼，動態載入該股三法人持股時序。
     - 以 5 / 20 / 60 / 120 日變化排序的排名表，可點擊列載入該股圖。
     - 市場過濾（全部 / TWSE / TPEX）與 log scale 切換。
+  - `data/stock_catalog.json`：由每日資料更新產生的股票代號、名稱與市場目錄。
 
 - `.github/workflows/update.yml`
   - 每天 00:10 UTC 由 GitHub Actions 執行 `python update_all.py`
@@ -134,7 +146,7 @@ GitHub Actions 每日約台灣 19:10 更新市場資料；平常不需要手動�
 
 正式 Watchlist 設定在 `config/watchlist.json`；`positive / neutral / negative` 是研究排序訊號，不是交易指令。
 
-目前 Dashboard 為 private local UI，不啟用 GitHub Pages 或其他公開部署。
+目前同時支援本機 Dashboard 與 GitHub Pages 家庭網頁版；Pages 僅發布 `docs/`，不公開 `reports/`、`scripts/` 或資料更新 source pipeline。
 
 分享給陌生人時只提供 `exports/share/` 的固定 HTML snapshot，不提供 Private Repo collaborator 權限，也不會暴露 source code 或自動更新。
 
