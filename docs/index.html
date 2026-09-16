@@ -24,6 +24,18 @@
     </nav>
   </header>
 
+  <!-- 直接以 file:// 開啟時的明確入口提示 -->
+  <section id="directFileNotice" class="section direct-file-notice" hidden>
+    <div class="card direct-file-card">
+      <p class="eyebrow">Direct File Open</p>
+      <h2>⚠️ 互動 Dashboard 不能直接開啟 index.html</h2>
+      <p>你目前是直接以檔案模式開啟此頁。互動 Dashboard 需要使用本機 HTTP server，請回到專案根目錄雙擊：</p>
+      <p class="launcher-name">START_HERE.cmd</p>
+      <p>如果只想看今天報告，可以直接開啟 self-contained HTML：</p>
+      <p><a class="primary-link" href="../reports/daily_market_report.html">直接看今天 HTML 報告</a></p>
+    </div>
+  </section>
+
   <!-- 今日雷達區塊 -->
   <section id="daily-radar" class="section active">
     <div class="card radar-hero">

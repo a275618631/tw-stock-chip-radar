@@ -1,9 +1,9 @@
 @echo off
 setlocal
-powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0scripts\start_dashboard.ps1" %*
+powershell.exe -NoProfile -ExecutionPolicy Bypass -File "%~dp0scripts\export_share_snapshot.ps1" %*
 set "exitCode=%errorlevel%"
 if not "%exitCode%"=="0" (
-  echo Dashboard startup failed.
+  echo Share Snapshot export failed.
   echo See the error message above.
   pause
 )

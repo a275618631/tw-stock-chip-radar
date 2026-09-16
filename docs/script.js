@@ -64,6 +64,20 @@ function freshnessClass(status) {
   return { ok: "fresh-ok", partial: "fresh-partial", missing: "fresh-missing" }[status] || "fresh-missing";
 }
 
+function showDirectFileNotice() {
+  document.querySelectorAll(".section").forEach((section) => {
+    section.classList.remove("active");
+  });
+  document.querySelectorAll(".main-nav").forEach((nav) => {
+    nav.hidden = true;
+  });
+  const notice = document.getElementById("directFileNotice");
+  if (notice) {
+    notice.hidden = false;
+    notice.classList.add("active");
+  }
+}
+
 // ========== Daily Radar ==========
 
 function renderDailyRadar(payload) {
@@ -119,7 +133,7 @@ async function loadDailyRadar() {
     renderDailyRadar(radarPayload);
   } catch (err) {
     errorNode.hidden = false;
-    errorNode.textContent = `今日雷達載入失敗：${err.message}。請確認 GitHub Actions 已完成資料更新。`;
+    errorNode.textContent = `Dashboard 資料讀取失敗：${err.message}。請確認 daily_radar.json 存在，或資料更新是否成功。`;
   }
 }
 
@@ -644,6 +658,11 @@ function initNavigation() {
 // ========== Initialization ==========
 
 document.addEventListener("DOMContentLoaded", () => {
+  if (window.location.protocol === "file:") {
+    showDirectFileNotice();
+    return;
+  }
+
   const input = document.getElementById("stockInput");
   const btn = document.getElementById("loadBtn");
   const marketSel = document.getElementById("marketFilter");
