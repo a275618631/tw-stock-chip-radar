@@ -57,7 +57,7 @@ The HTML report contains the conclusion, freshness, six macro indicators, Watchl
 ## Branch Actions
 
 - Branch: `codex/daily-radar-html-ui`
-- Run: [35052346989](https://github.com/a275618631/tw-stock-chip-radar/actions/runs/35052346989)
+- Run: [35052952544](https://github.com/a275618631/tw-stock-chip-radar/actions/runs/35052952544)
 - Result: success.
 - `update_all.py`, broker update, Fubon comparison, broker statistics, macro `6/6`, and all three report outputs completed.
 - Feature branch commit/push was skipped by the existing main-only guard; branch SHA remained unchanged.
@@ -65,7 +65,12 @@ The HTML report contains the conclusion, freshness, six macro indicators, Watchl
 
 ## Main Actions
 
-Final main validation is run after the clean PR merge. The main-only generated-data commit policy remains unchanged for production updates.
+- PR #3 was squash-merged cleanly as commit `e2be763651aeec4c34ecd07f07f4a6aa61d495f8`.
+- Final run: [35057796714](https://github.com/a275618631/tw-stock-chip-radar/actions/runs/35057796714) — success.
+- All update, broker, Fubon comparison, broker statistics, macro `6/6`, report generation, and commit/push steps passed.
+- Generated-data commit: `156c72260` (`chore: daily data update 2026-09-16`).
+- Main output read-back passed: `docs/data/daily_radar.json`, `reports/daily_market_report.html`, and `reports/daily_market_report.md` exist; JSON contains 6 macro indicators, 3 Watchlist stocks, explicit lots semantics, and visible `partial` freshness.
+- The main-only generated-data commit policy remains unchanged for production updates.
 
 ## UI Smoke
 
