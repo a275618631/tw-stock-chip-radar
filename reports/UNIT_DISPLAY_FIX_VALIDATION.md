@@ -48,7 +48,7 @@ The current watchlist contains ordinary shares (2330, 2317, 2454), for which `1 
 ## Tests
 
 - `py -3 -m unittest discover -s tests -v` could not locate the system Python installation in this shell.
-- Bundled runtime equivalent: `C:\Users\Y6T2\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\python.exe -m unittest discover -s tests -v`
+- Bundled runtime equivalent: project Python environment running `-m unittest discover -s tests -v`
 - Result: 7 passed, 0 failed.
 - `generate_daily_report.py` regenerated the report successfully.
 
