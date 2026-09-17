@@ -1,36 +1,34 @@
 # Family GitHub Pages Validation
 
-Validation date: 2026-09-16 (Asia/Taipei)
+Validation date: 2026-09-17 (Asia/Taipei)
 
 ## Final State
 
-`BLOCKED_PRIVATE_REPO_PAGES_PLAN`
+`TEMPORARY_FAMILY_TEST`
 
-The stock selector and GitHub Pages compatibility work are complete, but deployment is stopped by the explicit handoff stop condition. GitHub API returned: `Your current plan does not support GitHub Pages for this repository.`
+The repository was intentionally made Public for short-term personal/family non-commercial testing. The site is deployed from `main /docs`. Do not close it immediately; after family testing, close Pages and restore Private visibility.
 
 ## Repo Visibility
 
-`Private` — unchanged.
+`Public` — intentionally temporary for this test. Source may be viewed or cloned.
 
 ## Pages Visibility
 
-No public Pages URL is active. No public copy or alternate hosting was created.
+Public Pages URL is active. No alternate hosting was created.
 
 ## GitHub Plan Gate
 
-`BLOCKED_PRIVATE_REPO_PAGES_PLAN` — `POST /repos/a275618631/tw-stock-chip-radar/pages` with `main /docs` returned HTTP 422 because the current plan does not support GitHub Pages for this private repository.
+Private-plan gate was confirmed by the earlier HTTP 422. Per the temporary-test handoff, the Repo was then intentionally changed to Public and Pages creation succeeded.
 
 ## Pages Source
 
-Prepared as `main /docs`, with `docs/.nojekyll`, relative asset paths, and `docs/robots.txt`; deployment was not created because of the plan gate.
+`main /docs`, with `docs/.nojekyll`, relative asset paths, and `docs/robots.txt`; Pages API reports `build_type=legacy`, `https_enforced=true`, and `public=true`.
 
 ## Production URL
 
-Expected after a supported plan is available:
-
 `https://a275618631.github.io/tw-stock-chip-radar/`
 
-Not deployed in this run.
+Deployment build: `built` from commit `c6cc7cbaadd197b74009585e4b968f2aa38c88b9`.
 
 ## Personal / Family Use
 
@@ -39,7 +37,9 @@ The intended site is for personal and family non-commercial use only. The local 
 ## Runtime Verification
 
 - Local HTTP Dashboard: PASS.
-- GitHub Pages remote HTTP/UI runtime: NOT RUN because Pages deployment was blocked.
+- GitHub Pages remote HTTP runtime: PASS for `/`, `/script.js`, `/style.css`, `/broker_stats.html`, `/robots.txt`, daily JSON, stock catalog, and `2330`/`8069` timeseries.
+- Chart.js CDN HTTP check: PASS (HTTP 200).
+- Browser/UI click smoke: intentionally not run because the user instructed Codex not to open a browser; manual family testing is the remaining UI gate.
 - Browser was not opened; this follows the user instruction.
 
 ## Data Freshness
@@ -51,11 +51,11 @@ The post-merge main Actions run completed successfully and updated `docs/data/da
 - Stock selector: PASS; searchable catalog contains 2,465 generated Taiwan market instruments and supports direct valid-code input.
 - Institutional chart: PASS by local contract and data-file smoke checks.
 - Broker and macro sections: preserved.
-- Pages interactive runtime: pending deployment.
+- Pages asset/data runtime: PASS; manual browser interaction remains for the family test.
 
 ## Mobile Smoke
 
-Existing responsive CSS and table overflow behavior are preserved. Remote 390px / 768px / desktop smoke is pending because Pages is not deployed.
+Existing responsive CSS and table overflow behavior are preserved. Remote 390px / 768px / desktop visual smoke is pending manual testing because Codex did not open a browser.
 
 ## Search Index Minimization
 
@@ -81,17 +81,18 @@ PASS for `docs/`: no Windows/macOS user paths, email addresses, GitHub tokens, p
 - Feature/main merge: [PR #7](https://github.com/a275618631/tw-stock-chip-radar/pull/7) — merged.
 - Main validation: [run 35077502214](https://github.com/a275618631/tw-stock-chip-radar/actions/runs/35077502214) — success in 8m05s.
 - Main generated-data commit: `b5f5d5cac`.
+- Temporary-public privacy cleanup: [PR #9](https://github.com/a275618631/tw-stock-chip-radar/pull/9) — merged.
 - Existing Node.js 20 deprecation annotation is non-blocking.
 
 ## PR / Merge
 
 - Branch: `codex/github-pages-family-web`.
 - Merge commit: `dac0886716b8600d0fb9ab2ae9b78aa38f46176c`.
-- No Pages deployment PR was created after the stop condition.
+- Pages was created after temporary Public conversion; no Pages-specific deployment workflow was added.
 
 ## Remaining Risks
 
-- GitHub Pages remains unavailable until the account has a supported plan; do not change Repo visibility solely for this task.
-- Remote Pages runtime, Chart.js CDN, and mobile smoke remain unverified.
+- Repo and Pages are intentionally public only for the current family test; close Pages and restore Private after testing.
+- Browser visual/mobile interaction is intentionally pending manual testing.
 - Drive status: `DRIVE_SYNC_PENDING_CHATGPT`; no uploader or OAuth was added.
 - macOS runtime still needs a real Mac; launcher syntax and executable mode were previously validated.

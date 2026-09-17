@@ -26,13 +26,13 @@
 
 ## 家庭網頁版
 
-預定 GitHub Pages 網址：
+家庭測試網址：
 
 `https://a275618631.github.io/tw-stock-chip-radar/`
 
-本次已完成 `main /docs` 的 Pages 相容準備，但 GitHub API 回覆目前帳號方案不支援 Private Repo Pages，狀態為 `BLOCKED_PRIVATE_REPO_PAGES_PLAN`；因此網址目前尚未部署。Repo visibility 維持 Private，未建立公開副本或其他 hosting。
+目前執行 `TEMPORARY_FAMILY_TEST`：Repo 已暫時改為 Public，GitHub Pages 已從 `main /docs` 發布。測試期間原始碼可能被查看或 clone；不新增 LICENSE，也不宣稱 MIT、Apache、GPL 或 Open Source license。
 
-方案支援後即可直接開啟，不需要 GitHub 帳號、Git 或 Python。網站會由 GitHub Pages 提供，市場資料由 GitHub Actions 更新；該網址若啟用將是公開可存取網址，但已要求搜尋引擎不要索引，這不是帳密保護網站。
+不需要 GitHub 帳號、Git 或 Python。網站由 GitHub Pages 提供，市場資料由 GitHub Actions 更新；網址是公開可存取網址，但已要求搜尋引擎不要索引，這不是帳密保護網站。家人測試完成後，再執行「關閉 Pages → Repo 改回 Private」。
 
 頁面可輸入或從搜尋建議切換任一有歷史資料的上市／上櫃股票代號，並查看三大法人圖表。
 
@@ -147,10 +147,10 @@ GitHub Actions 每日約台灣 19:10 更新市場資料；平常不需要手動�
 
 正式 Watchlist 設定在 `config/watchlist.json`；`positive / neutral / negative` 是研究排序訊號，不是交易指令。
 
-目前支援本機 Dashboard，並已完成 GitHub Pages 家庭網頁版的最小相容準備；Pages 僅會發布 `docs/`，不公開 `reports/`、`scripts/` 或資料更新 source pipeline。
+目前同時支援本機 Dashboard 與暫時公開的 GitHub Pages 家庭測試；Pages 僅發布 `docs/`，不包含 `reports/`、`scripts/` 或資料更新 source pipeline。
 
 分享給陌生人時只提供 `exports/share/` 的固定 HTML snapshot，不提供 Private Repo collaborator 權限，也不會暴露 source code 或自動更新。
 
 Based on / derived from `voidful/tw-institutional-stocker`.
 
-本 Repo 維持 Private；上游目前未宣告授權，本專案不宣稱 MIT、Apache 或 GPL。
+本 Repo 目前為家庭測試暫時 Public；測試結束後應改回 Private。上游目前未宣告授權，本專案不宣稱 MIT、Apache、GPL 或 Open Source license。
