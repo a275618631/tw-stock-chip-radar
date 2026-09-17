@@ -28,7 +28,7 @@ Private-plan gate was confirmed by the earlier HTTP 422. Per the temporary-test 
 
 `https://a275618631.github.io/tw-stock-chip-radar/`
 
-Deployment build: `built` from commit `c6cc7cbaadd197b74009585e4b968f2aa38c88b9`.
+Deployment status: `built`; the final public endpoint and published assets passed HTTP verification.
 
 ## Personal / Family Use
 
@@ -82,6 +82,7 @@ PASS for `docs/`: no Windows/macOS user paths, email addresses, GitHub tokens, p
 - Main validation: [run 35077502214](https://github.com/a275618631/tw-stock-chip-radar/actions/runs/35077502214) — success in 8m05s.
 - Main generated-data commit: `b5f5d5cac`.
 - Temporary-public privacy cleanup: [PR #9](https://github.com/a275618631/tw-stock-chip-radar/pull/9) — merged.
+- Temporary family-test final report: [PR #10](https://github.com/a275618631/tw-stock-chip-radar/pull/10) — merged.
 - Existing Node.js 20 deprecation annotation is non-blocking.
 
 ## PR / Merge
@@ -89,6 +90,7 @@ PASS for `docs/`: no Windows/macOS user paths, email addresses, GitHub tokens, p
 - Branch: `codex/github-pages-family-web`.
 - Merge commit: `dac0886716b8600d0fb9ab2ae9b78aa38f46176c`.
 - Pages was created after temporary Public conversion; no Pages-specific deployment workflow was added.
+- Final test-status archive merge commit: `7ebceebe0936d73fe897001a23ce0b7624ec73d7`.
 
 ## Remaining Risks
 
