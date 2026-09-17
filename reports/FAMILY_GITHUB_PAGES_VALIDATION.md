@@ -4,40 +4,44 @@ Validation date: 2026-09-17 (Asia/Taipei)
 
 ## Final State
 
-`TEMPORARY_FAMILY_TEST`
+`FAMILY_GITHUB_PAGES_ARCHIVED`
 
-The repository was intentionally made Public for short-term personal/family non-commercial testing. The site is deployed from `main /docs`. Do not close it immediately; after family testing, close Pages and restore Private visibility.
+The short-term personal/family non-commercial test is complete. GitHub Pages was disabled and the repository visibility was restored to Private. The historical public URL is retained below for traceability only and is no longer active.
 
 ## Repo Visibility
 
-`Public` — intentionally temporary for this test. Source may be viewed or cloned.
+`Private` — restored after the temporary family test. The source is no longer publicly accessible.
+
+Archive verification: `gh repo view` reports `isPrivate=true`; `GET /pages` returns HTTP 404 after Pages deletion.
 
 ## Pages Visibility
 
-Public Pages URL is active. No alternate hosting was created.
+GitHub Pages is disabled. The historical public URL is no longer active. No alternate hosting was created.
 
 ## GitHub Plan Gate
 
 Private-plan gate was confirmed by the earlier HTTP 422. Per the temporary-test handoff, the Repo was then intentionally changed to Public and Pages creation succeeded.
 
-## Pages Source
+## Pages Source (historical)
 
-`main /docs`, with `docs/.nojekyll`, relative asset paths, and `docs/robots.txt`; Pages API reports `build_type=legacy`, `https_enforced=true`, and `public=true`.
+`main /docs`, with `docs/.nojekyll`, relative asset paths, and `docs/robots.txt`; this was the temporary test configuration. Pages was later deleted through the GitHub API.
 
 ## Production URL
 
 `https://a275618631.github.io/tw-stock-chip-radar/`
 
-Deployment status: `built`; the final public endpoint and published assets passed HTTP verification.
+Deployment status before archive: `built`; the final public endpoint and published assets passed HTTP verification. Current deployment status: disabled.
 
 ## Personal / Family Use
 
 The intended site is for personal and family non-commercial use only. The local Dashboard and static daily report remain available.
 
+The family web deployment is archived. The local entry points remain the supported way to run the Dashboard.
+
 ## Runtime Verification
 
 - Local HTTP Dashboard: PASS.
-- GitHub Pages remote HTTP runtime: PASS for `/`, `/script.js`, `/style.css`, `/broker_stats.html`, `/robots.txt`, daily JSON, stock catalog, and `2330`/`8069` timeseries.
+- GitHub Pages remote HTTP runtime before archive: PASS for `/`, `/script.js`, `/style.css`, `/broker_stats.html`, `/robots.txt`, daily JSON, stock catalog, and `2330`/`8069` timeseries.
 - Chart.js CDN HTTP check: PASS (HTTP 200).
 - Browser/UI click smoke: intentionally not run because the user instructed Codex not to open a browser; manual family testing is the remaining UI gate.
 - Browser was not opened; this follows the user instruction.
@@ -51,7 +55,7 @@ The post-merge main Actions run completed successfully and updated `docs/data/da
 - Stock selector: PASS; searchable catalog contains 2,465 generated Taiwan market instruments and supports direct valid-code input.
 - Institutional chart: PASS by local contract and data-file smoke checks.
 - Broker and macro sections: preserved.
-- Pages asset/data runtime: PASS; manual browser interaction remains for the family test.
+- Pages asset/data runtime before archive: PASS; manual browser interaction was not run because Codex was instructed not to open a browser.
 
 ## Mobile Smoke
 
@@ -94,7 +98,7 @@ PASS for `docs/`: no Windows/macOS user paths, email addresses, GitHub tokens, p
 
 ## Remaining Risks
 
-- Repo and Pages are intentionally public only for the current family test; close Pages and restore Private after testing.
+- Repo is Private and Pages is disabled after the family test.
 - Browser visual/mobile interaction is intentionally pending manual testing.
-- Drive status: `DRIVE_SYNC_PENDING_CHATGPT`; no uploader or OAuth was added.
+- Drive archival copy: to be updated in the existing `02_驗證報告` folder after this Repo commit.
 - macOS runtime still needs a real Mac; launcher syntax and executable mode were previously validated.
