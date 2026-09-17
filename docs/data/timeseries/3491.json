@@ -2693,5 +2693,16 @@
     "dealer_ratio": -2.3994578892197347,
     "three_inst_ratio": -2.814136301619974,
     "three_inst_ratio_change_20": 2.853033113449034
+  },
+  {
+    "date": "2026-09-17",
+    "code": "3491",
+    "name": "昇達科",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": -0.11491295161515948,
+    "dealer_ratio": -2.3631524541231483,
+    "three_inst_ratio": -2.478065405738308,
+    "three_inst_ratio_change_20": 3.122696165438258
   }
 ]

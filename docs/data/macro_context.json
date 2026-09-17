@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-16",
+  "as_of": "2026-09-17",
   "source": "yfinance",
   "status": "ok",
   "successful_tickers": 6,
@@ -9,60 +9,60 @@
       "ticker": "TSM",
       "name": "台積電 ADR",
       "status": "ok",
-      "latest_date": "2026-09-16",
-      "close": 418.269989,
-      "change_1d_pct": 1.0924,
-      "change_5d_pct": -2.2802
+      "latest_date": "2026-09-17",
+      "close": 426.059998,
+      "change_1d_pct": 1.9966,
+      "change_5d_pct": -1.6573
     },
     "SOX": {
       "ticker": "^SOX",
       "name": "費城半導體",
       "status": "ok",
-      "latest_date": "2026-09-16",
-      "close": 11372.202148,
-      "change_1d_pct": 1.7597,
-      "change_5d_pct": -2.0834
+      "latest_date": "2026-09-17",
+      "close": 11563.5625,
+      "change_1d_pct": 2.8228,
+      "change_5d_pct": -2.2026
     },
     "USD_TWD": {
       "ticker": "TWD=X",
       "name": "USD/TWD",
       "status": "ok",
-      "latest_date": "2026-09-16",
-      "close": 31.746,
-      "change_1d_pct": 0.0895,
-      "change_5d_pct": 0.8963
+      "latest_date": "2026-09-17",
+      "close": 31.875,
+      "change_1d_pct": 0.3198,
+      "change_5d_pct": 0.7587
     },
     "USD_JPY": {
       "ticker": "JPY=X",
       "name": "USD/JPY",
       "status": "ok",
-      "latest_date": "2026-09-16",
-      "close": 155.091003,
-      "change_1d_pct": 0.4573,
-      "change_5d_pct": 0.9885
+      "latest_date": "2026-09-17",
+      "close": 155.839996,
+      "change_1d_pct": 0.3697,
+      "change_5d_pct": 0.8791
     },
     "NIKKEI": {
       "ticker": "^N225",
       "name": "日經 225",
       "status": "ok",
-      "latest_date": "2026-09-15",
-      "close": 63484.101562,
-      "change_1d_pct": -0.014,
-      "change_5d_pct": -2.7376
+      "latest_date": "2026-09-16",
+      "close": 63923.0,
+      "change_1d_pct": 0.6914,
+      "change_5d_pct": -0.138
     },
     "US10Y": {
       "ticker": "^TNX",
       "name": "美國 10Y",
       "status": "ok",
-      "latest_date": "2026-09-16",
-      "close": 4.955,
-      "change_1d_pct": -0.8207,
-      "change_5d_pct": 0.2225
+      "latest_date": "2026-09-17",
+      "close": 4.951,
+      "change_1d_pct": -1.0987,
+      "change_5d_pct": -0.4824
     }
   },
   "environment": {
-    "label": "neutral",
-    "score": 1,
+    "label": "positive",
+    "score": 3,
     "available_factors": 5,
     "risk_flags": []
   },

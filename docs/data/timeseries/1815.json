@@ -2704,5 +2704,16 @@
     "dealer_ratio": 0.5271464667545818,
     "three_inst_ratio": 13.431253356733118,
     "three_inst_ratio_change_20": 11.688008567533895
+  },
+  {
+    "date": "2026-09-17",
+    "code": "1815",
+    "name": "富喬",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 12.647043842335071,
+    "dealer_ratio": 0.4158608843245203,
+    "three_inst_ratio": 13.06290472665959,
+    "three_inst_ratio_change_20": 10.588590052175547
   }
 ]
