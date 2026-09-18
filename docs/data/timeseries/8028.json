@@ -2759,5 +2759,16 @@
     "dealer_ratio": -2.076102743001362,
     "three_inst_ratio": 16.874970787405655,
     "three_inst_ratio_change_20": -4.827609946199324
+  },
+  {
+    "date": "2026-09-18",
+    "code": "8028",
+    "name": "昇陽半導體",
+    "market": "TWSE",
+    "foreign_ratio": 20.8,
+    "trust_ratio": -1.0489264695929843,
+    "dealer_ratio": -2.0700674941715422,
+    "three_inst_ratio": 17.681006036235473,
+    "three_inst_ratio_change_20": -3.8420719905573435
   }
 ]

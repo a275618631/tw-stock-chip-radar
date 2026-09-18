@@ -2715,5 +2715,16 @@
     "dealer_ratio": -0.0877523056142742,
     "three_inst_ratio": 5.389554705265882,
     "three_inst_ratio_change_20": 0.5043172378835141
+  },
+  {
+    "date": "2026-09-18",
+    "code": "5274",
+    "name": "信驊",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 5.584281135589384,
+    "dealer_ratio": -0.08503725072146752,
+    "three_inst_ratio": 5.499243884867917,
+    "three_inst_ratio_change_20": 0.6261628412970097
   }
 ]

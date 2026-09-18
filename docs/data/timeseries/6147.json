@@ -2715,5 +2715,16 @@
     "dealer_ratio": 0.9623987596542313,
     "three_inst_ratio": -3.831114088978717,
     "three_inst_ratio_change_20": 2.2467369916190822
+  },
+  {
+    "date": "2026-09-18",
+    "code": "6147",
+    "name": "頎邦",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": -4.449022199150705,
+    "dealer_ratio": 1.1953695261817454,
+    "three_inst_ratio": -3.2536526729689594,
+    "three_inst_ratio_change_20": 2.85458557191315
   }
 ]

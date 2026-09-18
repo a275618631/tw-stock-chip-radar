@@ -2715,5 +2715,16 @@
     "dealer_ratio": -0.3309357142857143,
     "three_inst_ratio": 3.0101142857142857,
     "three_inst_ratio_change_20": -3.9200678571428584
+  },
+  {
+    "date": "2026-09-18",
+    "code": "7734",
+    "name": "印能科技",
+    "market": "TPEX",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 3.11605,
+    "dealer_ratio": -0.32602857142857145,
+    "three_inst_ratio": 2.7900214285714284,
+    "three_inst_ratio_change_20": -3.985003571428572
   }
 ]
