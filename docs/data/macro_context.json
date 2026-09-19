@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-09-18",
+  "as_of": "2026-09-19",
   "source": "yfinance",
   "status": "ok",
   "successful_tickers": 6,
@@ -10,63 +10,61 @@
       "name": "台積電 ADR",
       "status": "ok",
       "latest_date": "2026-09-18",
-      "close": 431.61499,
-      "change_1d_pct": 0.3149,
-      "change_5d_pct": 3.2547
+      "close": 434.670013,
+      "change_1d_pct": 1.025,
+      "change_5d_pct": 3.9856
     },
     "SOX": {
       "ticker": "^SOX",
       "name": "費城半導體",
       "status": "ok",
       "latest_date": "2026-09-18",
-      "close": 11738.261719,
-      "change_1d_pct": 1.1964,
-      "change_5d_pct": 5.4529
+      "close": 11921.69043,
+      "change_1d_pct": 2.7777,
+      "change_5d_pct": 7.1008
     },
     "USD_TWD": {
       "ticker": "TWD=X",
       "name": "USD/TWD",
       "status": "ok",
       "latest_date": "2026-09-18",
-      "close": 31.788,
-      "change_1d_pct": -0.2247,
-      "change_5d_pct": 0.3529
+      "close": 31.763,
+      "change_1d_pct": -0.3032,
+      "change_5d_pct": 0.274
     },
     "USD_JPY": {
       "ticker": "JPY=X",
       "name": "USD/JPY",
       "status": "ok",
-      "latest_date": "2026-09-18",
-      "close": 157.255005,
-      "change_1d_pct": 0.7954,
-      "change_5d_pct": 2.497
+      "latest_date": "2026-09-19",
+      "close": 156.854996,
+      "change_1d_pct": 0.465,
+      "change_5d_pct": 1.5999
     },
     "NIKKEI": {
       "ticker": "^N225",
       "name": "日經 225",
       "status": "ok",
-      "latest_date": "2026-09-17",
-      "close": 64136.25,
-      "change_1d_pct": 0.3336,
-      "change_5d_pct": 1.0131
+      "latest_date": "2026-09-18",
+      "close": 65018.949219,
+      "change_1d_pct": 1.3763,
+      "change_5d_pct": 2.4034
     },
     "US10Y": {
       "ticker": "^TNX",
       "name": "美國 10Y",
       "status": "ok",
       "latest_date": "2026-09-18",
-      "close": 4.996,
-      "change_1d_pct": 0.9905,
-      "change_5d_pct": 0.7055
+      "close": 4.998,
+      "change_1d_pct": 1.0309,
+      "change_5d_pct": 0.7458
     }
   },
   "environment": {
     "label": "positive",
     "score": 3,
     "available_factors": 5,
-    "risk_flags": [
-      "USD/JPY 劇烈波動，carry trade 風險需留意"
-    ]
+    "risk_flags": []
   },
   "limitations": [
     "yfinance is a third-party convenience provider",
